@@ -97,6 +97,8 @@ def create_xml_object(database_file: PurePath,
     # for unit in db['series']['series-10']['units'][0]['details']:    # has venting 'Top or Rear', not exist in current XML
     # for unit in db['series']['series-23']['units'][0]['details']:    # Wood Fireplace
     # for unit in db['series']['series-17']['units'][0]['details']:    # venting 'Top & Rear', should NOT have `'selectOptionVentConfiguration'`
+
+    # 'Option Product'
     test_series = [
         'series-7',
         'series-16',
@@ -119,6 +121,26 @@ def create_xml_object(database_file: PurePath,
                                     extra_info=test_item_extra_info)
 
             data.append(product.to_xml())
+
+    # # 'Product'
+    # test_series = [
+    #     'series-23',
+    # ]
+    # for series in test_series:
+    #     for unit in db['series'][series]['units'][0]['details']:    # venting 'Top & Rear', should NOT have `'selectOptionVentConfiguration'`
+    #         test_item_sku = unit['manufacturerSku']
+    #         # test_item_catalog_info = db['series']['series-7']
+    #         test_item_brand = 'Napoleon'
+    #         test_item_extra_info = get_item_extra_info(csv_extra_info=csv_extra_info,
+    #                                                 xml_extra_info=xml_extra_info,
+    #                                                 sku=test_item_sku)
+    #         # breakpoint()
+    #         product = Product(sku=test_item_sku,
+    #                                 brand=test_item_brand,
+    #                                 catalog_info=db,
+    #                                 extra_info=test_item_extra_info)
+
+    #         data.append(product.to_xml())
 
     write_xml(target_file=NAPOLEON_XML_FILE,
               current_xml_file=CURRENT_XML_FILE,
@@ -525,6 +547,7 @@ class Item:
     item_id: str = ''
     upc: str = ''
     display_name: str = ''
+    classification_category: str = 'all'
 
     def __post_init__(self):
         if self.extra_info and self.sku:
@@ -564,7 +587,7 @@ class Item:
                            'tax-class-id': {'text': 'standard'},
                            'classification-category': {
                                'attributes': {'catalog-id': "northcountryfire-storefront",},
-                               'text': 'gas-fireplaces',},
+                               'text': self.classification_category,},
                            'pinterest-enabled-flag': {'text': 'false'},
                            'facebook-enabled-flag': {'text': 'false'},
                            'store-attributes': {
@@ -595,28 +618,72 @@ class Item:
 
 
 @dataclass
-class Option_Product(Item):
+class Product(Item):
     brand: str = ''
-    product_type_nonoperative: str = 'Option Product'
+    product_type_nonoperative: str = 'Product'
+    classification_category: str = 'all'
 
     def __post_init__(self):
         super().__post_init__()
-        # self.base_sku = get_base_sku(sku=self.sku, database=self.catalog_info)
         self.base_sku = get_info(sku=self.sku, database=self.catalog_info, info_name='base_sku')
+        self.product_set_id = f'{self.item_id}-set'
+
+        # Use info from catalog
+        self.product_category = get_info(sku=self.sku, database=self.catalog_info, info_name='product_category')
+        self.series_name = get_info(sku=self.sku, database=self.catalog_info, info_name='series_name')
+        self.series_number = get_info(sku=self.sku, database=self.catalog_info, info_name='series_number')
+        self.fuel_type = get_info(sku=self.sku, database=self.catalog_info, info_name='fuel_type')
+
+    def to_xml(self):
+        data = xmltodict.parse(ET.tostring(super().to_xml()))
+        page_attributes = self.extra_info['xml'].get('page-attributes', {})
+        mapping = {
+            'brand': {'#text': self.brand},
+            'manufacturer-sku': {'#text': self.sku},
+            'page-attributes': page_attributes,
+            'custom-attributes': {
+                'custom-attribute' : [
+                    {'@attribute-id': 'baseSku', '#text': self.base_sku},
+                    {'@attribute-id': 'configurableProduct', '#text': 'true'},
+                    {'@attribute-id': 'fuelType', '#text': self.fuel_type},
+                    {'@attribute-id': 'productCategory', '#text': self.product_category},
+                    {'@attribute-id': 'productSetId', '#text': self.product_set_id},
+                    {'@attribute-id': 'productTypeNonoperative', '#text': self.product_type_nonoperative},
+                    {'@attribute-id': 'series', '#text': self.series_name},
+                    {'@attribute-id': 'seriesNumber', '#text': self.series_number},
+                    {'@attribute-id': 'sku', '#text': self.sku},
+                    ]
+                },
+            }
+
+        data['product'].update(mapping)
+        return data
+
+
+@dataclass
+class Option_Product(Product):
+    brand: str = ''
+    product_type_nonoperative: str = 'Option Product'
+    classification_category: str = 'gas-fireplaces'
+
+    def __post_init__(self):
+        super().__post_init__()
+        # # self.base_sku = get_base_sku(sku=self.sku, database=self.catalog_info)
+        # self.base_sku = get_info(sku=self.sku, database=self.catalog_info, info_name='base_sku')
         # self.name_in_catalog = get_name_in_catalog(sku=self.sku, database=self.catalog_info)
         # self.ignition_type = get_ignition_type(name_in_catalog=self.name_in_catalog)
         self.ignition_type = get_info(sku=self.sku, database=self.catalog_info, info_name='ignition_type')
-        self.product_set_id = f'{self.item_id}-set'
+        # self.product_set_id = f'{self.item_id}-set'
 
         # # ! Use current XML file, info not always correct
         # self.product_category = self.extra_info['csv'].get('c__productCategory', '')
         # self.series_name = self.extra_info['csv'].get('c__series', '')
         # self.series_number = self.extra_info['csv'].get('c__seriesNumber', '')
 
-        # Use info from catalog
-        self.product_category = get_info(sku=self.sku, database=self.catalog_info, info_name='product_category')
-        self.series_name = get_info(sku=self.sku, database=self.catalog_info, info_name='series_name')
-        self.series_number = get_info(sku=self.sku, database=self.catalog_info, info_name='series_number')
+        # # Use info from catalog
+        # self.product_category = get_info(sku=self.sku, database=self.catalog_info, info_name='product_category')
+        # self.series_name = get_info(sku=self.sku, database=self.catalog_info, info_name='series_name')
+        # self.series_number = get_info(sku=self.sku, database=self.catalog_info, info_name='series_number')
 
         units_with_same_series_number = get_units_with_same_series_number(sku=self.sku,
                                                                           database=self.catalog_info)
@@ -685,8 +752,8 @@ class Option_Product(Item):
                                                                               database=self.catalog_info)
 
     def to_xml(self):
-        data = xmltodict.parse(ET.tostring(super().to_xml()))
-        page_attributes = self.extra_info['xml'].get('page-attributes', {})
+        data = super().to_xml()
+        # page_attributes = self.extra_info['xml'].get('page-attributes', {})
         share_option = []
         if self.skuNG and self.skuLP:
             share_option.append({'@option-id': 'selectOptionFuelType'})
@@ -695,21 +762,21 @@ class Option_Product(Item):
         if self.selectOptionVentConfiguration:
             share_option.append({'@option-id': 'selectOptionVentConfiguration'})
         mapping = {
-            'brand': {'#text': self.brand},
-            'manufacturer-sku': {'#text': self.sku},
-            'page-attributes': page_attributes,
+            # 'brand': {'#text': self.brand},
+            # 'manufacturer-sku': {'#text': self.sku},
+            # 'page-attributes': page_attributes,
             'custom-attributes': {
                 'custom-attribute' : [
-                    {'@attribute-id': 'baseSku', '#text': self.base_sku},
-                    {'@attribute-id': 'configurableProduct', '#text': 'true'},
-                    {'@attribute-id': 'fuelType', '#text': 'Gas'},
+                    # {'@attribute-id': 'baseSku', '#text': self.base_sku},
+                    # {'@attribute-id': 'configurableProduct', '#text': 'true'},
+                    # {'@attribute-id': 'fuelType', '#text': 'Gas'},
                     {'@attribute-id': 'ignitionType', '#text': self.ignition_type},
-                    {'@attribute-id': 'productCategory', '#text': self.product_category},
-                    {'@attribute-id': 'productSetId', '#text': self.product_set_id},
-                    {'@attribute-id': 'productTypeNonoperative', '#text': self.product_type_nonoperative},
-                    {'@attribute-id': 'series', '#text': self.series_name},
-                    {'@attribute-id': 'seriesNumber', '#text': self.series_number},
-                    {'@attribute-id': 'sku', '#text': self.sku},
+                    # {'@attribute-id': 'productCategory', '#text': self.product_category},
+                    # {'@attribute-id': 'productSetId', '#text': self.product_set_id},
+                    # {'@attribute-id': 'productTypeNonoperative', '#text': self.product_type_nonoperative},
+                    # {'@attribute-id': 'series', '#text': self.series_name},
+                    # {'@attribute-id': 'seriesNumber', '#text': self.series_number},
+                    # {'@attribute-id': 'sku', '#text': self.sku},
                     {'@attribute-id': 'skuNG', '#text': self.skuNG},
                     {'@attribute-id': 'skuNgIpi', '#text': self.skuNgIpi},
                     {'@attribute-id': 'skuNgMv', '#text': self.skuNgMv},
@@ -723,7 +790,10 @@ class Option_Product(Item):
                 },
             }
 
-        data['product'].update(mapping)
+        data['product']['custom-attributes']['custom-attribute'].extend(mapping['custom-attributes']['custom-attribute'])
+        data['product'].update({k: v
+                                for k, v in mapping.items()
+                                if k != 'custom-attributes'})
         return data
 
 
