@@ -131,6 +131,8 @@ def add_fuel_type(database: Dict) -> Dict:
                         unit['fuel_type'] = 'Wood'
                     elif re.search(r'propane|gas', product_line_name, flags=re.IGNORECASE):
                         unit['fuel_type'] = 'Gas'
+                    elif re.search(r'pellet', product_line_name, flags=re.IGNORECASE):
+                        unit['fuel_type'] = 'Pellet'
                     else:    # Some time a product name does not specify, such as 'GSS42CFN'
                         unit['fuel_type'] = 'Gas'
     return database
