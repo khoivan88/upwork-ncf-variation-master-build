@@ -525,7 +525,7 @@ def get_info(sku: str,
                           for unit in product_line['details']
                           if unit}
         # breakpoint()
-        ignition_type_string = ' or '.join(ignition_types).lower()
+        ignition_type_string = ' or '.join(sorted(ignition_types)).lower()
         count = ignition_type_string.count("ignition") - 1
         ignition_type_string = ignition_type_string.replace('ignition', '', count).title()
 
