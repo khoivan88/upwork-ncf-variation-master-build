@@ -527,7 +527,7 @@ def get_info(sku: str,
         # breakpoint()
         ignition_type_string = ' or '.join(sorted(ignition_types)).lower()
         count = ignition_type_string.count("ignition") - 1
-        ignition_type_string = ignition_type_string.replace('ignition', '', count).title()
+        ignition_type_string = re.sub(r'\s{2,}', ' ', ignition_type_string.replace('ignition', '', count).title()).replace('Or', 'or')
 
         product_info = ignition_type_string
     else:
