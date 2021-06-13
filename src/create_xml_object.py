@@ -1,30 +1,28 @@
 # __Author__: Khoi Van 2021
 
 import argparse
-from collections import namedtuple
+import csv
 import json
 import logging
 import re
-import csv
-from itertools import zip_longest
-from pathlib import Path, PurePath
-from typing import Dict, List, Set, Union, Optional
-# from copy import deepcopy
+import xml.etree.ElementTree as ET
+from collections import defaultdict, namedtuple
 from dataclasses import dataclass, field
 from functools import lru_cache
-
-import xml.etree.ElementTree as ET
+from itertools import zip_longest
+from pathlib import Path, PurePath
+from typing import Dict, List, Optional, Set, Union
 from xml.dom import minidom
-import xmltodict
 
 import pandas as pd
-from openpyxl import load_workbook
+import xmltodict
+# from openpyxl import load_workbook
 from rich.console import Console
 from rich.logging import RichHandler
-from rich.progress import Progress, BarColumn, SpinnerColumn, TimeElapsedColumn
+from rich.progress import BarColumn, Progress, SpinnerColumn, TimeElapsedColumn
 
-from extract_napoleon_data_from_catalog import extract_napoleon_data_from_catalog
-
+from extract_napoleon_data_from_catalog import \
+    extract_napoleon_data_from_catalog
 
 console = Console()
 # sys.setrecursionlimit(20000)
