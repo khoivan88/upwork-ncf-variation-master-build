@@ -1,0 +1,6 @@
+# dataclasses==0.8
+openpyxl==3.0.7
+pandas==1.2.4
+pytest==6.2.4
+rich==10.3.0
+xmltodict==0.12.0
