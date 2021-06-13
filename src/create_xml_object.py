@@ -452,7 +452,7 @@ def get_unit_sku_with_specific_fuel_ignition(requirements: Dict[str, str],
         #     desired_unit = unit.sku
         #     break
         for req, value in requirements.items():
-            if not re.search(re.escape(value), unit.info[req], flags=re.IGNORECASE):
+            if not re.search(re.escape(value), unit.info.get(req, ''), flags=re.IGNORECASE):
                 break
         else:
             desired_unit = unit.sku
@@ -520,7 +520,7 @@ def get_info(sku: str,
     product_info = ''
     series_info = get_series_info_from_catalog(sku=sku, type='series', database=database)
     if info_name == 'ignition_type':
-        ignition_types = {unit[info_name]
+        ignition_types = {unit.get(info_name, '')
                           for product_line in series_info['units']
                           for unit in product_line['details']
                           if unit}
