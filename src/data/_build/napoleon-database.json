@@ -25,7 +25,7 @@
               "style": "Linear",
               "product_category": "Gas Fireplaces",
               "productTypeNonoperative": "Option Product",
-              "display_name": "Napoleon Luxuria 38 Direct-Vent Gas Fireplace | LVX38"
+              "display_name": "Napoleon Luxuria 38 Direct-Vent Linear Gas Fireplace | LVX38"
             },
             {
               "price": "$7,399",
@@ -40,7 +40,7 @@
               "style": "Linear",
               "product_category": "Gas Fireplaces",
               "productTypeNonoperative": "Option Product",
-              "display_name": "Napoleon Luxuria 50 Direct-Vent Gas Fireplace | LVX50"
+              "display_name": "Napoleon Luxuria 50 Direct-Vent Linear Gas Fireplace | LVX50"
             },
             {
               "price": "$10,599",
@@ -55,7 +55,7 @@
               "style": "Linear",
               "product_category": "Gas Fireplaces",
               "productTypeNonoperative": "Option Product",
-              "display_name": "Napoleon Luxuria 62 Direct-Vent Gas Fireplace | LVX62"
+              "display_name": "Napoleon Luxuria 62 Direct-Vent Linear Gas Fireplace | LVX62"
             },
             {
               "price": "$12,199",
@@ -70,7 +70,7 @@
               "style": "Linear",
               "product_category": "Gas Fireplaces",
               "productTypeNonoperative": "Option Product",
-              "display_name": "Napoleon Luxuria 74 Direct-Vent Gas Fireplace | LVX74"
+              "display_name": "Napoleon Luxuria 74 Direct-Vent Linear Gas Fireplace | LVX74"
             }
           ]
         },
@@ -90,7 +90,7 @@
               "style": "See-Thru",
               "product_category": "Gas Fireplaces",
               "productTypeNonoperative": "Option Product",
-              "display_name": "Napoleon Luxuria 38 Direct-Vent Gas Fireplace | LVX38"
+              "display_name": "Napoleon Luxuria 38 Direct-Vent See-Thru Gas Fireplace | LVX38"
             },
             {
               "price": "$8,499",
@@ -105,7 +105,7 @@
               "style": "See-Thru",
               "product_category": "Gas Fireplaces",
               "productTypeNonoperative": "Option Product",
-              "display_name": "Napoleon Luxuria 50 Direct-Vent Gas Fireplace | LVX50"
+              "display_name": "Napoleon Luxuria 50 Direct-Vent See-Thru Gas Fireplace | LVX50"
             },
             {
               "price": "$11,999",
@@ -120,7 +120,7 @@
               "style": "See-Thru",
               "product_category": "Gas Fireplaces",
               "productTypeNonoperative": "Option Product",
-              "display_name": "Napoleon Luxuria 62 Direct-Vent Gas Fireplace | LVX62"
+              "display_name": "Napoleon Luxuria 62 Direct-Vent See-Thru Gas Fireplace | LVX62"
             },
             {
               "price": "$13,799",
@@ -135,7 +135,7 @@
               "style": "See-Thru",
               "product_category": "Gas Fireplaces",
               "productTypeNonoperative": "Option Product",
-              "display_name": "Napoleon Luxuria 74 Direct-Vent Gas Fireplace | LVX74"
+              "display_name": "Napoleon Luxuria 74 Direct-Vent See-Thru Gas Fireplace | LVX74"
             }
           ]
         },
@@ -158,7 +158,7 @@
               "style": "Linear",
               "product_category": "Gas Fireplaces",
               "productTypeNonoperative": "Option Product",
-              "display_name": "Napoleon Luxuria 74 Direct-Vent Gas Fireplace | LVX74"
+              "display_name": "Napoleon Luxuria 74 Direct-Vent Linear Gas Fireplace | LVX74"
             }
           ]
         },
@@ -181,7 +181,7 @@
               "style": "See-Thru",
               "product_category": "Gas Fireplaces",
               "productTypeNonoperative": "Option Product",
-              "display_name": "Napoleon Luxuria 74 Direct-Vent Gas Fireplace | LVX74"
+              "display_name": "Napoleon Luxuria 74 Direct-Vent See-Thru Gas Fireplace | LVX74"
             }
           ]
         },
@@ -787,7 +787,7 @@
               "style": "Linear",
               "product_category": "Gas Fireplaces",
               "productTypeNonoperative": "Option Product",
-              "display_name": "Napoleon Vector 38 Direct-Vent Gas Fireplace | LV38"
+              "display_name": "Napoleon Vector 38 Direct-Vent Linear Gas Fireplace | LV38"
             },
             {
               "price": "$4,099",
@@ -802,7 +802,7 @@
               "style": "Linear",
               "product_category": "Gas Fireplaces",
               "productTypeNonoperative": "Option Product",
-              "display_name": "Napoleon Vector 50 Direct-Vent Gas Fireplace | LV50"
+              "display_name": "Napoleon Vector 50 Direct-Vent Linear Gas Fireplace | LV50"
             },
             {
               "price": "$6,699",
@@ -817,7 +817,7 @@
               "style": "Linear",
               "product_category": "Gas Fireplaces",
               "productTypeNonoperative": "Option Product",
-              "display_name": "Napoleon Vector 62 Direct-Vent Gas Fireplace | LV62"
+              "display_name": "Napoleon Vector 62 Direct-Vent Linear Gas Fireplace | LV62"
             },
             {
               "price": "$8,249",
@@ -832,7 +832,7 @@
               "style": "Linear",
               "product_category": "Gas Fireplaces",
               "productTypeNonoperative": "Option Product",
-              "display_name": "Napoleon Vector 74 Direct-Vent Gas Fireplace | LV74"
+              "display_name": "Napoleon Vector 74 Direct-Vent Linear Gas Fireplace | LV74"
             }
           ]
         },
@@ -852,7 +852,7 @@
               "style": "See-Thru",
               "product_category": "Gas Fireplaces",
               "productTypeNonoperative": "Option Product",
-              "display_name": "Napoleon Vector 38 Direct-Vent Gas Fireplace | LV38"
+              "display_name": "Napoleon Vector 38 Direct-Vent See-Thru Gas Fireplace | LV38"
             },
             {
               "price": "$5,349",
@@ -867,7 +867,7 @@
               "style": "See-Thru",
               "product_category": "Gas Fireplaces",
               "productTypeNonoperative": "Option Product",
-              "display_name": "Napoleon Vector 50 Direct-Vent Gas Fireplace | LV50"
+              "display_name": "Napoleon Vector 50 Direct-Vent See-Thru Gas Fireplace | LV50"
             },
             {
               "price": "$7,949",
@@ -882,7 +882,7 @@
               "style": "See-Thru",
               "product_category": "Gas Fireplaces",
               "productTypeNonoperative": "Option Product",
-              "display_name": "Napoleon Vector 62 Direct-Vent Gas Fireplace | LV62"
+              "display_name": "Napoleon Vector 62 Direct-Vent See-Thru Gas Fireplace | LV62"
             },
             {
               "price": "$10,299",
@@ -897,7 +897,7 @@
               "style": "See-Thru",
               "product_category": "Gas Fireplaces",
               "productTypeNonoperative": "Option Product",
-              "display_name": "Napoleon Vector 74 Direct-Vent Gas Fireplace | LV74"
+              "display_name": "Napoleon Vector 74 Direct-Vent See-Thru Gas Fireplace | LV74"
             }
           ]
         },
@@ -920,7 +920,7 @@
               "style": "Linear",
               "product_category": "Gas Fireplaces",
               "productTypeNonoperative": "Option Product",
-              "display_name": "Napoleon Vector 74 Direct-Vent Gas Fireplace | LV74"
+              "display_name": "Napoleon Vector 74 Direct-Vent Linear Gas Fireplace | LV74"
             }
           ]
         },
@@ -943,7 +943,7 @@
               "style": "See-Thru",
               "product_category": "Gas Fireplaces",
               "productTypeNonoperative": "Option Product",
-              "display_name": "Napoleon Vector 74 Direct-Vent Gas Fireplace | LV74"
+              "display_name": "Napoleon Vector 74 Direct-Vent See-Thru Gas Fireplace | LV74"
             }
           ]
         }
@@ -1732,7 +1732,7 @@
               "style": "Linear",
               "product_category": "Gas Fireplaces",
               "productTypeNonoperative": "Option Product",
-              "display_name": "Napoleon Acies 38 Direct-Vent Gas Fireplace | L38"
+              "display_name": "Napoleon Acies 38 Direct-Vent Linear Gas Fireplace | L38"
             },
             {
               "price": "$3599",
@@ -1747,7 +1747,7 @@
               "style": "Linear",
               "product_category": "Gas Fireplaces",
               "productTypeNonoperative": "Option Product",
-              "display_name": "Napoleon Acies 50 Direct-Vent Gas Fireplace | L50"
+              "display_name": "Napoleon Acies 50 Direct-Vent Linear Gas Fireplace | L50"
             }
           ]
         },
@@ -1767,7 +1767,7 @@
               "style": "See-Thru",
               "product_category": "Gas Fireplaces",
               "productTypeNonoperative": "Option Product",
-              "display_name": "Napoleon Acies 38 Direct-Vent Gas Fireplace | L38"
+              "display_name": "Napoleon Acies 38 Direct-Vent See-Thru Gas Fireplace | L38"
             },
             {
               "price": "$4449",
@@ -1782,7 +1782,7 @@
               "style": "See-Thru",
               "product_category": "Gas Fireplaces",
               "productTypeNonoperative": "Option Product",
-              "display_name": "Napoleon Acies 50 Direct-Vent Gas Fireplace | L50"
+              "display_name": "Napoleon Acies 50 Direct-Vent See-Thru Gas Fireplace | L50"
             }
           ]
         },
@@ -2173,7 +2173,7 @@
               "style": "Linear",
               "product_category": "Gas Fireplaces",
               "productTypeNonoperative": "Option Product",
-              "display_name": "Napoleon Ascent Linear 36 Direct-Vent Gas Fireplace | BL36"
+              "display_name": "Napoleon Ascent Linear 36 Direct-Vent Linear Gas Fireplace | BL36"
             },
             {
               "price": "$3,099",
@@ -2188,7 +2188,7 @@
               "style": "Linear",
               "product_category": "Gas Fireplaces",
               "productTypeNonoperative": "Option Product",
-              "display_name": "Napoleon Ascent Linear 46 Direct-Vent Gas Fireplace | BL46"
+              "display_name": "Napoleon Ascent Linear 46 Direct-Vent Linear Gas Fireplace | BL46"
             }
           ]
         }
@@ -2384,7 +2384,7 @@
               "style": "Traditional",
               "product_category": "Gas Fireplaces",
               "productTypeNonoperative": "Option Product",
-              "display_name": "Napoleon Elevation X 36 Direct-Vent Gas Fireplace | EX36"
+              "display_name": "Napoleon Elevation X 36 Direct-Vent Traditional Gas Fireplace | EX36"
             },
             {
               "price": "$4,199",
@@ -2399,7 +2399,7 @@
               "style": "Traditional",
               "product_category": "Gas Fireplaces",
               "productTypeNonoperative": "Option Product",
-              "display_name": "Napoleon Elevation X 42 Direct-Vent Gas Fireplace | EX42"
+              "display_name": "Napoleon Elevation X 42 Direct-Vent Traditional Gas Fireplace | EX42"
             }
           ]
         },
@@ -2419,7 +2419,7 @@
               "style": "Traditional",
               "product_category": "Gas Fireplaces",
               "productTypeNonoperative": "Option Product",
-              "display_name": "Napoleon Elevation X 36 Direct-Vent Gas Fireplace | EX36"
+              "display_name": "Napoleon Elevation X 36 Direct-Vent Traditional Gas Fireplace | EX36"
             },
             {
               "price": "$4,199",
@@ -2434,7 +2434,7 @@
               "style": "Traditional",
               "product_category": "Gas Fireplaces",
               "productTypeNonoperative": "Option Product",
-              "display_name": "Napoleon Elevation X 42 Direct-Vent Gas Fireplace | EX42"
+              "display_name": "Napoleon Elevation X 42 Direct-Vent Traditional Gas Fireplace | EX42"
             }
           ]
         }
@@ -3191,7 +3191,7 @@
               "style": "Traditional",
               "product_category": "Gas Fireplaces",
               "productTypeNonoperative": "Option Product",
-              "display_name": "Napoleon Elevation 36 Direct-Vent Gas Fireplace | E36"
+              "display_name": "Napoleon Elevation 36 Direct-Vent Traditional Gas Fireplace | E36"
             },
             {
               "price": "$2,999",
@@ -3206,7 +3206,7 @@
               "style": "Traditional",
               "product_category": "Gas Fireplaces",
               "productTypeNonoperative": "Option Product",
-              "display_name": "Napoleon Elevation 42 Direct-Vent Gas Fireplace | E42"
+              "display_name": "Napoleon Elevation 42 Direct-Vent Traditional Gas Fireplace | E42"
             }
           ]
         },
@@ -3226,7 +3226,7 @@
               "style": "Traditional",
               "product_category": "Gas Fireplaces",
               "productTypeNonoperative": "Option Product",
-              "display_name": "Napoleon Elevation 36 Direct-Vent Gas Fireplace | E36"
+              "display_name": "Napoleon Elevation 36 Direct-Vent Traditional Gas Fireplace | E36"
             },
             {
               "price": "$2,999",
@@ -3241,7 +3241,7 @@
               "style": "Traditional",
               "product_category": "Gas Fireplaces",
               "productTypeNonoperative": "Option Product",
-              "display_name": "Napoleon Elevation 42 Direct-Vent Gas Fireplace | E42"
+              "display_name": "Napoleon Elevation 42 Direct-Vent Traditional Gas Fireplace | E42"
             }
           ]
         },
@@ -3702,7 +3702,7 @@
               "style": "Traditional",
               "product_category": "Gas Fireplaces",
               "productTypeNonoperative": "Option Product",
-              "display_name": "Napoleon Altitude X 36 Direct-Vent Gas Fireplace | AX36"
+              "display_name": "Napoleon Altitude X 36 Direct-Vent Traditional Gas Fireplace | AX36"
             },
             {
               "price": "$3,099",
@@ -3717,7 +3717,7 @@
               "style": "Traditional",
               "product_category": "Gas Fireplaces",
               "productTypeNonoperative": "Option Product",
-              "display_name": "Napoleon Altitude X 42 Direct-Vent Gas Fireplace | AX42"
+              "display_name": "Napoleon Altitude X 42 Direct-Vent Traditional Gas Fireplace | AX42"
             }
           ]
         },
@@ -3737,7 +3737,7 @@
               "style": "Traditional",
               "product_category": "Gas Fireplaces",
               "productTypeNonoperative": "Option Product",
-              "display_name": "Napoleon Altitude X 36 Direct-Vent Gas Fireplace | AX36"
+              "display_name": "Napoleon Altitude X 36 Direct-Vent Traditional Gas Fireplace | AX36"
             },
             {
               "price": "$3,099",
@@ -3752,7 +3752,7 @@
               "style": "Traditional",
               "product_category": "Gas Fireplaces",
               "productTypeNonoperative": "Option Product",
-              "display_name": "Napoleon Altitude X 42 Direct-Vent Gas Fireplace | AX42"
+              "display_name": "Napoleon Altitude X 42 Direct-Vent Traditional Gas Fireplace | AX42"
             }
           ]
         }
@@ -4458,7 +4458,7 @@
               "style": "Traditional",
               "product_category": "Gas Fireplaces",
               "productTypeNonoperative": "Option Product",
-              "display_name": "Napoleon Starfire 52 Direct-Vent Gas Fireplace | HDX52"
+              "display_name": "Napoleon Starfire 52 Direct-Vent Traditional Gas Fireplace | HDX52"
             }
           ]
         },
@@ -4478,7 +4478,7 @@
               "style": "Traditional",
               "product_category": "Gas Fireplaces",
               "productTypeNonoperative": "Option Product",
-              "display_name": "Napoleon Starfire 52 Direct-Vent Gas Fireplace | HDX52"
+              "display_name": "Napoleon Starfire 52 Direct-Vent Traditional Gas Fireplace | HDX52"
             }
           ]
         }
@@ -4756,7 +4756,7 @@
               "style": "Traditional",
               "product_category": "Gas Fireplaces",
               "productTypeNonoperative": "Option Product",
-              "display_name": "Napoleon High Definition 81 Direct-Vent Gas Fireplace | HD81"
+              "display_name": "Napoleon High Definition 81 Direct-Vent Traditional Gas Fireplace | HD81"
             }
           ]
         }
@@ -4904,7 +4904,7 @@
               "style": "Traditional",
               "product_category": "Gas Fireplaces",
               "productTypeNonoperative": "Option Product",
-              "display_name": "Napoleon Ascent Deep 42 Direct-Vent Gas Fireplace | D42"
+              "display_name": "Napoleon Ascent Deep 42 Direct-Vent Traditional Gas Fireplace | D42"
             }
           ]
         },
@@ -4924,7 +4924,7 @@
               "style": "Traditional",
               "product_category": "Gas Fireplaces",
               "productTypeNonoperative": "Option Product",
-              "display_name": "Napoleon Ascent Deep 42 Direct-Vent Gas Fireplace | D42"
+              "display_name": "Napoleon Ascent Deep 42 Direct-Vent Traditional Gas Fireplace | D42"
             }
           ]
         },
@@ -5195,7 +5195,7 @@
               "style": "Traditional",
               "product_category": "Gas Fireplaces",
               "productTypeNonoperative": "Option Product",
-              "display_name": "Napoleon Ascent Deep X 42 Direct-Vent Gas Fireplace | DX42"
+              "display_name": "Napoleon Ascent Deep X 42 Direct-Vent Traditional Gas Fireplace | DX42"
             }
           ]
         },
@@ -5215,7 +5215,7 @@
               "style": "Traditional",
               "product_category": "Gas Fireplaces",
               "productTypeNonoperative": "Option Product",
-              "display_name": "Napoleon Ascent Deep X 42 Direct-Vent Gas Fireplace | DX42"
+              "display_name": "Napoleon Ascent Deep X 42 Direct-Vent Traditional Gas Fireplace | DX42"
             }
           ]
         },
@@ -5472,7 +5472,7 @@
               "style": "Traditional",
               "product_category": "Gas Fireplaces",
               "productTypeNonoperative": "Option Product",
-              "display_name": "Napoleon Ascent X 70 Direct-Vent Gas Fireplace | GX70"
+              "display_name": "Napoleon Ascent X 70 Direct-Vent Traditional Gas Fireplace | GX70"
             }
           ]
         },
@@ -5492,7 +5492,7 @@
               "style": "Traditional",
               "product_category": "Gas Fireplaces",
               "productTypeNonoperative": "Option Product",
-              "display_name": "Napoleon Ascent X 70 Direct-Vent Gas Fireplace | GX70"
+              "display_name": "Napoleon Ascent X 70 Direct-Vent Traditional Gas Fireplace | GX70"
             }
           ]
         },
@@ -5761,7 +5761,7 @@
               "style": "Traditional",
               "product_category": "Gas Fireplaces",
               "productTypeNonoperative": "Option Product",
-              "display_name": "Napoleon Ascent X 42 Direct-Vent Gas Fireplace | GX42"
+              "display_name": "Napoleon Ascent X 42 Direct-Vent Traditional Gas Fireplace | GX42"
             }
           ]
         },
@@ -5781,7 +5781,7 @@
               "style": "Traditional",
               "product_category": "Gas Fireplaces",
               "productTypeNonoperative": "Option Product",
-              "display_name": "Napoleon Ascent X 42 Direct-Vent Gas Fireplace | GX42"
+              "display_name": "Napoleon Ascent X 42 Direct-Vent Traditional Gas Fireplace | GX42"
             }
           ]
         }
@@ -6046,7 +6046,7 @@
               "style": "Traditional",
               "product_category": "Gas Fireplaces",
               "productTypeNonoperative": "Option Product",
-              "display_name": "Napoleon Ascent X 36 Direct-Vent Gas Fireplace | GX36"
+              "display_name": "Napoleon Ascent X 36 Direct-Vent Traditional Gas Fireplace | GX36"
             }
           ]
         },
@@ -6066,7 +6066,7 @@
               "style": "Traditional",
               "product_category": "Gas Fireplaces",
               "productTypeNonoperative": "Option Product",
-              "display_name": "Napoleon Ascent X 36 Direct-Vent Gas Fireplace | GX36"
+              "display_name": "Napoleon Ascent X 36 Direct-Vent Traditional Gas Fireplace | GX36"
             }
           ]
         },
@@ -6086,7 +6086,7 @@
               "style": "Traditional",
               "product_category": "Gas Fireplaces",
               "productTypeNonoperative": "Option Product",
-              "display_name": "Napoleon Ascent X 36 Direct-Vent Gas Fireplace | GX36"
+              "display_name": "Napoleon Ascent X 36 Direct-Vent Traditional Gas Fireplace | GX36"
             }
           ]
         },
@@ -6106,7 +6106,7 @@
               "style": "Traditional",
               "product_category": "Gas Fireplaces",
               "productTypeNonoperative": "Option Product",
-              "display_name": "Napoleon Ascent X 36 Direct-Vent Gas Fireplace | GX36"
+              "display_name": "Napoleon Ascent X 36 Direct-Vent Traditional Gas Fireplace | GX36"
             }
           ]
         },
@@ -6447,7 +6447,7 @@
               "style": "Traditional",
               "product_category": "Gas Fireplaces",
               "productTypeNonoperative": "Option Product",
-              "display_name": "Napoleon Ascent X 36 Direct-Vent Gas Fireplace | BX36"
+              "display_name": "Napoleon Ascent X 36 Direct-Vent Traditional Gas Fireplace | BX36"
             },
             {
               "price": "$2,899",
@@ -6462,7 +6462,7 @@
               "style": "Traditional",
               "product_category": "Gas Fireplaces",
               "productTypeNonoperative": "Option Product",
-              "display_name": "Napoleon Ascent X 42 Direct-Vent Gas Fireplace | BX42"
+              "display_name": "Napoleon Ascent X 42 Direct-Vent Traditional Gas Fireplace | BX42"
             }
           ]
         },
@@ -6482,7 +6482,7 @@
               "style": "Traditional",
               "product_category": "Gas Fireplaces",
               "productTypeNonoperative": "Option Product",
-              "display_name": "Napoleon Ascent X 36 Direct-Vent Gas Fireplace | BX36"
+              "display_name": "Napoleon Ascent X 36 Direct-Vent Traditional Gas Fireplace | BX36"
             },
             {
               "price": "$2,899",
@@ -6497,7 +6497,7 @@
               "style": "Traditional",
               "product_category": "Gas Fireplaces",
               "productTypeNonoperative": "Option Product",
-              "display_name": "Napoleon Ascent X 42 Direct-Vent Gas Fireplace | BX42"
+              "display_name": "Napoleon Ascent X 42 Direct-Vent Traditional Gas Fireplace | BX42"
             }
           ]
         },
@@ -6868,7 +6868,7 @@
               "style": "Traditional",
               "product_category": "Gas Fireplaces",
               "productTypeNonoperative": "Option Product",
-              "display_name": "Napoleon Ascent 30 Direct-Vent Gas Fireplace | B30"
+              "display_name": "Napoleon Ascent 30 Direct-Vent Traditional Gas Fireplace | B30"
             },
             {
               "price": "$2,249",
@@ -6883,7 +6883,7 @@
               "style": "Traditional",
               "product_category": "Gas Fireplaces",
               "productTypeNonoperative": "Option Product",
-              "display_name": "Napoleon Ascent 36 Direct-Vent Gas Fireplace | B36"
+              "display_name": "Napoleon Ascent 36 Direct-Vent Traditional Gas Fireplace | B36"
             },
             {
               "price": "$2,399",
@@ -6898,7 +6898,7 @@
               "style": "Traditional",
               "product_category": "Gas Fireplaces",
               "productTypeNonoperative": "Option Product",
-              "display_name": "Napoleon Ascent 42 Direct-Vent Gas Fireplace | B42"
+              "display_name": "Napoleon Ascent 42 Direct-Vent Traditional Gas Fireplace | B42"
             },
             {
               "price": "$2,349",
@@ -6913,7 +6913,7 @@
               "style": "Traditional",
               "product_category": "Gas Fireplaces",
               "productTypeNonoperative": "Option Product",
-              "display_name": "Napoleon Ascent 46 Direct-Vent Gas Fireplace | B46"
+              "display_name": "Napoleon Ascent 46 Direct-Vent Traditional Gas Fireplace | B46"
             }
           ]
         },
@@ -6934,7 +6934,7 @@
               "style": "Traditional",
               "product_category": "Gas Fireplaces",
               "productTypeNonoperative": "Option Product",
-              "display_name": "Napoleon Ascent 36 Direct-Vent Gas Fireplace | B36"
+              "display_name": "Napoleon Ascent 36 Direct-Vent Traditional Gas Fireplace | B36"
             },
             {
               "price": "$2,399",
@@ -6949,7 +6949,7 @@
               "style": "Traditional",
               "product_category": "Gas Fireplaces",
               "productTypeNonoperative": "Option Product",
-              "display_name": "Napoleon Ascent 42 Direct-Vent Gas Fireplace | B42"
+              "display_name": "Napoleon Ascent 42 Direct-Vent Traditional Gas Fireplace | B42"
             },
             {}
           ]
@@ -6970,7 +6970,7 @@
               "style": "Traditional",
               "product_category": "Gas Fireplaces",
               "productTypeNonoperative": "Option Product",
-              "display_name": "Napoleon Ascent 30 Direct-Vent Gas Fireplace | B30"
+              "display_name": "Napoleon Ascent 30 Direct-Vent Traditional Gas Fireplace | B30"
             },
             {
               "price": "$2,249",
@@ -6985,7 +6985,7 @@
               "style": "Traditional",
               "product_category": "Gas Fireplaces",
               "productTypeNonoperative": "Option Product",
-              "display_name": "Napoleon Ascent 36 Direct-Vent Gas Fireplace | B36"
+              "display_name": "Napoleon Ascent 36 Direct-Vent Traditional Gas Fireplace | B36"
             },
             {
               "price": "$2,399",
@@ -7000,7 +7000,7 @@
               "style": "Traditional",
               "product_category": "Gas Fireplaces",
               "productTypeNonoperative": "Option Product",
-              "display_name": "Napoleon Ascent 42 Direct-Vent Gas Fireplace | B42"
+              "display_name": "Napoleon Ascent 42 Direct-Vent Traditional Gas Fireplace | B42"
             },
             {
               "price": "$2,349",
@@ -7015,7 +7015,7 @@
               "style": "Traditional",
               "product_category": "Gas Fireplaces",
               "productTypeNonoperative": "Option Product",
-              "display_name": "Napoleon Ascent 46 Direct-Vent Gas Fireplace | B46"
+              "display_name": "Napoleon Ascent 46 Direct-Vent Traditional Gas Fireplace | B46"
             }
           ]
         },
@@ -7036,7 +7036,7 @@
               "style": "Traditional",
               "product_category": "Gas Fireplaces",
               "productTypeNonoperative": "Option Product",
-              "display_name": "Napoleon Ascent 36 Direct-Vent Gas Fireplace | B36"
+              "display_name": "Napoleon Ascent 36 Direct-Vent Traditional Gas Fireplace | B36"
             },
             {
               "price": "$2,399",
@@ -7051,7 +7051,7 @@
               "style": "Traditional",
               "product_category": "Gas Fireplaces",
               "productTypeNonoperative": "Option Product",
-              "display_name": "Napoleon Ascent 42 Direct-Vent Gas Fireplace | B42"
+              "display_name": "Napoleon Ascent 42 Direct-Vent Traditional Gas Fireplace | B42"
             },
             {}
           ]
@@ -7727,7 +7727,7 @@
               "style": "See-Thru",
               "product_category": "Gas Fireplaces",
               "productTypeNonoperative": "Option Product",
-              "display_name": "Napoleon Ascent Multi-View BHD4ST Direct-Vent Gas Fireplace | BHD4-Cradle"
+              "display_name": "Napoleon Ascent Multi-View BHD4ST Direct-Vent See-Thru Gas Fireplace | BHD4-Cradle"
             },
             {
               "price": "$4,449",
@@ -7742,7 +7742,7 @@
               "style": "See-Thru",
               "product_category": "Gas Fireplaces",
               "productTypeNonoperative": "Option Product",
-              "display_name": "Napoleon Ascent Multi-View BHD4 Direct-Vent Gas Fireplace | BHD4-Glass"
+              "display_name": "Napoleon Ascent Multi-View BHD4 Direct-Vent See-Thru Gas Fireplace | BHD4-Glass"
             },
             {
               "price": "$4,749",
@@ -7757,7 +7757,7 @@
               "style": "See-Thru",
               "product_category": "Gas Fireplaces",
               "productTypeNonoperative": "Option Product",
-              "display_name": "Napoleon Ascent Multi-View BHD4 Direct-Vent Gas Fireplace | BHD4-Logs"
+              "display_name": "Napoleon Ascent Multi-View BHD4 Direct-Vent See-Thru Gas Fireplace | BHD4-Logs"
             }
           ]
         },
@@ -7777,7 +7777,7 @@
               "style": "Peninsula",
               "product_category": "Gas Fireplaces",
               "productTypeNonoperative": "Option Product",
-              "display_name": "Napoleon Ascent Multi-View BHD4ST Direct-Vent Gas Fireplace | BHD4-Cradle"
+              "display_name": "Napoleon Ascent Multi-View BHD4ST Direct-Vent Peninsula Gas Fireplace | BHD4-Cradle"
             },
             {
               "price": "$4,449",
@@ -7792,7 +7792,7 @@
               "style": "Peninsula",
               "product_category": "Gas Fireplaces",
               "productTypeNonoperative": "Option Product",
-              "display_name": "Napoleon Ascent Multi-View BHD4 Direct-Vent Gas Fireplace | BHD4-Glass"
+              "display_name": "Napoleon Ascent Multi-View BHD4 Direct-Vent Peninsula Gas Fireplace | BHD4-Glass"
             },
             {
               "price": "$4,749",
@@ -7807,7 +7807,7 @@
               "style": "Peninsula",
               "product_category": "Gas Fireplaces",
               "productTypeNonoperative": "Option Product",
-              "display_name": "Napoleon Ascent Multi-View BHD4 Direct-Vent Gas Fireplace | BHD4-Logs"
+              "display_name": "Napoleon Ascent Multi-View BHD4 Direct-Vent Peninsula Gas Fireplace | BHD4-Logs"
             }
           ]
         },
@@ -8051,7 +8051,7 @@
               "style": "Traditional",
               "product_category": "Gas Fireplaces",
               "productTypeNonoperative": "Option Product",
-              "display_name": "Napoleon Park Avenue 82 Direct-Vent Gas Fireplace | GD82NT-PA"
+              "display_name": "Napoleon Park Avenue 82 Direct-Vent Traditional Gas Fireplace | GD82NT-PA"
             }
           ]
         }
@@ -8169,7 +8169,7 @@
               "style": "Traditional",
               "product_category": "Gas Fireplaces",
               "productTypeNonoperative": "Option Product",
-              "display_name": "Napoleon Torch GT8NSB Direct-Vent Gas Fireplace | GT8"
+              "display_name": "Napoleon Torch GT8NSB Direct-Vent Traditional Gas Fireplace | GT8"
             }
           ]
         },
@@ -8189,7 +8189,7 @@
               "style": "Traditional",
               "product_category": "Gas Fireplaces",
               "productTypeNonoperative": "Option Product",
-              "display_name": "Napoleon Torch GT8NSB Direct-Vent Gas Fireplace | GT8"
+              "display_name": "Napoleon Torch GT8NSB Direct-Vent Traditional Gas Fireplace | GT8"
             }
           ]
         }
@@ -8276,7 +8276,7 @@
               "style": "Traditional",
               "product_category": "Gas Fireplaces",
               "productTypeNonoperative": "Option Product",
-              "display_name": "Napoleon Vittoria 19 Vented Gas Fireplace | GD19N-2"
+              "display_name": "Napoleon Vittoria 19 Vented Traditional Gas Fireplace | GD19N-2"
             }
           ]
         }
@@ -8437,7 +8437,7 @@
               "style": "Traditional",
               "product_category": "Gas Fireplaces",
               "productTypeNonoperative": "Option Product",
-              "display_name": "Napoleon Torch GVFT8N Vent-Free Gas Fireplace | GVFT8"
+              "display_name": "Napoleon Torch GVFT8N Vent-Free Traditional Gas Fireplace | GVFT8"
             }
           ]
         },
@@ -8457,7 +8457,7 @@
               "style": "Traditional",
               "product_category": "Gas Fireplaces",
               "productTypeNonoperative": "Option Product",
-              "display_name": "Napoleon Torch GVFT8N Vent-Free Gas Fireplace | GVFT8"
+              "display_name": "Napoleon Torch GVFT8N Vent-Free Traditional Gas Fireplace | GVFT8"
             }
           ]
         }
@@ -8544,7 +8544,7 @@
               "style": "Traditional",
               "product_category": "Gas Fireplaces",
               "productTypeNonoperative": "Option Product",
-              "display_name": "Napoleon Grandville 36 Vent-Free Gas Fireplace | GVF36"
+              "display_name": "Napoleon Grandville 36 Vent-Free Traditional Gas Fireplace | GVF36"
             },
             {
               "price": "$1,749",
@@ -8559,7 +8559,7 @@
               "style": "Traditional",
               "product_category": "Gas Fireplaces",
               "productTypeNonoperative": "Option Product",
-              "display_name": "Napoleon Grandville 42 Vent-Free Gas Fireplace | GVF42"
+              "display_name": "Napoleon Grandville 42 Vent-Free Traditional Gas Fireplace | GVF42"
             }
           ]
         },
@@ -8579,7 +8579,7 @@
               "style": "Traditional",
               "product_category": "Gas Fireplaces",
               "productTypeNonoperative": "Option Product",
-              "display_name": "Napoleon Grandville 36 Vent-Free Gas Fireplace | GVF36"
+              "display_name": "Napoleon Grandville 36 Vent-Free Traditional Gas Fireplace | GVF36"
             },
             {
               "price": "$1,749",
@@ -8594,7 +8594,7 @@
               "style": "Traditional",
               "product_category": "Gas Fireplaces",
               "productTypeNonoperative": "Option Product",
-              "display_name": "Napoleon Grandville 42 Vent-Free Gas Fireplace | GVF42"
+              "display_name": "Napoleon Grandville 42 Vent-Free Traditional Gas Fireplace | GVF42"
             }
           ]
         }
@@ -8776,7 +8776,7 @@
               "style": "Traditional",
               "product_category": "Wood Fireplaces",
               "productTypeNonoperative": "Product",
-              "display_name": "Napoleon High Country 8000 Wood Fireplace | NZ8000"
+              "display_name": "Napoleon High Country 8000 Traditional Wood Fireplace | NZ8000"
             }
           ]
         }
@@ -8890,7 +8890,7 @@
               "style": "Traditional",
               "product_category": "Wood Fireplaces",
               "productTypeNonoperative": "Product",
-              "display_name": "Napoleon High Country 6000 Wood Fireplace | NZ6000"
+              "display_name": "Napoleon High Country 6000 Traditional Wood Fireplace | NZ6000"
             }
           ]
         }
@@ -9211,7 +9211,7 @@
               "style": "Traditional",
               "product_category": "Wood Fireplaces",
               "productTypeNonoperative": "Product",
-              "display_name": "Napoleon High Country 5000 Wood Fireplace | NZ5000"
+              "display_name": "Napoleon High Country 5000 Traditional Wood Fireplace | NZ5000"
             }
           ]
         }
@@ -9324,7 +9324,7 @@
               "style": "Traditional",
               "product_category": "Wood Fireplaces",
               "productTypeNonoperative": "Product",
-              "display_name": "Napoleon High Country 3000 Wood Fireplace | NZ3000"
+              "display_name": "Napoleon High Country 3000 Traditional Wood Fireplace | NZ3000"
             }
           ]
         }
@@ -9624,7 +9624,7 @@
               "style": "Traditional",
               "product_category": "Gas Inserts",
               "productTypeNonoperative": "Option Product",
-              "display_name": "Napoleon Oakville GDI3 Direct-Vent Gas Insert | GDI3N"
+              "display_name": "Napoleon Oakville GDI3 Direct-Vent Traditional Gas Insert | GDI3N"
             },
             {
               "price": "$2,299",
@@ -9639,7 +9639,7 @@
               "style": "Traditional",
               "product_category": "Gas Inserts",
               "productTypeNonoperative": "Option Product",
-              "display_name": "Napoleon Oakville GDI3 Direct-Vent Gas Insert | GDI3NE"
+              "display_name": "Napoleon Oakville GDI3 Direct-Vent Traditional Gas Insert | GDI3NE"
             },
             {
               "price": "$2,899",
@@ -9654,7 +9654,7 @@
               "style": "Traditional",
               "product_category": "Gas Inserts",
               "productTypeNonoperative": "Option Product",
-              "display_name": "Napoleon Oakville GDIG3 Direct-Vent Gas Insert | GDIG3N"
+              "display_name": "Napoleon Oakville GDIG3 Direct-Vent Traditional Gas Insert | GDIG3N"
             },
             {
               "price": "$2,899",
@@ -9669,7 +9669,7 @@
               "style": "Traditional",
               "product_category": "Gas Inserts",
               "productTypeNonoperative": "Option Product",
-              "display_name": "Napoleon Oakville GDIX3 Direct-Vent Gas Insert | GDIX3N"
+              "display_name": "Napoleon Oakville GDIX3 Direct-Vent Traditional Gas Insert | GDIX3N"
             },
             {
               "price": "$3,199",
@@ -9684,7 +9684,7 @@
               "style": "Traditional",
               "product_category": "Gas Inserts",
               "productTypeNonoperative": "Option Product",
-              "display_name": "Napoleon Oakville GDIX4 Direct-Vent Gas Insert | GDIX4N"
+              "display_name": "Napoleon Oakville GDIX4 Direct-Vent Traditional Gas Insert | GDIX4N"
             }
           ]
         }
@@ -11431,7 +11431,7 @@
               "style": "Traditional",
               "product_category": "Gas Fireplaces",
               "productTypeNonoperative": "Option Product",
-              "display_name": "Napoleon Roxbury 3600 Direct-Vent Gas Fireplace | GI3600"
+              "display_name": "Napoleon Roxbury 3600 Direct-Vent Traditional Gas Fireplace | GI3600"
             }
           ]
         }
@@ -11844,7 +11844,7 @@
               "style": "Traditional",
               "product_category": "Gas Fireplaces",
               "productTypeNonoperative": "Option Product",
-              "display_name": "Napoleon Inspiration ZC Direct-Vent Gas Fireplace | GDIZC"
+              "display_name": "Napoleon Inspiration ZC Direct-Vent Traditional Gas Fireplace | GDIZC"
             }
           ]
         }
@@ -12117,7 +12117,7 @@
               "style": "Traditional",
               "product_category": "Wood Fireplaces",
               "productTypeNonoperative": "Product",
-              "display_name": "Napoleon S Series 20 Wood Fireplace | S20i"
+              "display_name": "Napoleon S Series 20 Traditional Wood Fireplace | S20i"
             },
             {
               "price": "$2,749",
@@ -12129,7 +12129,7 @@
               "style": "Traditional",
               "product_category": "Wood Fireplaces",
               "productTypeNonoperative": "Product",
-              "display_name": "Napoleon S Series 25 Wood Fireplace | S25i"
+              "display_name": "Napoleon S Series 25 Traditional Wood Fireplace | S25i"
             }
           ]
         }
@@ -12242,7 +12242,7 @@
               "style": "Traditional",
               "product_category": "Wood Fireplaces",
               "productTypeNonoperative": "Product",
-              "display_name": "Napoleon Oakdale EPI3 Wood Fireplace | EPI3"
+              "display_name": "Napoleon Oakdale EPI3 Traditional Wood Fireplace | EPI3"
             }
           ]
         },
@@ -12259,7 +12259,7 @@
               "style": "Traditional",
               "product_category": "Wood Fireplaces",
               "productTypeNonoperative": "Product",
-              "display_name": "Napoleon Oakdale EPI3 Wood Fireplace | EPI3"
+              "display_name": "Napoleon Oakdale EPI3 Traditional Wood Fireplace | EPI3"
             }
           ]
         },
@@ -12276,7 +12276,7 @@
               "style": "Traditional",
               "product_category": "Wood Fireplaces",
               "productTypeNonoperative": "Product",
-              "display_name": "Napoleon Oakdale EPI3 Wood Fireplace | EPI3"
+              "display_name": "Napoleon Oakdale EPI3 Traditional Wood Fireplace | EPI3"
             }
           ]
         }
@@ -12350,7 +12350,7 @@
               "style": "Linear",
               "product_category": "Gas Log Sets",
               "productTypeNonoperative": "Product",
-              "display_name": "Napoleon Fiberglow 18 Vented Gas Log Set | GL18"
+              "display_name": "Napoleon Fiberglow 18 Vented Linear Gas Log Set | GL18"
             },
             {
               "price": "$949",
@@ -12365,7 +12365,7 @@
               "style": "Linear",
               "product_category": "Gas Log Sets",
               "productTypeNonoperative": "Product",
-              "display_name": "Napoleon Fiberglow 24 Vented Gas Log Set | GL24"
+              "display_name": "Napoleon Fiberglow 24 Vented Linear Gas Log Set | GL24"
             },
             {
               "price": "$1,099",
@@ -12380,7 +12380,7 @@
               "style": "Linear",
               "product_category": "Gas Log Sets",
               "productTypeNonoperative": "Product",
-              "display_name": "Napoleon Fiberglow 30 Vented Gas Log Set | GL30"
+              "display_name": "Napoleon Fiberglow 30 Vented Linear Gas Log Set | GL30"
             }
           ]
         }
@@ -12410,7 +12410,7 @@
               "style": "Linear",
               "product_category": "Gas Log Sets",
               "productTypeNonoperative": "Product",
-              "display_name": "Napoleon Fiberglow 18 Vent-Free Gas Log Set | GVFL18"
+              "display_name": "Napoleon Fiberglow 18 Vent-Free Linear Gas Log Set | GVFL18"
             },
             {
               "price": "$1,049",
@@ -12425,7 +12425,7 @@
               "style": "Linear",
               "product_category": "Gas Log Sets",
               "productTypeNonoperative": "Product",
-              "display_name": "Napoleon Fiberglow 24 Vent-Free Gas Log Set | GVFL24"
+              "display_name": "Napoleon Fiberglow 24 Vent-Free Linear Gas Log Set | GVFL24"
             },
             {
               "price": "$1,199",
@@ -12440,7 +12440,7 @@
               "style": "Linear",
               "product_category": "Gas Log Sets",
               "productTypeNonoperative": "Product",
-              "display_name": "Napoleon Fiberglow 30 Vent-Free Gas Log Set | GVFL30"
+              "display_name": "Napoleon Fiberglow 30 Vent-Free Linear Gas Log Set | GVFL30"
             }
           ]
         },
@@ -12460,7 +12460,7 @@
               "style": "Linear",
               "product_category": "Gas Log Sets",
               "productTypeNonoperative": "Product",
-              "display_name": "Napoleon Fiberglow 18 Vent-Free Gas Log Set | GVFL18"
+              "display_name": "Napoleon Fiberglow 18 Vent-Free Linear Gas Log Set | GVFL18"
             },
             {
               "price": "$1,049",
@@ -12475,7 +12475,7 @@
               "style": "Linear",
               "product_category": "Gas Log Sets",
               "productTypeNonoperative": "Product",
-              "display_name": "Napoleon Fiberglow 24 Vent-Free Gas Log Set | GVFL24"
+              "display_name": "Napoleon Fiberglow 24 Vent-Free Linear Gas Log Set | GVFL24"
             },
             {
               "price": "$1,199",
@@ -12490,7 +12490,7 @@
               "style": "Linear",
               "product_category": "Gas Log Sets",
               "productTypeNonoperative": "Product",
-              "display_name": "Napoleon Fiberglow 30 Vent-Free Gas Log Set | GVFL30"
+              "display_name": "Napoleon Fiberglow 30 Vent-Free Linear Gas Log Set | GVFL30"
             }
           ]
         }
@@ -12519,7 +12519,7 @@
               "style": "Traditional",
               "product_category": "Gas Stoves",
               "productTypeNonoperative": "Option Product",
-              "display_name": "Napoleon Havelock 50 Direct-Vent Gas Stove | GDS50"
+              "display_name": "Napoleon Havelock 50 Direct-Vent Traditional Gas Stove | GDS50"
             }
           ]
         },
@@ -12539,7 +12539,7 @@
               "style": "Traditional",
               "product_category": "Gas Stoves",
               "productTypeNonoperative": "Option Product",
-              "display_name": "Napoleon Havelock 50 Direct-Vent Gas Stove | GDS50"
+              "display_name": "Napoleon Havelock 50 Direct-Vent Traditional Gas Stove | GDS50"
             }
           ]
         }
@@ -12656,7 +12656,7 @@
               "style": "Traditional",
               "product_category": "Gas Stoves",
               "productTypeNonoperative": "Option Product",
-              "display_name": "Napoleon Haliburton 28 Direct-Vent Gas Stove | GDS28"
+              "display_name": "Napoleon Haliburton 28 Direct-Vent Traditional Gas Stove | GDS28"
             }
           ]
         },
@@ -12676,7 +12676,7 @@
               "style": "Traditional",
               "product_category": "Gas Stoves",
               "productTypeNonoperative": "Option Product",
-              "display_name": "Napoleon Haliburton 28 Vented Gas Stove | GDS28"
+              "display_name": "Napoleon Haliburton 28 Vented Traditional Gas Stove | GDS28"
             }
           ]
         }
@@ -12807,7 +12807,7 @@
               "style": "Traditional",
               "product_category": "Gas Stoves",
               "productTypeNonoperative": "Option Product",
-              "display_name": "Napoleon Knightsbridge 60 Direct-Vent Gas Stove | GDS60"
+              "display_name": "Napoleon Knightsbridge 60 Direct-Vent Traditional Gas Stove | GDS60"
             }
           ]
         },
@@ -12827,7 +12827,7 @@
               "style": "Traditional",
               "product_category": "Gas Stoves",
               "productTypeNonoperative": "Option Product",
-              "display_name": "Napoleon Knightsbridge 60 Direct-Vent Gas Stove | GDS60"
+              "display_name": "Napoleon Knightsbridge 60 Direct-Vent Traditional Gas Stove | GDS60"
             }
           ]
         }
@@ -12930,7 +12930,7 @@
               "style": "Traditional",
               "product_category": "Gas Stoves",
               "productTypeNonoperative": "Option Product",
-              "display_name": "Napoleon Castlemore 26 Direct-Vent Gas Stove | GDS26"
+              "display_name": "Napoleon Castlemore 26 Direct-Vent Traditional Gas Stove | GDS26"
             }
           ]
         },
@@ -12950,7 +12950,7 @@
               "style": "Traditional",
               "product_category": "Gas Stoves",
               "productTypeNonoperative": "Option Product",
-              "display_name": "Napoleon Castlemore 26 Direct-Vent Gas Stove | GDS26"
+              "display_name": "Napoleon Castlemore 26 Direct-Vent Traditional Gas Stove | GDS26"
             }
           ]
         },
@@ -12970,7 +12970,7 @@
               "style": "Traditional",
               "product_category": "Gas Stoves",
               "productTypeNonoperative": "Option Product",
-              "display_name": "Napoleon Castlemore 26 Direct-Vent Gas Stove | GDS26"
+              "display_name": "Napoleon Castlemore 26 Direct-Vent Traditional Gas Stove | GDS26"
             }
           ]
         }
@@ -13045,7 +13045,7 @@
               "style": "Traditional",
               "product_category": "Gas Stoves",
               "productTypeNonoperative": "Option Product",
-              "display_name": "Napoleon Bayfield 25 Direct-Vent Gas Stove | GDS25"
+              "display_name": "Napoleon Bayfield 25 Direct-Vent Traditional Gas Stove | GDS25"
             }
           ]
         },
@@ -13065,7 +13065,7 @@
               "style": "Traditional",
               "product_category": "Gas Stoves",
               "productTypeNonoperative": "Option Product",
-              "display_name": "Napoleon Bayfield 25 Direct-Vent Gas Stove | GDS25"
+              "display_name": "Napoleon Bayfield 25 Direct-Vent Traditional Gas Stove | GDS25"
             }
           ]
         },
@@ -13085,7 +13085,7 @@
               "style": "Traditional",
               "product_category": "Gas Stoves",
               "productTypeNonoperative": "Option Product",
-              "display_name": "Napoleon Bayfield 25 Direct-Vent Gas Stove | GDS25"
+              "display_name": "Napoleon Bayfield 25 Direct-Vent Traditional Gas Stove | GDS25"
             }
           ]
         }
@@ -13159,7 +13159,7 @@
               "style": "Traditional",
               "product_category": "Gas Stoves",
               "productTypeNonoperative": "Option Product",
-              "display_name": "Napoleon Arlington 20 Direct-Vent Gas Stove | GDS20"
+              "display_name": "Napoleon Arlington 20 Direct-Vent Traditional Gas Stove | GDS20"
             }
           ]
         },
@@ -13179,7 +13179,7 @@
               "style": "Traditional",
               "product_category": "Gas Stoves",
               "productTypeNonoperative": "Option Product",
-              "display_name": "Napoleon Arlington 20 Direct-Vent Gas Stove | GDS20"
+              "display_name": "Napoleon Arlington 20 Direct-Vent Traditional Gas Stove | GDS20"
             }
           ]
         },
@@ -13199,7 +13199,7 @@
               "style": "Traditional",
               "product_category": "Gas Stoves",
               "productTypeNonoperative": "Option Product",
-              "display_name": "Napoleon Arlington 20 Direct-Vent Gas Stove | GDS20"
+              "display_name": "Napoleon Arlington 20 Direct-Vent Traditional Gas Stove | GDS20"
             }
           ]
         },
@@ -13219,7 +13219,7 @@
               "style": "Traditional",
               "product_category": "Gas Stoves",
               "productTypeNonoperative": "Option Product",
-              "display_name": "Napoleon Arlington 20 Direct-Vent Gas Stove | GDS20"
+              "display_name": "Napoleon Arlington 20 Direct-Vent Traditional Gas Stove | GDS20"
             }
           ]
         }
@@ -13290,7 +13290,7 @@
               "style": "Traditional",
               "product_category": "Wood Stoves",
               "productTypeNonoperative": "Product",
-              "display_name": "Napoleon S 20 Wood Stove | S20"
+              "display_name": "Napoleon S 20 Traditional Wood Stove | S20"
             }
           ]
         }
@@ -13401,7 +13401,7 @@
               "style": "Traditional",
               "product_category": "Wood Stoves",
               "productTypeNonoperative": "Product",
-              "display_name": "Napoleon S 25 Wood Stove | S25"
+              "display_name": "Napoleon S 25 Traditional Wood Stove | S25"
             }
           ]
         }
@@ -13501,7 +13501,7 @@
               "style": "Traditional",
               "product_category": "Gas Fireplaces",
               "productTypeNonoperative": "Option Product",
-              "display_name": "Napoleon Riverside 42 Vented Gas Fireplace | GSS42"
+              "display_name": "Napoleon Riverside 42 Vented Traditional Gas Fireplace | GSS42"
             }
           ]
         }
@@ -13587,7 +13587,7 @@
               "style": "Linear",
               "product_category": "Gas Fireplaces",
               "productTypeNonoperative": "Option Product",
-              "display_name": "Napoleon Patioflame 48 Vented Gas Fireplace | GPFL48"
+              "display_name": "Napoleon Patioflame 48 Vented Linear Gas Fireplace | GPFL48"
             }
           ]
         },
@@ -13607,7 +13607,7 @@
               "style": "Linear",
               "product_category": "Gas Fireplaces",
               "productTypeNonoperative": "Option Product",
-              "display_name": "Napoleon Patioflame 48 Vented Gas Fireplace | GPFL48"
+              "display_name": "Napoleon Patioflame 48 Vented Linear Gas Fireplace | GPFL48"
             }
           ]
         },
@@ -13627,7 +13627,7 @@
               "style": "Traditional",
               "product_category": "Gas Fireplaces",
               "productTypeNonoperative": "Option Product",
-              "display_name": "Napoleon Patioflame 60 Vented Gas Fireplace | GPFS60"
+              "display_name": "Napoleon Patioflame 60 Vented Traditional Gas Fireplace | GPFS60"
             }
           ]
         },
@@ -13647,7 +13647,7 @@
               "style": "Linear",
               "product_category": "Gas Fireplaces",
               "productTypeNonoperative": "Option Product",
-              "display_name": "Napoleon Patioflame 60 Vented Gas Fireplace | GPFR60"
+              "display_name": "Napoleon Patioflame 60 Vented Linear Gas Fireplace | GPFR60"
             }
           ]
         }
@@ -13673,7 +13673,7 @@
               "style": "Traditional",
               "product_category": "Electric Fireplaces",
               "productTypeNonoperative": "Product",
-              "display_name": "Napoleon Clearion Elite 50 Electric Fireplace | NEFBD50HE"
+              "display_name": "Napoleon Clearion Elite 50 Traditional Electric Fireplace | NEFBD50HE"
             },
             {
               "price": "$2,549",
@@ -13685,7 +13685,7 @@
               "style": "Traditional",
               "product_category": "Electric Fireplaces",
               "productTypeNonoperative": "Product",
-              "display_name": "Napoleon Clearion Elite 60 Electric Fireplace | NEFBD60HE"
+              "display_name": "Napoleon Clearion Elite 60 Traditional Electric Fireplace | NEFBD60HE"
             }
           ]
         }
@@ -13796,7 +13796,7 @@
               "style": "Traditional",
               "product_category": "Electric Fireplaces",
               "productTypeNonoperative": "Product",
-              "display_name": "Napoleon Trivista 50 Electric Fireplace | NEFB50H-3SV"
+              "display_name": "Napoleon Trivista 50 Traditional Electric Fireplace | NEFB50H-3SV"
             },
             {
               "price": "$2,049",
@@ -13808,7 +13808,7 @@
               "style": "Traditional",
               "product_category": "Electric Fireplaces",
               "productTypeNonoperative": "Product",
-              "display_name": "Napoleon Trivista 60 Electric Fireplace | NEFB60H-3SV"
+              "display_name": "Napoleon Trivista 60 Traditional Electric Fireplace | NEFB60H-3SV"
             }
           ]
         },
@@ -13837,7 +13837,7 @@
               "style": "Traditional",
               "product_category": "Electric Fireplaces",
               "productTypeNonoperative": "Product",
-              "display_name": "Napoleon Element 36 Electric Fireplace | NEFB36H-BS"
+              "display_name": "Napoleon Element 36 Traditional Electric Fireplace | NEFB36H-BS"
             }
           ]
         },
@@ -13871,7 +13871,7 @@
               "style": "Traditional",
               "product_category": "Electric Fireplaces",
               "productTypeNonoperative": "Product",
-              "display_name": "Napoleon Cineview 26 Electric Fireplace | NEFB26H"
+              "display_name": "Napoleon Cineview 26 Traditional Electric Fireplace | NEFB26H"
             },
             {
               "price": "$799",
@@ -13883,7 +13883,7 @@
               "style": "Traditional",
               "product_category": "Electric Fireplaces",
               "productTypeNonoperative": "Product",
-              "display_name": "Napoleon Cineview 30 Electric Fireplace | NEFB30H"
+              "display_name": "Napoleon Cineview 30 Traditional Electric Fireplace | NEFB30H"
             }
           ]
         }
@@ -13936,7 +13936,7 @@
               "style": "Traditional",
               "product_category": "Electric Fireplaces",
               "productTypeNonoperative": "Product",
-              "display_name": "Napoleon Ascent 33 Electric Fireplace | NEFB33H"
+              "display_name": "Napoleon Ascent 33 Traditional Electric Fireplace | NEFB33H"
             },
             {
               "price": "$1,649",
@@ -13948,7 +13948,7 @@
               "style": "Traditional",
               "product_category": "Electric Fireplaces",
               "productTypeNonoperative": "Product",
-              "display_name": "Napoleon Ascent 40 Electric Fireplace | NEFB40H"
+              "display_name": "Napoleon Ascent 40 Traditional Electric Fireplace | NEFB40H"
             }
           ]
         },
@@ -13979,7 +13979,7 @@
               "style": "Traditional",
               "product_category": "Electric Fireplaces",
               "productTypeNonoperative": "Product",
-              "display_name": "Napoleon Stylus 32 Electric Fireplace | NEFP32"
+              "display_name": "Napoleon Stylus 32 Traditional Electric Fireplace | NEFP32"
             }
           ]
         },
@@ -13996,7 +13996,7 @@
               "style": "Traditional",
               "product_category": "Electric Fireplaces",
               "productTypeNonoperative": "Product",
-              "display_name": "Napoleon Stylus 32 Electric Fireplace | NEFP32"
+              "display_name": "Napoleon Stylus 32 Traditional Electric Fireplace | NEFP32"
             }
           ]
         },
@@ -14031,7 +14031,7 @@
               "style": "Linear",
               "product_category": "Electric Fireplaces",
               "productTypeNonoperative": "Product",
-              "display_name": "Napoleon Alluravision Deep Depth 42 Electric Fireplace | NEFL42"
+              "display_name": "Napoleon Alluravision Deep Depth 42 Linear Electric Fireplace | NEFL42"
             }
           ]
         },
@@ -14048,7 +14048,7 @@
               "style": "Linear",
               "product_category": "Electric Fireplaces",
               "productTypeNonoperative": "Product",
-              "display_name": "Napoleon Alluravision Deep Depth 50 Electric Fireplace | NEFL50"
+              "display_name": "Napoleon Alluravision Deep Depth 50 Linear Electric Fireplace | NEFL50"
             }
           ]
         },
@@ -14065,7 +14065,7 @@
               "style": "Linear",
               "product_category": "Electric Fireplaces",
               "productTypeNonoperative": "Product",
-              "display_name": "Napoleon Alluravision Deep Depth 60 Electric Fireplace | NEFL60"
+              "display_name": "Napoleon Alluravision Deep Depth 60 Linear Electric Fireplace | NEFL60"
             }
           ]
         },
@@ -14082,7 +14082,7 @@
               "style": "Linear",
               "product_category": "Electric Fireplaces",
               "productTypeNonoperative": "Product",
-              "display_name": "Napoleon Alluravision Deep Depth 74 Electric Fireplace | NEFL74"
+              "display_name": "Napoleon Alluravision Deep Depth 74 Linear Electric Fireplace | NEFL74"
             }
           ]
         },
@@ -14099,7 +14099,7 @@
               "style": "Linear",
               "product_category": "Electric Fireplaces",
               "productTypeNonoperative": "Product",
-              "display_name": "Napoleon Alluravision Deep Depth 100 Electric Fireplace | NEFL100"
+              "display_name": "Napoleon Alluravision Deep Depth 100 Linear Electric Fireplace | NEFL100"
             }
           ]
         },
@@ -14126,7 +14126,7 @@
               "style": "Linear",
               "product_category": "Electric Fireplaces",
               "productTypeNonoperative": "Product",
-              "display_name": "Napoleon Alluravision Slimline 42 Electric Fireplace | NEFL42"
+              "display_name": "Napoleon Alluravision Slimline 42 Linear Electric Fireplace | NEFL42"
             }
           ]
         },
@@ -14143,7 +14143,7 @@
               "style": "Linear",
               "product_category": "Electric Fireplaces",
               "productTypeNonoperative": "Product",
-              "display_name": "Napoleon Alluravision Slimline 50 Electric Fireplace | NEFL50"
+              "display_name": "Napoleon Alluravision Slimline 50 Linear Electric Fireplace | NEFL50"
             }
           ]
         },
@@ -14160,7 +14160,7 @@
               "style": "Linear",
               "product_category": "Electric Fireplaces",
               "productTypeNonoperative": "Product",
-              "display_name": "Napoleon Alluravision Slimline 60 Electric Fireplace | NEFL60"
+              "display_name": "Napoleon Alluravision Slimline 60 Linear Electric Fireplace | NEFL60"
             }
           ]
         },
@@ -14177,7 +14177,7 @@
               "style": "Linear",
               "product_category": "Electric Fireplaces",
               "productTypeNonoperative": "Product",
-              "display_name": "Napoleon Alluravision Slimline 74 Electric Fireplace | NEFL74"
+              "display_name": "Napoleon Alluravision Slimline 74 Linear Electric Fireplace | NEFL74"
             }
           ]
         }
@@ -14216,7 +14216,7 @@
               "style": "Linear",
               "product_category": "Electric Fireplaces",
               "productTypeNonoperative": "Product",
-              "display_name": "Napoleon Entice 36 Electric Fireplace | NEFL36"
+              "display_name": "Napoleon Entice 36 Linear Electric Fireplace | NEFL36"
             }
           ]
         },
@@ -14233,7 +14233,7 @@
               "style": "Linear",
               "product_category": "Electric Fireplaces",
               "productTypeNonoperative": "Product",
-              "display_name": "Napoleon Entice 42 Electric Fireplace | NEFL42"
+              "display_name": "Napoleon Entice 42 Linear Electric Fireplace | NEFL42"
             }
           ]
         },
@@ -14250,7 +14250,7 @@
               "style": "Linear",
               "product_category": "Electric Fireplaces",
               "productTypeNonoperative": "Product",
-              "display_name": "Napoleon Entice 50 Electric Fireplace | NEFL50"
+              "display_name": "Napoleon Entice 50 Linear Electric Fireplace | NEFL50"
             }
           ]
         },
@@ -14267,7 +14267,7 @@
               "style": "Linear",
               "product_category": "Electric Fireplaces",
               "productTypeNonoperative": "Product",
-              "display_name": "Napoleon Entice 60 Electric Fireplace | NEFL60"
+              "display_name": "Napoleon Entice 60 Linear Electric Fireplace | NEFL60"
             }
           ]
         },
@@ -14284,7 +14284,7 @@
               "style": "Linear",
               "product_category": "Electric Fireplaces",
               "productTypeNonoperative": "Product",
-              "display_name": "Napoleon Entice 72 Electric Fireplace | NEFL72"
+              "display_name": "Napoleon Entice 72 Linear Electric Fireplace | NEFL72"
             }
           ]
         }
@@ -14433,7 +14433,7 @@
               "style": "Vertical",
               "product_category": "Electric Fireplaces",
               "productTypeNonoperative": "Product",
-              "display_name": "Napoleon Allure Vertical 32 Electric Fireplace | NEFVC32"
+              "display_name": "Napoleon Allure Vertical 32 Vertical Electric Fireplace | NEFVC32"
             }
           ]
         },
@@ -14450,7 +14450,7 @@
               "style": "Vertical",
               "product_category": "Electric Fireplaces",
               "productTypeNonoperative": "Product",
-              "display_name": "Napoleon Allure Vertical 38 Electric Fireplace | NEFVC38"
+              "display_name": "Napoleon Allure Vertical 38 Vertical Electric Fireplace | NEFVC38"
             }
           ]
         },
@@ -14483,7 +14483,7 @@
               "style": "Traditional",
               "product_category": "Electric Fireplaces",
               "productTypeNonoperative": "Product",
-              "display_name": "Napoleon The Taylor 33 Electric Fireplace | NEFP33-0214W"
+              "display_name": "Napoleon The Taylor 33 Traditional Electric Fireplace | NEFP33-0214W"
             }
           ]
         },
@@ -14518,7 +14518,7 @@
               "style": "Traditional",
               "product_category": "Electric Log Sets",
               "productTypeNonoperative": "Product",
-              "display_name": "Napoleon Woodland 18 Electric Log Set | NEFI18"
+              "display_name": "Napoleon Woodland 18 Traditional Electric Log Set | NEFI18"
             }
           ]
         },
@@ -14535,7 +14535,7 @@
               "style": "Traditional",
               "product_category": "Electric Log Sets",
               "productTypeNonoperative": "Product",
-              "display_name": "Napoleon Woodland 24 Electric Log Set | NEFI24"
+              "display_name": "Napoleon Woodland 24 Traditional Electric Log Set | NEFI24"
             }
           ]
         },
@@ -14552,7 +14552,7 @@
               "style": "Traditional",
               "product_category": "Electric Log Sets",
               "productTypeNonoperative": "Product",
-              "display_name": "Napoleon Woodland 27 Electric Log Set | NEFI27"
+              "display_name": "Napoleon Woodland 27 Traditional Electric Log Set | NEFI27"
             }
           ]
         },
@@ -14579,7 +14579,7 @@
               "style": "Traditional",
               "product_category": "Wood Stoves",
               "productTypeNonoperative": "Product",
-              "display_name": "Napoleon Economizer 2100 Wood Stove | 2100"
+              "display_name": "Napoleon Economizer 2100 Traditional Wood Stove | 2100"
             }
           ]
         },
@@ -14596,7 +14596,7 @@
               "style": "Traditional",
               "product_category": "Wood Stoves",
               "productTypeNonoperative": "Product",
-              "display_name": "Napoleon Economizer 2200 Wood Stove | 2200"
+              "display_name": "Napoleon Economizer 2200 Traditional Wood Stove | 2200"
             }
           ]
         }
@@ -14705,7 +14705,7 @@
               "style": "Traditional",
               "product_category": "Wood Fireplaces",
               "productTypeNonoperative": "Product",
-              "display_name": "Napoleon Economizer 22 Wood Fireplace | EPI22"
+              "display_name": "Napoleon Economizer 22 Traditional Wood Fireplace | EPI22"
             }
           ]
         }

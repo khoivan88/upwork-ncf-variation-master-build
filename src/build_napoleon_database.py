@@ -377,13 +377,9 @@ def add_display_name(database: Dict) -> Dict:
                     product_category = unit.get("product_category", "").rstrip('s')
 
                     if unit['fuel_type'] == 'Gas':
-                        # unit['display_name'] = f'Napoleon {series_name_number} {unit.get("vent_type", "")} {unit.get("style", "")} {product_category} | {unit.get("base_sku", "")}'
-                        # ! remove 'style' for now
-                        unit['display_name'] = f'Napoleon {series_name_number} {unit.get("vent_type", "")} {product_category} | {unit.get("base_sku", "")}'
+                        unit['display_name'] = f'Napoleon {series_name_number} {unit.get("vent_type", "")} {unit.get("style", "")} {product_category} | {unit.get("base_sku", "")}'
                     else:
-                        # unit['display_name'] = f'Napoleon {series_name_number} {unit.get("style", "")} {product_category} | {unit.get("base_sku", "")}'
-                        # ! remove 'style' for now
-                        unit['display_name'] = f'Napoleon {series_name_number} {product_category} | {unit.get("base_sku", "")}'
+                        unit['display_name'] = f'Napoleon {series_name_number} {unit.get("style", "")} {product_category} | {unit.get("base_sku", "")}'
 
         # For series's variants
         if series_info.get('variations'):
