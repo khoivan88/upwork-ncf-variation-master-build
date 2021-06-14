@@ -15,12 +15,12 @@
             {
               "price": "$5,999",
               "manufacturerSku": "LVX38NX-1",
-              "series_name": "Luxuria",
               "base_sku": "LVX38",
               "fuel_type": "Gas",
               "gas_fuel_type": "Natural Gas",
               "ignition_type": "Electronic Ignition",
               "series_number": "38",
+              "series_name": "Luxuria",
               "vent_type": "Direct-Vent",
               "style": "Linear",
               "product_category": "Gas Fireplaces",
@@ -30,12 +30,12 @@
             {
               "price": "$7,399",
               "manufacturerSku": "LVX50NX-1",
-              "series_name": "Luxuria",
               "base_sku": "LVX50",
               "fuel_type": "Gas",
               "gas_fuel_type": "Natural Gas",
               "ignition_type": "Electronic Ignition",
               "series_number": "50",
+              "series_name": "Luxuria",
               "vent_type": "Direct-Vent",
               "style": "Linear",
               "product_category": "Gas Fireplaces",
@@ -45,12 +45,12 @@
             {
               "price": "$10,599",
               "manufacturerSku": "LVX62NX-1",
-              "series_name": "Luxuria",
               "base_sku": "LVX62",
               "fuel_type": "Gas",
               "gas_fuel_type": "Natural Gas",
               "ignition_type": "Electronic Ignition",
               "series_number": "62",
+              "series_name": "Luxuria",
               "vent_type": "Direct-Vent",
               "style": "Linear",
               "product_category": "Gas Fireplaces",
@@ -60,12 +60,12 @@
             {
               "price": "$12,199",
               "manufacturerSku": "LVX74NX-1",
-              "series_name": "Luxuria",
               "base_sku": "LVX74",
               "fuel_type": "Gas",
               "gas_fuel_type": "Natural Gas",
               "ignition_type": "Electronic Ignition",
               "series_number": "74",
+              "series_name": "Luxuria",
               "vent_type": "Direct-Vent",
               "style": "Linear",
               "product_category": "Gas Fireplaces",
@@ -80,12 +80,12 @@
             {
               "price": "$7,199",
               "manufacturerSku": "LVX38N2X-1",
-              "series_name": "Luxuria",
               "base_sku": "LVX38",
               "fuel_type": "Gas",
               "gas_fuel_type": "Natural Gas",
               "ignition_type": "Electronic Ignition",
               "series_number": "38",
+              "series_name": "Luxuria",
               "vent_type": "Direct-Vent",
               "style": "See-Thru",
               "product_category": "Gas Fireplaces",
@@ -95,12 +95,12 @@
             {
               "price": "$8,499",
               "manufacturerSku": "LVX50N2X-1",
-              "series_name": "Luxuria",
               "base_sku": "LVX50",
               "fuel_type": "Gas",
               "gas_fuel_type": "Natural Gas",
               "ignition_type": "Electronic Ignition",
               "series_number": "50",
+              "series_name": "Luxuria",
               "vent_type": "Direct-Vent",
               "style": "See-Thru",
               "product_category": "Gas Fireplaces",
@@ -110,12 +110,12 @@
             {
               "price": "$11,999",
               "manufacturerSku": "LVX62N2X-1",
-              "series_name": "Luxuria",
               "base_sku": "LVX62",
               "fuel_type": "Gas",
               "gas_fuel_type": "Natural Gas",
               "ignition_type": "Electronic Ignition",
               "series_number": "62",
+              "series_name": "Luxuria",
               "vent_type": "Direct-Vent",
               "style": "See-Thru",
               "product_category": "Gas Fireplaces",
@@ -125,12 +125,12 @@
             {
               "price": "$13,799",
               "manufacturerSku": "LVX74N2X-1",
-              "series_name": "Luxuria",
               "base_sku": "LVX74",
               "fuel_type": "Gas",
               "gas_fuel_type": "Natural Gas",
               "ignition_type": "Electronic Ignition",
               "series_number": "74",
+              "series_name": "Luxuria",
               "vent_type": "Direct-Vent",
               "style": "See-Thru",
               "product_category": "Gas Fireplaces",
@@ -148,12 +148,12 @@
             {
               "price": "$12,199",
               "manufacturerSku": "LVX74PX",
-              "series_name": "Luxuria",
               "base_sku": "LVX74",
               "fuel_type": "Gas",
               "gas_fuel_type": "Propane",
               "ignition_type": "Electronic Ignition",
               "series_number": "74",
+              "series_name": "Luxuria",
               "vent_type": "Direct-Vent",
               "style": "Linear",
               "product_category": "Gas Fireplaces",
@@ -171,12 +171,12 @@
             {
               "price": "$13,799",
               "manufacturerSku": "LVX74P2X",
-              "series_name": "Luxuria",
               "base_sku": "LVX74",
               "fuel_type": "Gas",
               "gas_fuel_type": "Propane",
               "ignition_type": "Electronic Ignition",
               "series_number": "74",
+              "series_name": "Luxuria",
               "vent_type": "Direct-Vent",
               "style": "See-Thru",
               "product_category": "Gas Fireplaces",
@@ -777,12 +777,12 @@
             {
               "price": "$3,799",
               "manufacturerSku": "LV38N-1",
-              "series_name": "Vector",
               "base_sku": "LV38",
               "fuel_type": "Gas",
               "gas_fuel_type": "Natural Gas",
               "ignition_type": "Electronic Ignition",
               "series_number": "38",
+              "series_name": "Vector",
               "vent_type": "Direct-Vent",
               "style": "Linear",
               "product_category": "Gas Fireplaces",
@@ -792,12 +792,12 @@
             {
               "price": "$4,099",
               "manufacturerSku": "LV50N-2",
-              "series_name": "Vector",
               "base_sku": "LV50",
               "fuel_type": "Gas",
               "gas_fuel_type": "Natural Gas",
               "ignition_type": "Electronic Ignition",
               "series_number": "50",
+              "series_name": "Vector",
               "vent_type": "Direct-Vent",
               "style": "Linear",
               "product_category": "Gas Fireplaces",
@@ -807,12 +807,12 @@
             {
               "price": "$6,699",
               "manufacturerSku": "LV62N",
-              "series_name": "Vector",
               "base_sku": "LV62",
               "fuel_type": "Gas",
               "gas_fuel_type": "Natural Gas",
               "ignition_type": "Electronic Ignition",
               "series_number": "62",
+              "series_name": "Vector",
               "vent_type": "Direct-Vent",
               "style": "Linear",
               "product_category": "Gas Fireplaces",
@@ -822,12 +822,12 @@
             {
               "price": "$8,249",
               "manufacturerSku": "LV74N",
-              "series_name": "Vector",
               "base_sku": "LV74",
               "fuel_type": "Gas",
               "gas_fuel_type": "Natural Gas",
               "ignition_type": "Electronic Ignition",
               "series_number": "74",
+              "series_name": "Vector",
               "vent_type": "Direct-Vent",
               "style": "Linear",
               "product_category": "Gas Fireplaces",
@@ -842,12 +842,12 @@
             {
               "price": "$4,649",
               "manufacturerSku": "LV38N2-1",
-              "series_name": "Vector",
               "base_sku": "LV38",
               "fuel_type": "Gas",
               "gas_fuel_type": "Natural Gas",
               "ignition_type": "Electronic Ignition",
               "series_number": "38",
+              "series_name": "Vector",
               "vent_type": "Direct-Vent",
               "style": "See-Thru",
               "product_category": "Gas Fireplaces",
@@ -857,12 +857,12 @@
             {
               "price": "$5,349",
               "manufacturerSku": "LV50N2-2",
-              "series_name": "Vector",
               "base_sku": "LV50",
               "fuel_type": "Gas",
               "gas_fuel_type": "Natural Gas",
               "ignition_type": "Electronic Ignition",
               "series_number": "50",
+              "series_name": "Vector",
               "vent_type": "Direct-Vent",
               "style": "See-Thru",
               "product_category": "Gas Fireplaces",
@@ -872,12 +872,12 @@
             {
               "price": "$7,949",
               "manufacturerSku": "LV62N2",
-              "series_name": "Vector",
               "base_sku": "LV62",
               "fuel_type": "Gas",
               "gas_fuel_type": "Natural Gas",
               "ignition_type": "Electronic Ignition",
               "series_number": "62",
+              "series_name": "Vector",
               "vent_type": "Direct-Vent",
               "style": "See-Thru",
               "product_category": "Gas Fireplaces",
@@ -887,12 +887,12 @@
             {
               "price": "$10,299",
               "manufacturerSku": "LV74N2",
-              "series_name": "Vector",
               "base_sku": "LV74",
               "fuel_type": "Gas",
               "gas_fuel_type": "Natural Gas",
               "ignition_type": "Electronic Ignition",
               "series_number": "74",
+              "series_name": "Vector",
               "vent_type": "Direct-Vent",
               "style": "See-Thru",
               "product_category": "Gas Fireplaces",
@@ -910,12 +910,12 @@
             {
               "price": "$8,249",
               "manufacturerSku": "LV74P",
-              "series_name": "Vector",
               "base_sku": "LV74",
               "fuel_type": "Gas",
               "gas_fuel_type": "Propane",
               "ignition_type": "Electronic Ignition",
               "series_number": "74",
+              "series_name": "Vector",
               "vent_type": "Direct-Vent",
               "style": "Linear",
               "product_category": "Gas Fireplaces",
@@ -933,12 +933,12 @@
             {
               "price": "$10,299",
               "manufacturerSku": "LV74P2",
-              "series_name": "Vector",
               "base_sku": "LV74",
               "fuel_type": "Gas",
               "gas_fuel_type": "Propane",
               "ignition_type": "Electronic Ignition",
               "series_number": "74",
+              "series_name": "Vector",
               "vent_type": "Direct-Vent",
               "style": "See-Thru",
               "product_category": "Gas Fireplaces",
@@ -1722,12 +1722,12 @@
             {
               "price": "$3399",
               "manufacturerSku": "L38N",
-              "series_name": "Acies",
               "base_sku": "L38",
               "fuel_type": "Gas",
               "gas_fuel_type": "Natural Gas",
               "ignition_type": "Electronic Ignition",
               "series_number": "38",
+              "series_name": "Acies",
               "vent_type": "Direct-Vent",
               "style": "Linear",
               "product_category": "Gas Fireplaces",
@@ -1737,12 +1737,12 @@
             {
               "price": "$3599",
               "manufacturerSku": "L50N",
-              "series_name": "Acies",
               "base_sku": "L50",
               "fuel_type": "Gas",
               "gas_fuel_type": "Natural Gas",
               "ignition_type": "Electronic Ignition",
               "series_number": "50",
+              "series_name": "Acies",
               "vent_type": "Direct-Vent",
               "style": "Linear",
               "product_category": "Gas Fireplaces",
@@ -1757,12 +1757,12 @@
             {
               "price": "$3799",
               "manufacturerSku": "L38N2",
-              "series_name": "Acies",
               "base_sku": "L38",
               "fuel_type": "Gas",
               "gas_fuel_type": "Natural Gas",
               "ignition_type": "Electronic Ignition",
               "series_number": "38",
+              "series_name": "Acies",
               "vent_type": "Direct-Vent",
               "style": "See-Thru",
               "product_category": "Gas Fireplaces",
@@ -1772,12 +1772,12 @@
             {
               "price": "$4449",
               "manufacturerSku": "L50N2",
-              "series_name": "Acies",
               "base_sku": "L50",
               "fuel_type": "Gas",
               "gas_fuel_type": "Natural Gas",
               "ignition_type": "Electronic Ignition",
               "series_number": "50",
+              "series_name": "Acies",
               "vent_type": "Direct-Vent",
               "style": "See-Thru",
               "product_category": "Gas Fireplaces",
@@ -2163,12 +2163,12 @@
             {
               "price": "$2,299",
               "manufacturerSku": "BL36NTE-1",
-              "series_name": "Ascent Linear",
               "base_sku": "BL36",
               "fuel_type": "Gas",
               "gas_fuel_type": "Natural Gas",
               "ignition_type": "Electronic Ignition",
               "series_number": "36",
+              "series_name": "Ascent Linear",
               "vent_type": "Direct-Vent",
               "style": "Linear",
               "product_category": "Gas Fireplaces",
@@ -2178,12 +2178,12 @@
             {
               "price": "$3,099",
               "manufacturerSku": "BL46NTE",
-              "series_name": "Ascent Linear",
               "base_sku": "BL46",
               "fuel_type": "Gas",
               "gas_fuel_type": "Natural Gas",
               "ignition_type": "Electronic Ignition",
               "series_number": "46",
+              "series_name": "Ascent Linear",
               "vent_type": "Direct-Vent",
               "style": "Linear",
               "product_category": "Gas Fireplaces",
@@ -2374,12 +2374,12 @@
             {
               "price": "$3,699",
               "manufacturerSku": "EX36NTEL",
-              "series_name": "Elevation X",
               "base_sku": "EX36",
               "fuel_type": "Gas",
               "gas_fuel_type": "Natural Gas",
               "ignition_type": "Electronic Ignition",
               "series_number": "36",
+              "series_name": "Elevation X",
               "vent_type": "Direct-Vent",
               "style": "Traditional",
               "product_category": "Gas Fireplaces",
@@ -2389,12 +2389,12 @@
             {
               "price": "$4,199",
               "manufacturerSku": "EX42NTEL",
-              "series_name": "Elevation X",
               "base_sku": "EX42",
               "fuel_type": "Gas",
               "gas_fuel_type": "Natural Gas",
               "ignition_type": "Electronic Ignition",
               "series_number": "42",
+              "series_name": "Elevation X",
               "vent_type": "Direct-Vent",
               "style": "Traditional",
               "product_category": "Gas Fireplaces",
@@ -2409,12 +2409,12 @@
             {
               "price": "$3,699",
               "manufacturerSku": "EX36PTEL",
-              "series_name": "Elevation X",
               "base_sku": "EX36",
               "fuel_type": "Gas",
               "gas_fuel_type": "Propane",
               "ignition_type": "Electronic Ignition",
               "series_number": "36",
+              "series_name": "Elevation X",
               "vent_type": "Direct-Vent",
               "style": "Traditional",
               "product_category": "Gas Fireplaces",
@@ -2424,12 +2424,12 @@
             {
               "price": "$4,199",
               "manufacturerSku": "EX42PTEL",
-              "series_name": "Elevation X",
               "base_sku": "EX42",
               "fuel_type": "Gas",
               "gas_fuel_type": "Propane",
               "ignition_type": "Electronic Ignition",
               "series_number": "42",
+              "series_name": "Elevation X",
               "vent_type": "Direct-Vent",
               "style": "Traditional",
               "product_category": "Gas Fireplaces",
@@ -3181,12 +3181,12 @@
             {
               "price": "$2,699",
               "manufacturerSku": "E36NTE",
-              "series_name": "Elevation",
               "base_sku": "E36",
               "fuel_type": "Gas",
               "gas_fuel_type": "Natural Gas",
               "ignition_type": "Electronic Ignition",
               "series_number": "36",
+              "series_name": "Elevation",
               "vent_type": "Direct-Vent",
               "style": "Traditional",
               "product_category": "Gas Fireplaces",
@@ -3196,12 +3196,12 @@
             {
               "price": "$2,999",
               "manufacturerSku": "E42NTE",
-              "series_name": "Elevation",
               "base_sku": "E42",
               "fuel_type": "Gas",
               "gas_fuel_type": "Natural Gas",
               "ignition_type": "Electronic Ignition",
               "series_number": "42",
+              "series_name": "Elevation",
               "vent_type": "Direct-Vent",
               "style": "Traditional",
               "product_category": "Gas Fireplaces",
@@ -3216,12 +3216,12 @@
             {
               "price": "$2,699",
               "manufacturerSku": "E36PTE",
-              "series_name": "Elevation",
               "base_sku": "E36",
               "fuel_type": "Gas",
               "gas_fuel_type": "Propane",
               "ignition_type": "Electronic Ignition",
               "series_number": "36",
+              "series_name": "Elevation",
               "vent_type": "Direct-Vent",
               "style": "Traditional",
               "product_category": "Gas Fireplaces",
@@ -3231,12 +3231,12 @@
             {
               "price": "$2,999",
               "manufacturerSku": "E42PTE",
-              "series_name": "Elevation",
               "base_sku": "E42",
               "fuel_type": "Gas",
               "gas_fuel_type": "Propane",
               "ignition_type": "Electronic Ignition",
               "series_number": "42",
+              "series_name": "Elevation",
               "vent_type": "Direct-Vent",
               "style": "Traditional",
               "product_category": "Gas Fireplaces",
@@ -3692,12 +3692,12 @@
             {
               "price": "$42",
               "manufacturerSku": "AX36NTE",
-              "series_name": "Altitude X",
               "base_sku": "AX36",
               "fuel_type": "Gas",
               "gas_fuel_type": "Natural Gas",
               "ignition_type": "Electronic Ignition",
               "series_number": "36",
+              "series_name": "Altitude X",
               "vent_type": "Direct-Vent",
               "style": "Traditional",
               "product_category": "Gas Fireplaces",
@@ -3707,12 +3707,12 @@
             {
               "price": "$3,099",
               "manufacturerSku": "AX42NTE",
-              "series_name": "Altitude X",
               "base_sku": "AX42",
               "fuel_type": "Gas",
               "gas_fuel_type": "Natural Gas",
               "ignition_type": "Electronic Ignition",
               "series_number": "42",
+              "series_name": "Altitude X",
               "vent_type": "Direct-Vent",
               "style": "Traditional",
               "product_category": "Gas Fireplaces",
@@ -3727,12 +3727,12 @@
             {
               "price": "$2,899",
               "manufacturerSku": "AX36PTE",
-              "series_name": "Altitude X",
               "base_sku": "AX36",
               "fuel_type": "Gas",
               "gas_fuel_type": "Propane",
               "ignition_type": "Electronic Ignition",
               "series_number": "36",
+              "series_name": "Altitude X",
               "vent_type": "Direct-Vent",
               "style": "Traditional",
               "product_category": "Gas Fireplaces",
@@ -3742,12 +3742,12 @@
             {
               "price": "$3,099",
               "manufacturerSku": "AX42PTE",
-              "series_name": "Altitude X",
               "base_sku": "AX42",
               "fuel_type": "Gas",
               "gas_fuel_type": "Propane",
               "ignition_type": "Electronic Ignition",
               "series_number": "42",
+              "series_name": "Altitude X",
               "vent_type": "Direct-Vent",
               "style": "Traditional",
               "product_category": "Gas Fireplaces",
@@ -4448,12 +4448,12 @@
             {
               "price": "$5,449",
               "manufacturerSku": "HDX52NT-2",
-              "series_name": "Starfire",
               "base_sku": "HDX52",
               "fuel_type": "Gas",
               "gas_fuel_type": "Natural Gas",
               "ignition_type": "Electronic Ignition",
               "series_number": "52",
+              "series_name": "Starfire",
               "vent_type": "Direct-Vent",
               "style": "Traditional",
               "product_category": "Gas Fireplaces",
@@ -4468,12 +4468,12 @@
             {
               "price": "$5,449",
               "manufacturerSku": "HDX52PT-2",
-              "series_name": "Starfire",
               "base_sku": "HDX52",
               "fuel_type": "Gas",
               "gas_fuel_type": "Propane",
               "ignition_type": "Electronic Ignition",
               "series_number": "52",
+              "series_name": "Starfire",
               "vent_type": "Direct-Vent",
               "style": "Traditional",
               "product_category": "Gas Fireplaces",
@@ -4746,12 +4746,12 @@
             {
               "price": "$7,199",
               "manufacturerSku": "HD81NT-1",
-              "series_name": "High Definition",
               "base_sku": "HD81",
               "fuel_type": "Gas",
               "gas_fuel_type": "Natural Gas",
               "ignition_type": "Electronic Ignition",
               "series_number": "81",
+              "series_name": "High Definition",
               "vent_type": "Direct-Vent",
               "style": "Traditional",
               "product_category": "Gas Fireplaces",
@@ -4894,12 +4894,12 @@
             {
               "price": "$2,499",
               "manufacturerSku": "D42NTRE",
-              "series_name": "Ascent Deep",
               "base_sku": "D42",
               "fuel_type": "Gas",
               "gas_fuel_type": "Natural Gas",
               "ignition_type": "Electronic Ignition",
               "series_number": "42",
+              "series_name": "Ascent Deep",
               "vent_type": "Direct-Vent",
               "style": "Traditional",
               "product_category": "Gas Fireplaces",
@@ -4914,12 +4914,12 @@
             {
               "price": "$2,499",
               "manufacturerSku": "D42PTRE",
-              "series_name": "Ascent Deep",
               "base_sku": "D42",
               "fuel_type": "Gas",
               "gas_fuel_type": "Propane",
               "ignition_type": "Electronic Ignition",
               "series_number": "42",
+              "series_name": "Ascent Deep",
               "vent_type": "Direct-Vent",
               "style": "Traditional",
               "product_category": "Gas Fireplaces",
@@ -5185,12 +5185,12 @@
             {
               "price": "$2,999",
               "manufacturerSku": "DX42NTRE",
-              "series_name": "Ascent Deep X",
               "base_sku": "DX42",
               "fuel_type": "Gas",
               "gas_fuel_type": "Natural Gas",
               "ignition_type": "Electronic Ignition",
               "series_number": "42",
+              "series_name": "Ascent Deep X",
               "vent_type": "Direct-Vent",
               "style": "Traditional",
               "product_category": "Gas Fireplaces",
@@ -5205,12 +5205,12 @@
             {
               "price": "$2,999",
               "manufacturerSku": "DX42PTRE",
-              "series_name": "Ascent Deep X",
               "base_sku": "DX42",
               "fuel_type": "Gas",
               "gas_fuel_type": "Propane",
               "ignition_type": "Electronic Ignition",
               "series_number": "42",
+              "series_name": "Ascent Deep X",
               "vent_type": "Direct-Vent",
               "style": "Traditional",
               "product_category": "Gas Fireplaces",
@@ -5462,12 +5462,12 @@
             {
               "price": "$3,449",
               "manufacturerSku": "GX70NTE-1",
-              "series_name": "Ascent X 70",
               "base_sku": "GX70",
               "fuel_type": "Gas",
               "gas_fuel_type": "Natural Gas",
               "ignition_type": "Electronic Ignition",
               "series_number": "70",
+              "series_name": "Ascent X",
               "vent_type": "Direct-Vent",
               "style": "Traditional",
               "product_category": "Gas Fireplaces",
@@ -5482,12 +5482,12 @@
             {
               "price": "$3,449",
               "manufacturerSku": "GX70PTE-1",
-              "series_name": "Ascent X 70",
               "base_sku": "GX70",
               "fuel_type": "Gas",
               "gas_fuel_type": "Propane",
               "ignition_type": "Electronic Ignition",
               "series_number": "70",
+              "series_name": "Ascent X",
               "vent_type": "Direct-Vent",
               "style": "Traditional",
               "product_category": "Gas Fireplaces",
@@ -5751,12 +5751,12 @@
             {
               "price": "$2,799",
               "manufacturerSku": "GX42NTRE",
-              "series_name": "Ascent X 42",
               "base_sku": "GX42",
               "fuel_type": "Gas",
               "gas_fuel_type": "Natural Gas",
               "ignition_type": "Electronic Ignition",
               "series_number": "42",
+              "series_name": "Ascent X",
               "vent_type": "Direct-Vent",
               "style": "Traditional",
               "product_category": "Gas Fireplaces",
@@ -5771,12 +5771,12 @@
             {
               "price": "$2,799",
               "manufacturerSku": "GX42PTRE",
-              "series_name": "Ascent X 42",
               "base_sku": "GX42",
               "fuel_type": "Gas",
               "gas_fuel_type": "Propane",
               "ignition_type": "Electronic Ignition",
               "series_number": "42",
+              "series_name": "Ascent X",
               "vent_type": "Direct-Vent",
               "style": "Traditional",
               "product_category": "Gas Fireplaces",
@@ -6036,12 +6036,12 @@
             {
               "price": "$2,549",
               "manufacturerSku": "GX36NTRE-1",
-              "series_name": "Ascent X36",
               "base_sku": "GX36",
               "fuel_type": "Gas",
               "gas_fuel_type": "Natural Gas",
               "ignition_type": "Electronic Ignition",
               "series_number": "36",
+              "series_name": "Ascent X",
               "vent_type": "Direct-Vent",
               "style": "Traditional",
               "product_category": "Gas Fireplaces",
@@ -6056,12 +6056,12 @@
             {
               "price": "$2,549",
               "manufacturerSku": "GX36PTRE-1",
-              "series_name": "Ascent X36",
               "base_sku": "GX36",
               "fuel_type": "Gas",
               "gas_fuel_type": "Propane",
               "ignition_type": "Electronic Ignition",
               "series_number": "36",
+              "series_name": "Ascent X",
               "vent_type": "Direct-Vent",
               "style": "Traditional",
               "product_category": "Gas Fireplaces",
@@ -6076,12 +6076,12 @@
             {
               "price": "$2,549",
               "manufacturerSku": "GX36NTR-1",
-              "series_name": "Ascent X36",
               "base_sku": "GX36",
               "fuel_type": "Gas",
               "gas_fuel_type": "Natural Gas",
               "ignition_type": "Millivolt Ignition",
               "series_number": "36",
+              "series_name": "Ascent X",
               "vent_type": "Direct-Vent",
               "style": "Traditional",
               "product_category": "Gas Fireplaces",
@@ -6096,12 +6096,12 @@
             {
               "price": "$2,549",
               "manufacturerSku": "GX36PTR-1",
-              "series_name": "Ascent X36",
               "base_sku": "GX36",
               "fuel_type": "Gas",
               "gas_fuel_type": "Propane",
               "ignition_type": "Millivolt Ignition",
               "series_number": "36",
+              "series_name": "Ascent X",
               "vent_type": "Direct-Vent",
               "style": "Traditional",
               "product_category": "Gas Fireplaces",
@@ -6437,12 +6437,12 @@
             {
               "price": "$2,699",
               "manufacturerSku": "BX36NTRE",
-              "series_name": "Ascent X",
               "base_sku": "BX36",
               "fuel_type": "Gas",
               "gas_fuel_type": "Natural Gas",
               "ignition_type": "Electronic Ignition",
               "series_number": "36",
+              "series_name": "Ascent X",
               "vent_type": "Direct-Vent",
               "style": "Traditional",
               "product_category": "Gas Fireplaces",
@@ -6452,12 +6452,12 @@
             {
               "price": "$2,899",
               "manufacturerSku": "BX42NTRE",
-              "series_name": "Ascent X",
               "base_sku": "BX42",
               "fuel_type": "Gas",
               "gas_fuel_type": "Natural Gas",
               "ignition_type": "Electronic Ignition",
               "series_number": "42",
+              "series_name": "Ascent X",
               "vent_type": "Direct-Vent",
               "style": "Traditional",
               "product_category": "Gas Fireplaces",
@@ -6472,12 +6472,12 @@
             {
               "price": "$2,699",
               "manufacturerSku": "BX36PTRE",
-              "series_name": "Ascent X",
               "base_sku": "BX36",
               "fuel_type": "Gas",
               "gas_fuel_type": "Propane",
               "ignition_type": "Electronic Ignition",
               "series_number": "36",
+              "series_name": "Ascent X",
               "vent_type": "Direct-Vent",
               "style": "Traditional",
               "product_category": "Gas Fireplaces",
@@ -6487,12 +6487,12 @@
             {
               "price": "$2,899",
               "manufacturerSku": "BX42PTRE",
-              "series_name": "Ascent X",
               "base_sku": "BX42",
               "fuel_type": "Gas",
               "gas_fuel_type": "Propane",
               "ignition_type": "Electronic Ignition",
               "series_number": "42",
+              "series_name": "Ascent X",
               "vent_type": "Direct-Vent",
               "style": "Traditional",
               "product_category": "Gas Fireplaces",
@@ -6858,12 +6858,12 @@
             {
               "price": "$2,049",
               "manufacturerSku": "B30NTRE-1",
-              "series_name": "Ascent",
               "base_sku": "B30",
               "fuel_type": "Gas",
               "gas_fuel_type": "Natural Gas",
               "ignition_type": "Electronic Ignition",
               "series_number": "30",
+              "series_name": "Ascent",
               "vent_type": "Direct-Vent",
               "style": "Traditional",
               "product_category": "Gas Fireplaces",
@@ -6873,12 +6873,12 @@
             {
               "price": "$2,249",
               "manufacturerSku": "B36NTRE-1",
-              "series_name": "Ascent",
               "base_sku": "B36",
               "fuel_type": "Gas",
               "gas_fuel_type": "Natural Gas",
               "ignition_type": "Electronic Ignition",
               "series_number": "36",
+              "series_name": "Ascent",
               "vent_type": "Direct-Vent",
               "style": "Traditional",
               "product_category": "Gas Fireplaces",
@@ -6888,12 +6888,12 @@
             {
               "price": "$2,399",
               "manufacturerSku": "B42NTRE",
-              "series_name": "Ascent",
               "base_sku": "B42",
               "fuel_type": "Gas",
               "gas_fuel_type": "Natural Gas",
               "ignition_type": "Electronic Ignition",
               "series_number": "42",
+              "series_name": "Ascent",
               "vent_type": "Direct-Vent",
               "style": "Traditional",
               "product_category": "Gas Fireplaces",
@@ -6903,12 +6903,12 @@
             {
               "price": "$2,349",
               "manufacturerSku": "B46NTRE",
-              "series_name": "Ascent",
               "base_sku": "B46",
               "fuel_type": "Gas",
               "gas_fuel_type": "Natural Gas",
               "ignition_type": "Electronic Ignition",
               "series_number": "46",
+              "series_name": "Ascent",
               "vent_type": "Direct-Vent",
               "style": "Traditional",
               "product_category": "Gas Fireplaces",
@@ -6924,12 +6924,12 @@
             {
               "price": "$2,249",
               "manufacturerSku": "B36PTRE-1",
-              "series_name": "Ascent",
               "base_sku": "B36",
               "fuel_type": "Gas",
               "gas_fuel_type": "Propane",
               "ignition_type": "Electronic Ignition",
               "series_number": "36",
+              "series_name": "Ascent",
               "vent_type": "Direct-Vent",
               "style": "Traditional",
               "product_category": "Gas Fireplaces",
@@ -6939,12 +6939,12 @@
             {
               "price": "$2,399",
               "manufacturerSku": "B42PTRE",
-              "series_name": "Ascent",
               "base_sku": "B42",
               "fuel_type": "Gas",
               "gas_fuel_type": "Propane",
               "ignition_type": "Electronic Ignition",
               "series_number": "42",
+              "series_name": "Ascent",
               "vent_type": "Direct-Vent",
               "style": "Traditional",
               "product_category": "Gas Fireplaces",
@@ -6960,12 +6960,12 @@
             {
               "price": "$2,049",
               "manufacturerSku": "B30NTR-1",
-              "series_name": "Ascent",
               "base_sku": "B30",
               "fuel_type": "Gas",
               "gas_fuel_type": "Natural Gas",
               "ignition_type": "Millivolt Ignition",
               "series_number": "30",
+              "series_name": "Ascent",
               "vent_type": "Direct-Vent",
               "style": "Traditional",
               "product_category": "Gas Fireplaces",
@@ -6975,12 +6975,12 @@
             {
               "price": "$2,249",
               "manufacturerSku": "B36NTR-1",
-              "series_name": "Ascent",
               "base_sku": "B36",
               "fuel_type": "Gas",
               "gas_fuel_type": "Natural Gas",
               "ignition_type": "Millivolt Ignition",
               "series_number": "36",
+              "series_name": "Ascent",
               "vent_type": "Direct-Vent",
               "style": "Traditional",
               "product_category": "Gas Fireplaces",
@@ -6990,12 +6990,12 @@
             {
               "price": "$2,399",
               "manufacturerSku": "B42NTR",
-              "series_name": "Ascent",
               "base_sku": "B42",
               "fuel_type": "Gas",
               "gas_fuel_type": "Natural Gas",
               "ignition_type": "Millivolt Ignition",
               "series_number": "42",
+              "series_name": "Ascent",
               "vent_type": "Direct-Vent",
               "style": "Traditional",
               "product_category": "Gas Fireplaces",
@@ -7005,12 +7005,12 @@
             {
               "price": "$2,349",
               "manufacturerSku": "B46NTR",
-              "series_name": "Ascent",
               "base_sku": "B46",
               "fuel_type": "Gas",
               "gas_fuel_type": "Natural Gas",
               "ignition_type": "Millivolt Ignition",
               "series_number": "46",
+              "series_name": "Ascent",
               "vent_type": "Direct-Vent",
               "style": "Traditional",
               "product_category": "Gas Fireplaces",
@@ -7026,12 +7026,12 @@
             {
               "price": "$2,249",
               "manufacturerSku": "B36PTR-1",
-              "series_name": "Ascent",
               "base_sku": "B36",
               "fuel_type": "Gas",
               "gas_fuel_type": "Propane",
               "ignition_type": "Millivolt Ignition",
               "series_number": "36",
+              "series_name": "Ascent",
               "vent_type": "Direct-Vent",
               "style": "Traditional",
               "product_category": "Gas Fireplaces",
@@ -7041,12 +7041,12 @@
             {
               "price": "$2,399",
               "manufacturerSku": "B42PTR",
-              "series_name": "Ascent",
               "base_sku": "B42",
               "fuel_type": "Gas",
               "gas_fuel_type": "Propane",
               "ignition_type": "Millivolt Ignition",
               "series_number": "42",
+              "series_name": "Ascent",
               "vent_type": "Direct-Vent",
               "style": "Traditional",
               "product_category": "Gas Fireplaces",
@@ -7717,12 +7717,12 @@
             {
               "price": "$4,749",
               "manufacturerSku": "BHD4STFCN",
-              "series_name": "Ascent Multi-View",
               "base_sku": "BHD4-Cradle",
               "fuel_type": "Gas",
               "gas_fuel_type": "Natural Gas",
               "ignition_type": "Electronic Ignition",
               "series_number": "BHD4ST",
+              "series_name": "Ascent Multi-View",
               "vent_type": "Direct-Vent",
               "style": "See-Thru",
               "product_category": "Gas Fireplaces",
@@ -7732,12 +7732,12 @@
             {
               "price": "$4,449",
               "manufacturerSku": "BHD4STGN",
-              "series_name": "Ascent Multi-View",
               "base_sku": "BHD4-Glass",
               "fuel_type": "Gas",
               "gas_fuel_type": "Natural Gas",
               "ignition_type": "Electronic Ignition",
               "series_number": "BHD4",
+              "series_name": "Ascent Multi-View",
               "vent_type": "Direct-Vent",
               "style": "See-Thru",
               "product_category": "Gas Fireplaces",
@@ -7747,12 +7747,12 @@
             {
               "price": "$4,749",
               "manufacturerSku": "BHD4STN",
-              "series_name": "Ascent Multi-View",
               "base_sku": "BHD4-Logs",
               "fuel_type": "Gas",
               "gas_fuel_type": "Natural Gas",
               "ignition_type": "Electronic Ignition",
               "series_number": "BHD4",
+              "series_name": "Ascent Multi-View",
               "vent_type": "Direct-Vent",
               "style": "See-Thru",
               "product_category": "Gas Fireplaces",
@@ -7767,12 +7767,12 @@
             {
               "price": "$4,749",
               "manufacturerSku": "BHD4PFCN",
-              "series_name": "Ascent Multi-View",
               "base_sku": "BHD4-Cradle",
               "fuel_type": "Gas",
               "gas_fuel_type": "Natural Gas",
               "ignition_type": "Electronic Ignition",
               "series_number": "BHD4ST",
+              "series_name": "Ascent Multi-View",
               "vent_type": "Direct-Vent",
               "style": "Peninsula",
               "product_category": "Gas Fireplaces",
@@ -7782,12 +7782,12 @@
             {
               "price": "$4,449",
               "manufacturerSku": "BHD4PGN",
-              "series_name": "Ascent Multi-View",
               "base_sku": "BHD4-Glass",
               "fuel_type": "Gas",
               "gas_fuel_type": "Natural Gas",
               "ignition_type": "Electronic Ignition",
               "series_number": "BHD4",
+              "series_name": "Ascent Multi-View",
               "vent_type": "Direct-Vent",
               "style": "Peninsula",
               "product_category": "Gas Fireplaces",
@@ -7797,12 +7797,12 @@
             {
               "price": "$4,749",
               "manufacturerSku": "BHD4PN",
-              "series_name": "Ascent Multi-View",
               "base_sku": "BHD4-Logs",
               "fuel_type": "Gas",
               "gas_fuel_type": "Natural Gas",
               "ignition_type": "Electronic Ignition",
               "series_number": "BHD4",
+              "series_name": "Ascent Multi-View",
               "vent_type": "Direct-Vent",
               "style": "Peninsula",
               "product_category": "Gas Fireplaces",
@@ -8041,12 +8041,12 @@
             {
               "price": "$4,580",
               "manufacturerSku": "GD82NT-PAESB",
-              "series_name": "Park Avenue",
               "base_sku": "GD82NT-PA",
               "fuel_type": "Gas",
               "gas_fuel_type": "Natural Gas",
               "ignition_type": "Electronic Ignition",
               "series_number": "82",
+              "series_name": "Park Avenue",
               "vent_type": "Direct-Vent",
               "style": "Traditional",
               "product_category": "Gas Fireplaces",
@@ -8159,12 +8159,12 @@
             {
               "price": "$1,999",
               "manufacturerSku": "GT8NSB",
-              "series_name": "Torch",
               "base_sku": "GT8",
               "fuel_type": "Gas",
               "gas_fuel_type": "Natural Gas",
               "ignition_type": "Electronic Ignition",
               "series_number": "GT8NSB",
+              "series_name": "Torch",
               "vent_type": "Direct-Vent",
               "style": "Traditional",
               "product_category": "Gas Fireplaces",
@@ -8179,12 +8179,12 @@
             {
               "price": "$1,999",
               "manufacturerSku": "GT8PSB",
-              "series_name": "Torch",
               "base_sku": "GT8",
               "fuel_type": "Gas",
               "gas_fuel_type": "Propane",
               "ignition_type": "Electronic Ignition",
               "series_number": "GT8NSB",
+              "series_name": "Torch",
               "vent_type": "Direct-Vent",
               "style": "Traditional",
               "product_category": "Gas Fireplaces",
@@ -8266,12 +8266,12 @@
             {
               "price": "$2,265",
               "manufacturerSku": "GD19N-2",
-              "series_name": "Vittoria",
               "base_sku": "GD19N-2",
               "fuel_type": "Gas",
               "gas_fuel_type": "Natural Gas",
               "ignition_type": "Electronic Ignition",
               "series_number": "19",
+              "series_name": "Vittoria",
               "vent_type": "Vented",
               "style": "Traditional",
               "product_category": "Gas Fireplaces",
@@ -8427,12 +8427,12 @@
             {
               "price": "$1,999",
               "manufacturerSku": "GVFT8N",
-              "series_name": "Torch",
               "base_sku": "GVFT8",
               "fuel_type": "Gas",
               "gas_fuel_type": "Natural Gas",
               "ignition_type": "Electronic Ignition",
               "series_number": "GVFT8N",
+              "series_name": "Torch",
               "vent_type": "Vent-Free",
               "style": "Traditional",
               "product_category": "Gas Fireplaces",
@@ -8447,12 +8447,12 @@
             {
               "price": "$1,999",
               "manufacturerSku": "GVFT8P",
-              "series_name": "Torch",
               "base_sku": "GVFT8",
               "fuel_type": "Gas",
               "gas_fuel_type": "Propane",
               "ignition_type": "Electronic Ignition",
               "series_number": "GVFT8N",
+              "series_name": "Torch",
               "vent_type": "Vent-Free",
               "style": "Traditional",
               "product_category": "Gas Fireplaces",
@@ -8534,12 +8534,12 @@
             {
               "price": "$1,399",
               "manufacturerSku": "GVF36-2N",
-              "series_name": "Grandville",
               "base_sku": "GVF36",
               "fuel_type": "Gas",
               "gas_fuel_type": "Natural Gas",
               "ignition_type": "Millivolt Ignition",
               "series_number": "36",
+              "series_name": "Grandville",
               "vent_type": "Vent-Free",
               "style": "Traditional",
               "product_category": "Gas Fireplaces",
@@ -8549,12 +8549,12 @@
             {
               "price": "$1,749",
               "manufacturerSku": "GVF42-1N",
-              "series_name": "Grandville",
               "base_sku": "GVF42",
               "fuel_type": "Gas",
               "gas_fuel_type": "Natural Gas",
               "ignition_type": "Millivolt Ignition",
               "series_number": "42",
+              "series_name": "Grandville",
               "vent_type": "Vent-Free",
               "style": "Traditional",
               "product_category": "Gas Fireplaces",
@@ -8569,12 +8569,12 @@
             {
               "price": "$1,399",
               "manufacturerSku": "GVF36-2P",
-              "series_name": "Grandville",
               "base_sku": "GVF36",
               "fuel_type": "Gas",
               "gas_fuel_type": "Propane",
               "ignition_type": "Millivolt Ignition",
               "series_number": "36",
+              "series_name": "Grandville",
               "vent_type": "Vent-Free",
               "style": "Traditional",
               "product_category": "Gas Fireplaces",
@@ -8584,12 +8584,12 @@
             {
               "price": "$1,749",
               "manufacturerSku": "GVF42-1P",
-              "series_name": "Grandville",
               "base_sku": "GVF42",
               "fuel_type": "Gas",
               "gas_fuel_type": "Propane",
               "ignition_type": "Millivolt Ignition",
               "series_number": "42",
+              "series_name": "Grandville",
               "vent_type": "Vent-Free",
               "style": "Traditional",
               "product_category": "Gas Fireplaces",
@@ -8769,10 +8769,10 @@
             {
               "price": "$9,999",
               "manufacturerSku": "NZ8000",
-              "series_name": "High Country 8000",
               "base_sku": "NZ8000",
               "fuel_type": "Wood",
               "series_number": "8000",
+              "series_name": "High Country",
               "style": "Traditional",
               "product_category": "Wood Fireplaces",
               "productTypeNonoperative": "Product",
@@ -8883,10 +8883,10 @@
             {
               "price": "$7,449",
               "manufacturerSku": "NZ6000-1",
-              "series_name": "High Country 6000",
               "base_sku": "NZ6000",
               "fuel_type": "Wood",
               "series_number": "6000",
+              "series_name": "High Country",
               "style": "Traditional",
               "product_category": "Wood Fireplaces",
               "productTypeNonoperative": "Product",
@@ -9204,10 +9204,10 @@
             {
               "price": "$4,299",
               "manufacturerSku": "NZ5000-T",
-              "series_name": "High Country 5000",
               "base_sku": "NZ5000",
               "fuel_type": "Wood",
               "series_number": "5000",
+              "series_name": "High Country",
               "style": "Traditional",
               "product_category": "Wood Fireplaces",
               "productTypeNonoperative": "Product",
@@ -9317,10 +9317,10 @@
             {
               "price": "$6,299",
               "manufacturerSku": "NZ3000H-1",
-              "series_name": "High Country 3000",
               "base_sku": "NZ3000",
               "fuel_type": "Wood",
               "series_number": "3000",
+              "series_name": "High Country",
               "style": "Traditional",
               "product_category": "Wood Fireplaces",
               "productTypeNonoperative": "Product",
@@ -9614,12 +9614,12 @@
             {
               "price": "$2,049",
               "manufacturerSku": "GDI3N",
-              "series_name": "Oakville",
               "base_sku": "GDI3N",
               "fuel_type": "Gas",
               "gas_fuel_type": "Natural Gas",
               "ignition_type": "Electronic Ignition",
               "series_number": "GDI3",
+              "series_name": "Oakville",
               "vent_type": "Direct-Vent",
               "style": "Traditional",
               "product_category": "Gas Inserts",
@@ -9629,12 +9629,12 @@
             {
               "price": "$2,299",
               "manufacturerSku": "GDI3NE",
-              "series_name": "Oakville",
               "base_sku": "GDI3NE",
               "fuel_type": "Gas",
               "gas_fuel_type": "Natural Gas",
               "ignition_type": "Electronic Ignition",
               "series_number": "GDI3",
+              "series_name": "Oakville",
               "vent_type": "Direct-Vent",
               "style": "Traditional",
               "product_category": "Gas Inserts",
@@ -9644,12 +9644,12 @@
             {
               "price": "$2,899",
               "manufacturerSku": "GDIG3N",
-              "series_name": "Oakville",
               "base_sku": "GDIG3N",
               "fuel_type": "Gas",
               "gas_fuel_type": "Natural Gas",
               "ignition_type": "Electronic Ignition",
               "series_number": "GDIG3",
+              "series_name": "Oakville",
               "vent_type": "Direct-Vent",
               "style": "Traditional",
               "product_category": "Gas Inserts",
@@ -9659,12 +9659,12 @@
             {
               "price": "$2,899",
               "manufacturerSku": "GDIX3N",
-              "series_name": "Oakville",
               "base_sku": "GDIX3N",
               "fuel_type": "Gas",
               "gas_fuel_type": "Natural Gas",
               "ignition_type": "Electronic Ignition",
               "series_number": "GDIX3",
+              "series_name": "Oakville",
               "vent_type": "Direct-Vent",
               "style": "Traditional",
               "product_category": "Gas Inserts",
@@ -9674,12 +9674,12 @@
             {
               "price": "$3,199",
               "manufacturerSku": "GDIX4N",
-              "series_name": "Oakville",
               "base_sku": "GDIX4N",
               "fuel_type": "Gas",
               "gas_fuel_type": "Natural Gas",
               "ignition_type": "Electronic Ignition",
               "series_number": "GDIX4",
+              "series_name": "Oakville",
               "vent_type": "Direct-Vent",
               "style": "Traditional",
               "product_category": "Gas Inserts",
@@ -11421,12 +11421,12 @@
             {
               "price": "$2,449",
               "manufacturerSku": "GI3600-4NSB",
-              "series_name": "Roxbury",
               "base_sku": "GI3600",
               "fuel_type": "Gas",
               "gas_fuel_type": "Natural Gas",
               "ignition_type": "Millivolt Ignition",
               "series_number": "3600",
+              "series_name": "Roxbury",
               "vent_type": "Direct-Vent",
               "style": "Traditional",
               "product_category": "Gas Fireplaces",
@@ -11834,12 +11834,12 @@
             {
               "price": "$3,099",
               "manufacturerSku": "GDIZC-NSB",
-              "series_name": "Inspiration",
               "base_sku": "GDIZC",
               "fuel_type": "Gas",
               "gas_fuel_type": "Natural Gas",
               "ignition_type": "Millivolt Ignition",
               "series_number": "ZC",
+              "series_name": "Inspiration",
               "vent_type": "Direct-Vent",
               "style": "Traditional",
               "product_category": "Gas Fireplaces",
@@ -12110,10 +12110,10 @@
             {
               "price": "$2,499",
               "manufacturerSku": "S20i",
-              "series_name": "S Series",
               "base_sku": "S20i",
               "fuel_type": "Wood",
               "series_number": "20",
+              "series_name": "S Series",
               "style": "Traditional",
               "product_category": "Wood Fireplaces",
               "productTypeNonoperative": "Product",
@@ -12122,10 +12122,10 @@
             {
               "price": "$2,749",
               "manufacturerSku": "S25i",
-              "series_name": "S Series",
               "base_sku": "S25i",
               "fuel_type": "Wood",
               "series_number": "25",
+              "series_name": "S Series",
               "style": "Traditional",
               "product_category": "Wood Fireplaces",
               "productTypeNonoperative": "Product",
@@ -12226,7 +12226,7 @@
       ]
     },
     "series-31": {
-      "title": "Oakdale Series",
+      "title": "Oakdale",
       "baseSku": [],
       "units": [
         {
@@ -12235,14 +12235,14 @@
             {
               "price": "$4,149",
               "manufacturerSku": "EPI3C-1",
-              "series_name": "Oakdale Series",
               "base_sku": "EPI3",
               "fuel_type": "Wood",
               "series_number": "EPI3",
+              "series_name": "Oakdale",
               "style": "Traditional",
               "product_category": "Wood Fireplaces",
               "productTypeNonoperative": "Product",
-              "display_name": "Napoleon Oakdale Series EPI3 Wood Fireplace | EPI3"
+              "display_name": "Napoleon Oakdale EPI3 Wood Fireplace | EPI3"
             }
           ]
         },
@@ -12252,14 +12252,14 @@
             {
               "price": "$4,149",
               "manufacturerSku": "EPI3T-1",
-              "series_name": "Oakdale Series",
               "base_sku": "EPI3",
               "fuel_type": "Wood",
               "series_number": "EPI3",
+              "series_name": "Oakdale",
               "style": "Traditional",
               "product_category": "Wood Fireplaces",
               "productTypeNonoperative": "Product",
-              "display_name": "Napoleon Oakdale Series EPI3 Wood Fireplace | EPI3"
+              "display_name": "Napoleon Oakdale EPI3 Wood Fireplace | EPI3"
             }
           ]
         },
@@ -12269,14 +12269,14 @@
             {
               "price": "$4,649",
               "manufacturerSku": "EPI3TN-1",
-              "series_name": "Oakdale Series",
               "base_sku": "EPI3",
               "fuel_type": "Wood",
               "series_number": "EPI3",
+              "series_name": "Oakdale",
               "style": "Traditional",
               "product_category": "Wood Fireplaces",
               "productTypeNonoperative": "Product",
-              "display_name": "Napoleon Oakdale Series EPI3 Wood Fireplace | EPI3"
+              "display_name": "Napoleon Oakdale EPI3 Wood Fireplace | EPI3"
             }
           ]
         }
@@ -12327,7 +12327,7 @@
       ]
     },
     "series-32": {
-      "title": "Fiberglow Gas Log Set Models",
+      "title": "Fiberglow",
       "baseSku": [
         "GL18",
         "GL24",
@@ -12340,54 +12340,54 @@
             {
               "price": "$849",
               "manufacturerSku": "GL18NE",
-              "series_name": "Fiberglow Gas Log Set Models",
               "base_sku": "GL18",
               "fuel_type": "Gas",
               "gas_fuel_type": "Natural Gas",
               "ignition_type": "Electronic Ignition",
               "series_number": "18",
+              "series_name": "Fiberglow",
               "vent_type": "Vented",
               "style": "Linear",
               "product_category": "Gas Log Sets",
               "productTypeNonoperative": "Product",
-              "display_name": "Napoleon Fiberglow Gas Log Set Models 18 Vented Gas Log Set | GL18"
+              "display_name": "Napoleon Fiberglow 18 Vented Gas Log Set | GL18"
             },
             {
               "price": "$949",
               "manufacturerSku": "GL24NE",
-              "series_name": "Fiberglow Gas Log Set Models",
               "base_sku": "GL24",
               "fuel_type": "Gas",
               "gas_fuel_type": "Natural Gas",
               "ignition_type": "Electronic Ignition",
               "series_number": "24",
+              "series_name": "Fiberglow",
               "vent_type": "Vented",
               "style": "Linear",
               "product_category": "Gas Log Sets",
               "productTypeNonoperative": "Product",
-              "display_name": "Napoleon Fiberglow Gas Log Set Models 24 Vented Gas Log Set | GL24"
+              "display_name": "Napoleon Fiberglow 24 Vented Gas Log Set | GL24"
             },
             {
               "price": "$1,099",
               "manufacturerSku": "GL30NE",
-              "series_name": "Fiberglow Gas Log Set Models",
               "base_sku": "GL30",
               "fuel_type": "Gas",
               "gas_fuel_type": "Natural Gas",
               "ignition_type": "Electronic Ignition",
               "series_number": "30",
+              "series_name": "Fiberglow",
               "vent_type": "Vented",
               "style": "Linear",
               "product_category": "Gas Log Sets",
               "productTypeNonoperative": "Product",
-              "display_name": "Napoleon Fiberglow Gas Log Set Models 30 Vented Gas Log Set | GL30"
+              "display_name": "Napoleon Fiberglow 30 Vented Gas Log Set | GL30"
             }
           ]
         }
       ]
     },
     "series-33": {
-      "title": "Fiberglow Gas Log Set Models",
+      "title": "Fiberglow",
       "baseSku": [
         "GVFL18",
         "GVFL24",
@@ -12400,47 +12400,47 @@
             {
               "price": "$949",
               "manufacturerSku": "GVFL18N",
-              "series_name": "Fiberglow Gas Log Set Models",
               "base_sku": "GVFL18",
               "fuel_type": "Gas",
               "gas_fuel_type": "Natural Gas",
               "ignition_type": "Electronic Ignition",
               "series_number": "18",
+              "series_name": "Fiberglow",
               "vent_type": "Vent-Free",
               "style": "Linear",
               "product_category": "Gas Log Sets",
               "productTypeNonoperative": "Product",
-              "display_name": "Napoleon Fiberglow Gas Log Set Models 18 Vent-Free Gas Log Set | GVFL18"
+              "display_name": "Napoleon Fiberglow 18 Vent-Free Gas Log Set | GVFL18"
             },
             {
               "price": "$1,049",
               "manufacturerSku": "GVFL24N",
-              "series_name": "Fiberglow Gas Log Set Models",
               "base_sku": "GVFL24",
               "fuel_type": "Gas",
               "gas_fuel_type": "Natural Gas",
               "ignition_type": "Electronic Ignition",
               "series_number": "24",
+              "series_name": "Fiberglow",
               "vent_type": "Vent-Free",
               "style": "Linear",
               "product_category": "Gas Log Sets",
               "productTypeNonoperative": "Product",
-              "display_name": "Napoleon Fiberglow Gas Log Set Models 24 Vent-Free Gas Log Set | GVFL24"
+              "display_name": "Napoleon Fiberglow 24 Vent-Free Gas Log Set | GVFL24"
             },
             {
               "price": "$1,199",
               "manufacturerSku": "GVFL30N",
-              "series_name": "Fiberglow Gas Log Set Models",
               "base_sku": "GVFL30",
               "fuel_type": "Gas",
               "gas_fuel_type": "Natural Gas",
               "ignition_type": "Electronic Ignition",
               "series_number": "30",
+              "series_name": "Fiberglow",
               "vent_type": "Vent-Free",
               "style": "Linear",
               "product_category": "Gas Log Sets",
               "productTypeNonoperative": "Product",
-              "display_name": "Napoleon Fiberglow Gas Log Set Models 30 Vent-Free Gas Log Set | GVFL30"
+              "display_name": "Napoleon Fiberglow 30 Vent-Free Gas Log Set | GVFL30"
             }
           ]
         },
@@ -12450,47 +12450,47 @@
             {
               "price": "$949",
               "manufacturerSku": "GVFL18P",
-              "series_name": "Fiberglow Gas Log Set Models",
               "base_sku": "GVFL18",
               "fuel_type": "Gas",
               "gas_fuel_type": "Propane",
               "ignition_type": "Electronic Ignition",
               "series_number": "18",
+              "series_name": "Fiberglow",
               "vent_type": "Vent-Free",
               "style": "Linear",
               "product_category": "Gas Log Sets",
               "productTypeNonoperative": "Product",
-              "display_name": "Napoleon Fiberglow Gas Log Set Models 18 Vent-Free Gas Log Set | GVFL18"
+              "display_name": "Napoleon Fiberglow 18 Vent-Free Gas Log Set | GVFL18"
             },
             {
               "price": "$1,049",
               "manufacturerSku": "GVFL24P",
-              "series_name": "Fiberglow Gas Log Set Models",
               "base_sku": "GVFL24",
               "fuel_type": "Gas",
               "gas_fuel_type": "Propane",
               "ignition_type": "Electronic Ignition",
               "series_number": "24",
+              "series_name": "Fiberglow",
               "vent_type": "Vent-Free",
               "style": "Linear",
               "product_category": "Gas Log Sets",
               "productTypeNonoperative": "Product",
-              "display_name": "Napoleon Fiberglow Gas Log Set Models 24 Vent-Free Gas Log Set | GVFL24"
+              "display_name": "Napoleon Fiberglow 24 Vent-Free Gas Log Set | GVFL24"
             },
             {
               "price": "$1,199",
               "manufacturerSku": "GVFL30P",
-              "series_name": "Fiberglow Gas Log Set Models",
               "base_sku": "GVFL30",
               "fuel_type": "Gas",
               "gas_fuel_type": "Propane",
               "ignition_type": "Electronic Ignition",
               "series_number": "30",
+              "series_name": "Fiberglow",
               "vent_type": "Vent-Free",
               "style": "Linear",
               "product_category": "Gas Log Sets",
               "productTypeNonoperative": "Product",
-              "display_name": "Napoleon Fiberglow Gas Log Set Models 30 Vent-Free Gas Log Set | GVFL30"
+              "display_name": "Napoleon Fiberglow 30 Vent-Free Gas Log Set | GVFL30"
             }
           ]
         }
@@ -12498,7 +12498,7 @@
       "venting": "Top"
     },
     "series-34": {
-      "title": "Havelock Gas Stove Models",
+      "title": "Havelock",
       "baseSku": [
         "GDS50"
       ],
@@ -12509,17 +12509,17 @@
             {
               "price": "$3,399",
               "manufacturerSku": "GDS50-1NE",
-              "series_name": "Havelock Gas Stove Models",
               "base_sku": "GDS50",
               "fuel_type": "Gas",
               "gas_fuel_type": "Natural Gas",
               "ignition_type": "Electronic Ignition",
               "series_number": "50",
+              "series_name": "Havelock",
               "vent_type": "Direct-Vent",
               "style": "Traditional",
               "product_category": "Gas Stoves",
               "productTypeNonoperative": "Option Product",
-              "display_name": "Napoleon Havelock Gas Stove Models 50 Direct-Vent Gas Stove | GDS50"
+              "display_name": "Napoleon Havelock 50 Direct-Vent Gas Stove | GDS50"
             }
           ]
         },
@@ -12529,17 +12529,17 @@
             {
               "price": "$3,399",
               "manufacturerSku": "GDS50-1NSB",
-              "series_name": "Havelock Gas Stove Models",
               "base_sku": "GDS50",
               "fuel_type": "Gas",
               "gas_fuel_type": "Natural Gas",
               "ignition_type": "Millivolt Ignition",
               "series_number": "50",
+              "series_name": "Havelock",
               "vent_type": "Direct-Vent",
               "style": "Traditional",
               "product_category": "Gas Stoves",
               "productTypeNonoperative": "Option Product",
-              "display_name": "Napoleon Havelock Gas Stove Models 50 Direct-Vent Gas Stove | GDS50"
+              "display_name": "Napoleon Havelock 50 Direct-Vent Gas Stove | GDS50"
             }
           ]
         }
@@ -12635,7 +12635,7 @@
       "venting": "Top"
     },
     "series-35": {
-      "title": "Haliburton Gas Stove Models",
+      "title": "Haliburton",
       "baseSku": [
         "GDS28"
       ],
@@ -12646,17 +12646,17 @@
             {
               "price": "$2,799",
               "manufacturerSku": "GDS28-1NE",
-              "series_name": "Haliburton Gas Stove Models",
               "base_sku": "GDS28",
               "fuel_type": "Gas",
               "gas_fuel_type": "Natural Gas",
               "ignition_type": "Electronic Ignition",
               "series_number": "28",
+              "series_name": "Haliburton",
               "vent_type": "Direct-Vent",
               "style": "Traditional",
               "product_category": "Gas Stoves",
               "productTypeNonoperative": "Option Product",
-              "display_name": "Napoleon Haliburton Gas Stove Models 28 Direct-Vent Gas Stove | GDS28"
+              "display_name": "Napoleon Haliburton 28 Direct-Vent Gas Stove | GDS28"
             }
           ]
         },
@@ -12666,17 +12666,17 @@
             {
               "price": "$2,799",
               "manufacturerSku": "GDS28-1NSB",
-              "series_name": "Haliburton Gas Stove Models",
               "base_sku": "GDS28",
               "fuel_type": "Gas",
               "gas_fuel_type": "Natural Gas",
               "ignition_type": "Millivolt Ignition",
               "series_number": "28",
+              "series_name": "Haliburton",
               "vent_type": "Vented",
               "style": "Traditional",
               "product_category": "Gas Stoves",
               "productTypeNonoperative": "Option Product",
-              "display_name": "Napoleon Haliburton Gas Stove Models 28 Vented Gas Stove | GDS28"
+              "display_name": "Napoleon Haliburton 28 Vented Gas Stove | GDS28"
             }
           ]
         }
@@ -12786,7 +12786,7 @@
       "venting": "Top or Rear"
     },
     "series-36": {
-      "title": "Knightsbridge Gas Stove Models",
+      "title": "Knightsbridge",
       "baseSku": [
         "GDS60"
       ],
@@ -12797,17 +12797,17 @@
             {
               "price": "$4,099",
               "manufacturerSku": "GDS60-1NNSB",
-              "series_name": "Knightsbridge Gas Stove Models",
               "base_sku": "GDS60",
               "fuel_type": "Gas",
               "gas_fuel_type": "Natural Gas",
               "ignition_type": "Electronic Ignition",
               "series_number": "60",
+              "series_name": "Knightsbridge",
               "vent_type": "Direct-Vent",
               "style": "Traditional",
               "product_category": "Gas Stoves",
               "productTypeNonoperative": "Option Product",
-              "display_name": "Napoleon Knightsbridge Gas Stove Models 60 Direct-Vent Gas Stove | GDS60"
+              "display_name": "Napoleon Knightsbridge 60 Direct-Vent Gas Stove | GDS60"
             }
           ]
         },
@@ -12817,17 +12817,17 @@
             {
               "price": "$3,549",
               "manufacturerSku": "GDS60-1NSB",
-              "series_name": "Knightsbridge Gas Stove Models",
               "base_sku": "GDS60",
               "fuel_type": "Gas",
               "gas_fuel_type": "Natural Gas",
               "ignition_type": "Electronic Ignition",
               "series_number": "60",
+              "series_name": "Knightsbridge",
               "vent_type": "Direct-Vent",
               "style": "Traditional",
               "product_category": "Gas Stoves",
               "productTypeNonoperative": "Option Product",
-              "display_name": "Napoleon Knightsbridge Gas Stove Models 60 Direct-Vent Gas Stove | GDS60"
+              "display_name": "Napoleon Knightsbridge 60 Direct-Vent Gas Stove | GDS60"
             }
           ]
         }
@@ -12909,7 +12909,7 @@
       "venting": "Top or Rear"
     },
     "series-37": {
-      "title": "Castlemore Gas Stove Models",
+      "title": "Castlemore",
       "baseSku": [
         "GDS26"
       ],
@@ -12920,17 +12920,17 @@
             {
               "price": "$3,999",
               "manufacturerSku": "GDS26N-1",
-              "series_name": "Castlemore Gas Stove Models",
               "base_sku": "GDS26",
               "fuel_type": "Gas",
               "gas_fuel_type": "Natural Gas",
               "ignition_type": "Electronic Ignition",
               "series_number": "26",
+              "series_name": "Castlemore",
               "vent_type": "Direct-Vent",
               "style": "Traditional",
               "product_category": "Gas Stoves",
               "productTypeNonoperative": "Option Product",
-              "display_name": "Napoleon Castlemore Gas Stove Models 26 Direct-Vent Gas Stove | GDS26"
+              "display_name": "Napoleon Castlemore 26 Direct-Vent Gas Stove | GDS26"
             }
           ]
         },
@@ -12940,17 +12940,17 @@
             {
               "price": "$4,599",
               "manufacturerSku": "GDS26NN-1",
-              "series_name": "Castlemore Gas Stove Models",
               "base_sku": "GDS26",
               "fuel_type": "Gas",
               "gas_fuel_type": "Natural Gas",
               "ignition_type": "Electronic Ignition",
               "series_number": "26",
+              "series_name": "Castlemore",
               "vent_type": "Direct-Vent",
               "style": "Traditional",
               "product_category": "Gas Stoves",
               "productTypeNonoperative": "Option Product",
-              "display_name": "Napoleon Castlemore Gas Stove Models 26 Direct-Vent Gas Stove | GDS26"
+              "display_name": "Napoleon Castlemore 26 Direct-Vent Gas Stove | GDS26"
             }
           ]
         },
@@ -12960,17 +12960,17 @@
             {
               "price": "$4,599",
               "manufacturerSku": "GDS26NW-1",
-              "series_name": "Castlemore Gas Stove Models",
               "base_sku": "GDS26",
               "fuel_type": "Gas",
               "gas_fuel_type": "Natural Gas",
               "ignition_type": "Electronic Ignition",
               "series_number": "26",
+              "series_name": "Castlemore",
               "vent_type": "Direct-Vent",
               "style": "Traditional",
               "product_category": "Gas Stoves",
               "productTypeNonoperative": "Option Product",
-              "display_name": "Napoleon Castlemore Gas Stove Models 26 Direct-Vent Gas Stove | GDS26"
+              "display_name": "Napoleon Castlemore 26 Direct-Vent Gas Stove | GDS26"
             }
           ]
         }
@@ -13024,7 +13024,7 @@
       ]
     },
     "series-38": {
-      "title": "Bayfield Gas Stove Models",
+      "title": "Bayfield",
       "baseSku": [
         "GDS25"
       ],
@@ -13035,17 +13035,17 @@
             {
               "price": "$3,349",
               "manufacturerSku": "GDS25N-1",
-              "series_name": "Bayfield Gas Stove Models",
               "base_sku": "GDS25",
               "fuel_type": "Gas",
               "gas_fuel_type": "Natural Gas",
               "ignition_type": "Electronic Ignition",
               "series_number": "25",
+              "series_name": "Bayfield",
               "vent_type": "Direct-Vent",
               "style": "Traditional",
               "product_category": "Gas Stoves",
               "productTypeNonoperative": "Option Product",
-              "display_name": "Napoleon Bayfield Gas Stove Models 25 Direct-Vent Gas Stove | GDS25"
+              "display_name": "Napoleon Bayfield 25 Direct-Vent Gas Stove | GDS25"
             }
           ]
         },
@@ -13055,17 +13055,17 @@
             {
               "price": "$3,699",
               "manufacturerSku": "GDS25NN-1",
-              "series_name": "Bayfield Gas Stove Models",
               "base_sku": "GDS25",
               "fuel_type": "Gas",
               "gas_fuel_type": "Natural Gas",
               "ignition_type": "Electronic Ignition",
               "series_number": "25",
+              "series_name": "Bayfield",
               "vent_type": "Direct-Vent",
               "style": "Traditional",
               "product_category": "Gas Stoves",
               "productTypeNonoperative": "Option Product",
-              "display_name": "Napoleon Bayfield Gas Stove Models 25 Direct-Vent Gas Stove | GDS25"
+              "display_name": "Napoleon Bayfield 25 Direct-Vent Gas Stove | GDS25"
             }
           ]
         },
@@ -13075,17 +13075,17 @@
             {
               "price": "$3,699",
               "manufacturerSku": "GDS25NW-1",
-              "series_name": "Bayfield Gas Stove Models",
               "base_sku": "GDS25",
               "fuel_type": "Gas",
               "gas_fuel_type": "Natural Gas",
               "ignition_type": "Electronic Ignition",
               "series_number": "25",
+              "series_name": "Bayfield",
               "vent_type": "Direct-Vent",
               "style": "Traditional",
               "product_category": "Gas Stoves",
               "productTypeNonoperative": "Option Product",
-              "display_name": "Napoleon Bayfield Gas Stove Models 25 Direct-Vent Gas Stove | GDS25"
+              "display_name": "Napoleon Bayfield 25 Direct-Vent Gas Stove | GDS25"
             }
           ]
         }
@@ -13138,7 +13138,7 @@
       ]
     },
     "series-39": {
-      "title": "Arlington Gas Stove Models",
+      "title": "Arlington",
       "baseSku": [
         "GDS20"
       ],
@@ -13149,17 +13149,17 @@
             {
               "price": "$2,349",
               "manufacturerSku": "GDS20NE",
-              "series_name": "Arlington Gas Stove Models",
               "base_sku": "GDS20",
               "fuel_type": "Gas",
               "gas_fuel_type": "Natural Gas",
               "ignition_type": "Electronic Ignition",
               "series_number": "20",
+              "series_name": "Arlington",
               "vent_type": "Direct-Vent",
               "style": "Traditional",
               "product_category": "Gas Stoves",
               "productTypeNonoperative": "Option Product",
-              "display_name": "Napoleon Arlington Gas Stove Models 20 Direct-Vent Gas Stove | GDS20"
+              "display_name": "Napoleon Arlington 20 Direct-Vent Gas Stove | GDS20"
             }
           ]
         },
@@ -13169,17 +13169,17 @@
             {
               "price": "$2,799",
               "manufacturerSku": "GDS20NNE",
-              "series_name": "Arlington Gas Stove Models",
               "base_sku": "GDS20",
               "fuel_type": "Gas",
               "gas_fuel_type": "Natural Gas",
               "ignition_type": "Electronic Ignition",
               "series_number": "20",
+              "series_name": "Arlington",
               "vent_type": "Direct-Vent",
               "style": "Traditional",
               "product_category": "Gas Stoves",
               "productTypeNonoperative": "Option Product",
-              "display_name": "Napoleon Arlington Gas Stove Models 20 Direct-Vent Gas Stove | GDS20"
+              "display_name": "Napoleon Arlington 20 Direct-Vent Gas Stove | GDS20"
             }
           ]
         },
@@ -13189,17 +13189,17 @@
             {
               "price": "$2,799",
               "manufacturerSku": "GDS20NNSB",
-              "series_name": "Arlington Gas Stove Models",
               "base_sku": "GDS20",
               "fuel_type": "Gas",
               "gas_fuel_type": "Natural Gas",
               "ignition_type": "Millivolt Ignition",
               "series_number": "20",
+              "series_name": "Arlington",
               "vent_type": "Direct-Vent",
               "style": "Traditional",
               "product_category": "Gas Stoves",
               "productTypeNonoperative": "Option Product",
-              "display_name": "Napoleon Arlington Gas Stove Models 20 Direct-Vent Gas Stove | GDS20"
+              "display_name": "Napoleon Arlington 20 Direct-Vent Gas Stove | GDS20"
             }
           ]
         },
@@ -13209,17 +13209,17 @@
             {
               "price": "$2,349",
               "manufacturerSku": "GDS20NSB",
-              "series_name": "Arlington Gas Stove Models",
               "base_sku": "GDS20",
               "fuel_type": "Gas",
               "gas_fuel_type": "Natural Gas",
               "ignition_type": "Millivolt Ignition",
               "series_number": "20",
+              "series_name": "Arlington",
               "vent_type": "Direct-Vent",
               "style": "Traditional",
               "product_category": "Gas Stoves",
               "productTypeNonoperative": "Option Product",
-              "display_name": "Napoleon Arlington Gas Stove Models 20 Direct-Vent Gas Stove | GDS20"
+              "display_name": "Napoleon Arlington 20 Direct-Vent Gas Stove | GDS20"
             }
           ]
         }
@@ -13272,7 +13272,7 @@
       ]
     },
     "series-40": {
-      "title": "S20 Wood Stove Models",
+      "title": "S20",
       "baseSku": [
         "S20"
       ],
@@ -13283,14 +13283,14 @@
             {
               "price": "$2,199",
               "manufacturerSku": "S20-1",
-              "series_name": "S20 Wood Stove Models",
               "base_sku": "S20",
               "fuel_type": "Wood",
               "series_number": "20",
+              "series_name": "S",
               "style": "Traditional",
               "product_category": "Wood Stoves",
               "productTypeNonoperative": "Product",
-              "display_name": "Napoleon S20 Wood Stove Models 20 Wood Stove | S20"
+              "display_name": "Napoleon S 20 Wood Stove | S20"
             }
           ]
         }
@@ -13383,7 +13383,7 @@
       ]
     },
     "series-41": {
-      "title": "S25 Wood Stove Models",
+      "title": "S25",
       "baseSku": [
         "S25"
       ],
@@ -13394,14 +13394,14 @@
             {
               "price": "$2,449",
               "manufacturerSku": "S25",
-              "series_name": "S25 Wood Stove Models",
               "base_sku": "S25",
               "fuel_type": "Wood",
               "series_number": "25",
+              "series_name": "S",
               "style": "Traditional",
               "product_category": "Wood Stoves",
               "productTypeNonoperative": "Product",
-              "display_name": "Napoleon S25 Wood Stove Models 25 Wood Stove | S25"
+              "display_name": "Napoleon S 25 Wood Stove | S25"
             }
           ]
         }
@@ -13480,7 +13480,7 @@
       ]
     },
     "series-42": {
-      "title": "Riverside Clean Face Outdoor",
+      "title": "Riverside",
       "baseSku": [
         "GSS42"
       ],
@@ -13491,17 +13491,17 @@
             {
               "price": "$4,799",
               "manufacturerSku": "GSS42CFN",
-              "series_name": "Riverside Clean Face Outdoor",
               "base_sku": "GSS42",
               "fuel_type": "Gas",
               "gas_fuel_type": "Natural Gas",
               "ignition_type": "Electronic Ignition",
               "series_number": "42",
+              "series_name": "Riverside",
               "vent_type": "Vented",
               "style": "Traditional",
               "product_category": "Gas Fireplaces",
               "productTypeNonoperative": "Option Product",
-              "display_name": "Napoleon Riverside Clean Face Outdoor 42 Vented Gas Fireplace | GSS42"
+              "display_name": "Napoleon Riverside 42 Vented Gas Fireplace | GSS42"
             }
           ]
         }
@@ -13568,7 +13568,7 @@
       ]
     },
     "series-43": {
-      "title": "Patioflame Models",
+      "title": "Patioflame",
       "baseSku": [],
       "units": [
         {
@@ -13577,17 +13577,17 @@
             {
               "price": "$1,329",
               "manufacturerSku": "GPFL48MHP",
-              "series_name": "Patioflame Models",
               "base_sku": "GPFL48",
               "fuel_type": "Gas",
               "gas_fuel_type": "Propane",
               "ignition_type": "Electronic Ignition",
               "series_number": "48",
+              "series_name": "Patioflame",
               "vent_type": "Vented",
               "style": "Linear",
               "product_category": "Gas Fireplaces",
               "productTypeNonoperative": "Option Product",
-              "display_name": "Napoleon Patioflame Models 48 Vented Gas Fireplace | GPFL48"
+              "display_name": "Napoleon Patioflame 48 Vented Gas Fireplace | GPFL48"
             }
           ]
         },
@@ -13597,17 +13597,17 @@
             {
               "price": "$1,159",
               "manufacturerSku": "GPFL48",
-              "series_name": "Patioflame Models",
               "base_sku": "GPFL48",
               "fuel_type": "Gas",
               "gas_fuel_type": "Propane",
               "ignition_type": "Electronic Ignition",
               "series_number": "48",
+              "series_name": "Patioflame",
               "vent_type": "Vented",
               "style": "Linear",
               "product_category": "Gas Fireplaces",
               "productTypeNonoperative": "Option Product",
-              "display_name": "Napoleon Patioflame Models 48 Vented Gas Fireplace | GPFL48"
+              "display_name": "Napoleon Patioflame 48 Vented Gas Fireplace | GPFL48"
             }
           ]
         },
@@ -13617,17 +13617,17 @@
             {
               "price": "$559",
               "manufacturerSku": "GPFS60",
-              "series_name": "Patioflame Models",
               "base_sku": "GPFS60",
               "fuel_type": "Gas",
               "gas_fuel_type": "Propane",
               "ignition_type": "Electronic Ignition",
               "series_number": "60",
+              "series_name": "Patioflame",
               "vent_type": "Vented",
               "style": "Traditional",
               "product_category": "Gas Fireplaces",
               "productTypeNonoperative": "Option Product",
-              "display_name": "Napoleon Patioflame Models 60 Vented Gas Fireplace | GPFS60"
+              "display_name": "Napoleon Patioflame 60 Vented Gas Fireplace | GPFS60"
             }
           ]
         },
@@ -13637,24 +13637,24 @@
             {
               "price": "$559",
               "manufacturerSku": "GPFR60",
-              "series_name": "Patioflame Models",
               "base_sku": "GPFR60",
               "fuel_type": "Gas",
               "gas_fuel_type": "Propane",
               "ignition_type": "Electronic Ignition",
               "series_number": "60",
+              "series_name": "Patioflame",
               "vent_type": "Vented",
               "style": "Linear",
               "product_category": "Gas Fireplaces",
               "productTypeNonoperative": "Option Product",
-              "display_name": "Napoleon Patioflame Models 60 Vented Gas Fireplace | GPFR60"
+              "display_name": "Napoleon Patioflame 60 Vented Gas Fireplace | GPFR60"
             }
           ]
         }
       ]
     },
     "series-44": {
-      "title": "Clearion Elite Electric",
+      "title": "Clearion Elite",
       "baseSku": [
         "NEFBD50HE",
         "NEFBD60HE"
@@ -13666,32 +13666,32 @@
             {
               "price": "$2,149",
               "manufacturerSku": "NEFBD50HE",
-              "series_name": "Clearion Elite Electric",
               "base_sku": "NEFBD50HE",
               "fuel_type": "Gas",
               "gas_fuel_type": "Natural Gas",
               "ignition_type": "Electronic Ignition",
               "series_number": "50",
+              "series_name": "Clearion Elite",
               "vent_type": "Vented",
               "style": "Traditional",
               "product_category": "Gas Fireplaces",
               "productTypeNonoperative": "Option Product",
-              "display_name": "Napoleon Clearion Elite Electric 50 Vented Gas Fireplace | NEFBD50HE"
+              "display_name": "Napoleon Clearion Elite 50 Vented Gas Fireplace | NEFBD50HE"
             },
             {
               "price": "$2,549",
               "manufacturerSku": "NEFBD60HE",
-              "series_name": "Clearion Elite Electric",
               "base_sku": "NEFBD60HE",
               "fuel_type": "Gas",
               "gas_fuel_type": "Natural Gas",
               "ignition_type": "Electronic Ignition",
               "series_number": "60",
+              "series_name": "Clearion Elite",
               "vent_type": "Vented",
               "style": "Traditional",
               "product_category": "Gas Fireplaces",
               "productTypeNonoperative": "Option Product",
-              "display_name": "Napoleon Clearion Elite Electric 60 Vented Gas Fireplace | NEFBD60HE"
+              "display_name": "Napoleon Clearion Elite 60 Vented Gas Fireplace | NEFBD60HE"
             }
           ]
         }
@@ -13783,7 +13783,7 @@
       ]
     },
     "series-45": {
-      "title": "Trivista Electric",
+      "title": "Trivista",
       "baseSku": [
         "NEFB50H-3SV",
         "NEFB60H-3SV"
@@ -13795,32 +13795,32 @@
             {
               "price": "$1,949",
               "manufacturerSku": "NEFB50H-3SV",
-              "series_name": "Trivista Electric",
               "base_sku": "NEFB50H-3SV",
               "fuel_type": "Gas",
               "gas_fuel_type": "Natural Gas",
               "ignition_type": "Electronic Ignition",
               "series_number": "50",
+              "series_name": "Trivista",
               "vent_type": "Vented",
               "style": "Traditional",
               "product_category": "Gas Fireplaces",
               "productTypeNonoperative": "Option Product",
-              "display_name": "Napoleon Trivista Electric 50 Vented Gas Fireplace | NEFB50H-3SV"
+              "display_name": "Napoleon Trivista 50 Vented Gas Fireplace | NEFB50H-3SV"
             },
             {
               "price": "$2,049",
               "manufacturerSku": "NEFB60H-3SV",
-              "series_name": "Trivista Electric",
               "base_sku": "NEFB60H-3SV",
               "fuel_type": "Gas",
               "gas_fuel_type": "Natural Gas",
               "ignition_type": "Electronic Ignition",
               "series_number": "60",
+              "series_name": "Trivista",
               "vent_type": "Vented",
               "style": "Traditional",
               "product_category": "Gas Fireplaces",
               "productTypeNonoperative": "Option Product",
-              "display_name": "Napoleon Trivista Electric 60 Vented Gas Fireplace | NEFB60H-3SV"
+              "display_name": "Napoleon Trivista 60 Vented Gas Fireplace | NEFB60H-3SV"
             }
           ]
         },
@@ -13831,7 +13831,7 @@
       ]
     },
     "series-46": {
-      "title": "Element Electric",
+      "title": "Element",
       "baseSku": [
         "NEFB36H-BS"
       ],
@@ -13842,17 +13842,17 @@
             {
               "price": "$999",
               "manufacturerSku": "NEFB36H-BS",
-              "series_name": "Element Electric",
               "base_sku": "NEFB36H-BS",
               "fuel_type": "Gas",
               "gas_fuel_type": "Natural Gas",
               "ignition_type": "Electronic Ignition",
               "series_number": "36",
+              "series_name": "Element",
               "vent_type": "Vented",
               "style": "Traditional",
               "product_category": "Gas Fireplaces",
               "productTypeNonoperative": "Option Product",
-              "display_name": "Napoleon Element Electric 36 Vented Gas Fireplace | NEFB36H-BS"
+              "display_name": "Napoleon Element 36 Vented Gas Fireplace | NEFB36H-BS"
             }
           ]
         },
@@ -13867,7 +13867,7 @@
       ]
     },
     "series-47": {
-      "title": "Cineview Electric",
+      "title": "Cineview",
       "baseSku": [
         "NEFB26H",
         "NEFB30H"
@@ -13879,32 +13879,32 @@
             {
               "price": "$649",
               "manufacturerSku": "NEFB26H",
-              "series_name": "Cineview Electric",
               "base_sku": "NEFB26H",
               "fuel_type": "Gas",
               "gas_fuel_type": "Natural Gas",
               "ignition_type": "Electronic Ignition",
               "series_number": "26",
+              "series_name": "Cineview",
               "vent_type": "Vented",
               "style": "Traditional",
               "product_category": "Gas Fireplaces",
               "productTypeNonoperative": "Option Product",
-              "display_name": "Napoleon Cineview Electric 26 Vented Gas Fireplace | NEFB26H"
+              "display_name": "Napoleon Cineview 26 Vented Gas Fireplace | NEFB26H"
             },
             {
               "price": "$799",
               "manufacturerSku": "NEFB30H",
-              "series_name": "Cineview Electric",
               "base_sku": "NEFB30H",
               "fuel_type": "Gas",
               "gas_fuel_type": "Natural Gas",
               "ignition_type": "Electronic Ignition",
               "series_number": "30",
+              "series_name": "Cineview",
               "vent_type": "Vented",
               "style": "Traditional",
               "product_category": "Gas Fireplaces",
               "productTypeNonoperative": "Option Product",
-              "display_name": "Napoleon Cineview Electric 30 Vented Gas Fireplace | NEFB30H"
+              "display_name": "Napoleon Cineview 30 Vented Gas Fireplace | NEFB30H"
             }
           ]
         }
@@ -13938,7 +13938,7 @@
       ]
     },
     "series-48": {
-      "title": "Ascent Electric",
+      "title": "Ascent",
       "baseSku": [
         "NEFB33H",
         "NEFB40H"
@@ -13950,32 +13950,32 @@
             {
               "price": "$1,349",
               "manufacturerSku": "NEFB33H",
-              "series_name": "Ascent Electric",
               "base_sku": "NEFB33H",
               "fuel_type": "Gas",
               "gas_fuel_type": "Natural Gas",
               "ignition_type": "Electronic Ignition",
               "series_number": "33",
+              "series_name": "Ascent",
               "vent_type": "Vented",
               "style": "Traditional",
               "product_category": "Gas Fireplaces",
               "productTypeNonoperative": "Option Product",
-              "display_name": "Napoleon Ascent Electric 33 Vented Gas Fireplace | NEFB33H"
+              "display_name": "Napoleon Ascent 33 Vented Gas Fireplace | NEFB33H"
             },
             {
               "price": "$1,649",
               "manufacturerSku": "NEFB40H",
-              "series_name": "Ascent Electric",
               "base_sku": "NEFB40H",
               "fuel_type": "Gas",
               "gas_fuel_type": "Natural Gas",
               "ignition_type": "Electronic Ignition",
               "series_number": "40",
+              "series_name": "Ascent",
               "vent_type": "Vented",
               "style": "Traditional",
               "product_category": "Gas Fireplaces",
               "productTypeNonoperative": "Option Product",
-              "display_name": "Napoleon Ascent Electric 40 Vented Gas Fireplace | NEFB40H"
+              "display_name": "Napoleon Ascent 40 Vented Gas Fireplace | NEFB40H"
             }
           ]
         },
@@ -13990,7 +13990,7 @@
       ]
     },
     "series-49": {
-      "title": "Stylus Electric",
+      "title": "Stylus",
       "baseSku": [],
       "units": [
         {
@@ -13999,17 +13999,17 @@
             {
               "price": "$949",
               "manufacturerSku": "NEFP32-5019W",
-              "series_name": "Stylus Electric",
               "base_sku": "NEFP32",
               "fuel_type": "Gas",
               "gas_fuel_type": "Natural Gas",
               "ignition_type": "Electronic Ignition",
               "series_number": "32",
+              "series_name": "Stylus",
               "vent_type": "Vented",
               "style": "Traditional",
               "product_category": "Gas Fireplaces",
               "productTypeNonoperative": "Option Product",
-              "display_name": "Napoleon Stylus Electric 32 Vented Gas Fireplace | NEFP32"
+              "display_name": "Napoleon Stylus 32 Vented Gas Fireplace | NEFP32"
             }
           ]
         },
@@ -14019,17 +14019,17 @@
             {
               "price": "$1,149",
               "manufacturerSku": "NEFP32-5320BW",
-              "series_name": "Stylus Electric",
               "base_sku": "NEFP32",
               "fuel_type": "Gas",
               "gas_fuel_type": "Natural Gas",
               "ignition_type": "Electronic Ignition",
               "series_number": "32",
+              "series_name": "Stylus",
               "vent_type": "Vented",
               "style": "Traditional",
               "product_category": "Gas Fireplaces",
               "productTypeNonoperative": "Option Product",
-              "display_name": "Napoleon Stylus Electric 32 Vented Gas Fireplace | NEFP32"
+              "display_name": "Napoleon Stylus 32 Vented Gas Fireplace | NEFP32"
             }
           ]
         },
@@ -14048,7 +14048,7 @@
       ]
     },
     "series-50": {
-      "title": "Alluravision Deep Depth Electric",
+      "title": "Alluravision Deep Depth",
       "baseSku": [],
       "units": [
         {
@@ -14057,17 +14057,17 @@
             {
               "price": "$1,249",
               "manufacturerSku": "NEFL42CHD-1",
-              "series_name": "Alluravision Deep Depth Electric",
               "base_sku": "NEFL42",
               "fuel_type": "Gas",
               "gas_fuel_type": "Natural Gas",
               "ignition_type": "Electronic Ignition",
               "series_number": "42",
+              "series_name": "Alluravision Deep Depth",
               "vent_type": "Vented",
               "style": "Linear",
               "product_category": "Gas Fireplaces",
               "productTypeNonoperative": "Option Product",
-              "display_name": "Napoleon Alluravision Deep Depth Electric 42 Vented Gas Fireplace | NEFL42"
+              "display_name": "Napoleon Alluravision Deep Depth 42 Vented Gas Fireplace | NEFL42"
             }
           ]
         },
@@ -14077,17 +14077,17 @@
             {
               "price": "$1,499",
               "manufacturerSku": "NEFL50CHD-1",
-              "series_name": "Alluravision Deep Depth Electric",
               "base_sku": "NEFL50",
               "fuel_type": "Gas",
               "gas_fuel_type": "Natural Gas",
               "ignition_type": "Electronic Ignition",
               "series_number": "50",
+              "series_name": "Alluravision Deep Depth",
               "vent_type": "Vented",
               "style": "Linear",
               "product_category": "Gas Fireplaces",
               "productTypeNonoperative": "Option Product",
-              "display_name": "Napoleon Alluravision Deep Depth Electric 50 Vented Gas Fireplace | NEFL50"
+              "display_name": "Napoleon Alluravision Deep Depth 50 Vented Gas Fireplace | NEFL50"
             }
           ]
         },
@@ -14097,17 +14097,17 @@
             {
               "price": "$1,599",
               "manufacturerSku": "NEFL60CHD-1",
-              "series_name": "Alluravision Deep Depth Electric",
               "base_sku": "NEFL60",
               "fuel_type": "Gas",
               "gas_fuel_type": "Natural Gas",
               "ignition_type": "Electronic Ignition",
               "series_number": "60",
+              "series_name": "Alluravision Deep Depth",
               "vent_type": "Vented",
               "style": "Linear",
               "product_category": "Gas Fireplaces",
               "productTypeNonoperative": "Option Product",
-              "display_name": "Napoleon Alluravision Deep Depth Electric 60 Vented Gas Fireplace | NEFL60"
+              "display_name": "Napoleon Alluravision Deep Depth 60 Vented Gas Fireplace | NEFL60"
             }
           ]
         },
@@ -14117,17 +14117,17 @@
             {
               "price": "$1,949",
               "manufacturerSku": "NEFL74CHD-1",
-              "series_name": "Alluravision Deep Depth Electric",
               "base_sku": "NEFL74",
               "fuel_type": "Gas",
               "gas_fuel_type": "Natural Gas",
               "ignition_type": "Electronic Ignition",
               "series_number": "74",
+              "series_name": "Alluravision Deep Depth",
               "vent_type": "Vented",
               "style": "Linear",
               "product_category": "Gas Fireplaces",
               "productTypeNonoperative": "Option Product",
-              "display_name": "Napoleon Alluravision Deep Depth Electric 74 Vented Gas Fireplace | NEFL74"
+              "display_name": "Napoleon Alluravision Deep Depth 74 Vented Gas Fireplace | NEFL74"
             }
           ]
         },
@@ -14137,17 +14137,17 @@
             {
               "price": "$2,399",
               "manufacturerSku": "NEFL100CHD-1",
-              "series_name": "Alluravision Deep Depth Electric",
               "base_sku": "NEFL100",
               "fuel_type": "Gas",
               "gas_fuel_type": "Natural Gas",
               "ignition_type": "Electronic Ignition",
               "series_number": "100",
+              "series_name": "Alluravision Deep Depth",
               "vent_type": "Vented",
               "style": "Linear",
               "product_category": "Gas Fireplaces",
               "productTypeNonoperative": "Option Product",
-              "display_name": "Napoleon Alluravision Deep Depth Electric 100 Vented Gas Fireplace | NEFL100"
+              "display_name": "Napoleon Alluravision Deep Depth 100 Vented Gas Fireplace | NEFL100"
             }
           ]
         },
@@ -14158,7 +14158,7 @@
       ]
     },
     "series-51": {
-      "title": "Alluravision Slimline Electric",
+      "title": "Alluravision Slimline",
       "baseSku": [],
       "units": [
         {
@@ -14167,17 +14167,17 @@
             {
               "price": "$1,099",
               "manufacturerSku": "NEFL42CHS-1",
-              "series_name": "Alluravision Slimline Electric",
               "base_sku": "NEFL42",
               "fuel_type": "Gas",
               "gas_fuel_type": "Natural Gas",
               "ignition_type": "Electronic Ignition",
               "series_number": "42",
+              "series_name": "Alluravision Slimline",
               "vent_type": "Vented",
               "style": "Linear",
               "product_category": "Gas Fireplaces",
               "productTypeNonoperative": "Option Product",
-              "display_name": "Napoleon Alluravision Slimline Electric 42 Vented Gas Fireplace | NEFL42"
+              "display_name": "Napoleon Alluravision Slimline 42 Vented Gas Fireplace | NEFL42"
             }
           ]
         },
@@ -14187,17 +14187,17 @@
             {
               "price": "$1,299",
               "manufacturerSku": "NEFL50CHS-1",
-              "series_name": "Alluravision Slimline Electric",
               "base_sku": "NEFL50",
               "fuel_type": "Gas",
               "gas_fuel_type": "Natural Gas",
               "ignition_type": "Electronic Ignition",
               "series_number": "50",
+              "series_name": "Alluravision Slimline",
               "vent_type": "Vented",
               "style": "Linear",
               "product_category": "Gas Fireplaces",
               "productTypeNonoperative": "Option Product",
-              "display_name": "Napoleon Alluravision Slimline Electric 50 Vented Gas Fireplace | NEFL50"
+              "display_name": "Napoleon Alluravision Slimline 50 Vented Gas Fireplace | NEFL50"
             }
           ]
         },
@@ -14207,17 +14207,17 @@
             {
               "price": "$1,399",
               "manufacturerSku": "NEFL60CHS-1",
-              "series_name": "Alluravision Slimline Electric",
               "base_sku": "NEFL60",
               "fuel_type": "Gas",
               "gas_fuel_type": "Natural Gas",
               "ignition_type": "Electronic Ignition",
               "series_number": "60",
+              "series_name": "Alluravision Slimline",
               "vent_type": "Vented",
               "style": "Linear",
               "product_category": "Gas Fireplaces",
               "productTypeNonoperative": "Option Product",
-              "display_name": "Napoleon Alluravision Slimline Electric 60 Vented Gas Fireplace | NEFL60"
+              "display_name": "Napoleon Alluravision Slimline 60 Vented Gas Fireplace | NEFL60"
             }
           ]
         },
@@ -14227,17 +14227,17 @@
             {
               "price": "$1,799",
               "manufacturerSku": "NEFL74CHS-1",
-              "series_name": "Alluravision Slimline Electric",
               "base_sku": "NEFL74",
               "fuel_type": "Gas",
               "gas_fuel_type": "Natural Gas",
               "ignition_type": "Electronic Ignition",
               "series_number": "74",
+              "series_name": "Alluravision Slimline",
               "vent_type": "Vented",
               "style": "Linear",
               "product_category": "Gas Fireplaces",
               "productTypeNonoperative": "Option Product",
-              "display_name": "Napoleon Alluravision Slimline Electric 74 Vented Gas Fireplace | NEFL74"
+              "display_name": "Napoleon Alluravision Slimline 74 Vented Gas Fireplace | NEFL74"
             }
           ]
         }
@@ -14260,7 +14260,7 @@
       ]
     },
     "series-52": {
-      "title": "Entice Electric",
+      "title": "Entice",
       "baseSku": [],
       "units": [
         {
@@ -14269,17 +14269,17 @@
             {
               "price": "$599",
               "manufacturerSku": "NEFL36CFH",
-              "series_name": "Entice Electric",
               "base_sku": "NEFL36",
               "fuel_type": "Gas",
               "gas_fuel_type": "Natural Gas",
               "ignition_type": "Electronic Ignition",
               "series_number": "36",
+              "series_name": "Entice",
               "vent_type": "Vented",
               "style": "Linear",
               "product_category": "Gas Fireplaces",
               "productTypeNonoperative": "Option Product",
-              "display_name": "Napoleon Entice Electric 36 Vented Gas Fireplace | NEFL36"
+              "display_name": "Napoleon Entice 36 Vented Gas Fireplace | NEFL36"
             }
           ]
         },
@@ -14289,17 +14289,17 @@
             {
               "price": "$799",
               "manufacturerSku": "NEFL42CFH",
-              "series_name": "Entice Electric",
               "base_sku": "NEFL42",
               "fuel_type": "Gas",
               "gas_fuel_type": "Natural Gas",
               "ignition_type": "Electronic Ignition",
               "series_number": "42",
+              "series_name": "Entice",
               "vent_type": "Vented",
               "style": "Linear",
               "product_category": "Gas Fireplaces",
               "productTypeNonoperative": "Option Product",
-              "display_name": "Napoleon Entice Electric 42 Vented Gas Fireplace | NEFL42"
+              "display_name": "Napoleon Entice 42 Vented Gas Fireplace | NEFL42"
             }
           ]
         },
@@ -14309,17 +14309,17 @@
             {
               "price": "$1,049",
               "manufacturerSku": "NEFL50CFH",
-              "series_name": "Entice Electric",
               "base_sku": "NEFL50",
               "fuel_type": "Gas",
               "gas_fuel_type": "Natural Gas",
               "ignition_type": "Electronic Ignition",
               "series_number": "50",
+              "series_name": "Entice",
               "vent_type": "Vented",
               "style": "Linear",
               "product_category": "Gas Fireplaces",
               "productTypeNonoperative": "Option Product",
-              "display_name": "Napoleon Entice Electric 50 Vented Gas Fireplace | NEFL50"
+              "display_name": "Napoleon Entice 50 Vented Gas Fireplace | NEFL50"
             }
           ]
         },
@@ -14329,17 +14329,17 @@
             {
               "price": "$1,249",
               "manufacturerSku": "NEFL60CFH",
-              "series_name": "Entice Electric",
               "base_sku": "NEFL60",
               "fuel_type": "Gas",
               "gas_fuel_type": "Natural Gas",
               "ignition_type": "Electronic Ignition",
               "series_number": "60",
+              "series_name": "Entice",
               "vent_type": "Vented",
               "style": "Linear",
               "product_category": "Gas Fireplaces",
               "productTypeNonoperative": "Option Product",
-              "display_name": "Napoleon Entice Electric 60 Vented Gas Fireplace | NEFL60"
+              "display_name": "Napoleon Entice 60 Vented Gas Fireplace | NEFL60"
             }
           ]
         },
@@ -14349,17 +14349,17 @@
             {
               "price": "$1,449",
               "manufacturerSku": "NEFL72CFH",
-              "series_name": "Entice Electric",
               "base_sku": "NEFL72",
               "fuel_type": "Gas",
               "gas_fuel_type": "Natural Gas",
               "ignition_type": "Electronic Ignition",
               "series_number": "72",
+              "series_name": "Entice",
               "vent_type": "Vented",
               "style": "Linear",
               "product_category": "Gas Fireplaces",
               "productTypeNonoperative": "Option Product",
-              "display_name": "Napoleon Entice Electric 72 Vented Gas Fireplace | NEFL72"
+              "display_name": "Napoleon Entice 72 Vented Gas Fireplace | NEFL72"
             }
           ]
         }
@@ -14492,7 +14492,7 @@
       ]
     },
     "series-53": {
-      "title": "Allure Vertical Electric",
+      "title": "Allure Vertical",
       "baseSku": [],
       "units": [
         {
@@ -14501,17 +14501,17 @@
             {
               "price": "$399",
               "manufacturerSku": "NEFVC32H",
-              "series_name": "Allure Vertical Electric",
               "base_sku": "NEFVC32",
               "fuel_type": "Gas",
               "gas_fuel_type": "Natural Gas",
               "ignition_type": "Electronic Ignition",
               "series_number": "32",
+              "series_name": "Allure Vertical",
               "vent_type": "Vented",
               "style": "Vertical",
               "product_category": "Gas Fireplaces",
               "productTypeNonoperative": "Option Product",
-              "display_name": "Napoleon Allure Vertical Electric 32 Vented Gas Fireplace | NEFVC32"
+              "display_name": "Napoleon Allure Vertical 32 Vented Gas Fireplace | NEFVC32"
             }
           ]
         },
@@ -14521,17 +14521,17 @@
             {
               "price": "$599",
               "manufacturerSku": "NEFVC38H",
-              "series_name": "Allure Vertical Electric",
               "base_sku": "NEFVC38",
               "fuel_type": "Gas",
               "gas_fuel_type": "Natural Gas",
               "ignition_type": "Electronic Ignition",
               "series_number": "38",
+              "series_name": "Allure Vertical",
               "vent_type": "Vented",
               "style": "Vertical",
               "product_category": "Gas Fireplaces",
               "productTypeNonoperative": "Option Product",
-              "display_name": "Napoleon Allure Vertical Electric 38 Vented Gas Fireplace | NEFVC38"
+              "display_name": "Napoleon Allure Vertical 38 Vented Gas Fireplace | NEFVC38"
             }
           ]
         },
@@ -14546,7 +14546,7 @@
       ]
     },
     "series-54": {
-      "title": "The Taylor Electric",
+      "title": "The Taylor",
       "baseSku": [
         "NEFP33-0214W"
       ],
@@ -14557,17 +14557,17 @@
             {
               "price": "$1,749",
               "manufacturerSku": "NEFP33-0214W",
-              "series_name": "The Taylor Electric",
               "base_sku": "NEFP33-0214W",
               "fuel_type": "Gas",
               "gas_fuel_type": "Natural Gas",
               "ignition_type": "Electronic Ignition",
               "series_number": "33",
+              "series_name": "The Taylor",
               "vent_type": "Vented",
               "style": "Traditional",
               "product_category": "Gas Fireplaces",
               "productTypeNonoperative": "Option Product",
-              "display_name": "Napoleon The Taylor Electric 33 Vented Gas Fireplace | NEFP33-0214W"
+              "display_name": "Napoleon The Taylor 33 Vented Gas Fireplace | NEFP33-0214W"
             }
           ]
         },
@@ -14586,7 +14586,7 @@
       ]
     },
     "series-55": {
-      "title": "Woodland Electric Log Set Models",
+      "title": "Woodland",
       "baseSku": [],
       "units": [
         {
@@ -14595,14 +14595,14 @@
             {
               "price": "$499",
               "manufacturerSku": "NEFI18H",
-              "series_name": "Woodland Electric Log Set Models",
               "base_sku": "NEFI18",
               "fuel_type": "Wood",
               "series_number": "18",
+              "series_name": "Woodland",
               "style": "Traditional",
               "product_category": "Gas Fireplaces",
               "productTypeNonoperative": "Option Product",
-              "display_name": "Napoleon Woodland Electric Log Set Models 18 Gas Fireplace | NEFI18"
+              "display_name": "Napoleon Woodland 18 Gas Fireplace | NEFI18"
             }
           ]
         },
@@ -14612,14 +14612,14 @@
             {
               "price": "$599",
               "manufacturerSku": "NEFI24H",
-              "series_name": "Woodland Electric Log Set Models",
               "base_sku": "NEFI24",
               "fuel_type": "Wood",
               "series_number": "24",
+              "series_name": "Woodland",
               "style": "Traditional",
               "product_category": "Gas Fireplaces",
               "productTypeNonoperative": "Option Product",
-              "display_name": "Napoleon Woodland Electric Log Set Models 24 Gas Fireplace | NEFI24"
+              "display_name": "Napoleon Woodland 24 Gas Fireplace | NEFI24"
             }
           ]
         },
@@ -14629,14 +14629,14 @@
             {
               "price": "$699",
               "manufacturerSku": "NEFI27H",
-              "series_name": "Woodland Electric Log Set Models",
               "base_sku": "NEFI27",
               "fuel_type": "Wood",
               "series_number": "27",
+              "series_name": "Woodland",
               "style": "Traditional",
               "product_category": "Gas Fireplaces",
               "productTypeNonoperative": "Option Product",
-              "display_name": "Napoleon Woodland Electric Log Set Models 27 Gas Fireplace | NEFI27"
+              "display_name": "Napoleon Woodland 27 Gas Fireplace | NEFI27"
             }
           ]
         },
@@ -14647,7 +14647,7 @@
       ]
     },
     "series-56": {
-      "title": "Wood Burning Stove Models",
+      "title": "",
       "baseSku": [],
       "units": [
         {
@@ -14656,14 +14656,14 @@
             {
               "price": "$1,199",
               "manufacturerSku": "2100-1",
-              "series_name": "Wood Burning Stove Models",
               "base_sku": "2100",
               "fuel_type": "Wood",
               "series_number": "2100",
+              "series_name": "",
               "style": "Traditional",
               "product_category": "Wood Stoves",
               "productTypeNonoperative": "Product",
-              "display_name": "Napoleon Wood Burning Stove Models 2100 Wood Stove | 2100"
+              "display_name": "Napoleon 2100 Wood Stove | 2100"
             }
           ]
         },
@@ -14673,14 +14673,14 @@
             {
               "price": "$1,299",
               "manufacturerSku": "2200-1",
-              "series_name": "Wood Burning Stove Models",
               "base_sku": "2200",
               "fuel_type": "Wood",
               "series_number": "2200",
+              "series_name": "",
               "style": "Traditional",
               "product_category": "Wood Stoves",
               "productTypeNonoperative": "Product",
-              "display_name": "Napoleon Wood Burning Stove Models 2200 Wood Stove | 2200"
+              "display_name": "Napoleon 2200 Wood Stove | 2200"
             }
           ]
         }
@@ -14773,7 +14773,7 @@
       ]
     },
     "series-57": {
-      "title": "Wood Burning Insert Models",
+      "title": "",
       "baseSku": [],
       "units": [
         {
@@ -14782,14 +14782,14 @@
             {
               "price": "$2,149",
               "manufacturerSku": "EPI22-1",
-              "series_name": "Wood Burning Insert Models",
               "base_sku": "EPI22",
               "fuel_type": "Wood",
               "series_number": "22",
+              "series_name": "",
               "style": "Traditional",
               "product_category": "Wood Fireplaces",
               "productTypeNonoperative": "Product",
-              "display_name": "Napoleon Wood Burning Insert Models 22 Wood Fireplace | EPI22"
+              "display_name": "Napoleon 22 Wood Fireplace | EPI22"
             }
           ]
         }

@@ -69,12 +69,12 @@ def build_db(database: Dict):
     # Remove 'content' key, value pair from each series in 'series'
     db = remove_content_sections(database)
     db = sanitize_series_names(db)
-    db = add_series_name(db)
     db = add_base_skus(db)
     db = add_fuel_type(db)    # ! Add before 'ignition_type'
     db = add_gas_fuel_type(db)
     db = add_ignition_type(db)
     db = add_series_number(db)
+    db = add_series_name(db)
     db = add_vent_type(db)
     db = add_style(db)
     db = add_product_category(db)
@@ -103,22 +103,24 @@ def remove_content_sections(database: Dict) -> Dict:
 
 def sanitize_series_names(database: Dict) -> Dict:
     for info in database['series'].values():
-        new_title = re.sub(r'(SERIES FIREPLACE MODELS|FIREPLACE MODELS|FIREPLACE).*',
+        new_title = re.sub(r'''
+                           (
+                            SERIES\sFIREPLACE\sMODELS
+                            |FIREPLACE\sMODELS
+                            |\bFIREPLACE\b
+                            |\bMODELS\b
+                            |\bWOOD\b
+                            |\bGAS\b
+                            |(?<!S)\sSERIES
+                            |Clean\sFace\sOutdoor
+                            |Electric
+                            ).*
+                           ''',
                            '',
                            info['title'],
-                           flags=re.IGNORECASE | re.UNICODE).encode("ascii", "ignore").decode().strip()
+                           flags=re.IGNORECASE | re.UNICODE | re.VERBOSE).encode("ascii", "ignore").decode().strip()
         new_title = re.sub(r'\s{2,}', ' ', new_title).title()
         info['title'] = new_title
-    return database
-
-
-def add_series_name(database: Dict) -> Dict:
-    for series_info in database['series'].values():
-        series_name = series_info['title']
-        for product_line in series_info['units']:
-            for unit in product_line['details']:
-                if unit:
-                    unit['series_name'] = series_name
     return database
 
 
@@ -230,6 +232,18 @@ def add_series_number(database: Dict) -> Dict:
     return database
 
 
+def add_series_name(database: Dict) -> Dict:
+    for series_info in database['series'].values():
+        series_name = series_info['title']
+        for product_line in series_info['units']:
+            for unit in product_line['details']:
+                if unit:
+                    # Cleaning up series name because the series number are duplicated sometimes!
+                    sanitized_series_name = series_name.rstrip(unit.get("series_number")).strip()
+                    unit['series_name'] = sanitized_series_name
+    return database
+
+
 def add_vent_type(database: Dict) -> Dict:
     for series_info in database['series'].values():
         for product_line in series_info['units']:
@@ -313,14 +327,6 @@ def add_product_category(database: Dict) -> Dict:
 
 
 def add_productTypeNonoperative(database: Dict) -> Dict:
-    # PRODUCT_TYPE_NONOPERATIVE_MAPPING = {'log set': 'Media Kits',
-    #                                       'panel': 'Interior Panels',
-    #                                       'illusion glass': 'Interior Panels',
-    #                                       'trim': 'Trim Kits',
-    #                                       'element': 'Front Accents',    # ! this before 'front', because some items with 'element' also have 'front', such as 'Arched Iron Elements - Antique Pewter (Fits on Whitney front)'
-    #                                       'front': 'Decorative Fronts',
-    #                                       'conversion': 'Conversion Kits',
-    #                                       }
     for series_info in database['series'].values():
         # For series's units
         for product_line in series_info['units']:
@@ -350,9 +356,7 @@ def add_display_name(database: Dict) -> Dict:
         for product_line in series_info['units']:
             for unit in product_line['details']:
                 if unit:
-                    # Cleaning up series name because the series number are duplicated sometimes!
-                    sanitized_series_name = unit.get("series_name", "").rstrip(unit.get("series_number")).strip()
-                    series_name_number = f'{sanitized_series_name} {unit.get("series_number", "")}'.strip()
+                    series_name_number = f'{unit.get("series_name", "")} {unit.get("series_number", "")}'.strip()
 
                     product_category = unit.get("product_category", "").rstrip('s')
 
