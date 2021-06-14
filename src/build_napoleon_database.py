@@ -276,6 +276,7 @@ def add_product_category(database: Dict) -> Dict:
 
 def add_display_name(database: Dict) -> Dict:
     for series_info in database['series'].values():
+        # For series's units
         for product_line in series_info['units']:
             for unit in product_line['details']:
                 if unit:
@@ -294,6 +295,14 @@ def add_display_name(database: Dict) -> Dict:
                         # unit['display_name'] = f'Napoleon {series_name_number} {unit.get("style", "")} {unit.get("product_category", "")} | {unit.get("base_sku", "")}'
                         # ! remove 'style' for now
                         unit['display_name'] = f'Napoleon {series_name_number} {unit.get("product_category", "")} | {unit.get("base_sku", "")}'
+
+        # For series's variants
+        if series_info.get('variations'):
+            for product_line in series_info['variations']:
+                variation_name = product_line['name']
+                for variation in product_line['details']:
+                    if variation:
+                        variation['display_name'] = f'Napoleon {variation_name} | {variation.get("manufacturerSku", "")}'
 
     return database
 
