@@ -132,6 +132,8 @@ def add_fuel_type(database: Dict) -> Dict:
                 if unit:
                     if re.search(r'wood', product_line_name, flags=re.IGNORECASE):
                         unit['fuel_type'] = 'Wood'
+                    elif re.search(r'electric', product_line_name, flags=re.IGNORECASE):
+                        unit['fuel_type'] = 'Electric'
                     elif re.search(r'propane|gas', product_line_name, flags=re.IGNORECASE):
                         unit['fuel_type'] = 'Gas'
                     elif re.search(r'pellet', product_line_name, flags=re.IGNORECASE):
@@ -302,9 +304,17 @@ def add_product_category(database: Dict) -> Dict:
             product_line_name = product_line['name']
             for unit in product_line['details']:
                 if unit:
-                    product_category = re.search(r'wood fireplace|wood stove|gas insert|gas stove|gas log set',
+                    product_category = re.search(r'''
+                                                 wood\ fireplace
+                                                 |electric\ fireplace
+                                                 |wood\ stove
+                                                 |gas\ insert
+                                                 |gas\ stove
+                                                 |gas\ log\sset
+                                                 |electric\ log\ set
+                                                 ''',
                                                  product_line_name,
-                                                 flags=re.IGNORECASE)
+                                                 flags=re.IGNORECASE | re.VERBOSE)
                     if product_category:
                         unit['product_category'] = product_category[0].title() + 's'
                     else:
