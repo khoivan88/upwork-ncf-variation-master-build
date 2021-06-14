@@ -2185,7 +2185,7 @@
               "ignition_type": "Electronic Ignition",
               "series_number": "36",
               "vent_type": "Direct-Vent",
-              "style": "Linear",
+              "style": "Traditional",
               "product_category": "Gas Fireplaces",
               "display_name": "Napoleon Elevation X 36 Direct-Vent Gas Fireplace | EX36"
             },
@@ -2199,7 +2199,7 @@
               "ignition_type": "Electronic Ignition",
               "series_number": "42",
               "vent_type": "Direct-Vent",
-              "style": "Linear",
+              "style": "Traditional",
               "product_category": "Gas Fireplaces",
               "display_name": "Napoleon Elevation X 42 Direct-Vent Gas Fireplace | EX42"
             }
@@ -2218,7 +2218,7 @@
               "ignition_type": "Electronic Ignition",
               "series_number": "36",
               "vent_type": "Direct-Vent",
-              "style": "Linear",
+              "style": "Traditional",
               "product_category": "Gas Fireplaces",
               "display_name": "Napoleon Elevation X 36 Direct-Vent Gas Fireplace | EX36"
             },
@@ -2232,7 +2232,7 @@
               "ignition_type": "Electronic Ignition",
               "series_number": "42",
               "vent_type": "Direct-Vent",
-              "style": "Linear",
+              "style": "Traditional",
               "product_category": "Gas Fireplaces",
               "display_name": "Napoleon Elevation X 42 Direct-Vent Gas Fireplace | EX42"
             }
@@ -11403,7 +11403,7 @@
               "ignition_type": "Electronic Ignition",
               "series_number": "18",
               "vent_type": "Vented",
-              "style": "Traditional",
+              "style": "Linear",
               "product_category": "Gas Fireplaces",
               "display_name": "Napoleon Fiberglow Gas Log Set Models 18 Vented Gas Fireplace | GL18"
             },
@@ -11417,7 +11417,7 @@
               "ignition_type": "Electronic Ignition",
               "series_number": "24",
               "vent_type": "Vented",
-              "style": "Traditional",
+              "style": "Linear",
               "product_category": "Gas Fireplaces",
               "display_name": "Napoleon Fiberglow Gas Log Set Models 24 Vented Gas Fireplace | GL24"
             },
@@ -11431,7 +11431,7 @@
               "ignition_type": "Electronic Ignition",
               "series_number": "30",
               "vent_type": "Vented",
-              "style": "Traditional",
+              "style": "Linear",
               "product_category": "Gas Fireplaces",
               "display_name": "Napoleon Fiberglow Gas Log Set Models 30 Vented Gas Fireplace | GL30"
             }
@@ -11460,7 +11460,7 @@
               "ignition_type": "Electronic Ignition",
               "series_number": "18",
               "vent_type": "Vent-Free",
-              "style": "Traditional",
+              "style": "Linear",
               "product_category": "Gas Fireplaces",
               "display_name": "Napoleon Fiberglow Gas Log Set Models 18 Vent-Free Gas Fireplace | GVFL18"
             },
@@ -11474,7 +11474,7 @@
               "ignition_type": "Electronic Ignition",
               "series_number": "24",
               "vent_type": "Vent-Free",
-              "style": "Traditional",
+              "style": "Linear",
               "product_category": "Gas Fireplaces",
               "display_name": "Napoleon Fiberglow Gas Log Set Models 24 Vent-Free Gas Fireplace | GVFL24"
             },
@@ -11488,7 +11488,7 @@
               "ignition_type": "Electronic Ignition",
               "series_number": "30",
               "vent_type": "Vent-Free",
-              "style": "Traditional",
+              "style": "Linear",
               "product_category": "Gas Fireplaces",
               "display_name": "Napoleon Fiberglow Gas Log Set Models 30 Vent-Free Gas Fireplace | GVFL30"
             }
@@ -11507,7 +11507,7 @@
               "ignition_type": "Electronic Ignition",
               "series_number": "18",
               "vent_type": "Vent-Free",
-              "style": "Traditional",
+              "style": "Linear",
               "product_category": "Gas Fireplaces",
               "display_name": "Napoleon Fiberglow Gas Log Set Models 18 Vent-Free Gas Fireplace | GVFL18"
             },
@@ -11521,7 +11521,7 @@
               "ignition_type": "Electronic Ignition",
               "series_number": "24",
               "vent_type": "Vent-Free",
-              "style": "Traditional",
+              "style": "Linear",
               "product_category": "Gas Fireplaces",
               "display_name": "Napoleon Fiberglow Gas Log Set Models 24 Vent-Free Gas Fireplace | GVFL24"
             },
@@ -11535,7 +11535,7 @@
               "ignition_type": "Electronic Ignition",
               "series_number": "30",
               "vent_type": "Vent-Free",
-              "style": "Traditional",
+              "style": "Linear",
               "product_category": "Gas Fireplaces",
               "display_name": "Napoleon Fiberglow Gas Log Set Models 30 Vent-Free Gas Fireplace | GVFL30"
             }
@@ -13012,7 +13012,7 @@
               "gas_fuel_type": "Natural Gas",
               "ignition_type": "Electronic Ignition",
               "vent_type": "Vented",
-              "style": "Traditional",
+              "style": "Linear",
               "product_category": "Gas Fireplaces",
               "display_name": "Napoleon Alluravision Deep Depth Electric Vented Gas Fireplace | "
             }
@@ -13029,7 +13029,7 @@
               "gas_fuel_type": "Natural Gas",
               "ignition_type": "Electronic Ignition",
               "vent_type": "Vented",
-              "style": "Traditional",
+              "style": "Linear",
               "product_category": "Gas Fireplaces",
               "display_name": "Napoleon Alluravision Deep Depth Electric Vented Gas Fireplace | "
             }
@@ -13046,7 +13046,7 @@
               "gas_fuel_type": "Natural Gas",
               "ignition_type": "Electronic Ignition",
               "vent_type": "Vented",
-              "style": "Traditional",
+              "style": "Linear",
               "product_category": "Gas Fireplaces",
               "display_name": "Napoleon Alluravision Deep Depth Electric Vented Gas Fireplace | "
             }
@@ -13063,7 +13063,7 @@
               "gas_fuel_type": "Natural Gas",
               "ignition_type": "Electronic Ignition",
               "vent_type": "Vented",
-              "style": "Traditional",
+              "style": "Linear",
               "product_category": "Gas Fireplaces",
               "display_name": "Napoleon Alluravision Deep Depth Electric Vented Gas Fireplace | "
             }
@@ -13080,7 +13080,7 @@
               "gas_fuel_type": "Natural Gas",
               "ignition_type": "Electronic Ignition",
               "vent_type": "Vented",
-              "style": "Traditional",
+              "style": "Linear",
               "product_category": "Gas Fireplaces",
               "display_name": "Napoleon Alluravision Deep Depth Electric Vented Gas Fireplace | "
             }
@@ -13107,7 +13107,7 @@
               "gas_fuel_type": "Natural Gas",
               "ignition_type": "Electronic Ignition",
               "vent_type": "Vented",
-              "style": "Traditional",
+              "style": "Linear",
               "product_category": "Gas Fireplaces",
               "display_name": "Napoleon Alluravision Slimline Electric Vented Gas Fireplace | "
             }
@@ -13124,7 +13124,7 @@
               "gas_fuel_type": "Natural Gas",
               "ignition_type": "Electronic Ignition",
               "vent_type": "Vented",
-              "style": "Traditional",
+              "style": "Linear",
               "product_category": "Gas Fireplaces",
               "display_name": "Napoleon Alluravision Slimline Electric Vented Gas Fireplace | "
             }
@@ -13141,7 +13141,7 @@
               "gas_fuel_type": "Natural Gas",
               "ignition_type": "Electronic Ignition",
               "vent_type": "Vented",
-              "style": "Traditional",
+              "style": "Linear",
               "product_category": "Gas Fireplaces",
               "display_name": "Napoleon Alluravision Slimline Electric Vented Gas Fireplace | "
             }
@@ -13158,7 +13158,7 @@
               "gas_fuel_type": "Natural Gas",
               "ignition_type": "Electronic Ignition",
               "vent_type": "Vented",
-              "style": "Traditional",
+              "style": "Linear",
               "product_category": "Gas Fireplaces",
               "display_name": "Napoleon Alluravision Slimline Electric Vented Gas Fireplace | "
             }
@@ -13196,7 +13196,7 @@
               "gas_fuel_type": "Natural Gas",
               "ignition_type": "Electronic Ignition",
               "vent_type": "Vented",
-              "style": "Traditional",
+              "style": "Linear",
               "product_category": "Gas Fireplaces",
               "display_name": "Napoleon Entice Electric Vented Gas Fireplace | "
             }
@@ -13213,7 +13213,7 @@
               "gas_fuel_type": "Natural Gas",
               "ignition_type": "Electronic Ignition",
               "vent_type": "Vented",
-              "style": "Traditional",
+              "style": "Linear",
               "product_category": "Gas Fireplaces",
               "display_name": "Napoleon Entice Electric Vented Gas Fireplace | "
             }
@@ -13230,7 +13230,7 @@
               "gas_fuel_type": "Natural Gas",
               "ignition_type": "Electronic Ignition",
               "vent_type": "Vented",
-              "style": "Traditional",
+              "style": "Linear",
               "product_category": "Gas Fireplaces",
               "display_name": "Napoleon Entice Electric Vented Gas Fireplace | "
             }
@@ -13247,7 +13247,7 @@
               "gas_fuel_type": "Natural Gas",
               "ignition_type": "Electronic Ignition",
               "vent_type": "Vented",
-              "style": "Traditional",
+              "style": "Linear",
               "product_category": "Gas Fireplaces",
               "display_name": "Napoleon Entice Electric Vented Gas Fireplace | "
             }
@@ -13264,7 +13264,7 @@
               "gas_fuel_type": "Natural Gas",
               "ignition_type": "Electronic Ignition",
               "vent_type": "Vented",
-              "style": "Traditional",
+              "style": "Linear",
               "product_category": "Gas Fireplaces",
               "display_name": "Napoleon Entice Electric Vented Gas Fireplace | "
             }

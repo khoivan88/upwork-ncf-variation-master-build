@@ -239,7 +239,7 @@ def add_style(database: Dict) -> Dict:
         'see through': 'See-Thru',
         'vertical': 'Vertical',
         '3 sided': 'Peninsula',
-        'single side': 'Linear',
+        # 'single side': 'Linear',
         'linear': 'Linear',
         # None: 'Traditional',
     }
@@ -255,6 +255,8 @@ def add_style(database: Dict) -> Dict:
                                       flags=re.IGNORECASE)
                     if style:
                         unit['style'] = STYLE_MAPPING[style[0].lower()]
+                    elif 'L' in unit['manufacturerSku'] and not unit['manufacturerSku'].endswith('L'):
+                        unit['style'] = 'Linear'
                     else:
                         unit['style'] = 'Traditional'
     return database
