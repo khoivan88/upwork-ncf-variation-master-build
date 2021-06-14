@@ -103,25 +103,28 @@ def remove_content_sections(database: Dict) -> Dict:
 
 def sanitize_series_names(database: Dict) -> Dict:
     for info in database['series'].values():
-        new_title = re.sub(r'''
-                           (
-                            SERIES\sFIREPLACE\sMODELS
-                            |FIREPLACE\sMODELS
-                            |\bFIREPLACE\b
-                            |\bMODELS\b
-                            |\bWOOD\b
-                            |\bGAS\b
-                            |(?<!S)\sSERIES
-                            |Clean\sFace\sOutdoor
-                            |Electric
-                            ).*
-                           ''',
-                           '',
-                           info['title'],
-                           flags=re.IGNORECASE | re.UNICODE | re.VERBOSE).encode("ascii", "ignore").decode().strip()
-        new_title = re.sub(r'\s{2,}', ' ', new_title).title()
-        info['title'] = new_title
+        info['title'] = sanitize_series_name(info['title'])
     return database
+
+
+def sanitize_series_name(name: str) -> str:
+    new_title = re.sub(r'''
+                        (
+                        SERIES\ FIREPLACE\ MODELS
+                        |FIREPLACE\ MODELS
+                        |\bFIREPLACE\b
+                        |\bMODELS\b
+                        |\bWOOD\b
+                        |\bGAS\b
+                        |(?<!S)\ SERIES
+                        |Clean\ Face\ Outdoor
+                        |Electric
+                        ).*
+                       ''',
+                       '',
+                       name,
+                       flags=re.IGNORECASE | re.UNICODE | re.VERBOSE).encode("ascii", "ignore").decode().strip()
+    return re.sub(r'\s{2,}', ' ', new_title).title()
 
 
 def add_fuel_type(database: Dict) -> Dict:
@@ -240,9 +243,12 @@ def add_series_name(database: Dict) -> Dict:
         for product_line in series_info['units']:
             for unit in product_line['details']:
                 if unit:
+                    # Sometimes, the series 'title' is empty, use the name for each unit inside 'details' instead
+                    name = series_name or sanitize_series_name(product_line['name'])
                     # Cleaning up series name because the series number are duplicated sometimes!
-                    sanitized_series_name = series_name.rstrip(unit.get("series_number")).strip()
+                    sanitized_series_name = name.rstrip(unit.get("series_number")).strip()
                     unit['series_name'] = sanitized_series_name
+
     return database
 
 

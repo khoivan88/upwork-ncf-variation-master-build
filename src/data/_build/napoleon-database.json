@@ -14575,11 +14575,11 @@
               "base_sku": "2100",
               "fuel_type": "Wood",
               "series_number": "2100",
-              "series_name": "",
+              "series_name": "Economizer",
               "style": "Traditional",
               "product_category": "Wood Stoves",
               "productTypeNonoperative": "Product",
-              "display_name": "Napoleon 2100 Wood Stove | 2100"
+              "display_name": "Napoleon Economizer 2100 Wood Stove | 2100"
             }
           ]
         },
@@ -14592,11 +14592,11 @@
               "base_sku": "2200",
               "fuel_type": "Wood",
               "series_number": "2200",
-              "series_name": "",
+              "series_name": "Economizer",
               "style": "Traditional",
               "product_category": "Wood Stoves",
               "productTypeNonoperative": "Product",
-              "display_name": "Napoleon 2200 Wood Stove | 2200"
+              "display_name": "Napoleon Economizer 2200 Wood Stove | 2200"
             }
           ]
         }
@@ -14701,11 +14701,11 @@
               "base_sku": "EPI22",
               "fuel_type": "Wood",
               "series_number": "22",
-              "series_name": "",
+              "series_name": "Economizer",
               "style": "Traditional",
               "product_category": "Wood Fireplaces",
               "productTypeNonoperative": "Product",
-              "display_name": "Napoleon 22 Wood Fireplace | EPI22"
+              "display_name": "Napoleon Economizer 22 Wood Fireplace | EPI22"
             }
           ]
         }
