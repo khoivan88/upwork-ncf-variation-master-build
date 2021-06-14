@@ -212,7 +212,7 @@ def extract_napoleon_data_from_catalog() -> Dict[str, Dict]:
 
                         info.append({'price': price,
                                      'manufacturerSku': manufacturerSku,
-                                     'baseSku': baseSku,
+                                     'base_sku': baseSku,
                                      'type': type,
                                     #  'parentSku': parentSku, #!Error: need to revisit later
                                      'requiredOrOptional': required_or_optional
