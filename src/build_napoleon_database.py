@@ -276,9 +276,9 @@ def add_product_category(database: Dict) -> Dict:
                 if unit:
                     product_category = re.search(r'wood fireplace|wood stove|gas insert|gas stove', product_line_name, flags=re.IGNORECASE)
                     if product_category:
-                        unit['product_category'] = product_category[0].title()
+                        unit['product_category'] = product_category[0].title() + 's'
                     else:
-                        unit['product_category'] = 'Gas Fireplace'
+                        unit['product_category'] = 'Gas Fireplaces'
 
         # For series's variants
         if series_info.get('variations'):
@@ -309,14 +309,16 @@ def add_display_name(database: Dict) -> Dict:
                     else:
                         series_name_number = f'{unit.get("series_name", "")} {unit.get("series_number", "")}'
 
+                    product_category = unit.get("product_category", "").rstrip('s')
+
                     if unit['fuel_type'] == 'Gas':
-                        # unit['display_name'] = f'Napoleon {series_name_number} {unit.get("vent_type", "")} {unit.get("style", "")} {unit.get("product_category", "")} | {unit.get("base_sku", "")}'
+                        # unit['display_name'] = f'Napoleon {series_name_number} {unit.get("vent_type", "")} {unit.get("style", "")} {product_category} | {unit.get("base_sku", "")}'
                         # ! remove 'style' for now
-                        unit['display_name'] = f'Napoleon {series_name_number} {unit.get("vent_type", "")} {unit.get("product_category", "")} | {unit.get("base_sku", "")}'
+                        unit['display_name'] = f'Napoleon {series_name_number} {unit.get("vent_type", "")} {product_category} | {unit.get("base_sku", "")}'
                     else:
-                        # unit['display_name'] = f'Napoleon {series_name_number} {unit.get("style", "")} {unit.get("product_category", "")} | {unit.get("base_sku", "")}'
+                        # unit['display_name'] = f'Napoleon {series_name_number} {unit.get("style", "")} {product_category} | {unit.get("base_sku", "")}'
                         # ! remove 'style' for now
-                        unit['display_name'] = f'Napoleon {series_name_number} {unit.get("product_category", "")} | {unit.get("base_sku", "")}'
+                        unit['display_name'] = f'Napoleon {series_name_number} {product_category} | {unit.get("base_sku", "")}'
 
         # For series's variants
         if series_info.get('variations'):
