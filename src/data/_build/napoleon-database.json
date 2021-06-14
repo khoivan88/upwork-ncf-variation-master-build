@@ -12236,11 +12236,13 @@
               "price": "$4,149",
               "manufacturerSku": "EPI3C-1",
               "series_name": "Oakdale Series",
+              "base_sku": "EPI3",
               "fuel_type": "Wood",
+              "series_number": "EPI3",
               "style": "Traditional",
               "product_category": "Wood Fireplaces",
               "productTypeNonoperative": "Product",
-              "display_name": "Napoleon Oakdale Series Wood Fireplace | "
+              "display_name": "Napoleon Oakdale Series EPI3 Wood Fireplace | EPI3"
             }
           ]
         },
@@ -12251,11 +12253,13 @@
               "price": "$4,149",
               "manufacturerSku": "EPI3T-1",
               "series_name": "Oakdale Series",
+              "base_sku": "EPI3",
               "fuel_type": "Wood",
+              "series_number": "EPI3",
               "style": "Traditional",
               "product_category": "Wood Fireplaces",
               "productTypeNonoperative": "Product",
-              "display_name": "Napoleon Oakdale Series Wood Fireplace | "
+              "display_name": "Napoleon Oakdale Series EPI3 Wood Fireplace | EPI3"
             }
           ]
         },
@@ -12266,11 +12270,13 @@
               "price": "$4,649",
               "manufacturerSku": "EPI3TN-1",
               "series_name": "Oakdale Series",
+              "base_sku": "EPI3",
               "fuel_type": "Wood",
+              "series_number": "EPI3",
               "style": "Traditional",
               "product_category": "Wood Fireplaces",
               "productTypeNonoperative": "Product",
-              "display_name": "Napoleon Oakdale Series Wood Fireplace | "
+              "display_name": "Napoleon Oakdale Series EPI3 Wood Fireplace | EPI3"
             }
           ]
         }
@@ -13572,14 +13578,16 @@
               "price": "$1,329",
               "manufacturerSku": "GPFL48MHP",
               "series_name": "Patioflame Models",
+              "base_sku": "GPFL48",
               "fuel_type": "Gas",
               "gas_fuel_type": "Propane",
               "ignition_type": "Electronic Ignition",
+              "series_number": "48",
               "vent_type": "Vented",
               "style": "Linear",
               "product_category": "Gas Fireplaces",
               "productTypeNonoperative": "Option Product",
-              "display_name": "Napoleon Patioflame Models Vented Gas Fireplace | "
+              "display_name": "Napoleon Patioflame Models 48 Vented Gas Fireplace | GPFL48"
             }
           ]
         },
@@ -13590,14 +13598,16 @@
               "price": "$1,159",
               "manufacturerSku": "GPFL48",
               "series_name": "Patioflame Models",
+              "base_sku": "GPFL48",
               "fuel_type": "Gas",
               "gas_fuel_type": "Propane",
               "ignition_type": "Electronic Ignition",
+              "series_number": "48",
               "vent_type": "Vented",
               "style": "Linear",
               "product_category": "Gas Fireplaces",
               "productTypeNonoperative": "Option Product",
-              "display_name": "Napoleon Patioflame Models Vented Gas Fireplace | "
+              "display_name": "Napoleon Patioflame Models 48 Vented Gas Fireplace | GPFL48"
             }
           ]
         },
@@ -13608,14 +13618,16 @@
               "price": "$559",
               "manufacturerSku": "GPFS60",
               "series_name": "Patioflame Models",
+              "base_sku": "GPFS60",
               "fuel_type": "Gas",
               "gas_fuel_type": "Propane",
               "ignition_type": "Electronic Ignition",
+              "series_number": "60",
               "vent_type": "Vented",
               "style": "Traditional",
               "product_category": "Gas Fireplaces",
               "productTypeNonoperative": "Option Product",
-              "display_name": "Napoleon Patioflame Models Vented Gas Fireplace | "
+              "display_name": "Napoleon Patioflame Models 60 Vented Gas Fireplace | GPFS60"
             }
           ]
         },
@@ -13626,14 +13638,16 @@
               "price": "$559",
               "manufacturerSku": "GPFR60",
               "series_name": "Patioflame Models",
+              "base_sku": "GPFR60",
               "fuel_type": "Gas",
               "gas_fuel_type": "Propane",
               "ignition_type": "Electronic Ignition",
+              "series_number": "60",
               "vent_type": "Vented",
               "style": "Linear",
               "product_category": "Gas Fireplaces",
               "productTypeNonoperative": "Option Product",
-              "display_name": "Napoleon Patioflame Models Vented Gas Fireplace | "
+              "display_name": "Napoleon Patioflame Models 60 Vented Gas Fireplace | GPFR60"
             }
           ]
         }
@@ -13986,14 +14000,16 @@
               "price": "$949",
               "manufacturerSku": "NEFP32-5019W",
               "series_name": "Stylus Electric",
+              "base_sku": "NEFP32",
               "fuel_type": "Gas",
               "gas_fuel_type": "Natural Gas",
               "ignition_type": "Electronic Ignition",
+              "series_number": "32",
               "vent_type": "Vented",
               "style": "Traditional",
               "product_category": "Gas Fireplaces",
               "productTypeNonoperative": "Option Product",
-              "display_name": "Napoleon Stylus Electric Vented Gas Fireplace | "
+              "display_name": "Napoleon Stylus Electric 32 Vented Gas Fireplace | NEFP32"
             }
           ]
         },
@@ -14004,14 +14020,16 @@
               "price": "$1,149",
               "manufacturerSku": "NEFP32-5320BW",
               "series_name": "Stylus Electric",
+              "base_sku": "NEFP32",
               "fuel_type": "Gas",
               "gas_fuel_type": "Natural Gas",
               "ignition_type": "Electronic Ignition",
+              "series_number": "32",
               "vent_type": "Vented",
               "style": "Traditional",
               "product_category": "Gas Fireplaces",
               "productTypeNonoperative": "Option Product",
-              "display_name": "Napoleon Stylus Electric Vented Gas Fireplace | "
+              "display_name": "Napoleon Stylus Electric 32 Vented Gas Fireplace | NEFP32"
             }
           ]
         },
@@ -14040,14 +14058,16 @@
               "price": "$1,249",
               "manufacturerSku": "NEFL42CHD-1",
               "series_name": "Alluravision Deep Depth Electric",
+              "base_sku": "NEFL42",
               "fuel_type": "Gas",
               "gas_fuel_type": "Natural Gas",
               "ignition_type": "Electronic Ignition",
+              "series_number": "42",
               "vent_type": "Vented",
               "style": "Linear",
               "product_category": "Gas Fireplaces",
               "productTypeNonoperative": "Option Product",
-              "display_name": "Napoleon Alluravision Deep Depth Electric Vented Gas Fireplace | "
+              "display_name": "Napoleon Alluravision Deep Depth Electric 42 Vented Gas Fireplace | NEFL42"
             }
           ]
         },
@@ -14058,14 +14078,16 @@
               "price": "$1,499",
               "manufacturerSku": "NEFL50CHD-1",
               "series_name": "Alluravision Deep Depth Electric",
+              "base_sku": "NEFL50",
               "fuel_type": "Gas",
               "gas_fuel_type": "Natural Gas",
               "ignition_type": "Electronic Ignition",
+              "series_number": "50",
               "vent_type": "Vented",
               "style": "Linear",
               "product_category": "Gas Fireplaces",
               "productTypeNonoperative": "Option Product",
-              "display_name": "Napoleon Alluravision Deep Depth Electric Vented Gas Fireplace | "
+              "display_name": "Napoleon Alluravision Deep Depth Electric 50 Vented Gas Fireplace | NEFL50"
             }
           ]
         },
@@ -14076,14 +14098,16 @@
               "price": "$1,599",
               "manufacturerSku": "NEFL60CHD-1",
               "series_name": "Alluravision Deep Depth Electric",
+              "base_sku": "NEFL60",
               "fuel_type": "Gas",
               "gas_fuel_type": "Natural Gas",
               "ignition_type": "Electronic Ignition",
+              "series_number": "60",
               "vent_type": "Vented",
               "style": "Linear",
               "product_category": "Gas Fireplaces",
               "productTypeNonoperative": "Option Product",
-              "display_name": "Napoleon Alluravision Deep Depth Electric Vented Gas Fireplace | "
+              "display_name": "Napoleon Alluravision Deep Depth Electric 60 Vented Gas Fireplace | NEFL60"
             }
           ]
         },
@@ -14094,14 +14118,16 @@
               "price": "$1,949",
               "manufacturerSku": "NEFL74CHD-1",
               "series_name": "Alluravision Deep Depth Electric",
+              "base_sku": "NEFL74",
               "fuel_type": "Gas",
               "gas_fuel_type": "Natural Gas",
               "ignition_type": "Electronic Ignition",
+              "series_number": "74",
               "vent_type": "Vented",
               "style": "Linear",
               "product_category": "Gas Fireplaces",
               "productTypeNonoperative": "Option Product",
-              "display_name": "Napoleon Alluravision Deep Depth Electric Vented Gas Fireplace | "
+              "display_name": "Napoleon Alluravision Deep Depth Electric 74 Vented Gas Fireplace | NEFL74"
             }
           ]
         },
@@ -14112,14 +14138,16 @@
               "price": "$2,399",
               "manufacturerSku": "NEFL100CHD-1",
               "series_name": "Alluravision Deep Depth Electric",
+              "base_sku": "NEFL100",
               "fuel_type": "Gas",
               "gas_fuel_type": "Natural Gas",
               "ignition_type": "Electronic Ignition",
+              "series_number": "100",
               "vent_type": "Vented",
               "style": "Linear",
               "product_category": "Gas Fireplaces",
               "productTypeNonoperative": "Option Product",
-              "display_name": "Napoleon Alluravision Deep Depth Electric Vented Gas Fireplace | "
+              "display_name": "Napoleon Alluravision Deep Depth Electric 100 Vented Gas Fireplace | NEFL100"
             }
           ]
         },
@@ -14140,14 +14168,16 @@
               "price": "$1,099",
               "manufacturerSku": "NEFL42CHS-1",
               "series_name": "Alluravision Slimline Electric",
+              "base_sku": "NEFL42",
               "fuel_type": "Gas",
               "gas_fuel_type": "Natural Gas",
               "ignition_type": "Electronic Ignition",
+              "series_number": "42",
               "vent_type": "Vented",
               "style": "Linear",
               "product_category": "Gas Fireplaces",
               "productTypeNonoperative": "Option Product",
-              "display_name": "Napoleon Alluravision Slimline Electric Vented Gas Fireplace | "
+              "display_name": "Napoleon Alluravision Slimline Electric 42 Vented Gas Fireplace | NEFL42"
             }
           ]
         },
@@ -14158,14 +14188,16 @@
               "price": "$1,299",
               "manufacturerSku": "NEFL50CHS-1",
               "series_name": "Alluravision Slimline Electric",
+              "base_sku": "NEFL50",
               "fuel_type": "Gas",
               "gas_fuel_type": "Natural Gas",
               "ignition_type": "Electronic Ignition",
+              "series_number": "50",
               "vent_type": "Vented",
               "style": "Linear",
               "product_category": "Gas Fireplaces",
               "productTypeNonoperative": "Option Product",
-              "display_name": "Napoleon Alluravision Slimline Electric Vented Gas Fireplace | "
+              "display_name": "Napoleon Alluravision Slimline Electric 50 Vented Gas Fireplace | NEFL50"
             }
           ]
         },
@@ -14176,14 +14208,16 @@
               "price": "$1,399",
               "manufacturerSku": "NEFL60CHS-1",
               "series_name": "Alluravision Slimline Electric",
+              "base_sku": "NEFL60",
               "fuel_type": "Gas",
               "gas_fuel_type": "Natural Gas",
               "ignition_type": "Electronic Ignition",
+              "series_number": "60",
               "vent_type": "Vented",
               "style": "Linear",
               "product_category": "Gas Fireplaces",
               "productTypeNonoperative": "Option Product",
-              "display_name": "Napoleon Alluravision Slimline Electric Vented Gas Fireplace | "
+              "display_name": "Napoleon Alluravision Slimline Electric 60 Vented Gas Fireplace | NEFL60"
             }
           ]
         },
@@ -14194,14 +14228,16 @@
               "price": "$1,799",
               "manufacturerSku": "NEFL74CHS-1",
               "series_name": "Alluravision Slimline Electric",
+              "base_sku": "NEFL74",
               "fuel_type": "Gas",
               "gas_fuel_type": "Natural Gas",
               "ignition_type": "Electronic Ignition",
+              "series_number": "74",
               "vent_type": "Vented",
               "style": "Linear",
               "product_category": "Gas Fireplaces",
               "productTypeNonoperative": "Option Product",
-              "display_name": "Napoleon Alluravision Slimline Electric Vented Gas Fireplace | "
+              "display_name": "Napoleon Alluravision Slimline Electric 74 Vented Gas Fireplace | NEFL74"
             }
           ]
         }
@@ -14234,14 +14270,16 @@
               "price": "$599",
               "manufacturerSku": "NEFL36CFH",
               "series_name": "Entice Electric",
+              "base_sku": "NEFL36",
               "fuel_type": "Gas",
               "gas_fuel_type": "Natural Gas",
               "ignition_type": "Electronic Ignition",
+              "series_number": "36",
               "vent_type": "Vented",
               "style": "Linear",
               "product_category": "Gas Fireplaces",
               "productTypeNonoperative": "Option Product",
-              "display_name": "Napoleon Entice Electric Vented Gas Fireplace | "
+              "display_name": "Napoleon Entice Electric 36 Vented Gas Fireplace | NEFL36"
             }
           ]
         },
@@ -14252,14 +14290,16 @@
               "price": "$799",
               "manufacturerSku": "NEFL42CFH",
               "series_name": "Entice Electric",
+              "base_sku": "NEFL42",
               "fuel_type": "Gas",
               "gas_fuel_type": "Natural Gas",
               "ignition_type": "Electronic Ignition",
+              "series_number": "42",
               "vent_type": "Vented",
               "style": "Linear",
               "product_category": "Gas Fireplaces",
               "productTypeNonoperative": "Option Product",
-              "display_name": "Napoleon Entice Electric Vented Gas Fireplace | "
+              "display_name": "Napoleon Entice Electric 42 Vented Gas Fireplace | NEFL42"
             }
           ]
         },
@@ -14270,14 +14310,16 @@
               "price": "$1,049",
               "manufacturerSku": "NEFL50CFH",
               "series_name": "Entice Electric",
+              "base_sku": "NEFL50",
               "fuel_type": "Gas",
               "gas_fuel_type": "Natural Gas",
               "ignition_type": "Electronic Ignition",
+              "series_number": "50",
               "vent_type": "Vented",
               "style": "Linear",
               "product_category": "Gas Fireplaces",
               "productTypeNonoperative": "Option Product",
-              "display_name": "Napoleon Entice Electric Vented Gas Fireplace | "
+              "display_name": "Napoleon Entice Electric 50 Vented Gas Fireplace | NEFL50"
             }
           ]
         },
@@ -14288,14 +14330,16 @@
               "price": "$1,249",
               "manufacturerSku": "NEFL60CFH",
               "series_name": "Entice Electric",
+              "base_sku": "NEFL60",
               "fuel_type": "Gas",
               "gas_fuel_type": "Natural Gas",
               "ignition_type": "Electronic Ignition",
+              "series_number": "60",
               "vent_type": "Vented",
               "style": "Linear",
               "product_category": "Gas Fireplaces",
               "productTypeNonoperative": "Option Product",
-              "display_name": "Napoleon Entice Electric Vented Gas Fireplace | "
+              "display_name": "Napoleon Entice Electric 60 Vented Gas Fireplace | NEFL60"
             }
           ]
         },
@@ -14306,14 +14350,16 @@
               "price": "$1,449",
               "manufacturerSku": "NEFL72CFH",
               "series_name": "Entice Electric",
+              "base_sku": "NEFL72",
               "fuel_type": "Gas",
               "gas_fuel_type": "Natural Gas",
               "ignition_type": "Electronic Ignition",
+              "series_number": "72",
               "vent_type": "Vented",
               "style": "Linear",
               "product_category": "Gas Fireplaces",
               "productTypeNonoperative": "Option Product",
-              "display_name": "Napoleon Entice Electric Vented Gas Fireplace | "
+              "display_name": "Napoleon Entice Electric 72 Vented Gas Fireplace | NEFL72"
             }
           ]
         }
@@ -14456,14 +14502,16 @@
               "price": "$399",
               "manufacturerSku": "NEFVC32H",
               "series_name": "Allure Vertical Electric",
+              "base_sku": "NEFVC32",
               "fuel_type": "Gas",
               "gas_fuel_type": "Natural Gas",
               "ignition_type": "Electronic Ignition",
+              "series_number": "32",
               "vent_type": "Vented",
               "style": "Vertical",
               "product_category": "Gas Fireplaces",
               "productTypeNonoperative": "Option Product",
-              "display_name": "Napoleon Allure Vertical Electric Vented Gas Fireplace | "
+              "display_name": "Napoleon Allure Vertical Electric 32 Vented Gas Fireplace | NEFVC32"
             }
           ]
         },
@@ -14474,14 +14522,16 @@
               "price": "$599",
               "manufacturerSku": "NEFVC38H",
               "series_name": "Allure Vertical Electric",
+              "base_sku": "NEFVC38",
               "fuel_type": "Gas",
               "gas_fuel_type": "Natural Gas",
               "ignition_type": "Electronic Ignition",
+              "series_number": "38",
               "vent_type": "Vented",
               "style": "Vertical",
               "product_category": "Gas Fireplaces",
               "productTypeNonoperative": "Option Product",
-              "display_name": "Napoleon Allure Vertical Electric Vented Gas Fireplace | "
+              "display_name": "Napoleon Allure Vertical Electric 38 Vented Gas Fireplace | NEFVC38"
             }
           ]
         },
@@ -14546,11 +14596,13 @@
               "price": "$499",
               "manufacturerSku": "NEFI18H",
               "series_name": "Woodland Electric Log Set Models",
+              "base_sku": "NEFI18",
               "fuel_type": "Wood",
+              "series_number": "18",
               "style": "Traditional",
               "product_category": "Gas Fireplaces",
               "productTypeNonoperative": "Option Product",
-              "display_name": "Napoleon Woodland Electric Log Set Models Gas Fireplace | "
+              "display_name": "Napoleon Woodland Electric Log Set Models 18 Gas Fireplace | NEFI18"
             }
           ]
         },
@@ -14561,11 +14613,13 @@
               "price": "$599",
               "manufacturerSku": "NEFI24H",
               "series_name": "Woodland Electric Log Set Models",
+              "base_sku": "NEFI24",
               "fuel_type": "Wood",
+              "series_number": "24",
               "style": "Traditional",
               "product_category": "Gas Fireplaces",
               "productTypeNonoperative": "Option Product",
-              "display_name": "Napoleon Woodland Electric Log Set Models Gas Fireplace | "
+              "display_name": "Napoleon Woodland Electric Log Set Models 24 Gas Fireplace | NEFI24"
             }
           ]
         },
@@ -14576,11 +14630,13 @@
               "price": "$699",
               "manufacturerSku": "NEFI27H",
               "series_name": "Woodland Electric Log Set Models",
+              "base_sku": "NEFI27",
               "fuel_type": "Wood",
+              "series_number": "27",
               "style": "Traditional",
               "product_category": "Gas Fireplaces",
               "productTypeNonoperative": "Option Product",
-              "display_name": "Napoleon Woodland Electric Log Set Models Gas Fireplace | "
+              "display_name": "Napoleon Woodland Electric Log Set Models 27 Gas Fireplace | NEFI27"
             }
           ]
         },
@@ -14601,11 +14657,13 @@
               "price": "$1,199",
               "manufacturerSku": "2100-1",
               "series_name": "Wood Burning Stove Models",
+              "base_sku": "2100",
               "fuel_type": "Wood",
+              "series_number": "2100",
               "style": "Traditional",
               "product_category": "Wood Stoves",
               "productTypeNonoperative": "Product",
-              "display_name": "Napoleon Wood Burning Stove Models Wood Stove | "
+              "display_name": "Napoleon Wood Burning Stove Models 2100 Wood Stove | 2100"
             }
           ]
         },
@@ -14616,11 +14674,13 @@
               "price": "$1,299",
               "manufacturerSku": "2200-1",
               "series_name": "Wood Burning Stove Models",
+              "base_sku": "2200",
               "fuel_type": "Wood",
+              "series_number": "2200",
               "style": "Traditional",
               "product_category": "Wood Stoves",
               "productTypeNonoperative": "Product",
-              "display_name": "Napoleon Wood Burning Stove Models Wood Stove | "
+              "display_name": "Napoleon Wood Burning Stove Models 2200 Wood Stove | 2200"
             }
           ]
         }
@@ -14723,11 +14783,13 @@
               "price": "$2,149",
               "manufacturerSku": "EPI22-1",
               "series_name": "Wood Burning Insert Models",
+              "base_sku": "EPI22",
               "fuel_type": "Wood",
+              "series_number": "22",
               "style": "Traditional",
               "product_category": "Wood Fireplaces",
               "productTypeNonoperative": "Product",
-              "display_name": "Napoleon Wood Burning Insert Models Wood Fireplace | "
+              "display_name": "Napoleon Wood Burning Insert Models 22 Wood Fireplace | EPI22"
             }
           ]
         }

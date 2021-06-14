@@ -181,9 +181,18 @@ def add_base_skus(database: Dict) -> Dict:
         for product_line in series_info['units']:
             units = product_line['details']
             for i, unit in enumerate(units):
-                if unit:
-                    if i < number_of_base_skus:
+                if unit :
+                    # Most of the series have 'baseSku'
+                    if number_of_base_skus > 0 and i < number_of_base_skus:
                         unit['base_sku'] = base_skus[i]
+
+                    # For some rare case without 'baseSku', e.g. pricebook lines 1200, 1818-1819, 1841-1842
+                    else:
+                        if debug:
+                            log.info(f"Item '{unit['manufacturerSku']}' in a series without baseSku")
+                        # See here for info on the regex: https://regex101.com/r/E9id2S/1/
+                        unit['base_sku'] = re.search(r'^[A-Z]*\d*', unit['manufacturerSku'])[0]
+
     return database
 
 
@@ -206,6 +215,7 @@ def add_series_number(database: Dict) -> Dict:
         'GSST8': 'GSST8N',
         'GT8': 'GT8NSB',
         'GVFT8': 'GVFT8N',
+        'EPI3': 'EPI3',
     }
     for series_info in database['series'].values():
         for product_line in series_info['units']:
@@ -256,7 +266,7 @@ def add_style(database: Dict) -> Dict:
                                       flags=re.IGNORECASE)
                     if style:
                         unit['style'] = STYLE_MAPPING[style[0].lower()]
-                    elif 'L' in unit['manufacturerSku'] and not unit['manufacturerSku'].endswith('L'):
+                    elif 'L' in unit.get('base_sku', ''):
                         unit['style'] = 'Linear'
                     else:
                         unit['style'] = 'Traditional'
