@@ -234,7 +234,7 @@ def add_vent_type(database: Dict) -> Dict:
 
 
 def add_style(database: Dict) -> Dict:
-        # Exception mapping of 'base_sku' and their corresponding 'series_number'
+    # Exception mapping of 'base_sku' and their corresponding 'series_number'
     STYLE_MAPPING = {
         'see through': 'See-Through',
         'vertical': 'Vertical',
@@ -261,7 +261,15 @@ def add_style(database: Dict) -> Dict:
 
 
 def add_product_category(database: Dict) -> Dict:
+    VARIATION_PRODUCT_CATEGORY_MAPPING = {'log set': 'Media Kits',
+                                          'panel': 'Interior Panels',
+                                          'illusion glass': 'Interior Panels',
+                                          'trim': 'Trim Kits',
+                                          'element': 'Front Accents',    # ! this before 'front', because some items with 'element' also have 'front', such as 'Arched Iron Elements - Antique Pewter (Fits on Whitney front)'
+                                          'front': 'Decorative Fronts'
+                                          }
     for series_info in database['series'].values():
+        # For series's units
         for product_line in series_info['units']:
             product_line_name = product_line['name']
             for unit in product_line['details']:
@@ -271,6 +279,20 @@ def add_product_category(database: Dict) -> Dict:
                         unit['product_category'] = product_category[0].title()
                     else:
                         unit['product_category'] = 'Gas Fireplace'
+
+        # For series's variants
+        if series_info.get('variations'):
+            for product_line in series_info['variations']:
+                variation_name = product_line['name']
+                for variation in product_line['details']:
+                    if variation:
+                        product_category = re.search('|'.join(re.escape(term)
+                                                              for term in VARIATION_PRODUCT_CATEGORY_MAPPING),
+                                                     variation_name,
+                                                     flags=re.IGNORECASE)
+                        if product_category:
+                            variation['product_category'] = VARIATION_PRODUCT_CATEGORY_MAPPING[product_category[0].lower()]
+
     return database
 
 

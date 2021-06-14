@@ -1403,6 +1403,7 @@
               "base_sku": "LV38",
               "type": "variation",
               "requiredOrOptional": "Optional",
+              "product_category": "Interior Panels",
               "display_name": "Napoleon End Panel Kit (Single Sided Units Only) | EPK1"
             },
             {
@@ -1411,6 +1412,7 @@
               "base_sku": "LV50",
               "type": "variation",
               "requiredOrOptional": "Optional",
+              "product_category": "Interior Panels",
               "display_name": "Napoleon End Panel Kit (Single Sided Units Only) | EPK1"
             },
             {
@@ -1419,6 +1421,7 @@
               "base_sku": "LV62",
               "type": "variation",
               "requiredOrOptional": "Optional",
+              "product_category": "Interior Panels",
               "display_name": "Napoleon End Panel Kit (Single Sided Units Only) | EPK1"
             },
             {
@@ -1427,6 +1430,7 @@
               "base_sku": "LV74",
               "type": "variation",
               "requiredOrOptional": "Optional",
+              "product_category": "Interior Panels",
               "display_name": "Napoleon End Panel Kit (Single Sided Units Only) | EPK1"
             }
           ]
@@ -1440,6 +1444,7 @@
               "base_sku": "LV38",
               "type": "variation",
               "requiredOrOptional": "Optional",
+              "product_category": "Trim Kits",
               "display_name": "Napoleon 1\" Stainless Steel Finishing Trim | FT38SS"
             },
             {
@@ -1448,6 +1453,7 @@
               "base_sku": "LV50",
               "type": "variation",
               "requiredOrOptional": "Optional",
+              "product_category": "Trim Kits",
               "display_name": "Napoleon 1\" Stainless Steel Finishing Trim | FT50SS"
             }
           ]
@@ -1461,6 +1467,7 @@
               "base_sku": "LV38",
               "type": "variation",
               "requiredOrOptional": "Optional",
+              "product_category": "Trim Kits",
               "display_name": "Napoleon 1\" Black Finishing Trim | FT38K"
             },
             {
@@ -1469,6 +1476,7 @@
               "base_sku": "LV50",
               "type": "variation",
               "requiredOrOptional": "Optional",
+              "product_category": "Trim Kits",
               "display_name": "Napoleon 1\" Black Finishing Trim | FT50K"
             }
           ]
@@ -1482,6 +1490,7 @@
               "base_sku": "LV62",
               "type": "variation",
               "requiredOrOptional": "Optional",
+              "product_category": "Trim Kits",
               "display_name": "Napoleon 4pc Finishing Trim - Vector - Black | FTLV62BK"
             },
             {
@@ -1490,6 +1499,7 @@
               "base_sku": "LV74",
               "type": "variation",
               "requiredOrOptional": "Optional",
+              "product_category": "Trim Kits",
               "display_name": "Napoleon 4pc Finishing Trim - Vector - Black | FTLV74BK"
             }
           ]
@@ -1783,6 +1793,7 @@
               "base_sku": "L38",
               "type": "variation",
               "requiredOrOptional": "Optional",
+              "product_category": "Interior Panels",
               "display_name": "Napoleon MIRRO-FLAME\u2122   Porcelain Reflective Radiant Panels (Single Sided Model) | PRPL38"
             },
             {
@@ -1791,6 +1802,7 @@
               "base_sku": "L50",
               "type": "variation",
               "requiredOrOptional": "Optional",
+              "product_category": "Interior Panels",
               "display_name": "Napoleon MIRRO-FLAME\u2122   Porcelain Reflective Radiant Panels (Single Sided Model) | PRPL50"
             }
           ]
@@ -1804,6 +1816,7 @@
               "base_sku": "L38",
               "type": "variation",
               "requiredOrOptional": "Optional",
+              "product_category": "Interior Panels",
               "display_name": "Napoleon MIRRO-FLAME\u2122   Porcelain Reflective Radiant End Panel Kit (See Through Model) | PRPE"
             },
             {
@@ -1812,6 +1825,7 @@
               "base_sku": "L50",
               "type": "variation",
               "requiredOrOptional": "Optional",
+              "product_category": "Interior Panels",
               "display_name": "Napoleon MIRRO-FLAME\u2122   Porcelain Reflective Radiant End Panel Kit (See Through Model) | PRPE"
             }
           ]
@@ -1888,6 +1902,7 @@
               "base_sku": "L38",
               "type": "variation",
               "requiredOrOptional": "Optional",
+              "product_category": "Trim Kits",
               "display_name": "Napoleon 1\" Black Finishing Trim | FT38K"
             },
             {
@@ -1896,6 +1911,7 @@
               "base_sku": "L50",
               "type": "variation",
               "requiredOrOptional": "Optional",
+              "product_category": "Trim Kits",
               "display_name": "Napoleon 1\" Black Finishing Trim | FT50K"
             }
           ]
@@ -1909,6 +1925,7 @@
               "base_sku": "L38",
               "type": "variation",
               "requiredOrOptional": "Optional",
+              "product_category": "Trim Kits",
               "display_name": "Napoleon 1\" Stainless Steel Finishing Trim | FT38SS"
             },
             {
@@ -1917,6 +1934,7 @@
               "base_sku": "L50",
               "type": "variation",
               "requiredOrOptional": "Optional",
+              "product_category": "Trim Kits",
               "display_name": "Napoleon 1\" Stainless Steel Finishing Trim | FT50SS"
             }
           ]
@@ -1995,6 +2013,7 @@
               "base_sku": "BL36",
               "type": "variation",
               "requiredOrOptional": "Optional",
+              "product_category": "Interior Panels",
               "display_name": "Napoleon MIRRO-FLAME\u2122   Porcelain Reflective Radiant Panels | PRPL36"
             },
             {
@@ -2003,6 +2022,7 @@
               "base_sku": "BL46",
               "type": "variation",
               "requiredOrOptional": "Optional",
+              "product_category": "Interior Panels",
               "display_name": "Napoleon MIRRO-FLAME\u2122   Porcelain Reflective Radiant Panels | PRPL46"
             }
           ]
@@ -2219,6 +2239,7 @@
               "base_sku": "EX36",
               "type": "variation",
               "requiredOrOptional": "Required",
+              "product_category": "Media Kits",
               "display_name": "Napoleon Split Oak Log Set | OLKEX36"
             },
             {
@@ -2227,6 +2248,7 @@
               "base_sku": "EX42",
               "type": "variation",
               "requiredOrOptional": "Required",
+              "product_category": "Media Kits",
               "display_name": "Napoleon Split Oak Log Set | OLKEX42"
             }
           ]
@@ -2240,6 +2262,7 @@
               "base_sku": "EX36",
               "type": "variation",
               "requiredOrOptional": "Required",
+              "product_category": "Media Kits",
               "display_name": "Napoleon Driftwood Log Set | DLKEX36"
             },
             {
@@ -2248,6 +2271,7 @@
               "base_sku": "EX42",
               "type": "variation",
               "requiredOrOptional": "Required",
+              "product_category": "Media Kits",
               "display_name": "Napoleon Driftwood Log Set | DLKEX42"
             }
           ]
@@ -2261,6 +2285,7 @@
               "base_sku": "EX36",
               "type": "variation",
               "requiredOrOptional": "Required",
+              "product_category": "Media Kits",
               "display_name": "Napoleon Birch Log Set | BLKEX36"
             },
             {
@@ -2269,6 +2294,7 @@
               "base_sku": "EX42",
               "type": "variation",
               "requiredOrOptional": "Required",
+              "product_category": "Media Kits",
               "display_name": "Napoleon Birch Log Set | BLKEX42"
             }
           ]
@@ -2282,6 +2308,7 @@
               "base_sku": "EX36",
               "type": "variation",
               "requiredOrOptional": "Required",
+              "product_category": "Interior Panels",
               "display_name": "Napoleon MIRRO-FLAME\u2122   Porcelain Reflective Radiant Panels | PRPEX36"
             },
             {
@@ -2290,6 +2317,7 @@
               "base_sku": "EX42",
               "type": "variation",
               "requiredOrOptional": "Required",
+              "product_category": "Interior Panels",
               "display_name": "Napoleon MIRRO-FLAME\u2122   Porcelain Reflective Radiant Panels | PRPEX42"
             }
           ]
@@ -2303,6 +2331,7 @@
               "base_sku": "EX36",
               "type": "variation",
               "requiredOrOptional": "Required",
+              "product_category": "Interior Panels",
               "display_name": "Napoleon Black Illusion Glass | BIGEX36"
             },
             {
@@ -2311,6 +2340,7 @@
               "base_sku": "EX42",
               "type": "variation",
               "requiredOrOptional": "Required",
+              "product_category": "Interior Panels",
               "display_name": "Napoleon Black Illusion Glass | BIGEX42"
             }
           ]
@@ -2324,6 +2354,7 @@
               "base_sku": "EX36",
               "type": "variation",
               "requiredOrOptional": "Required",
+              "product_category": "Interior Panels",
               "display_name": "Napoleon Decorative Antique Ledgestone Brick Panel | DBPEX36LS"
             },
             {
@@ -2332,6 +2363,7 @@
               "base_sku": "EX42",
               "type": "variation",
               "requiredOrOptional": "Required",
+              "product_category": "Interior Panels",
               "display_name": "Napoleon Decorative Antique Ledgestone Brick Panel | DBPEX42LS"
             }
           ]
@@ -2345,6 +2377,7 @@
               "base_sku": "EX36",
               "type": "variation",
               "requiredOrOptional": "Required",
+              "product_category": "Interior Panels",
               "display_name": "Napoleon Decorative Brick Panels Newport\u2122   Standard | DBPEX36NS"
             },
             {
@@ -2353,6 +2386,7 @@
               "base_sku": "EX42",
               "type": "variation",
               "requiredOrOptional": "Required",
+              "product_category": "Interior Panels",
               "display_name": "Napoleon Decorative Brick Panels Newport\u2122   Standard | DBPEX42NS"
             }
           ]
@@ -2366,6 +2400,7 @@
               "base_sku": "EX36",
               "type": "variation",
               "requiredOrOptional": "Required",
+              "product_category": "Interior Panels",
               "display_name": "Napoleon Decorative Brick Panels Old Town Red\u2122   Herringbone | DBPEX36OH"
             },
             {
@@ -2374,6 +2409,7 @@
               "base_sku": "EX42",
               "type": "variation",
               "requiredOrOptional": "Required",
+              "product_category": "Interior Panels",
               "display_name": "Napoleon Decorative Brick Panels Old Town Red\u2122   Herringbone | DBPEX42OH"
             }
           ]
@@ -2387,6 +2423,7 @@
               "base_sku": "EX36",
               "type": "variation",
               "requiredOrOptional": "Required",
+              "product_category": "Interior Panels",
               "display_name": "Napoleon Decorative Brick Panels Old Town Red\u2122   Standard | DBPEX36OS"
             },
             {
@@ -2395,6 +2432,7 @@
               "base_sku": "EX42",
               "type": "variation",
               "requiredOrOptional": "Required",
+              "product_category": "Interior Panels",
               "display_name": "Napoleon Decorative Brick Panels Old Town Red\u2122   Standard | DBPEX42OS"
             }
           ]
@@ -2408,6 +2446,7 @@
               "base_sku": "EX36",
               "type": "variation",
               "requiredOrOptional": "Required",
+              "product_category": "Interior Panels",
               "display_name": "Napoleon Decorative Brick Panels Westminster\u2122   Grey Herringbone | DBPEX36WH"
             },
             {
@@ -2416,6 +2455,7 @@
               "base_sku": "EX42",
               "type": "variation",
               "requiredOrOptional": "Required",
+              "product_category": "Interior Panels",
               "display_name": "Napoleon Decorative Brick Panels Westminster\u2122   Grey Herringbone | DBPEX42WH"
             }
           ]
@@ -2429,6 +2469,7 @@
               "base_sku": "EX36",
               "type": "variation",
               "requiredOrOptional": "Required",
+              "product_category": "Interior Panels",
               "display_name": "Napoleon Decorative Brick Panels Westminster\u2122   Grey Standard | DBPEX36WS"
             },
             {
@@ -2437,6 +2478,7 @@
               "base_sku": "EX42",
               "type": "variation",
               "requiredOrOptional": "Required",
+              "product_category": "Interior Panels",
               "display_name": "Napoleon Decorative Brick Panels Westminster\u2122   Grey Standard | DBPEX42WS"
             }
           ]
@@ -2450,6 +2492,7 @@
               "base_sku": "EX36",
               "type": "variation",
               "requiredOrOptional": "Required",
+              "product_category": "Interior Panels",
               "display_name": "Napoleon Decorative Glacier Herringbone Brick Panel | DBPEX36GH"
             },
             {
@@ -2458,6 +2501,7 @@
               "base_sku": "EX42",
               "type": "variation",
               "requiredOrOptional": "Required",
+              "product_category": "Interior Panels",
               "display_name": "Napoleon Decorative Glacier Herringbone Brick Panel | DBPEX42GH"
             }
           ]
@@ -2471,6 +2515,7 @@
               "base_sku": "EX36",
               "type": "variation",
               "requiredOrOptional": "Required",
+              "product_category": "Interior Panels",
               "display_name": "Napoleon Decorative Glacier Standard Brick Panel | DBPEX36GS"
             },
             {
@@ -2479,6 +2524,7 @@
               "base_sku": "EX42",
               "type": "variation",
               "requiredOrOptional": "Required",
+              "product_category": "Interior Panels",
               "display_name": "Napoleon Decorative Glacier Standard Brick Panel | DBPEX42GS"
             }
           ]
@@ -2492,6 +2538,7 @@
               "base_sku": "EX36",
               "type": "variation",
               "requiredOrOptional": "Optional",
+              "product_category": "Decorative Fronts",
               "display_name": "Napoleon Decorative Zen Front - Black | ZEX36BK"
             },
             {
@@ -2500,6 +2547,7 @@
               "base_sku": "EX42",
               "type": "variation",
               "requiredOrOptional": "Optional",
+              "product_category": "Decorative Fronts",
               "display_name": "Napoleon Decorative Zen Front - Black | ZEX42BK"
             }
           ]
@@ -2513,6 +2561,7 @@
               "base_sku": "EX36",
               "type": "variation",
               "requiredOrOptional": "Optional",
+              "product_category": "Decorative Fronts",
               "display_name": "Napoleon Decorative Zen Front - Charcoal | ZEX36CH"
             },
             {
@@ -2521,6 +2570,7 @@
               "base_sku": "EX42",
               "type": "variation",
               "requiredOrOptional": "Optional",
+              "product_category": "Decorative Fronts",
               "display_name": "Napoleon Decorative Zen Front - Charcoal | ZEX42CH"
             }
           ]
@@ -2534,6 +2584,7 @@
               "base_sku": "EX36",
               "type": "variation",
               "requiredOrOptional": "Optional",
+              "product_category": "Trim Kits",
               "display_name": "Napoleon Finish Trim - Black | FTEX36BK"
             },
             {
@@ -2542,6 +2593,7 @@
               "base_sku": "EX42",
               "type": "variation",
               "requiredOrOptional": "Optional",
+              "product_category": "Trim Kits",
               "display_name": "Napoleon Finish Trim - Black | FTEX42BK"
             }
           ]
@@ -2555,6 +2607,7 @@
               "base_sku": "EX36",
               "type": "variation",
               "requiredOrOptional": "Optional",
+              "product_category": "Trim Kits",
               "display_name": "Napoleon Finish Trim - Charcoal | FTEX36CH"
             },
             {
@@ -2563,6 +2616,7 @@
               "base_sku": "EX42",
               "type": "variation",
               "requiredOrOptional": "Optional",
+              "product_category": "Trim Kits",
               "display_name": "Napoleon Finish Trim - Charcoal | FTEX42CH"
             }
           ]
@@ -2576,6 +2630,7 @@
               "base_sku": "EX36",
               "type": "variation",
               "requiredOrOptional": "Optional",
+              "product_category": "Trim Kits",
               "display_name": "Napoleon Finish Trim - Copper | FTEX36CP"
             },
             {
@@ -2584,6 +2639,7 @@
               "base_sku": "EX42",
               "type": "variation",
               "requiredOrOptional": "Optional",
+              "product_category": "Trim Kits",
               "display_name": "Napoleon Finish Trim - Copper | FTEX42CP"
             }
           ]
@@ -2597,6 +2653,7 @@
               "base_sku": "EX36",
               "type": "variation",
               "requiredOrOptional": "Optional",
+              "product_category": "Trim Kits",
               "display_name": "Napoleon Finish Trim - Gunmetal | FTEX36GM"
             },
             {
@@ -2605,6 +2662,7 @@
               "base_sku": "EX42",
               "type": "variation",
               "requiredOrOptional": "Optional",
+              "product_category": "Trim Kits",
               "display_name": "Napoleon Finish Trim - Gunmetal | FTEX42GM"
             }
           ]
@@ -2618,6 +2676,7 @@
               "base_sku": "EX36",
               "type": "variation",
               "requiredOrOptional": "Optional",
+              "product_category": "Trim Kits",
               "display_name": "Napoleon Bevelled Trim | BTEX36"
             },
             {
@@ -2626,6 +2685,7 @@
               "base_sku": "EX42",
               "type": "variation",
               "requiredOrOptional": "Optional",
+              "product_category": "Trim Kits",
               "display_name": "Napoleon Bevelled Trim | BTEX42"
             }
           ]
@@ -2639,6 +2699,7 @@
               "base_sku": "EX36",
               "type": "variation",
               "requiredOrOptional": "Optional",
+              "product_category": "Decorative Fronts",
               "display_name": "Napoleon Whitney Front - Black | WEX36BK"
             },
             {
@@ -2647,6 +2708,7 @@
               "base_sku": "EX42",
               "type": "variation",
               "requiredOrOptional": "Optional",
+              "product_category": "Decorative Fronts",
               "display_name": "Napoleon Whitney Front - Black | WEX42BK"
             }
           ]
@@ -2660,6 +2722,7 @@
               "base_sku": "EX36",
               "type": "variation",
               "requiredOrOptional": "Optional",
+              "product_category": "Front Accents",
               "display_name": "Napoleon Arched Element - Antique Pewter (Fits on Whitney Front) | AEEX36AP"
             },
             {
@@ -2668,6 +2731,7 @@
               "base_sku": "EX42",
               "type": "variation",
               "requiredOrOptional": "Optional",
+              "product_category": "Front Accents",
               "display_name": "Napoleon Arched Element - Antique Pewter (Fits on Whitney Front) | AEEX42AP"
             }
           ]
@@ -2681,6 +2745,7 @@
               "base_sku": "EX36",
               "type": "variation",
               "requiredOrOptional": "Optional",
+              "product_category": "Front Accents",
               "display_name": "Napoleon Arched Iron Element Burnished Brass (Fits on Whitney Front) | AEEX36BB"
             },
             {
@@ -2689,6 +2754,7 @@
               "base_sku": "EX42",
               "type": "variation",
               "requiredOrOptional": "Optional",
+              "product_category": "Front Accents",
               "display_name": "Napoleon Arched Iron Element Burnished Brass (Fits on Whitney Front) | AEEX42BB"
             }
           ]
@@ -2702,6 +2768,7 @@
               "base_sku": "EX36",
               "type": "variation",
               "requiredOrOptional": "Optional",
+              "product_category": "Front Accents",
               "display_name": "Napoleon Arched Iron Element Satin Nickel (Fits on Whitney Front) | AEEX36SN"
             },
             {
@@ -2710,6 +2777,7 @@
               "base_sku": "EX42",
               "type": "variation",
               "requiredOrOptional": "Optional",
+              "product_category": "Front Accents",
               "display_name": "Napoleon Arched Iron Element Satin Nickel (Fits on Whitney Front) | AEEX42SN"
             }
           ]
@@ -2723,6 +2791,7 @@
               "base_sku": "EX36",
               "type": "variation",
               "requiredOrOptional": "Optional",
+              "product_category": "Decorative Fronts",
               "display_name": "Napoleon Denali Front Rubbed Bronze | DEX36RB"
             },
             {
@@ -2731,6 +2800,7 @@
               "base_sku": "EX42",
               "type": "variation",
               "requiredOrOptional": "Optional",
+              "product_category": "Decorative Fronts",
               "display_name": "Napoleon Denali Front Rubbed Bronze | DEX42RB"
             }
           ]
@@ -2744,6 +2814,7 @@
               "base_sku": "EX36",
               "type": "variation",
               "requiredOrOptional": "Optional",
+              "product_category": "Front Accents",
               "display_name": "Napoleon Straight Element Satin Nickel (Fits on Denali Front) | SEEX36SN"
             },
             {
@@ -2752,6 +2823,7 @@
               "base_sku": "EX42",
               "type": "variation",
               "requiredOrOptional": "Optional",
+              "product_category": "Front Accents",
               "display_name": "Napoleon Straight Element Satin Nickel (Fits on Denali Front) | SEEX42SN"
             }
           ]
@@ -2765,6 +2837,7 @@
               "base_sku": "EX36",
               "type": "variation",
               "requiredOrOptional": "Optional",
+              "product_category": "Front Accents",
               "display_name": "Napoleon Straight Element Antique Pewter (Fits on Denali Front) | SEEX36AP"
             },
             {
@@ -2773,6 +2846,7 @@
               "base_sku": "EX42",
               "type": "variation",
               "requiredOrOptional": "Optional",
+              "product_category": "Front Accents",
               "display_name": "Napoleon Straight Element Antique Pewter (Fits on Denali Front) | SEEX42AP"
             }
           ]
@@ -2786,6 +2860,7 @@
               "base_sku": "EX36",
               "type": "variation",
               "requiredOrOptional": "Optional",
+              "product_category": "Front Accents",
               "display_name": "Napoleon Straight Element Burnished Brass (Fits on Denali Front) | SEEX36BB"
             },
             {
@@ -2794,6 +2869,7 @@
               "base_sku": "EX42",
               "type": "variation",
               "requiredOrOptional": "Optional",
+              "product_category": "Front Accents",
               "display_name": "Napoleon Straight Element Burnished Brass (Fits on Denali Front) | SEEX42BB"
             }
           ]
@@ -2911,6 +2987,7 @@
               "base_sku": "E36",
               "type": "variation",
               "requiredOrOptional": "Required",
+              "product_category": "Interior Panels",
               "display_name": "Napoleon MIRRO-FLAME\u2122   Porcelain Reflective Radiant Panels | PRPEX36"
             },
             {
@@ -2919,6 +2996,7 @@
               "base_sku": "E42",
               "type": "variation",
               "requiredOrOptional": "Required",
+              "product_category": "Interior Panels",
               "display_name": "Napoleon MIRRO-FLAME\u2122   Porcelain Reflective Radiant Panels | PRPEX42"
             }
           ]
@@ -2932,6 +3010,7 @@
               "base_sku": "E36",
               "type": "variation",
               "requiredOrOptional": "Required",
+              "product_category": "Interior Panels",
               "display_name": "Napoleon Black Illusion Glass | BIGEX36"
             },
             {
@@ -2940,6 +3019,7 @@
               "base_sku": "E42",
               "type": "variation",
               "requiredOrOptional": "Required",
+              "product_category": "Interior Panels",
               "display_name": "Napoleon Black Illusion Glass | BIGEX42"
             }
           ]
@@ -2953,6 +3033,7 @@
               "base_sku": "E36",
               "type": "variation",
               "requiredOrOptional": "Required",
+              "product_category": "Interior Panels",
               "display_name": "Napoleon Decorative Antique Ledgestone Brick Panel | DBPEX36LS"
             },
             {
@@ -2961,6 +3042,7 @@
               "base_sku": "E42",
               "type": "variation",
               "requiredOrOptional": "Required",
+              "product_category": "Interior Panels",
               "display_name": "Napoleon Decorative Antique Ledgestone Brick Panel | DBPEX42LS"
             }
           ]
@@ -2974,6 +3056,7 @@
               "base_sku": "E36",
               "type": "variation",
               "requiredOrOptional": "Required",
+              "product_category": "Interior Panels",
               "display_name": "Napoleon Decorative Brick Panels Newport\u2122   Standard | DBPEX36NS"
             },
             {
@@ -2982,6 +3065,7 @@
               "base_sku": "E42",
               "type": "variation",
               "requiredOrOptional": "Required",
+              "product_category": "Interior Panels",
               "display_name": "Napoleon Decorative Brick Panels Newport\u2122   Standard | DBPEX42NS"
             }
           ]
@@ -2995,6 +3079,7 @@
               "base_sku": "E36",
               "type": "variation",
               "requiredOrOptional": "Required",
+              "product_category": "Interior Panels",
               "display_name": "Napoleon Decorative Brick Panels Old Town Red\u2122   Herringbone | DBPEX36OH"
             },
             {
@@ -3003,6 +3088,7 @@
               "base_sku": "E42",
               "type": "variation",
               "requiredOrOptional": "Required",
+              "product_category": "Interior Panels",
               "display_name": "Napoleon Decorative Brick Panels Old Town Red\u2122   Herringbone | DBPEX42OH"
             }
           ]
@@ -3016,6 +3102,7 @@
               "base_sku": "E36",
               "type": "variation",
               "requiredOrOptional": "Required",
+              "product_category": "Interior Panels",
               "display_name": "Napoleon Decorative Brick Panels Old Town Red\u2122   Standard | DBPEX36OS"
             },
             {
@@ -3024,6 +3111,7 @@
               "base_sku": "E42",
               "type": "variation",
               "requiredOrOptional": "Required",
+              "product_category": "Interior Panels",
               "display_name": "Napoleon Decorative Brick Panels Old Town Red\u2122   Standard | DBPEX42OS"
             }
           ]
@@ -3037,6 +3125,7 @@
               "base_sku": "E36",
               "type": "variation",
               "requiredOrOptional": "Required",
+              "product_category": "Interior Panels",
               "display_name": "Napoleon Decorative Brick Panels Westminster\u2122   Grey Herringbone | DBPEX36WH"
             },
             {
@@ -3045,6 +3134,7 @@
               "base_sku": "E42",
               "type": "variation",
               "requiredOrOptional": "Required",
+              "product_category": "Interior Panels",
               "display_name": "Napoleon Decorative Brick Panels Westminster\u2122   Grey Herringbone | DBPEX42WH"
             }
           ]
@@ -3058,6 +3148,7 @@
               "base_sku": "E36",
               "type": "variation",
               "requiredOrOptional": "Required",
+              "product_category": "Interior Panels",
               "display_name": "Napoleon Decorative Brick Panels Westminster\u2122   Grey Standard | DBPEX36WS"
             },
             {
@@ -3066,6 +3157,7 @@
               "base_sku": "E42",
               "type": "variation",
               "requiredOrOptional": "Required",
+              "product_category": "Interior Panels",
               "display_name": "Napoleon Decorative Brick Panels Westminster\u2122   Grey Standard | DBPEX42WS"
             }
           ]
@@ -3079,6 +3171,7 @@
               "base_sku": "E36",
               "type": "variation",
               "requiredOrOptional": "Required",
+              "product_category": "Interior Panels",
               "display_name": "Napoleon Decorative Glacier Herringbone Brick Panel | DBPEX36GH"
             },
             {
@@ -3087,6 +3180,7 @@
               "base_sku": "E42",
               "type": "variation",
               "requiredOrOptional": "Required",
+              "product_category": "Interior Panels",
               "display_name": "Napoleon Decorative Glacier Herringbone Brick Panel | DBPEX42GH"
             }
           ]
@@ -3100,6 +3194,7 @@
               "base_sku": "E36",
               "type": "variation",
               "requiredOrOptional": "Required",
+              "product_category": "Interior Panels",
               "display_name": "Napoleon Decorative Glacier Standard Brick Panel | DBPEX36GS"
             },
             {
@@ -3108,6 +3203,7 @@
               "base_sku": "E42",
               "type": "variation",
               "requiredOrOptional": "Required",
+              "product_category": "Interior Panels",
               "display_name": "Napoleon Decorative Glacier Standard Brick Panel | DBPEX42GS"
             }
           ]
@@ -3121,6 +3217,7 @@
               "base_sku": "E36",
               "type": "variation",
               "requiredOrOptional": "Optional",
+              "product_category": "Decorative Fronts",
               "display_name": "Napoleon Decorative Zen Front Black | ZEX36BK"
             },
             {
@@ -3129,6 +3226,7 @@
               "base_sku": "E42",
               "type": "variation",
               "requiredOrOptional": "Optional",
+              "product_category": "Decorative Fronts",
               "display_name": "Napoleon Decorative Zen Front Black | ZEX42BK"
             }
           ]
@@ -3142,6 +3240,7 @@
               "base_sku": "E36",
               "type": "variation",
               "requiredOrOptional": "Optional",
+              "product_category": "Decorative Fronts",
               "display_name": "Napoleon Decorative Zen Front Charcoal | ZEX36CH"
             },
             {
@@ -3150,6 +3249,7 @@
               "base_sku": "E42",
               "type": "variation",
               "requiredOrOptional": "Optional",
+              "product_category": "Decorative Fronts",
               "display_name": "Napoleon Decorative Zen Front Charcoal | ZEX42CH"
             }
           ]
@@ -3163,6 +3263,7 @@
               "base_sku": "E36",
               "type": "variation",
               "requiredOrOptional": "Optional",
+              "product_category": "Trim Kits",
               "display_name": "Napoleon Finish Trim - Black | FTEX36BK"
             },
             {
@@ -3171,6 +3272,7 @@
               "base_sku": "E42",
               "type": "variation",
               "requiredOrOptional": "Optional",
+              "product_category": "Trim Kits",
               "display_name": "Napoleon Finish Trim - Black | FTEX42BK"
             }
           ]
@@ -3184,6 +3286,7 @@
               "base_sku": "E36",
               "type": "variation",
               "requiredOrOptional": "Optional",
+              "product_category": "Trim Kits",
               "display_name": "Napoleon Finish Trim - Charcoal | FTEX36CH"
             },
             {
@@ -3192,6 +3295,7 @@
               "base_sku": "E42",
               "type": "variation",
               "requiredOrOptional": "Optional",
+              "product_category": "Trim Kits",
               "display_name": "Napoleon Finish Trim - Charcoal | FTEX42CH"
             }
           ]
@@ -3205,6 +3309,7 @@
               "base_sku": "E36",
               "type": "variation",
               "requiredOrOptional": "Optional",
+              "product_category": "Trim Kits",
               "display_name": "Napoleon Finish Trim - Copper | FTEX36CP"
             },
             {
@@ -3213,6 +3318,7 @@
               "base_sku": "E42",
               "type": "variation",
               "requiredOrOptional": "Optional",
+              "product_category": "Trim Kits",
               "display_name": "Napoleon Finish Trim - Copper | FTEX42CP"
             }
           ]
@@ -3226,6 +3332,7 @@
               "base_sku": "E36",
               "type": "variation",
               "requiredOrOptional": "Optional",
+              "product_category": "Trim Kits",
               "display_name": "Napoleon Finish Trim - Gunmetal | FTEX36GM"
             },
             {
@@ -3234,6 +3341,7 @@
               "base_sku": "E42",
               "type": "variation",
               "requiredOrOptional": "Optional",
+              "product_category": "Trim Kits",
               "display_name": "Napoleon Finish Trim - Gunmetal | FTEX42GM"
             }
           ]
@@ -3247,6 +3355,7 @@
               "base_sku": "E36",
               "type": "variation",
               "requiredOrOptional": "Optional",
+              "product_category": "Trim Kits",
               "display_name": "Napoleon Bevelled Trim | BTEX36"
             },
             {
@@ -3255,6 +3364,7 @@
               "base_sku": "E42",
               "type": "variation",
               "requiredOrOptional": "Optional",
+              "product_category": "Trim Kits",
               "display_name": "Napoleon Bevelled Trim | BTEX42"
             }
           ]
@@ -3345,6 +3455,7 @@
               "base_sku": "AX36",
               "type": "variation",
               "requiredOrOptional": "Required",
+              "product_category": "Media Kits",
               "display_name": "Napoleon Split Oak Log Set | OLKAX36"
             },
             {
@@ -3353,6 +3464,7 @@
               "base_sku": "AX42",
               "type": "variation",
               "requiredOrOptional": "Required",
+              "product_category": "Media Kits",
               "display_name": "Napoleon Split Oak Log Set | OLKAX42"
             }
           ]
@@ -3366,6 +3478,7 @@
               "base_sku": "AX36",
               "type": "variation",
               "requiredOrOptional": "Required",
+              "product_category": "Media Kits",
               "display_name": "Napoleon Driftwood Log Set | DLKAX36"
             },
             {
@@ -3374,6 +3487,7 @@
               "base_sku": "AX42",
               "type": "variation",
               "requiredOrOptional": "Required",
+              "product_category": "Media Kits",
               "display_name": "Napoleon Driftwood Log Set | DLKAX42"
             }
           ]
@@ -3387,6 +3501,7 @@
               "base_sku": "AX36",
               "type": "variation",
               "requiredOrOptional": "Required",
+              "product_category": "Media Kits",
               "display_name": "Napoleon Birch Log Set | BLKAX36"
             },
             {
@@ -3395,6 +3510,7 @@
               "base_sku": "AX42",
               "type": "variation",
               "requiredOrOptional": "Required",
+              "product_category": "Media Kits",
               "display_name": "Napoleon Birch Log Set | BLKAX42"
             }
           ]
@@ -3408,6 +3524,7 @@
               "base_sku": "AX36",
               "type": "variation",
               "requiredOrOptional": "Required",
+              "product_category": "Media Kits",
               "display_name": "Napoleon Maple Log Set | MLKAX36"
             },
             {
@@ -3416,6 +3533,7 @@
               "base_sku": "AX42",
               "type": "variation",
               "requiredOrOptional": "Required",
+              "product_category": "Media Kits",
               "display_name": "Napoleon Maple Log Set | MLKAX42"
             }
           ]
@@ -3429,6 +3547,7 @@
               "base_sku": "AX36",
               "type": "variation",
               "requiredOrOptional": "Required",
+              "product_category": "Interior Panels",
               "display_name": "Napoleon MIRRO-FLAME\u2122   Porcelain Reflective Radiant Panels | PRPAX36"
             },
             {
@@ -3437,6 +3556,7 @@
               "base_sku": "AX42",
               "type": "variation",
               "requiredOrOptional": "Required",
+              "product_category": "Interior Panels",
               "display_name": "Napoleon MIRRO-FLAME\u2122   Porcelain Reflective Radiant Panels | PRPAX42"
             }
           ]
@@ -3450,6 +3570,7 @@
               "base_sku": "AX36",
               "type": "variation",
               "requiredOrOptional": "Required",
+              "product_category": "Interior Panels",
               "display_name": "Napoleon Black Illusion Glass | BIGAX36"
             },
             {
@@ -3458,6 +3579,7 @@
               "base_sku": "AX42",
               "type": "variation",
               "requiredOrOptional": "Required",
+              "product_category": "Interior Panels",
               "display_name": "Napoleon Black Illusion Glass | BIGAX42"
             }
           ]
@@ -3471,6 +3593,7 @@
               "base_sku": "AX36",
               "type": "variation",
               "requiredOrOptional": "Required",
+              "product_category": "Interior Panels",
               "display_name": "Napoleon Decorative Brick Panels Newport\u2122   Standard | DBPAX36NS"
             },
             {
@@ -3479,6 +3602,7 @@
               "base_sku": "AX42",
               "type": "variation",
               "requiredOrOptional": "Required",
+              "product_category": "Interior Panels",
               "display_name": "Napoleon Decorative Brick Panels Newport\u2122   Standard | DBPAX42NS"
             }
           ]
@@ -3492,6 +3616,7 @@
               "base_sku": "AX36",
               "type": "variation",
               "requiredOrOptional": "Required",
+              "product_category": "Interior Panels",
               "display_name": "Napoleon Decorative Brick Panels Old Town Red\u2122   Herringbone | DBPAX36OH"
             },
             {
@@ -3500,6 +3625,7 @@
               "base_sku": "AX42",
               "type": "variation",
               "requiredOrOptional": "Required",
+              "product_category": "Interior Panels",
               "display_name": "Napoleon Decorative Brick Panels Old Town Red\u2122   Herringbone | DBPAX42OH"
             }
           ]
@@ -3513,6 +3639,7 @@
               "base_sku": "AX36",
               "type": "variation",
               "requiredOrOptional": "Required",
+              "product_category": "Interior Panels",
               "display_name": "Napoleon Decorative Brick Panels Old Town Red\u2122   Standard | DBPAX36OS"
             },
             {
@@ -3521,6 +3648,7 @@
               "base_sku": "AX42",
               "type": "variation",
               "requiredOrOptional": "Required",
+              "product_category": "Interior Panels",
               "display_name": "Napoleon Decorative Brick Panels Old Town Red\u2122   Standard | DBPAX42OS"
             }
           ]
@@ -3534,6 +3662,7 @@
               "base_sku": "AX36",
               "type": "variation",
               "requiredOrOptional": "Required",
+              "product_category": "Interior Panels",
               "display_name": "Napoleon Decorative Brick Panels Westminster\u2122   Grey Herringbone | DBPAX36WH"
             },
             {
@@ -3542,6 +3671,7 @@
               "base_sku": "AX42",
               "type": "variation",
               "requiredOrOptional": "Required",
+              "product_category": "Interior Panels",
               "display_name": "Napoleon Decorative Brick Panels Westminster\u2122   Grey Herringbone | DBPAX42WH"
             }
           ]
@@ -3555,6 +3685,7 @@
               "base_sku": "AX36",
               "type": "variation",
               "requiredOrOptional": "Required",
+              "product_category": "Interior Panels",
               "display_name": "Napoleon Decorative Brick Panels Westminster\u2122   Grey Standard | DBPAX36WS"
             },
             {
@@ -3563,6 +3694,7 @@
               "base_sku": "AX42",
               "type": "variation",
               "requiredOrOptional": "Required",
+              "product_category": "Interior Panels",
               "display_name": "Napoleon Decorative Brick Panels Westminster\u2122   Grey Standard | DBPAX42WS"
             }
           ]
@@ -3576,6 +3708,7 @@
               "base_sku": "AX36",
               "type": "variation",
               "requiredOrOptional": "Optional",
+              "product_category": "Decorative Fronts",
               "display_name": "Napoleon Zen Front - Black | ZAX36BK"
             },
             {
@@ -3584,6 +3717,7 @@
               "base_sku": "AX42",
               "type": "variation",
               "requiredOrOptional": "Optional",
+              "product_category": "Decorative Fronts",
               "display_name": "Napoleon Zen Front - Black | ZAX42BK"
             }
           ]
@@ -3597,6 +3731,7 @@
               "base_sku": "AX36",
               "type": "variation",
               "requiredOrOptional": "Optional",
+              "product_category": "Decorative Fronts",
               "display_name": "Napoleon Zen Front - Charcoal | ZAX36CH"
             },
             {
@@ -3605,6 +3740,7 @@
               "base_sku": "AX42",
               "type": "variation",
               "requiredOrOptional": "Optional",
+              "product_category": "Decorative Fronts",
               "display_name": "Napoleon Zen Front - Charcoal | ZAX42CH"
             }
           ]
@@ -3618,6 +3754,7 @@
               "base_sku": "AX36",
               "type": "variation",
               "requiredOrOptional": "Optional",
+              "product_category": "Trim Kits",
               "display_name": "Napoleon Finish Trim - Black | FTAX36BK"
             },
             {
@@ -3626,6 +3763,7 @@
               "base_sku": "AX42",
               "type": "variation",
               "requiredOrOptional": "Optional",
+              "product_category": "Trim Kits",
               "display_name": "Napoleon Finish Trim - Black | FTAX42BK"
             }
           ]
@@ -3639,6 +3777,7 @@
               "base_sku": "AX36",
               "type": "variation",
               "requiredOrOptional": "Optional",
+              "product_category": "Trim Kits",
               "display_name": "Napoleon Finish Trim - Charcoal | FTAX36CH"
             },
             {
@@ -3647,6 +3786,7 @@
               "base_sku": "AX42",
               "type": "variation",
               "requiredOrOptional": "Optional",
+              "product_category": "Trim Kits",
               "display_name": "Napoleon Finish Trim - Charcoal | FTAX42CH"
             }
           ]
@@ -3660,6 +3800,7 @@
               "base_sku": "AX36",
               "type": "variation",
               "requiredOrOptional": "Optional",
+              "product_category": "Trim Kits",
               "display_name": "Napoleon Finish Trim - Copper | FTAX36CP"
             },
             {
@@ -3668,6 +3809,7 @@
               "base_sku": "AX42",
               "type": "variation",
               "requiredOrOptional": "Optional",
+              "product_category": "Trim Kits",
               "display_name": "Napoleon Finish Trim - Copper | FTAX42CP"
             }
           ]
@@ -3681,6 +3823,7 @@
               "base_sku": "AX36",
               "type": "variation",
               "requiredOrOptional": "Optional",
+              "product_category": "Trim Kits",
               "display_name": "Napoleon Finish Trim - Gun Metal | FTAX36GM"
             },
             {
@@ -3689,6 +3832,7 @@
               "base_sku": "AX42",
               "type": "variation",
               "requiredOrOptional": "Optional",
+              "product_category": "Trim Kits",
               "display_name": "Napoleon Finish Trim - Gun Metal | FTAX42GM"
             }
           ]
@@ -3702,6 +3846,7 @@
               "base_sku": "AX36",
               "type": "variation",
               "requiredOrOptional": "Optional",
+              "product_category": "Trim Kits",
               "display_name": "Napoleon Bevelled Trim - Black | BTAX36BK"
             },
             {
@@ -3710,6 +3855,7 @@
               "base_sku": "AX42",
               "type": "variation",
               "requiredOrOptional": "Optional",
+              "product_category": "Trim Kits",
               "display_name": "Napoleon Bevelled Trim - Black | BTAX42BK"
             }
           ]
@@ -3723,6 +3869,7 @@
               "base_sku": "AX36",
               "type": "variation",
               "requiredOrOptional": "Optional",
+              "product_category": "Decorative Fronts",
               "display_name": "Napoleon Whitney Front - Arched Metal | WAX36BK"
             },
             {
@@ -3731,6 +3878,7 @@
               "base_sku": "AX42",
               "type": "variation",
               "requiredOrOptional": "Optional",
+              "product_category": "Decorative Fronts",
               "display_name": "Napoleon Whitney Front - Arched Metal | WAX42BK"
             }
           ]
@@ -3744,6 +3892,7 @@
               "base_sku": "AX36",
               "type": "variation",
               "requiredOrOptional": "Optional",
+              "product_category": "Front Accents",
               "display_name": "Napoleon Arched Iron Elements - Antique Pewter (Fits on Whitney front) | AEAX36AP"
             },
             {
@@ -3752,6 +3901,7 @@
               "base_sku": "AX42",
               "type": "variation",
               "requiredOrOptional": "Optional",
+              "product_category": "Front Accents",
               "display_name": "Napoleon Arched Iron Elements - Antique Pewter (Fits on Whitney front) | AEAX42AP"
             }
           ]
@@ -3765,6 +3915,7 @@
               "base_sku": "AX36",
               "type": "variation",
               "requiredOrOptional": "Optional",
+              "product_category": "Front Accents",
               "display_name": "Napoleon Arched Iron Elements - Burnished Brass (Fits on Whitney front) | AEAX36BB"
             },
             {
@@ -3773,6 +3924,7 @@
               "base_sku": "AX42",
               "type": "variation",
               "requiredOrOptional": "Optional",
+              "product_category": "Front Accents",
               "display_name": "Napoleon Arched Iron Elements - Burnished Brass (Fits on Whitney front) | AEAX42BB"
             }
           ]
@@ -3786,6 +3938,7 @@
               "base_sku": "AX36",
               "type": "variation",
               "requiredOrOptional": "Optional",
+              "product_category": "Front Accents",
               "display_name": "Napoleon Arched Iron Elements - Satin Nickel (Fits on Whitney front) | AEAX36SN"
             },
             {
@@ -3794,6 +3947,7 @@
               "base_sku": "AX42",
               "type": "variation",
               "requiredOrOptional": "Optional",
+              "product_category": "Front Accents",
               "display_name": "Napoleon Arched Iron Elements - Satin Nickel (Fits on Whitney front) | AEAX42SN"
             }
           ]
@@ -3807,6 +3961,7 @@
               "base_sku": "AX36",
               "type": "variation",
               "requiredOrOptional": "Optional",
+              "product_category": "Decorative Fronts",
               "display_name": "Napoleon Denali Premium Front Rubbed Bronze | DAX36RB"
             },
             {
@@ -3815,6 +3970,7 @@
               "base_sku": "AX42",
               "type": "variation",
               "requiredOrOptional": "Optional",
+              "product_category": "Decorative Fronts",
               "display_name": "Napoleon Denali Premium Front Rubbed Bronze | DAX42RB"
             }
           ]
@@ -3828,6 +3984,7 @@
               "base_sku": "AX36",
               "type": "variation",
               "requiredOrOptional": "Optional",
+              "product_category": "Front Accents",
               "display_name": "Napoleon Straight Element in Antique Pewter (Fits on Denali Front) | SEAX36AP"
             },
             {
@@ -3836,6 +3993,7 @@
               "base_sku": "AX42",
               "type": "variation",
               "requiredOrOptional": "Optional",
+              "product_category": "Front Accents",
               "display_name": "Napoleon Straight Element in Antique Pewter (Fits on Denali Front) | SEAX42AP"
             }
           ]
@@ -3849,6 +4007,7 @@
               "base_sku": "AX36",
               "type": "variation",
               "requiredOrOptional": "Optional",
+              "product_category": "Front Accents",
               "display_name": "Napoleon Straight Element in Burnished Brass (Fits on Denali Front) | SEAX36BB"
             },
             {
@@ -3857,6 +4016,7 @@
               "base_sku": "AX42",
               "type": "variation",
               "requiredOrOptional": "Optional",
+              "product_category": "Front Accents",
               "display_name": "Napoleon Straight Element in Burnished Brass (Fits on Denali Front) | SEAX42BB"
             }
           ]
@@ -3870,6 +4030,7 @@
               "base_sku": "AX36",
               "type": "variation",
               "requiredOrOptional": "Optional",
+              "product_category": "Front Accents",
               "display_name": "Napoleon Straight Element in Satin Nickel (Fits on Denali Front) | SEAX36SN"
             },
             {
@@ -3878,6 +4039,7 @@
               "base_sku": "AX42",
               "type": "variation",
               "requiredOrOptional": "Optional",
+              "product_category": "Front Accents",
               "display_name": "Napoleon Straight Element in Satin Nickel (Fits on Denali Front) | SEAX42SN"
             }
           ]
@@ -3987,6 +4149,7 @@
               "base_sku": "HDX52",
               "type": "variation",
               "requiredOrOptional": "Required",
+              "product_category": "Media Kits",
               "display_name": "Napoleon Log Set Configuration Burner Assembly - Natural Gas | B52NL-1"
             }
           ]
@@ -4000,6 +4163,7 @@
               "base_sku": "HDX52",
               "type": "variation",
               "requiredOrOptional": "Required",
+              "product_category": "Media Kits",
               "display_name": "Napoleon Log Set Configuration Burner Assembly - Propane | B52PL-1"
             }
           ]
@@ -4013,6 +4177,7 @@
               "base_sku": "HDX52",
               "type": "variation",
               "requiredOrOptional": "Required",
+              "product_category": "Media Kits",
               "display_name": "Napoleon Oak Log Set Configuration Burner Assembly - Natural Gas | B52NTL"
             }
           ]
@@ -4026,6 +4191,7 @@
               "base_sku": "HDX52",
               "type": "variation",
               "requiredOrOptional": "Required",
+              "product_category": "Media Kits",
               "display_name": "Napoleon Oak Log Set Configuration Burner Assembly - Propane | B52PTL"
             }
           ]
@@ -4091,6 +4257,7 @@
               "base_sku": "HDX52",
               "type": "variation",
               "requiredOrOptional": "Required",
+              "product_category": "Interior Panels",
               "display_name": "Napoleon Decorative Brick Panels Newport\u2122 | GD855KT"
             }
           ]
@@ -4104,6 +4271,7 @@
               "base_sku": "HDX52",
               "type": "variation",
               "requiredOrOptional": "Required",
+              "product_category": "Interior Panels",
               "display_name": "Napoleon Decorative Brick Panels Antique White Ledgerock | GD859KT"
             }
           ]
@@ -4117,6 +4285,7 @@
               "base_sku": "HDX52",
               "type": "variation",
               "requiredOrOptional": "Required",
+              "product_category": "Interior Panels",
               "display_name": "Napoleon Decorative Brick Panels Custom Blend Ledgerock | GD860KT"
             }
           ]
@@ -4130,6 +4299,7 @@
               "base_sku": "HDX52",
               "type": "variation",
               "requiredOrOptional": "Required",
+              "product_category": "Interior Panels",
               "display_name": "Napoleon MIRRO-FLAME\u2122   Porcelain Reflective Radiant Panels | PRP52BK"
             }
           ]
@@ -4143,6 +4313,7 @@
               "base_sku": "HDX52",
               "type": "variation",
               "requiredOrOptional": "Required",
+              "product_category": "Media Kits",
               "display_name": "Napoleon Hearth Pad (for use when Ordering Log Set Configuration with MIRRO-FLAME\u2122   Panels) | HP52K"
             }
           ]
@@ -4225,6 +4396,7 @@
               "base_sku": "HD81",
               "type": "variation",
               "requiredOrOptional": "Required",
+              "product_category": "Media Kits",
               "display_name": "Napoleon Log Set Configuration Burner Assembly | B81NL-1"
             }
           ]
@@ -4251,6 +4423,7 @@
               "base_sku": "HD81",
               "type": "variation",
               "requiredOrOptional": "Required",
+              "product_category": "Interior Panels",
               "display_name": "Napoleon Decorative Brick Panels Sandstone (for Log Set Configuration only) | GD874KT"
             }
           ]
@@ -4264,6 +4437,7 @@
               "base_sku": "HD81",
               "type": "variation",
               "requiredOrOptional": "Required",
+              "product_category": "Interior Panels",
               "display_name": "Napoleon MIRRO-FLAME\u2122   Porcelain Reflective Radiant Panels | PRP81-1"
             }
           ]
@@ -4370,6 +4544,7 @@
               "base_sku": "D42",
               "type": "variation",
               "requiredOrOptional": "Optional",
+              "product_category": "Interior Panels",
               "display_name": "Napoleon MIRRO-FLAME\u2122   Porcelain Reflective Radiant Panels | PRPDX42"
             }
           ]
@@ -4383,6 +4558,7 @@
               "base_sku": "D42",
               "type": "variation",
               "requiredOrOptional": "Optional",
+              "product_category": "Interior Panels",
               "display_name": "Napoleon Decorative Brick Panels Westminster\u2122   Herringbone | DBPDX42WH"
             }
           ]
@@ -4396,6 +4572,7 @@
               "base_sku": "D42",
               "type": "variation",
               "requiredOrOptional": "Optional",
+              "product_category": "Interior Panels",
               "display_name": "Napoleon Decorative Brick Panels Westminster\u2122   Standard | DBPDX42WS"
             }
           ]
@@ -4409,6 +4586,7 @@
               "base_sku": "D42",
               "type": "variation",
               "requiredOrOptional": "Optional",
+              "product_category": "Interior Panels",
               "display_name": "Napoleon Decorative Brick Panels Old Town Red\u2122   Herringbone | DBPDX42OH"
             }
           ]
@@ -4422,6 +4600,7 @@
               "base_sku": "D42",
               "type": "variation",
               "requiredOrOptional": "Optional",
+              "product_category": "Interior Panels",
               "display_name": "Napoleon Decorative Brick Panels Old Town Red\u2122   Standard | DBPDX42OS"
             }
           ]
@@ -4435,6 +4614,7 @@
               "base_sku": "D42",
               "type": "variation",
               "requiredOrOptional": "Optional",
+              "product_category": "Interior Panels",
               "display_name": "Napoleon Decorative Brick Panels Sandstone | DBPDX42SS"
             }
           ]
@@ -4448,6 +4628,7 @@
               "base_sku": "D42",
               "type": "variation",
               "requiredOrOptional": "Optional",
+              "product_category": "Interior Panels",
               "display_name": "Napoleon Decorative Brick Panels Newport\u2122 | DBPDX42NS"
             }
           ]
@@ -4461,6 +4642,7 @@
               "base_sku": "D42",
               "type": "variation",
               "requiredOrOptional": "Optional",
+              "product_category": "Trim Kits",
               "display_name": "Napoleon Finish Trim - Black | FTD42BK"
             }
           ]
@@ -4474,6 +4656,7 @@
               "base_sku": "D42",
               "type": "variation",
               "requiredOrOptional": "Optional",
+              "product_category": "Trim Kits",
               "display_name": "Napoleon Bevelled Trim - Black | BTD42BK"
             }
           ]
@@ -4487,6 +4670,7 @@
               "base_sku": "D42",
               "type": "variation",
               "requiredOrOptional": "Optional",
+              "product_category": "Decorative Fronts",
               "display_name": "Napoleon Zen Front - Black | ZD42BK"
             }
           ]
@@ -4631,6 +4815,7 @@
               "base_sku": "DX42",
               "type": "variation",
               "requiredOrOptional": "Optional",
+              "product_category": "Interior Panels",
               "display_name": "Napoleon MIRRO-FLAME\u2122   Porcelain Reflective Radiant Panels | PRPDX42"
             }
           ]
@@ -4644,6 +4829,7 @@
               "base_sku": "DX42",
               "type": "variation",
               "requiredOrOptional": "Optional",
+              "product_category": "Interior Panels",
               "display_name": "Napoleon Decorative Brick Panels Westminster\u2122   Herringbone | DBPDX42WH"
             }
           ]
@@ -4657,6 +4843,7 @@
               "base_sku": "DX42",
               "type": "variation",
               "requiredOrOptional": "Optional",
+              "product_category": "Interior Panels",
               "display_name": "Napoleon Decorative Brick Panels Westminster\u2122   Standard | DBPDX42WS"
             }
           ]
@@ -4670,6 +4857,7 @@
               "base_sku": "DX42",
               "type": "variation",
               "requiredOrOptional": "Optional",
+              "product_category": "Interior Panels",
               "display_name": "Napoleon Decorative Brick Panels Old Town Red\u2122   Herringbone | DBPDX42OH"
             }
           ]
@@ -4683,6 +4871,7 @@
               "base_sku": "DX42",
               "type": "variation",
               "requiredOrOptional": "Optional",
+              "product_category": "Interior Panels",
               "display_name": "Napoleon Decorative Brick Panels Old Town Red\u2122   Standard | DBPDX42OS"
             }
           ]
@@ -4696,6 +4885,7 @@
               "base_sku": "DX42",
               "type": "variation",
               "requiredOrOptional": "Optional",
+              "product_category": "Interior Panels",
               "display_name": "Napoleon Decorative Brick Panels Sandstone | DBPDX42SS"
             }
           ]
@@ -4709,6 +4899,7 @@
               "base_sku": "DX42",
               "type": "variation",
               "requiredOrOptional": "Optional",
+              "product_category": "Interior Panels",
               "display_name": "Napoleon Decorative Brick Panels Newport\u2122 | DBPDX42NS"
             }
           ]
@@ -4722,6 +4913,7 @@
               "base_sku": "DX42",
               "type": "variation",
               "requiredOrOptional": "Optional",
+              "product_category": "Trim Kits",
               "display_name": "Napoleon Finish Trim - Black | FTD42BK"
             }
           ]
@@ -4735,6 +4927,7 @@
               "base_sku": "DX42",
               "type": "variation",
               "requiredOrOptional": "Optional",
+              "product_category": "Trim Kits",
               "display_name": "Napoleon Bevelled Trim - Black | BTD42BK"
             }
           ]
@@ -4748,6 +4941,7 @@
               "base_sku": "DX42",
               "type": "variation",
               "requiredOrOptional": "Optional",
+              "product_category": "Decorative Fronts",
               "display_name": "Napoleon Zen Front - Black | ZD42BK"
             }
           ]
@@ -4879,6 +5073,7 @@
               "base_sku": "GX70",
               "type": "variation",
               "requiredOrOptional": "Required",
+              "product_category": "Interior Panels",
               "display_name": "Napoleon Decorative Brick Panels Old Town Red\u2122   Herringbone | DBPX70OH"
             }
           ]
@@ -4892,6 +5087,7 @@
               "base_sku": "GX70",
               "type": "variation",
               "requiredOrOptional": "Required",
+              "product_category": "Interior Panels",
               "display_name": "Napoleon Decorative Brick Panels Old Town Red\u2122   Standard | DBPX70OS"
             }
           ]
@@ -4905,6 +5101,7 @@
               "base_sku": "GX70",
               "type": "variation",
               "requiredOrOptional": "Required",
+              "product_category": "Interior Panels",
               "display_name": "Napoleon Decorative Brick Panels Sandstone | DBPX70SS"
             }
           ]
@@ -4918,6 +5115,7 @@
               "base_sku": "GX70",
               "type": "variation",
               "requiredOrOptional": "Required",
+              "product_category": "Interior Panels",
               "display_name": "Napoleon Decorative Brick Panels Westminster\u2122   Standard | DBPX70WS"
             }
           ]
@@ -4931,6 +5129,7 @@
               "base_sku": "GX70",
               "type": "variation",
               "requiredOrOptional": "Required",
+              "product_category": "Interior Panels",
               "display_name": "Napoleon Decorative Brick Panels Westminster\u2122   Herringbone | DBPX70WH"
             }
           ]
@@ -4944,6 +5143,7 @@
               "base_sku": "GX70",
               "type": "variation",
               "requiredOrOptional": "Required",
+              "product_category": "Interior Panels",
               "display_name": "Napoleon Decorative Brick Panels Newport\u2122 | GD869KT"
             }
           ]
@@ -4957,6 +5157,7 @@
               "base_sku": "GX70",
               "type": "variation",
               "requiredOrOptional": "Required",
+              "product_category": "Interior Panels",
               "display_name": "Napoleon MIRRO-FLAME\u2122   Porcelain Reflective Radiant Panels | PRPGX70"
             }
           ]
@@ -5048,6 +5249,7 @@
               "base_sku": "GX70",
               "type": "variation",
               "requiredOrOptional": "Optional",
+              "product_category": "Trim Kits",
               "display_name": "Napoleon Black 3\" Premium Bevelled Trim Kit | BT36K"
             }
           ]
@@ -5061,6 +5263,7 @@
               "base_sku": "GX70",
               "type": "variation",
               "requiredOrOptional": "Optional",
+              "product_category": "Trim Kits",
               "display_name": "Napoleon Black 3\" Trim Kit | TK35"
             }
           ]
@@ -5135,6 +5338,7 @@
               "base_sku": "GX42",
               "type": "variation",
               "requiredOrOptional": "Optional",
+              "product_category": "Interior Panels",
               "display_name": "Napoleon Decorative Brick Panels Newport\u2122   Standard | DBPX42NS"
             }
           ]
@@ -5148,6 +5352,7 @@
               "base_sku": "GX42",
               "type": "variation",
               "requiredOrOptional": "Optional",
+              "product_category": "Interior Panels",
               "display_name": "Napoleon Decorative Brick Panels Old Town Red\u2122   Herringbone | DBPX42OH"
             }
           ]
@@ -5161,6 +5366,7 @@
               "base_sku": "GX42",
               "type": "variation",
               "requiredOrOptional": "Optional",
+              "product_category": "Interior Panels",
               "display_name": "Napoleon Decorative Brick Panels Old Town Red\u2122   Standard | DBPX42OS"
             }
           ]
@@ -5174,6 +5380,7 @@
               "base_sku": "GX42",
               "type": "variation",
               "requiredOrOptional": "Optional",
+              "product_category": "Interior Panels",
               "display_name": "Napoleon Decorative Brick Panels Sandstone Standard | DBPX42SS"
             }
           ]
@@ -5187,6 +5394,7 @@
               "base_sku": "GX42",
               "type": "variation",
               "requiredOrOptional": "Optional",
+              "product_category": "Interior Panels",
               "display_name": "Napoleon Decorative Brick Panels Westminster\u2122   Herringbone | DBPX42WH"
             }
           ]
@@ -5200,6 +5408,7 @@
               "base_sku": "GX42",
               "type": "variation",
               "requiredOrOptional": "Optional",
+              "product_category": "Interior Panels",
               "display_name": "Napoleon Decorative Brick Panels Westminster\u2122   Standard | DBPX42WS"
             }
           ]
@@ -5213,6 +5422,7 @@
               "base_sku": "GX42",
               "type": "variation",
               "requiredOrOptional": "Optional",
+              "product_category": "Interior Panels",
               "display_name": "Napoleon MIRRO-FLAME\u2122   Porcelain Reflective Radiant Panels | PRPX42"
             }
           ]
@@ -5265,6 +5475,7 @@
               "base_sku": "GX42",
               "type": "variation",
               "requiredOrOptional": "Optional",
+              "product_category": "Trim Kits",
               "display_name": "Napoleon Black 3\" Premium Bevelled Trim Kit | BT42K"
             }
           ]
@@ -5278,6 +5489,7 @@
               "base_sku": "GX42",
               "type": "variation",
               "requiredOrOptional": "Optional",
+              "product_category": "Trim Kits",
               "display_name": "Napoleon Black 3\" Trim Kit | TK42"
             }
           ]
@@ -5435,6 +5647,7 @@
               "base_sku": "GX36",
               "type": "variation",
               "requiredOrOptional": "Optional",
+              "product_category": "Interior Panels",
               "display_name": "Napoleon Decorative Brick Panels Newport\u2122 | GD863KT"
             }
           ]
@@ -5448,6 +5661,7 @@
               "base_sku": "GX36",
               "type": "variation",
               "requiredOrOptional": "Optional",
+              "product_category": "Interior Panels",
               "display_name": "Napoleon Decorative Brick Panels Old Town Red\u2122   Herringbone | DBPX36OH"
             }
           ]
@@ -5461,6 +5675,7 @@
               "base_sku": "GX36",
               "type": "variation",
               "requiredOrOptional": "Optional",
+              "product_category": "Interior Panels",
               "display_name": "Napoleon Decorative Brick Panels Old Town Red\u2122   Standard | DBPX36OS"
             }
           ]
@@ -5474,6 +5689,7 @@
               "base_sku": "GX36",
               "type": "variation",
               "requiredOrOptional": "Optional",
+              "product_category": "Interior Panels",
               "display_name": "Napoleon Decorative Brick Panels Sandstone Standard | GD862KT"
             }
           ]
@@ -5487,6 +5703,7 @@
               "base_sku": "GX36",
               "type": "variation",
               "requiredOrOptional": "Optional",
+              "product_category": "Interior Panels",
               "display_name": "Napoleon Decorative Brick Panels Westminster\u2122   Herringbone | DBPX36WH"
             }
           ]
@@ -5500,6 +5717,7 @@
               "base_sku": "GX36",
               "type": "variation",
               "requiredOrOptional": "Optional",
+              "product_category": "Interior Panels",
               "display_name": "Napoleon Decorative Brick Panels Westminster\u2122   Standard | DBPX36WS"
             }
           ]
@@ -5513,6 +5731,7 @@
               "base_sku": "GX36",
               "type": "variation",
               "requiredOrOptional": "Optional",
+              "product_category": "Interior Panels",
               "display_name": "Napoleon MIRRO-FLAME\u2122   Porcelain Reflective Radiant Panels | PRPB36"
             }
           ]
@@ -5604,6 +5823,7 @@
               "base_sku": "GX36",
               "type": "variation",
               "requiredOrOptional": "Optional",
+              "product_category": "Trim Kits",
               "display_name": "Napoleon Black 3\" Premium Bevelled Trim Kit | BT36K"
             }
           ]
@@ -5617,6 +5837,7 @@
               "base_sku": "GX36",
               "type": "variation",
               "requiredOrOptional": "Optional",
+              "product_category": "Trim Kits",
               "display_name": "Napoleon Black 3\" Trim Kit | TK35"
             }
           ]
@@ -5792,6 +6013,7 @@
               "base_sku": "BX36",
               "type": "variation",
               "requiredOrOptional": "Optional",
+              "product_category": "Interior Panels",
               "display_name": "Napoleon MIRRO-FLAME\u2122   Porcelain Reflective Radiant Panels | PRPB36"
             },
             {
@@ -5800,6 +6022,7 @@
               "base_sku": "BX42",
               "type": "variation",
               "requiredOrOptional": "Optional",
+              "product_category": "Interior Panels",
               "display_name": "Napoleon MIRRO-FLAME\u2122   Porcelain Reflective Radiant Panels | PRPX42"
             }
           ]
@@ -5813,6 +6036,7 @@
               "base_sku": "BX36",
               "type": "variation",
               "requiredOrOptional": "Optional",
+              "product_category": "Interior Panels",
               "display_name": "Napoleon Decorative Brick Panels Westminster\u2122   Herringbone | DBPX36WH"
             },
             {
@@ -5821,6 +6045,7 @@
               "base_sku": "BX42",
               "type": "variation",
               "requiredOrOptional": "Optional",
+              "product_category": "Interior Panels",
               "display_name": "Napoleon Decorative Brick Panels Westminster\u2122   Herringbone | DBPX42WH"
             }
           ]
@@ -5834,6 +6059,7 @@
               "base_sku": "BX36",
               "type": "variation",
               "requiredOrOptional": "Optional",
+              "product_category": "Interior Panels",
               "display_name": "Napoleon Decorative Brick Panels Westminster\u2122   Standard | DBPX36WS"
             },
             {
@@ -5842,6 +6068,7 @@
               "base_sku": "BX42",
               "type": "variation",
               "requiredOrOptional": "Optional",
+              "product_category": "Interior Panels",
               "display_name": "Napoleon Decorative Brick Panels Westminster\u2122   Standard | DBPX42WS"
             }
           ]
@@ -5855,6 +6082,7 @@
               "base_sku": "BX36",
               "type": "variation",
               "requiredOrOptional": "Optional",
+              "product_category": "Interior Panels",
               "display_name": "Napoleon Decorative Brick Panels Old Town Red\u2122   Herringbone | DBPX36OH"
             },
             {
@@ -5863,6 +6091,7 @@
               "base_sku": "BX42",
               "type": "variation",
               "requiredOrOptional": "Optional",
+              "product_category": "Interior Panels",
               "display_name": "Napoleon Decorative Brick Panels Old Town Red\u2122   Herringbone | DBPX42OH"
             }
           ]
@@ -5876,6 +6105,7 @@
               "base_sku": "BX36",
               "type": "variation",
               "requiredOrOptional": "Optional",
+              "product_category": "Interior Panels",
               "display_name": "Napoleon Decorative Brick Panels Old Town Red\u2122   Standard | DBPX36OS"
             },
             {
@@ -5884,6 +6114,7 @@
               "base_sku": "BX42",
               "type": "variation",
               "requiredOrOptional": "Optional",
+              "product_category": "Interior Panels",
               "display_name": "Napoleon Decorative Brick Panels Old Town Red\u2122   Standard | DBPX42OS"
             }
           ]
@@ -5897,6 +6128,7 @@
               "base_sku": "BX36",
               "type": "variation",
               "requiredOrOptional": "Optional",
+              "product_category": "Interior Panels",
               "display_name": "Napoleon Decorative Brick Panels Sandstone | GD862KT"
             },
             {
@@ -5905,6 +6137,7 @@
               "base_sku": "BX42",
               "type": "variation",
               "requiredOrOptional": "Optional",
+              "product_category": "Interior Panels",
               "display_name": "Napoleon Decorative Brick Panels Sandstone | DBPX42SS"
             }
           ]
@@ -5918,6 +6151,7 @@
               "base_sku": "BX36",
               "type": "variation",
               "requiredOrOptional": "Optional",
+              "product_category": "Interior Panels",
               "display_name": "Napoleon Decorative Brick Panels Newport\u2122 | GD863KT"
             },
             {
@@ -5926,6 +6160,7 @@
               "base_sku": "BX42",
               "type": "variation",
               "requiredOrOptional": "Optional",
+              "product_category": "Interior Panels",
               "display_name": "Napoleon Decorative Brick Panels Newport\u2122 | DBPX42NS"
             }
           ]
@@ -5939,6 +6174,7 @@
               "base_sku": "BX36",
               "type": "variation",
               "requiredOrOptional": "Optional",
+              "product_category": "Trim Kits",
               "display_name": "Napoleon Black 3\" Premium Bevelled Trim Kit | BT36K"
             },
             {
@@ -5947,6 +6183,7 @@
               "base_sku": "BX42",
               "type": "variation",
               "requiredOrOptional": "Optional",
+              "product_category": "Trim Kits",
               "display_name": "Napoleon Black 3\" Premium Bevelled Trim Kit | BT42K"
             }
           ]
@@ -6288,6 +6525,7 @@
               "base_sku": "B36",
               "type": "variation",
               "requiredOrOptional": "Optional",
+              "product_category": "Interior Panels",
               "display_name": "Napoleon Decorative Brick Panels Sandstone | DBPB36SS *"
             },
             {
@@ -6296,6 +6534,7 @@
               "base_sku": "B42",
               "type": "variation",
               "requiredOrOptional": "Optional",
+              "product_category": "Interior Panels",
               "display_name": "Napoleon Decorative Brick Panels Sandstone | GD871KT"
             },
             {
@@ -6304,6 +6543,7 @@
               "base_sku": "B46",
               "type": "variation",
               "requiredOrOptional": "Optional",
+              "product_category": "Interior Panels",
               "display_name": "Napoleon Decorative Brick Panels Sandstone | GD873KT"
             }
           ]
@@ -6317,6 +6557,7 @@
               "base_sku": "B36",
               "type": "variation",
               "requiredOrOptional": "Optional",
+              "product_category": "Interior Panels",
               "display_name": "Napoleon Decorative Brick Panels Old Town Red\u2122   Herringbone | DBPB36OH *"
             },
             {
@@ -6325,6 +6566,7 @@
               "base_sku": "B42",
               "type": "variation",
               "requiredOrOptional": "Optional",
+              "product_category": "Interior Panels",
               "display_name": "Napoleon Decorative Brick Panels Old Town Red\u2122   Herringbone | DBPB42OH"
             },
             {
@@ -6333,6 +6575,7 @@
               "base_sku": "B46",
               "type": "variation",
               "requiredOrOptional": "Optional",
+              "product_category": "Interior Panels",
               "display_name": "Napoleon Decorative Brick Panels Old Town Red\u2122   Herringbone | DBPB46OH"
             }
           ]
@@ -6346,6 +6589,7 @@
               "base_sku": "B36",
               "type": "variation",
               "requiredOrOptional": "Optional",
+              "product_category": "Interior Panels",
               "display_name": "Napoleon Decorative Brick Panels Westminster\u2122   Herringbone | DBPB36WH *"
             },
             {
@@ -6354,6 +6598,7 @@
               "base_sku": "B42",
               "type": "variation",
               "requiredOrOptional": "Optional",
+              "product_category": "Interior Panels",
               "display_name": "Napoleon Decorative Brick Panels Westminster\u2122   Herringbone | DBPB42WH"
             },
             {
@@ -6362,6 +6607,7 @@
               "base_sku": "B46",
               "type": "variation",
               "requiredOrOptional": "Optional",
+              "product_category": "Interior Panels",
               "display_name": "Napoleon Decorative Brick Panels Westminster\u2122   Herringbone | DBPB46WH"
             }
           ]
@@ -6375,6 +6621,7 @@
               "base_sku": "B36",
               "type": "variation",
               "requiredOrOptional": "Optional",
+              "product_category": "Interior Panels",
               "display_name": "Napoleon Decorative Brick Panels Westminster\u2122   Standard | DBPB36WS *"
             },
             {
@@ -6383,6 +6630,7 @@
               "base_sku": "B42",
               "type": "variation",
               "requiredOrOptional": "Optional",
+              "product_category": "Interior Panels",
               "display_name": "Napoleon Decorative Brick Panels Westminster\u2122   Standard | DBPB42WS"
             },
             {
@@ -6391,6 +6639,7 @@
               "base_sku": "B46",
               "type": "variation",
               "requiredOrOptional": "Optional",
+              "product_category": "Interior Panels",
               "display_name": "Napoleon Decorative Brick Panels Westminster\u2122   Standard | DBPB46WS"
             }
           ]
@@ -6404,6 +6653,7 @@
               "base_sku": "B30",
               "type": "variation",
               "requiredOrOptional": "Optional",
+              "product_category": "Interior Panels",
               "display_name": "Napoleon MIRRO-FLAME\u2122   Porcelain Reflective Radiant Panels | PRPB30-1"
             },
             {
@@ -6412,6 +6662,7 @@
               "base_sku": "B36",
               "type": "variation",
               "requiredOrOptional": "Optional",
+              "product_category": "Interior Panels",
               "display_name": "Napoleon MIRRO-FLAME\u2122   Porcelain Reflective Radiant Panels | PRPB36"
             },
             {
@@ -6420,6 +6671,7 @@
               "base_sku": "B42",
               "type": "variation",
               "requiredOrOptional": "Optional",
+              "product_category": "Interior Panels",
               "display_name": "Napoleon MIRRO-FLAME\u2122   Porcelain Reflective Radiant Panels | PRPB42TR"
             },
             {
@@ -6428,6 +6680,7 @@
               "base_sku": "B46",
               "type": "variation",
               "requiredOrOptional": "Optional",
+              "product_category": "Interior Panels",
               "display_name": "Napoleon MIRRO-FLAME\u2122   Porcelain Reflective Radiant Panels | PRPB46"
             }
           ]
@@ -6549,6 +6802,7 @@
               "base_sku": "B30",
               "type": "variation",
               "requiredOrOptional": "Optional",
+              "product_category": "Trim Kits",
               "display_name": "Napoleon Black 3\" Premium Bevelled Trim Kit | BT30K"
             },
             {
@@ -6557,6 +6811,7 @@
               "base_sku": "B36",
               "type": "variation",
               "requiredOrOptional": "Optional",
+              "product_category": "Trim Kits",
               "display_name": "Napoleon Black 3\" Premium Bevelled Trim Kit | BT36K"
             },
             {
@@ -6565,6 +6820,7 @@
               "base_sku": "B42",
               "type": "variation",
               "requiredOrOptional": "Optional",
+              "product_category": "Trim Kits",
               "display_name": "Napoleon Black 3\" Premium Bevelled Trim Kit | BT42K"
             },
             {
@@ -6573,6 +6829,7 @@
               "base_sku": "B46",
               "type": "variation",
               "requiredOrOptional": "Optional",
+              "product_category": "Trim Kits",
               "display_name": "Napoleon Black 3\" Premium Bevelled Trim Kit | BT46K"
             }
           ]
@@ -6586,6 +6843,7 @@
               "base_sku": "B30",
               "type": "variation",
               "requiredOrOptional": "Optional",
+              "product_category": "Trim Kits",
               "display_name": "Napoleon Black 3\" Trim Kit | TK30"
             },
             {
@@ -6594,6 +6852,7 @@
               "base_sku": "B36",
               "type": "variation",
               "requiredOrOptional": "Optional",
+              "product_category": "Trim Kits",
               "display_name": "Napoleon Black 3\" Trim Kit | TK35"
             },
             {
@@ -6602,6 +6861,7 @@
               "base_sku": "B42",
               "type": "variation",
               "requiredOrOptional": "Optional",
+              "product_category": "Trim Kits",
               "display_name": "Napoleon Black 3\" Trim Kit | TK42"
             }
           ]
@@ -6948,6 +7208,7 @@
               "base_sku": "BHD4-Logs",
               "type": "variation",
               "requiredOrOptional": "Optional",
+              "product_category": "Interior Panels",
               "display_name": "Napoleon Decorative Brick Panel End Newport\u2122   (for See-Through Units, 2 required) | GD851KT"
             }
           ]
@@ -6961,6 +7222,7 @@
               "base_sku": "BHD4-Cradle",
               "type": "variation",
               "requiredOrOptional": "Optional",
+              "product_category": "Interior Panels",
               "display_name": "Napoleon MIRRO-FLAME\u2122   Porcelain Reflective Radiant End Panel (for See Through Units, 2 Required) | PRPHD4"
             },
             {
@@ -6969,6 +7231,7 @@
               "base_sku": "BHD4-Glass",
               "type": "variation",
               "requiredOrOptional": "Optional",
+              "product_category": "Interior Panels",
               "display_name": "Napoleon MIRRO-FLAME\u2122   Porcelain Reflective Radiant End Panel (for See Through Units, 2 Required) | PRPHD4"
             },
             {
@@ -6977,6 +7240,7 @@
               "base_sku": "BHD4-Logs",
               "type": "variation",
               "requiredOrOptional": "Optional",
+              "product_category": "Interior Panels",
               "display_name": "Napoleon MIRRO-FLAME\u2122   Porcelain Reflective Radiant End Panel (for See Through Units, 2 Required) | PRPHD4"
             }
           ]
@@ -7187,6 +7451,7 @@
               "base_sku": "GD82NT-PA",
               "type": "variation",
               "requiredOrOptional": "Required",
+              "product_category": "Interior Panels",
               "display_name": "Napoleon MIRRO-FLAME\u2122   Porcelain Reflective Radiant Panels | PRP82"
             }
           ]
@@ -7200,6 +7465,7 @@
               "base_sku": "GD82NT-PA",
               "type": "variation",
               "requiredOrOptional": "Required",
+              "product_category": "Interior Panels",
               "display_name": "Napoleon Decorative Sandstone Brick Panels Herringbone | GD811-KT"
             }
           ]
@@ -7370,6 +7636,7 @@
               "base_sku": "GD19N-2",
               "type": "variation",
               "requiredOrOptional": "Required",
+              "product_category": "Media Kits",
               "display_name": "Napoleon Log Set Burner Assembly | B19NL-2"
             }
           ]
@@ -7448,6 +7715,7 @@
               "base_sku": "GD19N-2",
               "type": "variation",
               "requiredOrOptional": "Required",
+              "product_category": "Interior Panels",
               "display_name": "Napoleon MIRRO-FLAME\u2122   Porcelain Reflective Radiant Panels | PRP19"
             }
           ]
@@ -7461,6 +7729,7 @@
               "base_sku": "GD19N-2",
               "type": "variation",
               "requiredOrOptional": "Required",
+              "product_category": "Interior Panels",
               "display_name": "Napoleon Decorative Brick Panels Sandstone | GD839KT"
             }
           ]
@@ -7686,6 +7955,7 @@
               "base_sku": "GVF36",
               "type": "variation",
               "requiredOrOptional": "Optional",
+              "product_category": "Interior Panels",
               "display_name": "Napoleon Decorative Brick Panels Sandstone | GV824KT"
             },
             {
@@ -7694,6 +7964,7 @@
               "base_sku": "GVF42",
               "type": "variation",
               "requiredOrOptional": "Optional",
+              "product_category": "Interior Panels",
               "display_name": "Napoleon Decorative Brick Panels Sandstone | GV825KT"
             }
           ]
@@ -7707,6 +7978,7 @@
               "base_sku": "GVF36",
               "type": "variation",
               "requiredOrOptional": "Optional",
+              "product_category": "Interior Panels",
               "display_name": "Napoleon MIRRO-FLAME\u2122   Porcelain Reflective Radiant Panels | PRP36VF"
             },
             {
@@ -7715,6 +7987,7 @@
               "base_sku": "GVF42",
               "type": "variation",
               "requiredOrOptional": "Optional",
+              "product_category": "Interior Panels",
               "display_name": "Napoleon MIRRO-FLAME\u2122   Porcelain Reflective Radiant Panels | PRP42"
             }
           ]
@@ -7728,6 +8001,7 @@
               "base_sku": "GVF36",
               "type": "variation",
               "requiredOrOptional": "Optional",
+              "product_category": "Trim Kits",
               "display_name": "Napoleon Black 3\" Bevelled Trim Kit | TB336K"
             }
           ]
@@ -7741,6 +8015,7 @@
               "base_sku": "GVF36",
               "type": "variation",
               "requiredOrOptional": "Optional",
+              "product_category": "Trim Kits",
               "display_name": "Napoleon Brushed Stainless Steel 3\" Bevelled Trim Kit | TB336SS"
             }
           ]
@@ -7754,6 +8029,7 @@
               "base_sku": "GVF36",
               "type": "variation",
               "requiredOrOptional": "Optional",
+              "product_category": "Trim Kits",
               "display_name": "Napoleon Black 6\" Bevelled Trim Kit | TB636K"
             }
           ]
@@ -7827,6 +8103,7 @@
               "base_sku": "NZ8000",
               "type": "variation",
               "requiredOrOptional": "Required",
+              "product_category": "Interior Panels",
               "display_name": "Napoleon Decorative Brick Panels Herringbone | NZ8HBK"
             }
           ]
@@ -7840,6 +8117,7 @@
               "base_sku": "NZ8000",
               "type": "variation",
               "requiredOrOptional": "Required",
+              "product_category": "Interior Panels",
               "display_name": "Napoleon Decorative Brick Panels Smooth | NZ8SBK"
             }
           ]
@@ -7853,6 +8131,7 @@
               "base_sku": "NZ8000",
               "type": "variation",
               "requiredOrOptional": "Required",
+              "product_category": "Interior Panels",
               "display_name": "Napoleon Decorative Brick Panels Traditional | NZ8TBK"
             }
           ]
@@ -8230,6 +8509,7 @@
               "base_sku": "NZ5000",
               "type": "variation",
               "requiredOrOptional": "Required",
+              "product_category": "Interior Panels",
               "display_name": "Napoleon Decorative Brick Panels Smooth | NZ5SBK"
             }
           ]
@@ -8243,6 +8523,7 @@
               "base_sku": "NZ5000",
               "type": "variation",
               "requiredOrOptional": "Required",
+              "product_category": "Interior Panels",
               "display_name": "Napoleon Decorative Brick Panels Traditional | NZ5TBK"
             }
           ]
@@ -8670,6 +8951,7 @@
               "base_sku": "GDI3N",
               "type": "variation",
               "requiredOrOptional": "Required",
+              "product_category": "Interior Panels",
               "display_name": "Napoleon Decorative Brick Panels Old Town Red\u2122   Standard | DBPI3OS"
             },
             {
@@ -8678,6 +8960,7 @@
               "base_sku": "GDI3NE",
               "type": "variation",
               "requiredOrOptional": "Required",
+              "product_category": "Interior Panels",
               "display_name": "Napoleon Decorative Brick Panels Old Town Red\u2122   Standard | DBPI3OS"
             },
             {
@@ -8686,6 +8969,7 @@
               "base_sku": "GDIX3N",
               "type": "variation",
               "requiredOrOptional": "Required",
+              "product_category": "Interior Panels",
               "display_name": "Napoleon Decorative Brick Panels Old Town Red\u2122   Standard | DBPI3OS"
             },
             {
@@ -8694,6 +8978,7 @@
               "base_sku": "GDIX4N",
               "type": "variation",
               "requiredOrOptional": "Required",
+              "product_category": "Interior Panels",
               "display_name": "Napoleon Decorative Brick Panels Old Town Red\u2122   Standard | DBPIX4OS"
             }
           ]
@@ -8707,6 +8992,7 @@
               "base_sku": "GDI3N",
               "type": "variation",
               "requiredOrOptional": "Required",
+              "product_category": "Interior Panels",
               "display_name": "Napoleon Decorative Brick Panels Westminster\u2122   Standard | DBPI3WS"
             },
             {
@@ -8715,6 +9001,7 @@
               "base_sku": "GDI3NE",
               "type": "variation",
               "requiredOrOptional": "Required",
+              "product_category": "Interior Panels",
               "display_name": "Napoleon Decorative Brick Panels Westminster\u2122   Standard | DBPI3WS"
             },
             {
@@ -8723,6 +9010,7 @@
               "base_sku": "GDIX3N",
               "type": "variation",
               "requiredOrOptional": "Required",
+              "product_category": "Interior Panels",
               "display_name": "Napoleon Decorative Brick Panels Westminster\u2122   Standard | DBPI3WS"
             },
             {
@@ -8731,6 +9019,7 @@
               "base_sku": "GDIX4N",
               "type": "variation",
               "requiredOrOptional": "Required",
+              "product_category": "Interior Panels",
               "display_name": "Napoleon Decorative Brick Panels Westminster\u2122   Standard | DBPIX4WS"
             }
           ]
@@ -8744,6 +9033,7 @@
               "base_sku": "GDI3N",
               "type": "variation",
               "requiredOrOptional": "Required",
+              "product_category": "Interior Panels",
               "display_name": "Napoleon Decorative Brick Panels Newport\u2122   Standard | DBPI3NS"
             },
             {
@@ -8752,6 +9042,7 @@
               "base_sku": "GDI3NE",
               "type": "variation",
               "requiredOrOptional": "Required",
+              "product_category": "Interior Panels",
               "display_name": "Napoleon Decorative Brick Panels Newport\u2122   Standard | DBPI3NS"
             },
             {
@@ -8760,6 +9051,7 @@
               "base_sku": "GDIX3N",
               "type": "variation",
               "requiredOrOptional": "Required",
+              "product_category": "Interior Panels",
               "display_name": "Napoleon Decorative Brick Panels Newport\u2122   Standard | DBPI3NS"
             },
             {
@@ -8768,6 +9060,7 @@
               "base_sku": "GDIX4N",
               "type": "variation",
               "requiredOrOptional": "Required",
+              "product_category": "Interior Panels",
               "display_name": "Napoleon Decorative Brick Panels Newport\u2122   Standard | DBPIX4NS"
             }
           ]
@@ -8781,6 +9074,7 @@
               "base_sku": "GDI3N",
               "type": "variation",
               "requiredOrOptional": "Required",
+              "product_category": "Interior Panels",
               "display_name": "Napoleon MIRRO-FLAME\u2122   Porcelain Reflective Radiant Panels | PRPI3"
             },
             {
@@ -8789,6 +9083,7 @@
               "base_sku": "GDI3NE",
               "type": "variation",
               "requiredOrOptional": "Required",
+              "product_category": "Interior Panels",
               "display_name": "Napoleon MIRRO-FLAME\u2122   Porcelain Reflective Radiant Panels | PRPI3"
             },
             {
@@ -8797,6 +9092,7 @@
               "base_sku": "GDIX3N",
               "type": "variation",
               "requiredOrOptional": "Required",
+              "product_category": "Interior Panels",
               "display_name": "Napoleon MIRRO-FLAME\u2122   Porcelain Reflective Radiant Panels | PRPI3"
             },
             {
@@ -8805,6 +9101,7 @@
               "base_sku": "GDIX4N",
               "type": "variation",
               "requiredOrOptional": "Required",
+              "product_category": "Interior Panels",
               "display_name": "Napoleon MIRRO-FLAME\u2122   Porcelain Reflective Radiant Panels | PRPIX4"
             }
           ]
@@ -8818,6 +9115,7 @@
               "base_sku": "GDIX3N",
               "type": "variation",
               "requiredOrOptional": "Optional",
+              "product_category": "Media Kits",
               "display_name": "Napoleon Birch Log Set | BLKIX3"
             },
             {
@@ -8826,6 +9124,7 @@
               "base_sku": "GDIX4N",
               "type": "variation",
               "requiredOrOptional": "Optional",
+              "product_category": "Media Kits",
               "display_name": "Napoleon Birch Log Set | BLKIX4"
             }
           ]
@@ -8839,6 +9138,7 @@
               "base_sku": "GDIX3N",
               "type": "variation",
               "requiredOrOptional": "Optional",
+              "product_category": "Media Kits",
               "display_name": "Napoleon Driftwood Log Set | DLKIX3"
             },
             {
@@ -8847,6 +9147,7 @@
               "base_sku": "GDIX4N",
               "type": "variation",
               "requiredOrOptional": "Optional",
+              "product_category": "Media Kits",
               "display_name": "Napoleon Driftwood Log Set | DLKIX4"
             }
           ]
@@ -10483,6 +10784,7 @@
               "base_sku": "GI3600",
               "type": "variation",
               "requiredOrOptional": "Required",
+              "product_category": "Trim Kits",
               "display_name": "Napoleon Trim for Bevelled Flashing (GI-910K) | GI-942K"
             }
           ]
@@ -10496,6 +10798,7 @@
               "base_sku": "GI3600",
               "type": "variation",
               "requiredOrOptional": "Required",
+              "product_category": "Interior Panels",
               "display_name": "Napoleon Decorative Brick Panels Sandstone | GI814KT"
             }
           ]
@@ -10509,6 +10812,7 @@
               "base_sku": "GI3600",
               "type": "variation",
               "requiredOrOptional": "Required",
+              "product_category": "Interior Panels",
               "display_name": "Napoleon MIRRO-FLAME\u2122   Porcelain Reflective Radiant Panels | PRP3600"
             }
           ]
@@ -10548,6 +10852,7 @@
               "base_sku": "GI3600",
               "type": "variation",
               "requiredOrOptional": "Required",
+              "product_category": "Trim Kits",
               "display_name": "Napoleon Bullnose Outer Trim (Only with GIFBK6SB Flashing) | GI-941K-6"
             }
           ]
@@ -10616,6 +10921,7 @@
               "base_sku": "GDIZC",
               "type": "variation",
               "requiredOrOptional": "Optional",
+              "product_category": "Interior Panels",
               "display_name": "Napoleon MIRRO-FLAME\u2122   Porcelain Reflective Radiant Panels | PRPZC"
             }
           ]
@@ -10629,6 +10935,7 @@
               "base_sku": "GDIZC",
               "type": "variation",
               "requiredOrOptional": "Optional",
+              "product_category": "Trim Kits",
               "display_name": "Napoleon Textured Satin Black 4 Sided Aluminum Trim (for Opening up to 23.75\" H X 35.75\" W) | GIZTRM4"
             }
           ]
@@ -10642,6 +10949,7 @@
               "base_sku": "GDIZC",
               "type": "variation",
               "requiredOrOptional": "Optional",
+              "product_category": "Trim Kits",
               "display_name": "Napoleon Textured Satin Black 3 Sided Aluminum Trim (for Opening up to 20.5\" H X 35.75\" W) | GIZTRM3"
             }
           ]
@@ -10655,6 +10963,7 @@
               "base_sku": "GDIZC",
               "type": "variation",
               "requiredOrOptional": "Optional",
+              "product_category": "Trim Kits",
               "display_name": "Napoleon Contemporary Black Trim (for Openings up to 20.5\" H X 35.75\" W) | GIZT3K"
             }
           ]
@@ -10733,6 +11042,7 @@
               "base_sku": "GDIZC",
               "type": "variation",
               "requiredOrOptional": "Optional",
+              "product_category": "Interior Panels",
               "display_name": "Napoleon Decorative Brick Panels Sandstone | GI823KT"
             }
           ]
@@ -10746,6 +11056,7 @@
               "base_sku": "GDIZC",
               "type": "variation",
               "requiredOrOptional": "Optional",
+              "product_category": "Trim Kits",
               "display_name": "Napoleon Bullnose Outer Trim (Only with GIFBK6SB Flashing) | GI-941K-6"
             }
           ]
@@ -11509,6 +11820,7 @@
               "base_sku": "GDS60",
               "type": "variation",
               "requiredOrOptional": "Optional",
+              "product_category": "Interior Panels",
               "display_name": "Napoleon Decorative Brick Panels Sandstone | GDS819KT"
             }
           ]
@@ -11642,6 +11954,7 @@
               "base_sku": "GDS26",
               "type": "variation",
               "requiredOrOptional": "Optional",
+              "product_category": "Interior Panels",
               "display_name": "Napoleon MIRRO-FLAME\u2122   Porcelain Reflective Radiant Panels | PRP19"
             }
           ]
@@ -11655,6 +11968,7 @@
               "base_sku": "GDS26",
               "type": "variation",
               "requiredOrOptional": "Optional",
+              "product_category": "Interior Panels",
               "display_name": "Napoleon Decorative Brick Panels Sandstone | GD839KT"
             }
           ]
@@ -11748,6 +12062,7 @@
               "base_sku": "GDS25",
               "type": "variation",
               "requiredOrOptional": "Optional",
+              "product_category": "Interior Panels",
               "display_name": "Napoleon MIRRO-FLAME\u2122   Porcelain Reflective Radiant Panels | PRP25"
             }
           ]
@@ -12136,6 +12451,7 @@
               "base_sku": "GSS42",
               "type": "variation",
               "requiredOrOptional": "Optional",
+              "product_category": "Interior Panels",
               "display_name": "Napoleon Decorative Brick Panels Sandstone | GD840KT"
             }
           ]
@@ -12507,6 +12823,7 @@
               "base_sku": "NEFB26H",
               "type": "variation",
               "requiredOrOptional": "Optional",
+              "product_category": "Trim Kits",
               "display_name": "Napoleon Optional 3/4pc trim kit | NEFTK2636"
             },
             {
@@ -12515,6 +12832,7 @@
               "base_sku": "NEFB30H",
               "type": "variation",
               "requiredOrOptional": "Optional",
+              "product_category": "Trim Kits",
               "display_name": "Napoleon Optional 3/4pc trim kit | NEFTK3040"
             }
           ]
@@ -12907,6 +13225,7 @@
               "base_sku": null,
               "type": "variation",
               "requiredOrOptional": "Optional",
+              "product_category": "Media Kits",
               "display_name": "Napoleon Birch log set with rocks for Entice\u2122 | NEF-BLRAK42"
             },
             {
@@ -12915,6 +13234,7 @@
               "base_sku": null,
               "type": "variation",
               "requiredOrOptional": "Optional",
+              "product_category": "Media Kits",
               "display_name": "Napoleon Birch log set with rocks for Entice\u2122 | NEF-BLRAK42"
             },
             {
@@ -12923,6 +13243,7 @@
               "base_sku": null,
               "type": "variation",
               "requiredOrOptional": "Optional",
+              "product_category": "Media Kits",
               "display_name": "Napoleon Birch log set with rocks for Entice\u2122 | NEF-BLRAK50"
             },
             {
@@ -12931,6 +13252,7 @@
               "base_sku": null,
               "type": "variation",
               "requiredOrOptional": "Optional",
+              "product_category": "Media Kits",
               "display_name": "Napoleon Birch log set with rocks for Entice\u2122 | NEF-BLRAK60"
             },
             {
@@ -12939,6 +13261,7 @@
               "base_sku": null,
               "type": "variation",
               "requiredOrOptional": "Optional",
+              "product_category": "Media Kits",
               "display_name": "Napoleon Birch log set with rocks for Entice\u2122 | NEF-BLRAK72"
             }
           ]
@@ -12952,6 +13275,7 @@
               "base_sku": null,
               "type": "variation",
               "requiredOrOptional": "Optional",
+              "product_category": "Media Kits",
               "display_name": "Napoleon Driftwood log set with rocks for Entice\u2122 | NEF-DRAK42"
             },
             {
@@ -12960,6 +13284,7 @@
               "base_sku": null,
               "type": "variation",
               "requiredOrOptional": "Optional",
+              "product_category": "Media Kits",
               "display_name": "Napoleon Driftwood log set with rocks for Entice\u2122 | NEF-DRAK42"
             },
             {
@@ -12968,6 +13293,7 @@
               "base_sku": null,
               "type": "variation",
               "requiredOrOptional": "Optional",
+              "product_category": "Media Kits",
               "display_name": "Napoleon Driftwood log set with rocks for Entice\u2122 | NEF-DRAK50"
             },
             {
@@ -12976,6 +13302,7 @@
               "base_sku": null,
               "type": "variation",
               "requiredOrOptional": "Optional",
+              "product_category": "Media Kits",
               "display_name": "Napoleon Driftwood log set with rocks for Entice\u2122 | NEF-DRAK60"
             },
             {
@@ -12984,6 +13311,7 @@
               "base_sku": null,
               "type": "variation",
               "requiredOrOptional": "Optional",
+              "product_category": "Media Kits",
               "display_name": "Napoleon Driftwood log set with rocks for Entice\u2122 | NEF-DRAK72"
             }
           ]
