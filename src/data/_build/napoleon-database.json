@@ -83,7 +83,7 @@
               "ignition_type": "Electronic Ignition",
               "series_number": "38",
               "vent_type": "Direct-Vent",
-              "style": "See-Through",
+              "style": "See-Thru",
               "product_category": "Gas Fireplaces",
               "display_name": "Napoleon Luxuria 38 Direct-Vent Gas Fireplace | LVX38"
             },
@@ -97,7 +97,7 @@
               "ignition_type": "Electronic Ignition",
               "series_number": "50",
               "vent_type": "Direct-Vent",
-              "style": "See-Through",
+              "style": "See-Thru",
               "product_category": "Gas Fireplaces",
               "display_name": "Napoleon Luxuria 50 Direct-Vent Gas Fireplace | LVX50"
             },
@@ -111,7 +111,7 @@
               "ignition_type": "Electronic Ignition",
               "series_number": "62",
               "vent_type": "Direct-Vent",
-              "style": "See-Through",
+              "style": "See-Thru",
               "product_category": "Gas Fireplaces",
               "display_name": "Napoleon Luxuria 62 Direct-Vent Gas Fireplace | LVX62"
             },
@@ -125,7 +125,7 @@
               "ignition_type": "Electronic Ignition",
               "series_number": "74",
               "vent_type": "Direct-Vent",
-              "style": "See-Through",
+              "style": "See-Thru",
               "product_category": "Gas Fireplaces",
               "display_name": "Napoleon Luxuria 74 Direct-Vent Gas Fireplace | LVX74"
             }
@@ -169,7 +169,7 @@
               "ignition_type": "Electronic Ignition",
               "series_number": "74",
               "vent_type": "Direct-Vent",
-              "style": "See-Through",
+              "style": "See-Thru",
               "product_category": "Gas Fireplaces",
               "display_name": "Napoleon Luxuria 74 Direct-Vent Gas Fireplace | LVX74"
             }
@@ -780,7 +780,7 @@
               "ignition_type": "Electronic Ignition",
               "series_number": "38",
               "vent_type": "Direct-Vent",
-              "style": "See-Through",
+              "style": "See-Thru",
               "product_category": "Gas Fireplaces",
               "display_name": "Napoleon Vector 38 Direct-Vent Gas Fireplace | LV38"
             },
@@ -794,7 +794,7 @@
               "ignition_type": "Electronic Ignition",
               "series_number": "50",
               "vent_type": "Direct-Vent",
-              "style": "See-Through",
+              "style": "See-Thru",
               "product_category": "Gas Fireplaces",
               "display_name": "Napoleon Vector 50 Direct-Vent Gas Fireplace | LV50"
             },
@@ -808,7 +808,7 @@
               "ignition_type": "Electronic Ignition",
               "series_number": "62",
               "vent_type": "Direct-Vent",
-              "style": "See-Through",
+              "style": "See-Thru",
               "product_category": "Gas Fireplaces",
               "display_name": "Napoleon Vector 62 Direct-Vent Gas Fireplace | LV62"
             },
@@ -822,7 +822,7 @@
               "ignition_type": "Electronic Ignition",
               "series_number": "74",
               "vent_type": "Direct-Vent",
-              "style": "See-Through",
+              "style": "See-Thru",
               "product_category": "Gas Fireplaces",
               "display_name": "Napoleon Vector 74 Direct-Vent Gas Fireplace | LV74"
             }
@@ -866,7 +866,7 @@
               "ignition_type": "Electronic Ignition",
               "series_number": "74",
               "vent_type": "Direct-Vent",
-              "style": "See-Through",
+              "style": "See-Thru",
               "product_category": "Gas Fireplaces",
               "display_name": "Napoleon Vector 74 Direct-Vent Gas Fireplace | LV74"
             }
@@ -1616,7 +1616,7 @@
               "ignition_type": "Electronic Ignition",
               "series_number": "38",
               "vent_type": "Direct-Vent",
-              "style": "See-Through",
+              "style": "See-Thru",
               "product_category": "Gas Fireplaces",
               "display_name": "Napoleon Acies 38 Direct-Vent Gas Fireplace | L38"
             },
@@ -1630,7 +1630,7 @@
               "ignition_type": "Electronic Ignition",
               "series_number": "50",
               "vent_type": "Direct-Vent",
-              "style": "See-Through",
+              "style": "See-Thru",
               "product_category": "Gas Fireplaces",
               "display_name": "Napoleon Acies 50 Direct-Vent Gas Fireplace | L50"
             }
@@ -2185,7 +2185,7 @@
               "ignition_type": "Electronic Ignition",
               "series_number": "36",
               "vent_type": "Direct-Vent",
-              "style": "Traditional",
+              "style": "Linear",
               "product_category": "Gas Fireplaces",
               "display_name": "Napoleon Elevation X 36 Direct-Vent Gas Fireplace | EX36"
             },
@@ -2199,7 +2199,7 @@
               "ignition_type": "Electronic Ignition",
               "series_number": "42",
               "vent_type": "Direct-Vent",
-              "style": "Traditional",
+              "style": "Linear",
               "product_category": "Gas Fireplaces",
               "display_name": "Napoleon Elevation X 42 Direct-Vent Gas Fireplace | EX42"
             }
@@ -2218,7 +2218,7 @@
               "ignition_type": "Electronic Ignition",
               "series_number": "36",
               "vent_type": "Direct-Vent",
-              "style": "Traditional",
+              "style": "Linear",
               "product_category": "Gas Fireplaces",
               "display_name": "Napoleon Elevation X 36 Direct-Vent Gas Fireplace | EX36"
             },
@@ -2232,7 +2232,7 @@
               "ignition_type": "Electronic Ignition",
               "series_number": "42",
               "vent_type": "Direct-Vent",
-              "style": "Traditional",
+              "style": "Linear",
               "product_category": "Gas Fireplaces",
               "display_name": "Napoleon Elevation X 42 Direct-Vent Gas Fireplace | EX42"
             }
@@ -7145,7 +7145,7 @@
               "ignition_type": "Electronic Ignition",
               "series_number": "BHD4ST",
               "vent_type": "Direct-Vent",
-              "style": "See-Through",
+              "style": "See-Thru",
               "product_category": "Gas Fireplaces",
               "display_name": "Napoleon Ascent Multi-View BHD4ST Direct-Vent Gas Fireplace | BHD4-Cradle"
             },
@@ -7159,7 +7159,7 @@
               "ignition_type": "Electronic Ignition",
               "series_number": "BHD4",
               "vent_type": "Direct-Vent",
-              "style": "See-Through",
+              "style": "See-Thru",
               "product_category": "Gas Fireplaces",
               "display_name": "Napoleon Ascent Multi-View BHD4 Direct-Vent Gas Fireplace | BHD4-Glass"
             },
@@ -7173,7 +7173,7 @@
               "ignition_type": "Electronic Ignition",
               "series_number": "BHD4",
               "vent_type": "Direct-Vent",
-              "style": "See-Through",
+              "style": "See-Thru",
               "product_category": "Gas Fireplaces",
               "display_name": "Napoleon Ascent Multi-View BHD4 Direct-Vent Gas Fireplace | BHD4-Logs"
             }

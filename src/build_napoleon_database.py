@@ -236,7 +236,7 @@ def add_vent_type(database: Dict) -> Dict:
 def add_style(database: Dict) -> Dict:
     # Exception mapping of 'base_sku' and their corresponding 'series_number'
     STYLE_MAPPING = {
-        'see through': 'See-Through',
+        'see through': 'See-Thru',
         'vertical': 'Vertical',
         '3 sided': 'Peninsula',
         'single side': 'Linear',
