@@ -351,11 +351,8 @@ def add_display_name(database: Dict) -> Dict:
             for unit in product_line['details']:
                 if unit:
                     # Cleaning up series name because the series number are duplicated sometimes!
-                    series_name_number = ''
-                    if unit.get("series_name", "").endswith(unit.get("series_number", "")):
-                        series_name_number = f'{unit.get("series_name", "")}'
-                    else:
-                        series_name_number = f'{unit.get("series_name", "")} {unit.get("series_number", "")}'
+                    sanitized_series_name = unit.get("series_name", "").rstrip(unit.get("series_number")).strip()
+                    series_name_number = f'{sanitized_series_name} {unit.get("series_number", "")}'.strip()
 
                     product_category = unit.get("product_category", "").rstrip('s')
 
