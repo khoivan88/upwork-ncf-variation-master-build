@@ -78,6 +78,7 @@ def build_db(database: Dict):
     db = add_vent_type(db)
     db = add_style(db)
     db = add_product_category(db)
+    db = add_productTypeNonoperative(db)    # ! add after 'product_type'
     db = add_display_name(db)
 
     # Save database
@@ -268,7 +269,8 @@ def add_product_category(database: Dict) -> Dict:
                                           'illusion glass': 'Interior Panels',
                                           'trim': 'Trim Kits',
                                           'element': 'Front Accents',    # ! this before 'front', because some items with 'element' also have 'front', such as 'Arched Iron Elements - Antique Pewter (Fits on Whitney front)'
-                                          'front': 'Decorative Fronts'
+                                          'front': 'Decorative Fronts',
+                                          'conversion': 'Conversion Kits',
                                           }
     for series_info in database['series'].values():
         # For series's units
@@ -276,7 +278,9 @@ def add_product_category(database: Dict) -> Dict:
             product_line_name = product_line['name']
             for unit in product_line['details']:
                 if unit:
-                    product_category = re.search(r'wood fireplace|wood stove|gas insert|gas stove', product_line_name, flags=re.IGNORECASE)
+                    product_category = re.search(r'wood fireplace|wood stove|gas insert|gas stove|gas log set',
+                                                 product_line_name,
+                                                 flags=re.IGNORECASE)
                     if product_category:
                         unit['product_category'] = product_category[0].title() + 's'
                     else:
@@ -294,6 +298,38 @@ def add_product_category(database: Dict) -> Dict:
                                                      flags=re.IGNORECASE)
                         if product_category:
                             variation['product_category'] = VARIATION_PRODUCT_CATEGORY_MAPPING[product_category[0].lower()]
+
+    return database
+
+
+def add_productTypeNonoperative(database: Dict) -> Dict:
+    # PRODUCT_TYPE_NONOPERATIVE_MAPPING = {'log set': 'Media Kits',
+    #                                       'panel': 'Interior Panels',
+    #                                       'illusion glass': 'Interior Panels',
+    #                                       'trim': 'Trim Kits',
+    #                                       'element': 'Front Accents',    # ! this before 'front', because some items with 'element' also have 'front', such as 'Arched Iron Elements - Antique Pewter (Fits on Whitney front)'
+    #                                       'front': 'Decorative Fronts',
+    #                                       'conversion': 'Conversion Kits',
+    #                                       }
+    for series_info in database['series'].values():
+        # For series's units
+        for product_line in series_info['units']:
+            for unit in product_line['details']:
+                if unit:
+                    product_category = unit.get('product_category', '')
+                    productTypeNonoperative = re.search(r'gas (fireplaces|stoves|inserts|pellets)',
+                                                        product_category, flags=re.IGNORECASE)
+                    if productTypeNonoperative:
+                        unit['productTypeNonoperative'] = 'Option Product'
+                    else:
+                        unit['productTypeNonoperative'] = 'Product'
+
+        # For series's variants
+        if series_info.get('variations'):
+            for product_line in series_info['variations']:
+                for variation in product_line['details']:
+                    if variation:
+                        variation['productTypeNonoperative'] = 'Variation Product'
 
     return database
 
