@@ -201,6 +201,7 @@
               "base_sku": "LVX38",
               "type": "variation",
               "requiredOrOptional": "Required",
+              "product_category": "Media Kits",
               "productTypeNonoperative": "Variation Product",
               "display_name": "Napoleon Beach Fire Kit | BFKM"
             },
@@ -210,6 +211,7 @@
               "base_sku": "LVX50",
               "type": "variation",
               "requiredOrOptional": "Required",
+              "product_category": "Media Kits",
               "productTypeNonoperative": "Variation Product",
               "display_name": "Napoleon Beach Fire Kit | BFKM"
             },
@@ -219,6 +221,7 @@
               "base_sku": "LVX62",
               "type": "variation",
               "requiredOrOptional": "Required",
+              "product_category": "Media Kits",
               "productTypeNonoperative": "Variation Product",
               "display_name": "Napoleon Beach Fire Kit | BFKXL"
             },
@@ -228,6 +231,7 @@
               "base_sku": "LVX74",
               "type": "variation",
               "requiredOrOptional": "Required",
+              "product_category": "Media Kits",
               "productTypeNonoperative": "Variation Product",
               "display_name": "Napoleon Beach Fire Kit | BFKXL"
             }
@@ -242,6 +246,7 @@
               "base_sku": "LVX38",
               "type": "variation",
               "requiredOrOptional": "Required",
+              "product_category": "Media Kits",
               "productTypeNonoperative": "Variation Product",
               "display_name": "Napoleon Birch Log Kit | BLKS"
             },
@@ -251,6 +256,7 @@
               "base_sku": "LVX50",
               "type": "variation",
               "requiredOrOptional": "Required",
+              "product_category": "Media Kits",
               "productTypeNonoperative": "Variation Product",
               "display_name": "Napoleon Birch Log Kit | BLKM"
             },
@@ -260,6 +266,7 @@
               "base_sku": "LVX62",
               "type": "variation",
               "requiredOrOptional": "Required",
+              "product_category": "Media Kits",
               "productTypeNonoperative": "Variation Product",
               "display_name": "Napoleon Birch Log Kit | BLKL"
             },
@@ -269,6 +276,7 @@
               "base_sku": "LVX74",
               "type": "variation",
               "requiredOrOptional": "Required",
+              "product_category": "Media Kits",
               "productTypeNonoperative": "Variation Product",
               "display_name": "Napoleon Birch Log Kit | BLKXL"
             }
@@ -283,6 +291,7 @@
               "base_sku": "LVX38",
               "type": "variation",
               "requiredOrOptional": "Required",
+              "product_category": "Media Kits",
               "productTypeNonoperative": "Variation Product",
               "display_name": "Napoleon Contemporary Log Kit | CLKS"
             },
@@ -292,6 +301,7 @@
               "base_sku": "LVX50",
               "type": "variation",
               "requiredOrOptional": "Required",
+              "product_category": "Media Kits",
               "productTypeNonoperative": "Variation Product",
               "display_name": "Napoleon Contemporary Log Kit | CLKM"
             },
@@ -301,6 +311,7 @@
               "base_sku": "LVX62",
               "type": "variation",
               "requiredOrOptional": "Required",
+              "product_category": "Media Kits",
               "productTypeNonoperative": "Variation Product",
               "display_name": "Napoleon Contemporary Log Kit | CLKL"
             },
@@ -310,6 +321,7 @@
               "base_sku": "LVX74",
               "type": "variation",
               "requiredOrOptional": "Required",
+              "product_category": "Media Kits",
               "productTypeNonoperative": "Variation Product",
               "display_name": "Napoleon Contemporary Log Kit | CLKXL"
             }
@@ -324,6 +336,7 @@
               "base_sku": "LVX38",
               "type": "variation",
               "requiredOrOptional": "Required",
+              "product_category": "Media Kits",
               "productTypeNonoperative": "Variation Product",
               "display_name": "Napoleon Mineral Rock Kit | MRKS"
             },
@@ -333,6 +346,7 @@
               "base_sku": "LVX50",
               "type": "variation",
               "requiredOrOptional": "Required",
+              "product_category": "Media Kits",
               "productTypeNonoperative": "Variation Product",
               "display_name": "Napoleon Mineral Rock Kit | MRKM"
             },
@@ -342,6 +356,7 @@
               "base_sku": "LVX62",
               "type": "variation",
               "requiredOrOptional": "Required",
+              "product_category": "Media Kits",
               "productTypeNonoperative": "Variation Product",
               "display_name": "Napoleon Mineral Rock Kit | MRKL"
             },
@@ -351,6 +366,7 @@
               "base_sku": "LVX74",
               "type": "variation",
               "requiredOrOptional": "Required",
+              "product_category": "Media Kits",
               "productTypeNonoperative": "Variation Product",
               "display_name": "Napoleon Mineral Rock Kit | MRKXL"
             }
@@ -365,6 +381,7 @@
               "base_sku": "LVX38",
               "type": "variation",
               "requiredOrOptional": "Required",
+              "product_category": "Media Kits",
               "productTypeNonoperative": "Variation Product",
               "display_name": "Napoleon Shore Fire Kit, Mixture Of Rocks, Sand, Vermiculite & Glass | SFKM"
             },
@@ -374,6 +391,7 @@
               "base_sku": "LVX50",
               "type": "variation",
               "requiredOrOptional": "Required",
+              "product_category": "Media Kits",
               "productTypeNonoperative": "Variation Product",
               "display_name": "Napoleon Shore Fire Kit, Mixture Of Rocks, Sand, Vermiculite & Glass | SFKM"
             },
@@ -383,6 +401,7 @@
               "base_sku": "LVX62",
               "type": "variation",
               "requiredOrOptional": "Required",
+              "product_category": "Media Kits",
               "productTypeNonoperative": "Variation Product",
               "display_name": "Napoleon Shore Fire Kit, Mixture Of Rocks, Sand, Vermiculite & Glass | SFKL"
             },
@@ -392,6 +411,7 @@
               "base_sku": "LVX74",
               "type": "variation",
               "requiredOrOptional": "Required",
+              "product_category": "Media Kits",
               "productTypeNonoperative": "Variation Product",
               "display_name": "Napoleon Shore Fire Kit, Mixture Of Rocks, Sand, Vermiculite & Glass | SFKL"
             }
@@ -406,6 +426,7 @@
               "base_sku": "LVX38",
               "type": "variation",
               "requiredOrOptional": "Required",
+              "product_category": "Glass Media Kits",
               "productTypeNonoperative": "Variation Product",
               "display_name": "Napoleon Amber Glass Beads Media Kit | MKBA"
             },
@@ -415,6 +436,7 @@
               "base_sku": "LVX50",
               "type": "variation",
               "requiredOrOptional": "Required",
+              "product_category": "Glass Media Kits",
               "productTypeNonoperative": "Variation Product",
               "display_name": "Napoleon Amber Glass Beads Media Kit | MKBA"
             },
@@ -424,6 +446,7 @@
               "base_sku": "LVX62",
               "type": "variation",
               "requiredOrOptional": "Required",
+              "product_category": "Glass Media Kits",
               "productTypeNonoperative": "Variation Product",
               "display_name": "Napoleon Amber Glass Beads Media Kit | MKBA"
             },
@@ -433,6 +456,7 @@
               "base_sku": "LVX74",
               "type": "variation",
               "requiredOrOptional": "Required",
+              "product_category": "Glass Media Kits",
               "productTypeNonoperative": "Variation Product",
               "display_name": "Napoleon Amber Glass Beads Media Kit | MKBA"
             }
@@ -447,6 +471,7 @@
               "base_sku": "LVX38",
               "type": "variation",
               "requiredOrOptional": "Required",
+              "product_category": "Glass Media Kits",
               "productTypeNonoperative": "Variation Product",
               "display_name": "Napoleon Black Glass Beads Media Kit | MKBK"
             },
@@ -456,6 +481,7 @@
               "base_sku": "LVX50",
               "type": "variation",
               "requiredOrOptional": "Required",
+              "product_category": "Glass Media Kits",
               "productTypeNonoperative": "Variation Product",
               "display_name": "Napoleon Black Glass Beads Media Kit | MKBK"
             },
@@ -465,6 +491,7 @@
               "base_sku": "LVX62",
               "type": "variation",
               "requiredOrOptional": "Required",
+              "product_category": "Glass Media Kits",
               "productTypeNonoperative": "Variation Product",
               "display_name": "Napoleon Black Glass Beads Media Kit | MKBK"
             },
@@ -474,6 +501,7 @@
               "base_sku": "LVX74",
               "type": "variation",
               "requiredOrOptional": "Required",
+              "product_category": "Glass Media Kits",
               "productTypeNonoperative": "Variation Product",
               "display_name": "Napoleon Black Glass Beads Media Kit | MKBK"
             }
@@ -488,6 +516,7 @@
               "base_sku": "LVX38",
               "type": "variation",
               "requiredOrOptional": "Required",
+              "product_category": "Glass Media Kits",
               "productTypeNonoperative": "Variation Product",
               "display_name": "Napoleon Blue Glass Beads Media Kit | MKBB"
             },
@@ -497,6 +526,7 @@
               "base_sku": "LVX50",
               "type": "variation",
               "requiredOrOptional": "Required",
+              "product_category": "Glass Media Kits",
               "productTypeNonoperative": "Variation Product",
               "display_name": "Napoleon Blue Glass Beads Media Kit | MKBB"
             },
@@ -506,6 +536,7 @@
               "base_sku": "LVX62",
               "type": "variation",
               "requiredOrOptional": "Required",
+              "product_category": "Glass Media Kits",
               "productTypeNonoperative": "Variation Product",
               "display_name": "Napoleon Blue Glass Beads Media Kit | MKBB"
             },
@@ -515,6 +546,7 @@
               "base_sku": "LVX74",
               "type": "variation",
               "requiredOrOptional": "Required",
+              "product_category": "Glass Media Kits",
               "productTypeNonoperative": "Variation Product",
               "display_name": "Napoleon Blue Glass Beads Media Kit | MKBB"
             }
@@ -529,6 +561,7 @@
               "base_sku": "LVX38",
               "type": "variation",
               "requiredOrOptional": "Required",
+              "product_category": "Glass Media Kits",
               "productTypeNonoperative": "Variation Product",
               "display_name": "Napoleon Clear Glass Beads Media Kit | MKBC"
             },
@@ -538,6 +571,7 @@
               "base_sku": "LVX50",
               "type": "variation",
               "requiredOrOptional": "Required",
+              "product_category": "Glass Media Kits",
               "productTypeNonoperative": "Variation Product",
               "display_name": "Napoleon Clear Glass Beads Media Kit | MKBC"
             },
@@ -547,6 +581,7 @@
               "base_sku": "LVX62",
               "type": "variation",
               "requiredOrOptional": "Required",
+              "product_category": "Glass Media Kits",
               "productTypeNonoperative": "Variation Product",
               "display_name": "Napoleon Clear Glass Beads Media Kit | MKBC"
             },
@@ -556,6 +591,7 @@
               "base_sku": "LVX74",
               "type": "variation",
               "requiredOrOptional": "Required",
+              "product_category": "Glass Media Kits",
               "productTypeNonoperative": "Variation Product",
               "display_name": "Napoleon Clear Glass Beads Media Kit | MKBC"
             }
@@ -570,6 +606,7 @@
               "base_sku": "LVX38",
               "type": "variation",
               "requiredOrOptional": "Required",
+              "product_category": "Glass Media Kits",
               "productTypeNonoperative": "Variation Product",
               "display_name": "Napoleon Topaz Glass Beads Media Kit | MKBT"
             },
@@ -579,6 +616,7 @@
               "base_sku": "LVX50",
               "type": "variation",
               "requiredOrOptional": "Required",
+              "product_category": "Glass Media Kits",
               "productTypeNonoperative": "Variation Product",
               "display_name": "Napoleon Topaz Glass Beads Media Kit | MKBT"
             },
@@ -588,6 +626,7 @@
               "base_sku": "LVX62",
               "type": "variation",
               "requiredOrOptional": "Required",
+              "product_category": "Glass Media Kits",
               "productTypeNonoperative": "Variation Product",
               "display_name": "Napoleon Topaz Glass Beads Media Kit | MKBT"
             },
@@ -597,6 +636,7 @@
               "base_sku": "LVX74",
               "type": "variation",
               "requiredOrOptional": "Required",
+              "product_category": "Glass Media Kits",
               "productTypeNonoperative": "Variation Product",
               "display_name": "Napoleon Topaz Glass Beads Media Kit | MKBT"
             }
@@ -958,6 +998,7 @@
               "base_sku": "LV38",
               "type": "variation",
               "requiredOrOptional": "Required",
+              "product_category": "Media Kits",
               "productTypeNonoperative": "Variation Product",
               "display_name": "Napoleon Beach Fire Kit | BFKM"
             },
@@ -967,6 +1008,7 @@
               "base_sku": "LV50",
               "type": "variation",
               "requiredOrOptional": "Required",
+              "product_category": "Media Kits",
               "productTypeNonoperative": "Variation Product",
               "display_name": "Napoleon Beach Fire Kit | BFKM"
             },
@@ -976,6 +1018,7 @@
               "base_sku": "LV62",
               "type": "variation",
               "requiredOrOptional": "Required",
+              "product_category": "Media Kits",
               "productTypeNonoperative": "Variation Product",
               "display_name": "Napoleon Beach Fire Kit | BFKXL"
             },
@@ -985,6 +1028,7 @@
               "base_sku": "LV74",
               "type": "variation",
               "requiredOrOptional": "Required",
+              "product_category": "Media Kits",
               "productTypeNonoperative": "Variation Product",
               "display_name": "Napoleon Beach Fire Kit | BFKXL"
             }
@@ -999,6 +1043,7 @@
               "base_sku": "LV38",
               "type": "variation",
               "requiredOrOptional": "Required",
+              "product_category": "Media Kits",
               "productTypeNonoperative": "Variation Product",
               "display_name": "Napoleon Birch Log Kit | BLKS"
             },
@@ -1008,6 +1053,7 @@
               "base_sku": "LV50",
               "type": "variation",
               "requiredOrOptional": "Required",
+              "product_category": "Media Kits",
               "productTypeNonoperative": "Variation Product",
               "display_name": "Napoleon Birch Log Kit | BLKM"
             },
@@ -1017,6 +1063,7 @@
               "base_sku": "LV62",
               "type": "variation",
               "requiredOrOptional": "Required",
+              "product_category": "Media Kits",
               "productTypeNonoperative": "Variation Product",
               "display_name": "Napoleon Birch Log Kit | BLKL"
             },
@@ -1026,6 +1073,7 @@
               "base_sku": "LV74",
               "type": "variation",
               "requiredOrOptional": "Required",
+              "product_category": "Media Kits",
               "productTypeNonoperative": "Variation Product",
               "display_name": "Napoleon Birch Log Kit | BLKXL"
             }
@@ -1040,6 +1088,7 @@
               "base_sku": "LV38",
               "type": "variation",
               "requiredOrOptional": "Required",
+              "product_category": "Media Kits",
               "productTypeNonoperative": "Variation Product",
               "display_name": "Napoleon Contemporary Log Kit | CLKS"
             },
@@ -1049,6 +1098,7 @@
               "base_sku": "LV50",
               "type": "variation",
               "requiredOrOptional": "Required",
+              "product_category": "Media Kits",
               "productTypeNonoperative": "Variation Product",
               "display_name": "Napoleon Contemporary Log Kit | CLKM"
             },
@@ -1058,6 +1108,7 @@
               "base_sku": "LV62",
               "type": "variation",
               "requiredOrOptional": "Required",
+              "product_category": "Media Kits",
               "productTypeNonoperative": "Variation Product",
               "display_name": "Napoleon Contemporary Log Kit | CLKL"
             },
@@ -1067,6 +1118,7 @@
               "base_sku": "LV74",
               "type": "variation",
               "requiredOrOptional": "Required",
+              "product_category": "Media Kits",
               "productTypeNonoperative": "Variation Product",
               "display_name": "Napoleon Contemporary Log Kit | CLKXL"
             }
@@ -1081,6 +1133,7 @@
               "base_sku": "LV38",
               "type": "variation",
               "requiredOrOptional": "Required",
+              "product_category": "Media Kits",
               "productTypeNonoperative": "Variation Product",
               "display_name": "Napoleon Mineral Rock Kit | MRKS"
             },
@@ -1090,6 +1143,7 @@
               "base_sku": "LV50",
               "type": "variation",
               "requiredOrOptional": "Required",
+              "product_category": "Media Kits",
               "productTypeNonoperative": "Variation Product",
               "display_name": "Napoleon Mineral Rock Kit | MRKM"
             },
@@ -1099,6 +1153,7 @@
               "base_sku": "LV62",
               "type": "variation",
               "requiredOrOptional": "Required",
+              "product_category": "Media Kits",
               "productTypeNonoperative": "Variation Product",
               "display_name": "Napoleon Mineral Rock Kit | MRKL"
             },
@@ -1108,6 +1163,7 @@
               "base_sku": "LV74",
               "type": "variation",
               "requiredOrOptional": "Required",
+              "product_category": "Media Kits",
               "productTypeNonoperative": "Variation Product",
               "display_name": "Napoleon Mineral Rock Kit | MRKXL"
             }
@@ -1122,6 +1178,7 @@
               "base_sku": "LV38",
               "type": "variation",
               "requiredOrOptional": "Required",
+              "product_category": "Media Kits",
               "productTypeNonoperative": "Variation Product",
               "display_name": "Napoleon Shore Fire Kit, Mixture Of Rocks, Sand, Vermiculite & Glass | SFKM"
             },
@@ -1131,6 +1188,7 @@
               "base_sku": "LV50",
               "type": "variation",
               "requiredOrOptional": "Required",
+              "product_category": "Media Kits",
               "productTypeNonoperative": "Variation Product",
               "display_name": "Napoleon Shore Fire Kit, Mixture Of Rocks, Sand, Vermiculite & Glass | SFKM"
             },
@@ -1140,6 +1198,7 @@
               "base_sku": "LV62",
               "type": "variation",
               "requiredOrOptional": "Required",
+              "product_category": "Media Kits",
               "productTypeNonoperative": "Variation Product",
               "display_name": "Napoleon Shore Fire Kit, Mixture Of Rocks, Sand, Vermiculite & Glass | SFKL"
             },
@@ -1149,6 +1208,7 @@
               "base_sku": "LV74",
               "type": "variation",
               "requiredOrOptional": "Required",
+              "product_category": "Media Kits",
               "productTypeNonoperative": "Variation Product",
               "display_name": "Napoleon Shore Fire Kit, Mixture Of Rocks, Sand, Vermiculite & Glass | SFKL"
             }
@@ -1163,6 +1223,7 @@
               "base_sku": "LV38",
               "type": "variation",
               "requiredOrOptional": "Required",
+              "product_category": "Glass Media Kits",
               "productTypeNonoperative": "Variation Product",
               "display_name": "Napoleon Amber Glass Beads Media Kit | MKBA"
             },
@@ -1172,6 +1233,7 @@
               "base_sku": "LV50",
               "type": "variation",
               "requiredOrOptional": "Required",
+              "product_category": "Glass Media Kits",
               "productTypeNonoperative": "Variation Product",
               "display_name": "Napoleon Amber Glass Beads Media Kit | MKBA"
             },
@@ -1181,6 +1243,7 @@
               "base_sku": "LV62",
               "type": "variation",
               "requiredOrOptional": "Required",
+              "product_category": "Glass Media Kits",
               "productTypeNonoperative": "Variation Product",
               "display_name": "Napoleon Amber Glass Beads Media Kit | MKBA"
             },
@@ -1190,6 +1253,7 @@
               "base_sku": "LV74",
               "type": "variation",
               "requiredOrOptional": "Required",
+              "product_category": "Glass Media Kits",
               "productTypeNonoperative": "Variation Product",
               "display_name": "Napoleon Amber Glass Beads Media Kit | MKBA"
             }
@@ -1204,6 +1268,7 @@
               "base_sku": "LV38",
               "type": "variation",
               "requiredOrOptional": "Required",
+              "product_category": "Glass Media Kits",
               "productTypeNonoperative": "Variation Product",
               "display_name": "Napoleon Black Glass Beads Media Kit | MKBK"
             },
@@ -1213,6 +1278,7 @@
               "base_sku": "LV50",
               "type": "variation",
               "requiredOrOptional": "Required",
+              "product_category": "Glass Media Kits",
               "productTypeNonoperative": "Variation Product",
               "display_name": "Napoleon Black Glass Beads Media Kit | MKBK"
             },
@@ -1222,6 +1288,7 @@
               "base_sku": "LV62",
               "type": "variation",
               "requiredOrOptional": "Required",
+              "product_category": "Glass Media Kits",
               "productTypeNonoperative": "Variation Product",
               "display_name": "Napoleon Black Glass Beads Media Kit | MKBK"
             },
@@ -1231,6 +1298,7 @@
               "base_sku": "LV74",
               "type": "variation",
               "requiredOrOptional": "Required",
+              "product_category": "Glass Media Kits",
               "productTypeNonoperative": "Variation Product",
               "display_name": "Napoleon Black Glass Beads Media Kit | MKBK"
             }
@@ -1245,6 +1313,7 @@
               "base_sku": "LV38",
               "type": "variation",
               "requiredOrOptional": "Required",
+              "product_category": "Glass Media Kits",
               "productTypeNonoperative": "Variation Product",
               "display_name": "Napoleon Blue Glass Beads Media Kit | MKBB"
             },
@@ -1254,6 +1323,7 @@
               "base_sku": "LV50",
               "type": "variation",
               "requiredOrOptional": "Required",
+              "product_category": "Glass Media Kits",
               "productTypeNonoperative": "Variation Product",
               "display_name": "Napoleon Blue Glass Beads Media Kit | MKBB"
             },
@@ -1263,6 +1333,7 @@
               "base_sku": "LV62",
               "type": "variation",
               "requiredOrOptional": "Required",
+              "product_category": "Glass Media Kits",
               "productTypeNonoperative": "Variation Product",
               "display_name": "Napoleon Blue Glass Beads Media Kit | MKBB"
             },
@@ -1272,6 +1343,7 @@
               "base_sku": "LV74",
               "type": "variation",
               "requiredOrOptional": "Required",
+              "product_category": "Glass Media Kits",
               "productTypeNonoperative": "Variation Product",
               "display_name": "Napoleon Blue Glass Beads Media Kit | MKBB"
             }
@@ -1286,6 +1358,7 @@
               "base_sku": "LV38",
               "type": "variation",
               "requiredOrOptional": "Required",
+              "product_category": "Glass Media Kits",
               "productTypeNonoperative": "Variation Product",
               "display_name": "Napoleon Clear Glass Beads Media Kit | MKBC"
             },
@@ -1295,6 +1368,7 @@
               "base_sku": "LV50",
               "type": "variation",
               "requiredOrOptional": "Required",
+              "product_category": "Glass Media Kits",
               "productTypeNonoperative": "Variation Product",
               "display_name": "Napoleon Clear Glass Beads Media Kit | MKBC"
             },
@@ -1304,6 +1378,7 @@
               "base_sku": "LV62",
               "type": "variation",
               "requiredOrOptional": "Required",
+              "product_category": "Glass Media Kits",
               "productTypeNonoperative": "Variation Product",
               "display_name": "Napoleon Clear Glass Beads Media Kit | MKBC"
             },
@@ -1313,6 +1388,7 @@
               "base_sku": "LV74",
               "type": "variation",
               "requiredOrOptional": "Required",
+              "product_category": "Glass Media Kits",
               "productTypeNonoperative": "Variation Product",
               "display_name": "Napoleon Clear Glass Beads Media Kit | MKBC"
             }
@@ -1327,6 +1403,7 @@
               "base_sku": "LV38",
               "type": "variation",
               "requiredOrOptional": "Required",
+              "product_category": "Glass Media Kits",
               "productTypeNonoperative": "Variation Product",
               "display_name": "Napoleon Topaz Glass Beads Media Kit | MKBT"
             },
@@ -1336,6 +1413,7 @@
               "base_sku": "LV50",
               "type": "variation",
               "requiredOrOptional": "Required",
+              "product_category": "Glass Media Kits",
               "productTypeNonoperative": "Variation Product",
               "display_name": "Napoleon Topaz Glass Beads Media Kit | MKBT"
             },
@@ -1345,6 +1423,7 @@
               "base_sku": "LV62",
               "type": "variation",
               "requiredOrOptional": "Required",
+              "product_category": "Glass Media Kits",
               "productTypeNonoperative": "Variation Product",
               "display_name": "Napoleon Topaz Glass Beads Media Kit | MKBT"
             },
@@ -1354,6 +1433,7 @@
               "base_sku": "LV74",
               "type": "variation",
               "requiredOrOptional": "Required",
+              "product_category": "Glass Media Kits",
               "productTypeNonoperative": "Variation Product",
               "display_name": "Napoleon Topaz Glass Beads Media Kit | MKBT"
             }
@@ -1825,6 +1905,7 @@
               "base_sku": "L38",
               "type": "variation",
               "requiredOrOptional": "Optional",
+              "product_category": "Media Kits",
               "productTypeNonoperative": "Variation Product",
               "display_name": "Napoleon Shore Fire Kit, Mixture Of Rocks, Sand, Vermiculite & Glass | SFKM"
             },
@@ -1834,6 +1915,7 @@
               "base_sku": "L50",
               "type": "variation",
               "requiredOrOptional": "Optional",
+              "product_category": "Media Kits",
               "productTypeNonoperative": "Variation Product",
               "display_name": "Napoleon Shore Fire Kit, Mixture Of Rocks, Sand, Vermiculite & Glass | SFKM"
             }
@@ -1848,6 +1930,7 @@
               "base_sku": "L38",
               "type": "variation",
               "requiredOrOptional": "Optional",
+              "product_category": "Media Kits",
               "productTypeNonoperative": "Variation Product",
               "display_name": "Napoleon Beach Fire Kit | BFKM"
             },
@@ -1857,6 +1940,7 @@
               "base_sku": "L50",
               "type": "variation",
               "requiredOrOptional": "Optional",
+              "product_category": "Media Kits",
               "productTypeNonoperative": "Variation Product",
               "display_name": "Napoleon Beach Fire Kit | BFKM"
             }
@@ -1871,6 +1955,7 @@
               "base_sku": "L38",
               "type": "variation",
               "requiredOrOptional": "Optional",
+              "product_category": "Media Kits",
               "productTypeNonoperative": "Variation Product",
               "display_name": "Napoleon Birch Log Kit | BLKS"
             },
@@ -1880,6 +1965,7 @@
               "base_sku": "L50",
               "type": "variation",
               "requiredOrOptional": "Optional",
+              "product_category": "Media Kits",
               "productTypeNonoperative": "Variation Product",
               "display_name": "Napoleon Birch Log Kit | BLKM"
             }
@@ -1894,6 +1980,7 @@
               "base_sku": "L38",
               "type": "variation",
               "requiredOrOptional": "Optional",
+              "product_category": "Media Kits",
               "productTypeNonoperative": "Variation Product",
               "display_name": "Napoleon Contemporary Log Kit | CLKS"
             },
@@ -1903,6 +1990,7 @@
               "base_sku": "L50",
               "type": "variation",
               "requiredOrOptional": "Optional",
+              "product_category": "Media Kits",
               "productTypeNonoperative": "Variation Product",
               "display_name": "Napoleon Contemporary Log Kit | CLKM"
             }
@@ -1917,6 +2005,7 @@
               "base_sku": "L38",
               "type": "variation",
               "requiredOrOptional": "Optional",
+              "product_category": "Media Kits",
               "productTypeNonoperative": "Variation Product",
               "display_name": "Napoleon Mineral Rock Kit | MRKS"
             },
@@ -1926,6 +2015,7 @@
               "base_sku": "L50",
               "type": "variation",
               "requiredOrOptional": "Optional",
+              "product_category": "Media Kits",
               "productTypeNonoperative": "Variation Product",
               "display_name": "Napoleon Mineral Rock Kit | MRKM"
             }
@@ -1940,6 +2030,7 @@
               "base_sku": "L38",
               "type": "variation",
               "requiredOrOptional": "Optional",
+              "product_category": "Accessory Media Kits",
               "productTypeNonoperative": "Variation Product",
               "display_name": "Napoleon Media Tray | EMT38"
             },
@@ -1949,6 +2040,7 @@
               "base_sku": "L50",
               "type": "variation",
               "requiredOrOptional": "Optional",
+              "product_category": "Accessory Media Kits",
               "productTypeNonoperative": "Variation Product",
               "display_name": "Napoleon Media Tray | EMT50"
             }
@@ -2274,6 +2366,7 @@
               "base_sku": "BL36",
               "type": "variation",
               "requiredOrOptional": "Optional",
+              "product_category": "Media Kits",
               "productTypeNonoperative": "Variation Product",
               "display_name": "Napoleon Shore Fire Kit, Mixture Of Rocks, Sand, Vermiculite & Glass | SFKS"
             },
@@ -2283,6 +2376,7 @@
               "base_sku": "BL46",
               "type": "variation",
               "requiredOrOptional": "Optional",
+              "product_category": "Media Kits",
               "productTypeNonoperative": "Variation Product",
               "display_name": "Napoleon Shore Fire Kit, Mixture Of Rocks, Sand, Vermiculite & Glass | SFKM"
             }
@@ -2297,6 +2391,7 @@
               "base_sku": "BL36",
               "type": "variation",
               "requiredOrOptional": "Optional",
+              "product_category": "Media Kits",
               "productTypeNonoperative": "Variation Product",
               "display_name": "Napoleon Beach Fire Kit | BFKS"
             },
@@ -2306,6 +2401,7 @@
               "base_sku": "BL46",
               "type": "variation",
               "requiredOrOptional": "Optional",
+              "product_category": "Media Kits",
               "productTypeNonoperative": "Variation Product",
               "display_name": "Napoleon Beach Fire Kit | BFKM"
             }
@@ -2320,6 +2416,7 @@
               "base_sku": "BL36",
               "type": "variation",
               "requiredOrOptional": "Optional",
+              "product_category": "Media Kits",
               "productTypeNonoperative": "Variation Product",
               "display_name": "Napoleon Mineral Rock Kit | MRKS"
             },
@@ -2329,6 +2426,7 @@
               "base_sku": "BL46",
               "type": "variation",
               "requiredOrOptional": "Optional",
+              "product_category": "Media Kits",
               "productTypeNonoperative": "Variation Product",
               "display_name": "Napoleon Mineral Rock Kit | MRKM"
             }
@@ -4697,6 +4795,7 @@
               "base_sku": "HDX52",
               "type": "variation",
               "requiredOrOptional": "Required",
+              "product_category": "Accessory Media Kits",
               "productTypeNonoperative": "Variation Product",
               "display_name": "Napoleon Hearth Pad | HP52K"
             }
@@ -4711,6 +4810,7 @@
               "base_sku": "HDX52",
               "type": "variation",
               "requiredOrOptional": "Optional",
+              "product_category": "Media Kits",
               "productTypeNonoperative": "Variation Product",
               "display_name": "Napoleon Driftwood Log And Rock Kit | DLR52"
             }
@@ -4725,6 +4825,7 @@
               "base_sku": "HDX52",
               "type": "variation",
               "requiredOrOptional": "Optional",
+              "product_category": "Media Kits",
               "productTypeNonoperative": "Variation Product",
               "display_name": "Napoleon Mineral Rock Kit | MRKS"
             }
@@ -5093,6 +5194,7 @@
               "base_sku": "D42",
               "type": "variation",
               "requiredOrOptional": "Optional",
+              "product_category": "Media Kits",
               "productTypeNonoperative": "Variation Product",
               "display_name": "Napoleon Shore Fire Kit, Mixture Of Rocks, Sand, Vermiculite & Glass | SFKM"
             }
@@ -5107,6 +5209,7 @@
               "base_sku": "D42",
               "type": "variation",
               "requiredOrOptional": "Optional",
+              "product_category": "Media Kits",
               "productTypeNonoperative": "Variation Product",
               "display_name": "Napoleon Mineral Rock Kit | MRKM"
             }
@@ -5121,6 +5224,7 @@
               "base_sku": "D42",
               "type": "variation",
               "requiredOrOptional": "Optional",
+              "product_category": "Media Kits",
               "productTypeNonoperative": "Variation Product",
               "display_name": "Napoleon Beach Fire Kit | BFKS"
             }
@@ -5384,6 +5488,7 @@
               "base_sku": "DX42",
               "type": "variation",
               "requiredOrOptional": "Optional",
+              "product_category": "Media Kits",
               "productTypeNonoperative": "Variation Product",
               "display_name": "Napoleon Shore Fire Kit, Mixture Of Rocks, Sand, Vermiculite & Glass | SFKM"
             }
@@ -5398,6 +5503,7 @@
               "base_sku": "DX42",
               "type": "variation",
               "requiredOrOptional": "Optional",
+              "product_category": "Media Kits",
               "productTypeNonoperative": "Variation Product",
               "display_name": "Napoleon Mineral Rock Kit | MRKM"
             }
@@ -5412,6 +5518,7 @@
               "base_sku": "DX42",
               "type": "variation",
               "requiredOrOptional": "Optional",
+              "product_category": "Media Kits",
               "productTypeNonoperative": "Variation Product",
               "display_name": "Napoleon Beach Fire Kit | BFKS"
             }
@@ -5972,6 +6079,7 @@
               "base_sku": "GX42",
               "type": "variation",
               "requiredOrOptional": "Optional",
+              "product_category": "Media Kits",
               "productTypeNonoperative": "Variation Product",
               "display_name": "Napoleon Shore Fire Kit, Mixture Of Rocks, Sand, Vermiculite & Glass | SFKM"
             }
@@ -5986,6 +6094,7 @@
               "base_sku": "GX42",
               "type": "variation",
               "requiredOrOptional": "Optional",
+              "product_category": "Media Kits",
               "productTypeNonoperative": "Variation Product",
               "display_name": "Napoleon Mineral Rock Kit | MRKM"
             }
@@ -6000,6 +6109,7 @@
               "base_sku": "GX42",
               "type": "variation",
               "requiredOrOptional": "Optional",
+              "product_category": "Media Kits",
               "productTypeNonoperative": "Variation Product",
               "display_name": "Napoleon Beach Fire Kit | BFKS"
             }
@@ -6344,6 +6454,7 @@
               "base_sku": "GX36",
               "type": "variation",
               "requiredOrOptional": "Optional",
+              "product_category": "Media Kits",
               "productTypeNonoperative": "Variation Product",
               "display_name": "Napoleon Shore Fire Kit, Mixture Of Rocks, Sand, Vermiculite & Glass | SFKM"
             }
@@ -6358,6 +6469,7 @@
               "base_sku": "GX36",
               "type": "variation",
               "requiredOrOptional": "Optional",
+              "product_category": "Media Kits",
               "productTypeNonoperative": "Variation Product",
               "display_name": "Napoleon Mineral Rock Kit | MRKM"
             }
@@ -6372,6 +6484,7 @@
               "base_sku": "GX36",
               "type": "variation",
               "requiredOrOptional": "Optional",
+              "product_category": "Media Kits",
               "productTypeNonoperative": "Variation Product",
               "display_name": "Napoleon Beach Fire Kit Recommended With Shore Fire Kit) | BFKS"
             }
@@ -6741,6 +6854,7 @@
               "base_sku": "BX36",
               "type": "variation",
               "requiredOrOptional": "Optional",
+              "product_category": "Media Kits",
               "productTypeNonoperative": "Variation Product",
               "display_name": "Napoleon Shore Fire Kit, Mixture Of Rocks, Sand, Vermiculite & Glass | SFKS"
             },
@@ -6750,6 +6864,7 @@
               "base_sku": "BX42",
               "type": "variation",
               "requiredOrOptional": "Optional",
+              "product_category": "Media Kits",
               "productTypeNonoperative": "Variation Product",
               "display_name": "Napoleon Shore Fire Kit, Mixture Of Rocks, Sand, Vermiculite & Glass | SFKM"
             }
@@ -6764,6 +6879,7 @@
               "base_sku": "BX36",
               "type": "variation",
               "requiredOrOptional": "Optional",
+              "product_category": "Media Kits",
               "productTypeNonoperative": "Variation Product",
               "display_name": "Napoleon Beach Fire Kit | BFKXS"
             },
@@ -6773,6 +6889,7 @@
               "base_sku": "BX42",
               "type": "variation",
               "requiredOrOptional": "Optional",
+              "product_category": "Media Kits",
               "productTypeNonoperative": "Variation Product",
               "display_name": "Napoleon Beach Fire Kit | BFKS"
             }
@@ -6787,6 +6904,7 @@
               "base_sku": "BX36",
               "type": "variation",
               "requiredOrOptional": "Optional",
+              "product_category": "Media Kits",
               "productTypeNonoperative": "Variation Product",
               "display_name": "Napoleon Mineral Rock Kit | MRKS"
             },
@@ -6796,6 +6914,7 @@
               "base_sku": "BX42",
               "type": "variation",
               "requiredOrOptional": "Optional",
+              "product_category": "Media Kits",
               "productTypeNonoperative": "Variation Product",
               "display_name": "Napoleon Mineral Rock Kit | MRKM"
             }
@@ -7455,6 +7574,7 @@
               "base_sku": "B30",
               "type": "variation",
               "requiredOrOptional": "Optional",
+              "product_category": "Media Kits",
               "productTypeNonoperative": "Variation Product",
               "display_name": "Napoleon Shore Fire Kit, Mixture Of Rocks, Sand, Vermiculite & Glass | SFKS"
             },
@@ -7464,6 +7584,7 @@
               "base_sku": "B36",
               "type": "variation",
               "requiredOrOptional": "Optional",
+              "product_category": "Media Kits",
               "productTypeNonoperative": "Variation Product",
               "display_name": "Napoleon Shore Fire Kit, Mixture Of Rocks, Sand, Vermiculite & Glass | SFKS"
             },
@@ -7473,6 +7594,7 @@
               "base_sku": "B42",
               "type": "variation",
               "requiredOrOptional": "Optional",
+              "product_category": "Media Kits",
               "productTypeNonoperative": "Variation Product",
               "display_name": "Napoleon Shore Fire Kit, Mixture Of Rocks, Sand, Vermiculite & Glass | SFKM"
             },
@@ -7482,6 +7604,7 @@
               "base_sku": "B46",
               "type": "variation",
               "requiredOrOptional": "Optional",
+              "product_category": "Media Kits",
               "productTypeNonoperative": "Variation Product",
               "display_name": "Napoleon Shore Fire Kit, Mixture Of Rocks, Sand, Vermiculite & Glass | SFKM"
             }
@@ -7496,6 +7619,7 @@
               "base_sku": "B30",
               "type": "variation",
               "requiredOrOptional": "Optional",
+              "product_category": "Media Kits",
               "productTypeNonoperative": "Variation Product",
               "display_name": "Napoleon Mineral Rock Kit | MRKS"
             },
@@ -7505,6 +7629,7 @@
               "base_sku": "B36",
               "type": "variation",
               "requiredOrOptional": "Optional",
+              "product_category": "Media Kits",
               "productTypeNonoperative": "Variation Product",
               "display_name": "Napoleon Mineral Rock Kit | MRKS"
             },
@@ -7514,6 +7639,7 @@
               "base_sku": "B42",
               "type": "variation",
               "requiredOrOptional": "Optional",
+              "product_category": "Media Kits",
               "productTypeNonoperative": "Variation Product",
               "display_name": "Napoleon Mineral Rock Kit | MRKM"
             },
@@ -7523,6 +7649,7 @@
               "base_sku": "B46",
               "type": "variation",
               "requiredOrOptional": "Optional",
+              "product_category": "Media Kits",
               "productTypeNonoperative": "Variation Product",
               "display_name": "Napoleon Mineral Rock Kit | MRKM"
             }
@@ -7537,6 +7664,7 @@
               "base_sku": "B30",
               "type": "variation",
               "requiredOrOptional": "Optional",
+              "product_category": "Media Kits",
               "productTypeNonoperative": "Variation Product",
               "display_name": "Napoleon Beach Fire Kit | BFKXS"
             },
@@ -7546,6 +7674,7 @@
               "base_sku": "B36",
               "type": "variation",
               "requiredOrOptional": "Optional",
+              "product_category": "Media Kits",
               "productTypeNonoperative": "Variation Product",
               "display_name": "Napoleon Beach Fire Kit | BFKXS"
             },
@@ -7555,6 +7684,7 @@
               "base_sku": "B42",
               "type": "variation",
               "requiredOrOptional": "Optional",
+              "product_category": "Media Kits",
               "productTypeNonoperative": "Variation Product",
               "display_name": "Napoleon Beach Fire Kit | BFKS"
             },
@@ -7564,6 +7694,7 @@
               "base_sku": "B46",
               "type": "variation",
               "requiredOrOptional": "Optional",
+              "product_category": "Media Kits",
               "productTypeNonoperative": "Variation Product",
               "display_name": "Napoleon Beach Fire Kit | BFKS"
             }
@@ -7904,6 +8035,7 @@
               "base_sku": "BHD4-Cradle",
               "type": "variation",
               "requiredOrOptional": "Optional",
+              "product_category": "Media Kits",
               "productTypeNonoperative": "Variation Product",
               "display_name": "Napoleon Mineral Rock Kit | MRKM"
             },
@@ -7913,6 +8045,7 @@
               "base_sku": "BHD4-Glass",
               "type": "variation",
               "requiredOrOptional": "Optional",
+              "product_category": "Media Kits",
               "productTypeNonoperative": "Variation Product",
               "display_name": "Napoleon Mineral Rock Kit | MRKM"
             },
@@ -7922,6 +8055,7 @@
               "base_sku": "BHD4-Logs",
               "type": "variation",
               "requiredOrOptional": "Optional",
+              "product_category": "Media Kits",
               "productTypeNonoperative": "Variation Product",
               "display_name": "Napoleon Mineral Rock Kit | MRKM"
             }
@@ -13759,6 +13893,7 @@
               "base_sku": "NEFBD50HE",
               "type": "variation",
               "requiredOrOptional": "Required",
+              "product_category": "Glass Media Kits",
               "productTypeNonoperative": "Variation Product",
               "display_name": "Napoleon Glass Embers Media Kits | See codes in product description"
             },
@@ -13768,6 +13903,7 @@
               "base_sku": "NEFBD60HE",
               "type": "variation",
               "requiredOrOptional": "Required",
+              "product_category": "Glass Media Kits",
               "productTypeNonoperative": "Variation Product",
               "display_name": "Napoleon Glass Embers Media Kits | See codes in product description"
             }
@@ -14191,6 +14327,7 @@
               "base_sku": null,
               "type": "variation",
               "requiredOrOptional": "Optional",
+              "product_category": "Glass Media Kits",
               "productTypeNonoperative": "Variation Product",
               "display_name": "Napoleon Glass Embers Media Kits | See codes in product description"
             }
@@ -14408,6 +14545,7 @@
               "base_sku": null,
               "type": "variation",
               "requiredOrOptional": "Optional",
+              "product_category": "Glass Media Kits",
               "productTypeNonoperative": "Variation Product",
               "display_name": "Napoleon Glass Embers Media Kits | See codes in product description"
             }
@@ -14797,6 +14935,7 @@
         ]
       ],
       "requiredOrOptional": "Optional",
+      "product_category": "Media Kits",
       "productTypeNonoperative": "Variation Product",
       "display_name": "Napoleon Beach Fire Kit | BFKM"
     },
@@ -14862,6 +15001,7 @@
         ]
       ],
       "requiredOrOptional": "Required",
+      "product_category": "Media Kits",
       "productTypeNonoperative": "Variation Product",
       "display_name": "Napoleon Beach Fire Kit | BFKXL"
     },
@@ -14902,6 +15042,7 @@
         ]
       ],
       "requiredOrOptional": "Optional",
+      "product_category": "Media Kits",
       "productTypeNonoperative": "Variation Product",
       "display_name": "Napoleon Birch Log Kit | BLKS"
     },
@@ -14942,6 +15083,7 @@
         ]
       ],
       "requiredOrOptional": "Optional",
+      "product_category": "Media Kits",
       "productTypeNonoperative": "Variation Product",
       "display_name": "Napoleon Birch Log Kit | BLKM"
     },
@@ -14973,6 +15115,7 @@
         ]
       ],
       "requiredOrOptional": "Required",
+      "product_category": "Media Kits",
       "productTypeNonoperative": "Variation Product",
       "display_name": "Napoleon Birch Log Kit | BLKL"
     },
@@ -15020,6 +15163,7 @@
         ]
       ],
       "requiredOrOptional": "Required",
+      "product_category": "Media Kits",
       "productTypeNonoperative": "Variation Product",
       "display_name": "Napoleon Birch Log Kit | BLKXL"
     },
@@ -15060,6 +15204,7 @@
         ]
       ],
       "requiredOrOptional": "Optional",
+      "product_category": "Media Kits",
       "productTypeNonoperative": "Variation Product",
       "display_name": "Napoleon Contemporary Log Kit | CLKS"
     },
@@ -15100,6 +15245,7 @@
         ]
       ],
       "requiredOrOptional": "Optional",
+      "product_category": "Media Kits",
       "productTypeNonoperative": "Variation Product",
       "display_name": "Napoleon Contemporary Log Kit | CLKM"
     },
@@ -15131,6 +15277,7 @@
         ]
       ],
       "requiredOrOptional": "Required",
+      "product_category": "Media Kits",
       "productTypeNonoperative": "Variation Product",
       "display_name": "Napoleon Contemporary Log Kit | CLKL"
     },
@@ -15178,6 +15325,7 @@
         ]
       ],
       "requiredOrOptional": "Required",
+      "product_category": "Media Kits",
       "productTypeNonoperative": "Variation Product",
       "display_name": "Napoleon Contemporary Log Kit | CLKXL"
     },
@@ -15309,6 +15457,7 @@
         ]
       ],
       "requiredOrOptional": "Optional",
+      "product_category": "Media Kits",
       "productTypeNonoperative": "Variation Product",
       "display_name": "Napoleon Mineral Rock Kit | MRKS"
     },
@@ -15448,6 +15597,7 @@
         ]
       ],
       "requiredOrOptional": "Optional",
+      "product_category": "Media Kits",
       "productTypeNonoperative": "Variation Product",
       "display_name": "Napoleon Mineral Rock Kit | MRKM"
     },
@@ -15479,6 +15629,7 @@
         ]
       ],
       "requiredOrOptional": "Required",
+      "product_category": "Media Kits",
       "productTypeNonoperative": "Variation Product",
       "display_name": "Napoleon Mineral Rock Kit | MRKL"
     },
@@ -15526,6 +15677,7 @@
         ]
       ],
       "requiredOrOptional": "Required",
+      "product_category": "Media Kits",
       "productTypeNonoperative": "Variation Product",
       "display_name": "Napoleon Mineral Rock Kit | MRKXL"
     },
@@ -15677,6 +15829,7 @@
         ]
       ],
       "requiredOrOptional": "Optional",
+      "product_category": "Media Kits",
       "productTypeNonoperative": "Variation Product",
       "display_name": "Napoleon Shore Fire Kit, Mixture Of Rocks, Sand, Vermiculite & Glass | SFKM"
     },
@@ -15742,6 +15895,7 @@
         ]
       ],
       "requiredOrOptional": "Required",
+      "product_category": "Media Kits",
       "productTypeNonoperative": "Variation Product",
       "display_name": "Napoleon Shore Fire Kit, Mixture Of Rocks, Sand, Vermiculite & Glass | SFKL"
     },
@@ -16211,6 +16365,7 @@
         ]
       ],
       "requiredOrOptional": "Required",
+      "product_category": "Glass Media Kits",
       "productTypeNonoperative": "Variation Product",
       "display_name": "Napoleon Amber Glass Beads Media Kit | MKBA"
     },
@@ -16680,6 +16835,7 @@
         ]
       ],
       "requiredOrOptional": "Required",
+      "product_category": "Glass Media Kits",
       "productTypeNonoperative": "Variation Product",
       "display_name": "Napoleon Black Glass Beads Media Kit | MKBK"
     },
@@ -17149,6 +17305,7 @@
         ]
       ],
       "requiredOrOptional": "Required",
+      "product_category": "Glass Media Kits",
       "productTypeNonoperative": "Variation Product",
       "display_name": "Napoleon Blue Glass Beads Media Kit | MKBB"
     },
@@ -17618,6 +17775,7 @@
         ]
       ],
       "requiredOrOptional": "Required",
+      "product_category": "Glass Media Kits",
       "productTypeNonoperative": "Variation Product",
       "display_name": "Napoleon Clear Glass Beads Media Kit | MKBC"
     },
@@ -18087,6 +18245,7 @@
         ]
       ],
       "requiredOrOptional": "Required",
+      "product_category": "Glass Media Kits",
       "productTypeNonoperative": "Variation Product",
       "display_name": "Napoleon Topaz Glass Beads Media Kit | MKBT"
     },
@@ -19085,6 +19244,7 @@
         ]
       ],
       "requiredOrOptional": "Optional",
+      "product_category": "Accessory Media Kits",
       "productTypeNonoperative": "Variation Product",
       "display_name": "Napoleon Media Tray | EMT38"
     },
@@ -19107,6 +19267,7 @@
         ]
       ],
       "requiredOrOptional": "Optional",
+      "product_category": "Accessory Media Kits",
       "productTypeNonoperative": "Variation Product",
       "display_name": "Napoleon Media Tray | EMT50"
     },
@@ -19438,6 +19599,7 @@
         ]
       ],
       "requiredOrOptional": "Optional",
+      "product_category": "Media Kits",
       "productTypeNonoperative": "Variation Product",
       "display_name": "Napoleon Shore Fire Kit, Mixture Of Rocks, Sand, Vermiculite & Glass | SFKS"
     },
@@ -19535,6 +19697,7 @@
         ]
       ],
       "requiredOrOptional": "Optional",
+      "product_category": "Media Kits",
       "productTypeNonoperative": "Variation Product",
       "display_name": "Napoleon Beach Fire Kit | BFKS"
     },
@@ -20383,7 +20546,8 @@
           "GPFS60",
           "Optional"
         ]
-      ]
+      ],
+      "product_category": "Glass Media Kits"
     },
     "MKGK": {
       "name": "Glass Embers Media Kits: Black",
@@ -20761,7 +20925,8 @@
           "GPFS60",
           "Optional"
         ]
-      ]
+      ],
+      "product_category": "Glass Media Kits"
     },
     "MKGB": {
       "name": "Glass Embers Media Kits: Blue",
@@ -21139,7 +21304,8 @@
           "GPFS60",
           "Optional"
         ]
-      ]
+      ],
+      "product_category": "Glass Media Kits"
     },
     "MKGC": {
       "name": "Glass Embers Media Kits: Clear",
@@ -21517,7 +21683,8 @@
           "GPFS60",
           "Optional"
         ]
-      ]
+      ],
+      "product_category": "Glass Media Kits"
     },
     "MKGR": {
       "name": "Glass Embers Media Kits: Red",
@@ -21895,7 +22062,8 @@
           "GPFS60",
           "Optional"
         ]
-      ]
+      ],
+      "product_category": "Glass Media Kits"
     },
     "MKGT": {
       "name": "Glass Embers Media Kits: Topaz",
@@ -22273,7 +22441,8 @@
           "GPFS60",
           "Optional"
         ]
-      ]
+      ],
+      "product_category": "Glass Media Kits"
     },
     "270-BULK": {
       "name": "Black Paint, Thurmalox 13Oz",
@@ -27664,7 +27833,8 @@
           "BL46NTE",
           "Not Available"
         ]
-      ]
+      ],
+      "product_category": "Trim Kits"
     },
     "DLTL": {
       "name": "Dynamic Linear Trim",
@@ -27790,7 +27960,8 @@
           "BL46NTE",
           "Not Available"
         ]
-      ]
+      ],
+      "product_category": "Trim Kits"
     },
     "AUB": {
       "name": "Blower Kit With Variable Speed And Thermostatic Control",
@@ -33336,6 +33507,7 @@
         ]
       ],
       "requiredOrOptional": "Required",
+      "product_category": "Accessory Media Kits",
       "productTypeNonoperative": "Variation Product",
       "display_name": "Napoleon Hearth Pad | HP52K"
     },
@@ -33358,6 +33530,7 @@
         ]
       ],
       "requiredOrOptional": "Optional",
+      "product_category": "Media Kits",
       "productTypeNonoperative": "Variation Product",
       "display_name": "Napoleon Driftwood Log And Rock Kit | DLR52"
     },
@@ -35580,6 +35753,7 @@
         ]
       ],
       "requiredOrOptional": "Optional",
+      "product_category": "Media Kits",
       "productTypeNonoperative": "Variation Product",
       "display_name": "Napoleon Beach Fire Kit | BFKXS"
     },
@@ -41964,7 +42138,8 @@
           "GVFL30N",
           "Not Available"
         ]
-      ]
+      ],
+      "product_category": "Conversion Kits"
     },
     "W175-0347": {
       "name": "Conversion Kit - Natural Gas To Propane",
@@ -42016,7 +42191,8 @@
           "GVFL30N",
           "Not Available"
         ]
-      ]
+      ],
+      "product_category": "Conversion Kits"
     },
     "W175-0348": {
       "name": "Conversion Kit - Natural Gas To Propane",
@@ -42068,7 +42244,8 @@
           "GVFL30N",
           "Not Available"
         ]
-      ]
+      ],
+      "product_category": "Conversion Kits"
     },
     "BPD": {
       "name": "Battery Pack",
@@ -43364,6 +43541,7 @@
         ]
       ],
       "requiredOrOptional": "Optional",
+      "product_category": "Glass Media Kits",
       "productTypeNonoperative": "Variation Product",
       "display_name": "Napoleon Glass Embers Media Kits | See codes in product description"
     },

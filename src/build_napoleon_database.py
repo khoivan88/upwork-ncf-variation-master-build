@@ -48,6 +48,16 @@ OPTIONAL_LOOKUP = {'mandatory': 'Required',
 ADDITIONAL_OPTIONAL_LOOKUP = {'INC': 'Included',
                               'OPT': 'Optional',
                               'N/A': 'Not Available'}
+VARIATION_PRODUCT_CATEGORY_MAPPING = {
+    '(?<!\().*?(log set|logset|fire kit|log kit|rock kit).*?(?!\))': 'Media Kits',
+    '(?<!\().*?(glass.*media kit).*?(?!\))': 'Glass Media Kits',
+    '(?<!\().*?(media tray|hearth pad).*?(?!\))': 'Accessory Media Kits',
+    '(?<!\().*?(panel|illusion glass).*?(?!\))': 'Interior Panels',
+    '(?<!\().*?(trim).*?(?!\))': 'Trim Kits',
+    '(?<!\().*?(element).*?(?!\))': 'Front Accents',    # ! this before 'front', because some items with 'element' also have 'front', such as 'Arched Iron Elements - Antique Pewter (Fits on Whitney front)'
+    '(?<!\().*?(front).*?(?!\))': 'Decorative Fronts',
+    '(?<!\().*?(conversion).*?(?!\))': 'Conversion Kits',
+}
 
 
 def init_argparse() -> argparse.ArgumentParser:
@@ -81,7 +91,9 @@ def build_db(database: Dict):
     db = add_series_product_category(db)
     db = add_productTypeNonoperative(db)    # ! add after 'product_type'
     db = add_display_name(db)
+
     db = copy_variation_info_in_series_to_variations_dict(db)
+    db = add_variations_product_category(db)
 
     # Save database
     save_db(database=db, file=NAPOLEON_DATABASE_FILE)
@@ -323,14 +335,6 @@ def add_style(database: Dict) -> Dict:
 
 
 def add_series_product_category(database: Dict) -> Dict:
-    VARIATION_PRODUCT_CATEGORY_MAPPING = {'log set': 'Media Kits',
-                                          'panel': 'Interior Panels',
-                                          'illusion glass': 'Interior Panels',
-                                          'trim': 'Trim Kits',
-                                          'element': 'Front Accents',    # ! this before 'front', because some items with 'element' also have 'front', such as 'Arched Iron Elements - Antique Pewter (Fits on Whitney front)'
-                                          'front': 'Decorative Fronts',
-                                          'conversion': 'Conversion Kits',
-                                          }
     for series_info in database['series'].values():
         # For series's units
         for product_line in series_info['units']:
@@ -359,13 +363,16 @@ def add_series_product_category(database: Dict) -> Dict:
                 variation_name = product_line['name']
                 for variation in product_line['details']:
                     if variation:
-                        product_category = re.search('|'.join(re.escape(term)
-                                                              for term in VARIATION_PRODUCT_CATEGORY_MAPPING),
-                                                     variation_name,
-                                                     flags=re.IGNORECASE)
-                        if product_category:
-                            variation['product_category'] = VARIATION_PRODUCT_CATEGORY_MAPPING[product_category[0].lower()]
-
+                        # product_category = re.search('|'.join(VARIATION_PRODUCT_CATEGORY_MAPPING),
+                        #                              variation_name,
+                        #                              flags=re.IGNORECASE)
+                        # if product_category:
+                        #     variation['product_category'] = VARIATION_PRODUCT_CATEGORY_MAPPING[product_category[0].lower()]
+                        # log.info(f'{variation_name=}')
+                        for regex, category in VARIATION_PRODUCT_CATEGORY_MAPPING.items():
+                            if re.search(regex, variation_name, flags=re.IGNORECASE):
+                                variation['product_category'] = category
+                                break
     return database
 
 
@@ -443,6 +450,21 @@ def copy_variation_info_in_series_to_variations_dict(database: Dict) -> Dict:
                     # Update the exact variation inside `database['variations']`:
                     database['variations'][variation_sku].update(variation_info)
 
+    return database
+
+
+def add_variations_product_category(database: Dict) -> Dict:
+    # Master variation list:
+    for variation_info in database['variations'].values():
+        # product_category = re.search('|'.join(VARIATION_PRODUCT_CATEGORY_MAPPING),
+        #                              variation_info['name'],
+        #                              flags=re.IGNORECASE)
+        # if product_category:
+        #     variation_info['product_category'] = VARIATION_PRODUCT_CATEGORY_MAPPING[product_category[0].lower()]
+        for regex, category in VARIATION_PRODUCT_CATEGORY_MAPPING.items():
+            if re.search(regex, variation_info['name'], flags=re.IGNORECASE):
+                variation_info['product_category'] = category
+                break
     return database
 
 
