@@ -49,6 +49,7 @@ ADDITIONAL_OPTIONAL_LOOKUP = {'INC': 'Included',
                               'OPT': 'Optional',
                               'N/A': 'Not Available'}
 VARIATION_PRODUCT_CATEGORY_MAPPING = {
+    '(?<!\().*?(conversion).*?(?!\))': 'Conversion Kits',   # ! this before 'Interior Panel', because 'Conversion Kits' normally have 'Panel Kits' as parent class.
     '(?<!\().*?(log set|logset|fire kit|log kit|rock kit).*?(?!\))': 'Media Kits',
     '(?<!\().*?(glass.*media kit).*?(?!\))': 'Glass Media Kits',
     '(?<!\().*?(media tray|hearth pad).*?(?!\))': 'Accessory Media Kits',
@@ -56,7 +57,6 @@ VARIATION_PRODUCT_CATEGORY_MAPPING = {
     '(?<!\().*?(trim).*?(?!\))': 'Trim Kits',
     '(?<!\().*?(element).*?(?!\))': 'Front Accents',    # ! this before 'front', because some items with 'element' also have 'front', such as 'Arched Iron Elements - Antique Pewter (Fits on Whitney front)'
     '(?<!\().*?(front).*?(?!\))': 'Decorative Fronts',
-    '(?<!\().*?(conversion).*?(?!\))': 'Conversion Kits',
 }
 
 
@@ -360,7 +360,7 @@ def add_series_product_category(database: Dict) -> Dict:
         # For series's variants
         if series_info.get('variations'):
             for product_line in series_info['variations']:
-                variation_name = product_line['name']
+                variation_name = f"{product_line['name']} | {product_line['catalog_product_category']}"
                 for variation in product_line['details']:
                     if variation:
                         # product_category = re.search('|'.join(VARIATION_PRODUCT_CATEGORY_MAPPING),
@@ -462,7 +462,7 @@ def add_variations_product_category(database: Dict) -> Dict:
         # if product_category:
         #     variation_info['product_category'] = VARIATION_PRODUCT_CATEGORY_MAPPING[product_category[0].lower()]
         for regex, category in VARIATION_PRODUCT_CATEGORY_MAPPING.items():
-            if re.search(regex, variation_info['name'], flags=re.IGNORECASE):
+            if re.search(regex, f"{variation_info['name']} | {variation_info.get('catalog_product_category', '')}", flags=re.IGNORECASE):
                 variation_info['product_category'] = category
                 break
     return database
