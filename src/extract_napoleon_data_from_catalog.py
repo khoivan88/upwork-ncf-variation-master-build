@@ -83,6 +83,7 @@ def extract_napoleon_data_from_catalog() -> Dict[str, Dict]:
     current_series = 0
     type = ''
     required_or_optional = ''
+    variation_product_category = ''
     additional_options_baseSku = []
 
     for row in sheet.iter_rows(min_row=32,
@@ -137,6 +138,11 @@ def extract_napoleon_data_from_catalog() -> Dict[str, Dict]:
             if required_or_optional_result:
                 matched_text = required_or_optional_result[0].lower()
                 required_or_optional = OPTIONAL_LOOKUP.get(matched_text, '')
+            product_category_match = re.search(r'^step\s*(\d+)(?:\W*)(.*)\(.*',
+                                               ''.join(str(cell) for cell in row_data),
+                                               re.IGNORECASE)
+            if product_category_match:
+                variation_product_category = product_category_match[2].strip()
 
         # Set type for 'additional_variations' for variations such as those in line 136-166 in Napoleon pricebook
         # for anomoly such as line 783 'Additional Vertical Series Option' instead of 'Vertical Series Additional Options'
@@ -225,6 +231,7 @@ def extract_napoleon_data_from_catalog() -> Dict[str, Dict]:
                         if not catalog['variations'].get(manufacturerSku):
                             catalog['variations'][manufacturerSku] = {
                                 'name': name,
+                                'catalog_product_category': variation_product_category,
                                 'price': price,
                                 'manufacturerSku': manufacturerSku,
                                 'type': type,
@@ -239,9 +246,19 @@ def extract_napoleon_data_from_catalog() -> Dict[str, Dict]:
                 if info and not is_feature:
                     variation = {
                         'name': name,
+                        'catalog_product_category': variation_product_category,
                         'details': info,
                     }
                     series['variations'].append(variation)
+
+        # Set variation_product_category for 'additional_variations' for variations such as those in line 136-166 in Napoleon pricebook
+        # for anomoly such as line 783 'Additional Vertical Series Option' instead of 'Vertical Series Additional Options'
+        elif (len(row_data) == 1
+              and not re.search(r'^step\s*(\d+)', row_data[0], re.IGNORECASE)    # For anomoly like line 738, containing 'Additional options' but startswith 'Step'
+              and type == 'additional_variation'):
+            row_text = ''.join(str(cell) for cell in row_data)
+            if row_text.isupper():
+                variation_product_category = row_text.strip()
 
         # Add 'additional_variations'
         elif type == 'additional_variation':
@@ -261,7 +278,7 @@ def extract_napoleon_data_from_catalog() -> Dict[str, Dict]:
                                               for item in additional_options_baseSku]
             elif len(row_data) >= 3:
                 # Convert to string to fix problem with some partID (manufacturerSku) is interpreted as number instead of string, such line 1455
-                name, manufacturerSku, price, *details = [str(cell) for cell in row_data]
+                fullname, manufacturerSku, price, *details = [str(cell) for cell in row_data]
 
                 # For cases with multiple manufacturerSku inside a 'manufacturerSku' cell:
                 # e.g: "Amber (MKBA), Black (MKBK), Blue (MKBB), Clear (MKBC), Topaz (MKBT)"
@@ -276,8 +293,12 @@ def extract_napoleon_data_from_catalog() -> Dict[str, Dict]:
                                                              allParentSku=allParentSku,
                                                              catalog=catalog,
                                                              manufacturerSku=sku,
-                                                             name=f'{name}: {short_name}',
-                                                             price=price, type=type)
+                                                             extra_info={'name': f'{fullname}: {short_name}',
+                                                                         'price': price,
+                                                                         'type': type,
+                                                                         'catalog_product_type': variation_product_category,
+                                                                         }
+                                                             )
 
                 else:
                     catalog = add_additional_option_cell(details=details,
@@ -285,7 +306,13 @@ def extract_napoleon_data_from_catalog() -> Dict[str, Dict]:
                                                          allParentSku=allParentSku,
                                                          catalog=catalog,
                                                          manufacturerSku=manufacturerSku,
-                                                         name=name, price=price, type=type)
+                                                        #  name=name, price=price, type=type
+                                                         extra_info={'name': fullname,
+                                                                     'price': price,
+                                                                     'type': type,
+                                                                     'catalog_product_type': variation_product_category,
+                                                                     }
+                                                         )
 
         # Add 'product'
         elif type == 'product':
@@ -324,9 +351,10 @@ def add_additional_option_cell(details: List[str],
                                allParentSku: Set[str],
                                catalog: Dict[str, Dict],
                                manufacturerSku: str,
-                               name: str,
-                               price: Union[int, str],
-                               type: str,
+                            #    name: str,
+                            #    price: Union[int, str],
+                            #    type: str,
+                               extra_info: Dict[str, str],
                                ) -> Dict[str, Dict]:
     """Add item that marked as 'additional_option' into local database
 
@@ -374,10 +402,11 @@ def add_additional_option_cell(details: List[str],
                                              fillvalue=additional_option_requirement))
         if not catalog['variations'].get(manufacturerSku):
             catalog['variations'][manufacturerSku] = {
-                'name': name,
-                'price': price,
                 'manufacturerSku': manufacturerSku,
-                'type': type,
+                # 'name': name,
+                # 'price': price,
+                # 'type': type,
+                **extra_info,
                 'baseSku': [baseSku],
                 'variation_parents': variation_parents,
             }
