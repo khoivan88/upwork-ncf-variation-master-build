@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <catalog xmlns="http://www.demandware.com/xml/impex/catalog/2006-10-31" catalog-id="ncf-m-catalog">
-    <product product-id="ax36nte">
+    <product product-id="olkax36">
         <ean/>
-        <upc>629169072460</upc>
+        <upc>629169074020</upc>
         <unit>1</unit>
         <min-order-quantity>1</min-order-quantity>
         <step-quantity>1</step-quantity>
-        <display-name xml:lang="x-default">Napoleon Altitude X 36 Direct-Vent Gas Fireplace | AX36</display-name>
+        <display-name xml:lang="x-default">Napoleon Split Oak Log Set | OLKAX36</display-name>
         <store-force-price-flag>false</store-force-price-flag>
         <store-non-inventory-flag>false</store-non-inventory-flag>
         <store-non-revenue-flag>false</store-non-revenue-flag>
@@ -15,7 +15,7 @@
         <available-flag>true</available-flag>
         <searchable-flag>true</searchable-flag>
         <tax-class-id>standard</tax-class-id>
-        <classification-category catalog-id="northcountryfire-storefront">gas-fireplaces</classification-category>
+        <classification-category catalog-id="northcountryfire-storefront">all</classification-category>
         <pinterest-enabled-flag>false</pinterest-enabled-flag>
         <facebook-enabled-flag>false</facebook-enabled-flag>
         <store-attributes>
@@ -25,40 +25,30 @@
             <non-discountable-flag>false</non-discountable-flag>
         </store-attributes>
         <brand>Napoleon</brand>
-        <manufacturer-sku>AX36NTE</manufacturer-sku>
+        <manufacturer-sku>OLKAX36</manufacturer-sku>
         <page-attributes>
-            <page-title xml:lang="x-default">Napoleon Altitude X 36 Direct Vent Gas Fireplace | AX36</page-title>
-            <page-description xml:lang="x-default">Model: Napoleon AX36. Buy the Napoleon Altitude X 36 Direct Vent Gas Fireplace. Find info on price, dimensions, installation and accessories. Available in natural gas or propane. Napoleon Authorized Dealer. At North Country Fire we strive to provide the best customer care including industry leading technical support.</page-description>
+            <page-title xml:lang="x-default">Napoleon Split Oak Logset for Altitude X 36 Gas Log Sets | OLKAX36</page-title>
+            <page-description xml:lang="x-default">Part: Napoleon OLKAX36. Buy the Napoleon Split Oak Logset for Altitude X 36 Gas Log Set. Find info on price, dimensions, vent configurations, installation and accessories. Napoleon Authorized Dealer. At North Country Fire we strive to provide the best customer care including industry leading technical support.</page-description>
         </page-attributes>
         <custom-attributes>
-            <custom-attribute attribute-id="baseSku">AX36</custom-attribute>
-            <custom-attribute attribute-id="configurableProduct">true</custom-attribute>
-            <custom-attribute attribute-id="fuelType">Gas</custom-attribute>
-            <custom-attribute attribute-id="productCategory">Gas Fireplace</custom-attribute>
-            <custom-attribute attribute-id="productSetId">ax36nte-set</custom-attribute>
-            <custom-attribute attribute-id="productTypeNonoperative">Option Product</custom-attribute>
-            <custom-attribute attribute-id="series">Altitude X</custom-attribute>
-            <custom-attribute attribute-id="seriesNumber">36</custom-attribute>
-            <custom-attribute attribute-id="sku">AX36NTE</custom-attribute>
-            <custom-attribute attribute-id="ignitionType">Electronic Ignition</custom-attribute>
-            <custom-attribute attribute-id="skuNG">AX36NTE</custom-attribute>
-            <custom-attribute attribute-id="skuNgIpi">AX36NTE</custom-attribute>
-            <custom-attribute attribute-id="skuNgMv"/>
-            <custom-attribute attribute-id="skuLP">AX36PTE</custom-attribute>
-            <custom-attribute attribute-id="skuLpIpi">AX36PTE</custom-attribute>
-            <custom-attribute attribute-id="skuLpMv"/>
+            <custom-attribute attribute-id="isSharedVariationProduct">true</custom-attribute>
+            <custom-attribute attribute-id="isStepVariationProduct">true</custom-attribute>
+            <custom-attribute attribute-id="parentSetName">ax36nte-set,ax36pte-set</custom-attribute>
+            <custom-attribute attribute-id="parentSku">AX36NTE,AX36PTE</custom-attribute>
+            <custom-attribute attribute-id="productCategory">Media Kits</custom-attribute>
+            <custom-attribute attribute-id="productTypeNonoperative">Variation Product</custom-attribute>
+            <custom-attribute attribute-id="requiredOrOptionalVariation">Required</custom-attribute>
+            <custom-attribute attribute-id="sku">OLKAX36</custom-attribute>
+            <custom-attribute attribute-id="variationMasterStepName">ax36nte-media-kits,ax36pte-media-kits</custom-attribute>
         </custom-attributes>
-        <options>
-            <shared-option option-id="selectOptionFuelType"/>
-        </options>
     </product>
-    <product product-id="ax42nte">
+    <product product-id="olkax42">
         <ean/>
-        <upc>629169072484</upc>
+        <upc>629169074037</upc>
         <unit>1</unit>
         <min-order-quantity>1</min-order-quantity>
         <step-quantity>1</step-quantity>
-        <display-name xml:lang="x-default">Napoleon Altitude X 42 Direct-Vent Gas Fireplace | AX42</display-name>
+        <display-name xml:lang="x-default">Napoleon Split Oak Log Set | OLKAX42</display-name>
         <store-force-price-flag>false</store-force-price-flag>
         <store-non-inventory-flag>false</store-non-inventory-flag>
         <store-non-revenue-flag>false</store-non-revenue-flag>
@@ -67,7 +57,7 @@
         <available-flag>true</available-flag>
         <searchable-flag>true</searchable-flag>
         <tax-class-id>standard</tax-class-id>
-        <classification-category catalog-id="northcountryfire-storefront">gas-fireplaces</classification-category>
+        <classification-category catalog-id="northcountryfire-storefront">all</classification-category>
         <pinterest-enabled-flag>false</pinterest-enabled-flag>
         <facebook-enabled-flag>false</facebook-enabled-flag>
         <store-attributes>
@@ -77,40 +67,30 @@
             <non-discountable-flag>false</non-discountable-flag>
         </store-attributes>
         <brand>Napoleon</brand>
-        <manufacturer-sku>AX42NTE</manufacturer-sku>
+        <manufacturer-sku>OLKAX42</manufacturer-sku>
         <page-attributes>
-            <page-title xml:lang="x-default">Napoleon Altitude X 42 Direct Vent Gas Fireplace | AX42</page-title>
-            <page-description xml:lang="x-default">Model: Napoleon AX42. Buy the Napoleon Altitude X 42 Direct Vent Gas Fireplace. Find info on price, dimensions, installation and accessories. Available in natural gas or propane. Napoleon Authorized Dealer. At North Country Fire we strive to provide the best customer care including industry leading technical support.</page-description>
+            <page-title xml:lang="x-default">Napoleon Split Oak Logset for Altitude X 42 Gas Log Sets | OLKAX42</page-title>
+            <page-description xml:lang="x-default">Part: Napoleon OLKAX42. Buy the Napoleon Split Oak Logset for Altitude X 42 Gas Log Set. Find info on price, dimensions, vent configurations, installation and accessories. Napoleon Authorized Dealer. At North Country Fire we strive to provide the best customer care including industry leading technical support.</page-description>
         </page-attributes>
         <custom-attributes>
-            <custom-attribute attribute-id="baseSku">AX42</custom-attribute>
-            <custom-attribute attribute-id="configurableProduct">true</custom-attribute>
-            <custom-attribute attribute-id="fuelType">Gas</custom-attribute>
-            <custom-attribute attribute-id="productCategory">Gas Fireplace</custom-attribute>
-            <custom-attribute attribute-id="productSetId">ax42nte-set</custom-attribute>
-            <custom-attribute attribute-id="productTypeNonoperative">Option Product</custom-attribute>
-            <custom-attribute attribute-id="series">Altitude X</custom-attribute>
-            <custom-attribute attribute-id="seriesNumber">42</custom-attribute>
-            <custom-attribute attribute-id="sku">AX42NTE</custom-attribute>
-            <custom-attribute attribute-id="ignitionType">Electronic Ignition</custom-attribute>
-            <custom-attribute attribute-id="skuNG">AX42NTE</custom-attribute>
-            <custom-attribute attribute-id="skuNgIpi">AX42NTE</custom-attribute>
-            <custom-attribute attribute-id="skuNgMv"/>
-            <custom-attribute attribute-id="skuLP">AX42PTE</custom-attribute>
-            <custom-attribute attribute-id="skuLpIpi">AX42PTE</custom-attribute>
-            <custom-attribute attribute-id="skuLpMv"/>
+            <custom-attribute attribute-id="isSharedVariationProduct">true</custom-attribute>
+            <custom-attribute attribute-id="isStepVariationProduct">true</custom-attribute>
+            <custom-attribute attribute-id="parentSetName">ax42nte-set,ax42pte-set</custom-attribute>
+            <custom-attribute attribute-id="parentSku">AX42NTE,AX42PTE</custom-attribute>
+            <custom-attribute attribute-id="productCategory">Media Kits</custom-attribute>
+            <custom-attribute attribute-id="productTypeNonoperative">Variation Product</custom-attribute>
+            <custom-attribute attribute-id="requiredOrOptionalVariation">Required</custom-attribute>
+            <custom-attribute attribute-id="sku">OLKAX42</custom-attribute>
+            <custom-attribute attribute-id="variationMasterStepName">ax42nte-media-kits,ax42pte-media-kits</custom-attribute>
         </custom-attributes>
-        <options>
-            <shared-option option-id="selectOptionFuelType"/>
-        </options>
     </product>
-    <product product-id="b30ntre-1">
+    <product product-id="dlkax36">
         <ean/>
-        <upc>629169066438</upc>
+        <upc>629169074129</upc>
         <unit>1</unit>
         <min-order-quantity>1</min-order-quantity>
         <step-quantity>1</step-quantity>
-        <display-name xml:lang="x-default">Napoleon Ascent 30 Direct-Vent Gas Fireplace | B30</display-name>
+        <display-name xml:lang="x-default">Napoleon Driftwood Log Set | DLKAX36</display-name>
         <store-force-price-flag>false</store-force-price-flag>
         <store-non-inventory-flag>false</store-non-inventory-flag>
         <store-non-revenue-flag>false</store-non-revenue-flag>
@@ -119,7 +99,7 @@
         <available-flag>true</available-flag>
         <searchable-flag>true</searchable-flag>
         <tax-class-id>standard</tax-class-id>
-        <classification-category catalog-id="northcountryfire-storefront">gas-fireplaces</classification-category>
+        <classification-category catalog-id="northcountryfire-storefront">all</classification-category>
         <pinterest-enabled-flag>false</pinterest-enabled-flag>
         <facebook-enabled-flag>false</facebook-enabled-flag>
         <store-attributes>
@@ -129,40 +109,30 @@
             <non-discountable-flag>false</non-discountable-flag>
         </store-attributes>
         <brand>Napoleon</brand>
-        <manufacturer-sku>B30NTRE-1</manufacturer-sku>
+        <manufacturer-sku>DLKAX36</manufacturer-sku>
         <page-attributes>
-            <page-title xml:lang="x-default">Napoleon Ascent 30 Direct Vent Gas Fireplace | B30</page-title>
-            <page-description xml:lang="x-default">Model: Napoleon B30. Buy the Napoleon Ascent 30 Direct Vent Gas Fireplace. Find info on price, dimensions, installation and accessories. Available in natural gas or propane. Napoleon Authorized Dealer. At North Country Fire we strive to provide the best customer care including industry leading technical support.</page-description>
+            <page-title xml:lang="x-default">Napoleon Driftwood Logset for Altitude X 36 Gas Log Sets | DLKAX36</page-title>
+            <page-description xml:lang="x-default">Part: Napoleon DLKAX36. Buy the Napoleon Driftwood Logset for Altitude X 36 Gas Log Set. Find info on price, dimensions, vent configurations, installation and accessories. Napoleon Authorized Dealer. At North Country Fire we strive to provide the best customer care including industry leading technical support.</page-description>
         </page-attributes>
         <custom-attributes>
-            <custom-attribute attribute-id="baseSku">B30</custom-attribute>
-            <custom-attribute attribute-id="configurableProduct">true</custom-attribute>
-            <custom-attribute attribute-id="fuelType">Gas</custom-attribute>
-            <custom-attribute attribute-id="productCategory">Gas Fireplace</custom-attribute>
-            <custom-attribute attribute-id="productSetId">b30ntre-1-set</custom-attribute>
-            <custom-attribute attribute-id="productTypeNonoperative">Option Product</custom-attribute>
-            <custom-attribute attribute-id="series">Ascent</custom-attribute>
-            <custom-attribute attribute-id="seriesNumber">30</custom-attribute>
-            <custom-attribute attribute-id="sku">B30NTRE-1</custom-attribute>
-            <custom-attribute attribute-id="ignitionType">Electronic or Millivolt Ignition</custom-attribute>
-            <custom-attribute attribute-id="skuNG">B30NTRE-1</custom-attribute>
-            <custom-attribute attribute-id="skuNgIpi">B30NTRE-1</custom-attribute>
-            <custom-attribute attribute-id="skuNgMv">B30NTR-1</custom-attribute>
-            <custom-attribute attribute-id="skuLP"/>
-            <custom-attribute attribute-id="skuLpIpi"/>
-            <custom-attribute attribute-id="skuLpMv"/>
+            <custom-attribute attribute-id="isSharedVariationProduct">true</custom-attribute>
+            <custom-attribute attribute-id="isStepVariationProduct">true</custom-attribute>
+            <custom-attribute attribute-id="parentSetName">ax36nte-set,ax36pte-set</custom-attribute>
+            <custom-attribute attribute-id="parentSku">AX36NTE,AX36PTE</custom-attribute>
+            <custom-attribute attribute-id="productCategory">Media Kits</custom-attribute>
+            <custom-attribute attribute-id="productTypeNonoperative">Variation Product</custom-attribute>
+            <custom-attribute attribute-id="requiredOrOptionalVariation">Required</custom-attribute>
+            <custom-attribute attribute-id="sku">DLKAX36</custom-attribute>
+            <custom-attribute attribute-id="variationMasterStepName">ax36nte-media-kits,ax36pte-media-kits</custom-attribute>
         </custom-attributes>
-        <options>
-            <shared-option option-id="selectOptionIgnitionType"/>
-        </options>
     </product>
-    <product product-id="b36ntre-1">
+    <product product-id="dlkax42">
         <ean/>
-        <upc>629169048588</upc>
+        <upc>629169074136</upc>
         <unit>1</unit>
         <min-order-quantity>1</min-order-quantity>
         <step-quantity>1</step-quantity>
-        <display-name xml:lang="x-default">Napoleon Ascent 36 Direct-Vent Gas Fireplace | B36</display-name>
+        <display-name xml:lang="x-default">Napoleon Driftwood Log Set | DLKAX42</display-name>
         <store-force-price-flag>false</store-force-price-flag>
         <store-non-inventory-flag>false</store-non-inventory-flag>
         <store-non-revenue-flag>false</store-non-revenue-flag>
@@ -171,7 +141,7 @@
         <available-flag>true</available-flag>
         <searchable-flag>true</searchable-flag>
         <tax-class-id>standard</tax-class-id>
-        <classification-category catalog-id="northcountryfire-storefront">gas-fireplaces</classification-category>
+        <classification-category catalog-id="northcountryfire-storefront">all</classification-category>
         <pinterest-enabled-flag>false</pinterest-enabled-flag>
         <facebook-enabled-flag>false</facebook-enabled-flag>
         <store-attributes>
@@ -181,41 +151,30 @@
             <non-discountable-flag>false</non-discountable-flag>
         </store-attributes>
         <brand>Napoleon</brand>
-        <manufacturer-sku>B36NTRE-1</manufacturer-sku>
+        <manufacturer-sku>DLKAX42</manufacturer-sku>
         <page-attributes>
-            <page-title xml:lang="x-default">Napoleon Ascent B36 Direct Vent Gas Fireplace | B36NTR</page-title>
-            <page-description xml:lang="x-default">Model: Napoleon B36NTR. Buy the Napoleon Ascent B36  Direct Vent Gas Fireplace. Find info on price, framing dimensions, vent configurations, installation and accessories. Available in natural gas or propane. Napoleon Authorized Dealer. At North Country Fire we strive to provide the best customer care including industry leading technical support.</page-description>
+            <page-title xml:lang="x-default">Napoleon Driftwood Logset for Altitude X42 Gas Log Sets | DLKAX42</page-title>
+            <page-description xml:lang="x-default">Part: Napoleon DLKAX42. Buy the Napoleon Driftwood Logset for Altitude X42 Gas Log Set. Find info on price, dimensions, vent configurations, installation and accessories. Napoleon Authorized Dealer. At North Country Fire we strive to provide the best customer care including industry leading technical support.</page-description>
         </page-attributes>
         <custom-attributes>
-            <custom-attribute attribute-id="baseSku">B36</custom-attribute>
-            <custom-attribute attribute-id="configurableProduct">true</custom-attribute>
-            <custom-attribute attribute-id="fuelType">Gas</custom-attribute>
-            <custom-attribute attribute-id="productCategory">Gas Fireplace</custom-attribute>
-            <custom-attribute attribute-id="productSetId">b36ntre-1-set</custom-attribute>
-            <custom-attribute attribute-id="productTypeNonoperative">Option Product</custom-attribute>
-            <custom-attribute attribute-id="series">Ascent</custom-attribute>
-            <custom-attribute attribute-id="seriesNumber">36</custom-attribute>
-            <custom-attribute attribute-id="sku">B36NTRE-1</custom-attribute>
-            <custom-attribute attribute-id="ignitionType">Electronic or Millivolt Ignition</custom-attribute>
-            <custom-attribute attribute-id="skuNG">B36NTRE-1</custom-attribute>
-            <custom-attribute attribute-id="skuNgIpi">B36NTRE-1</custom-attribute>
-            <custom-attribute attribute-id="skuNgMv">B36NTR-1</custom-attribute>
-            <custom-attribute attribute-id="skuLP">B36PTRE-1</custom-attribute>
-            <custom-attribute attribute-id="skuLpIpi">B36PTRE-1</custom-attribute>
-            <custom-attribute attribute-id="skuLpMv">B36PTR-1</custom-attribute>
+            <custom-attribute attribute-id="isSharedVariationProduct">true</custom-attribute>
+            <custom-attribute attribute-id="isStepVariationProduct">true</custom-attribute>
+            <custom-attribute attribute-id="parentSetName">ax42nte-set,ax42pte-set</custom-attribute>
+            <custom-attribute attribute-id="parentSku">AX42NTE,AX42PTE</custom-attribute>
+            <custom-attribute attribute-id="productCategory">Media Kits</custom-attribute>
+            <custom-attribute attribute-id="productTypeNonoperative">Variation Product</custom-attribute>
+            <custom-attribute attribute-id="requiredOrOptionalVariation">Required</custom-attribute>
+            <custom-attribute attribute-id="sku">DLKAX42</custom-attribute>
+            <custom-attribute attribute-id="variationMasterStepName">ax42nte-media-kits,ax42pte-media-kits</custom-attribute>
         </custom-attributes>
-        <options>
-            <shared-option option-id="selectOptionFuelType"/>
-            <shared-option option-id="selectOptionIgnitionType"/>
-        </options>
     </product>
-    <product product-id="b42ntre">
+    <product product-id="blkax36">
         <ean/>
-        <upc>629169054862</upc>
+        <upc>629169074068</upc>
         <unit>1</unit>
         <min-order-quantity>1</min-order-quantity>
         <step-quantity>1</step-quantity>
-        <display-name xml:lang="x-default">Napoleon Ascent 42 Direct-Vent Gas Fireplace | B42</display-name>
+        <display-name xml:lang="x-default">Napoleon Birch Log Set | BLKAX36</display-name>
         <store-force-price-flag>false</store-force-price-flag>
         <store-non-inventory-flag>false</store-non-inventory-flag>
         <store-non-revenue-flag>false</store-non-revenue-flag>
@@ -224,7 +183,7 @@
         <available-flag>true</available-flag>
         <searchable-flag>true</searchable-flag>
         <tax-class-id>standard</tax-class-id>
-        <classification-category catalog-id="northcountryfire-storefront">gas-fireplaces</classification-category>
+        <classification-category catalog-id="northcountryfire-storefront">all</classification-category>
         <pinterest-enabled-flag>false</pinterest-enabled-flag>
         <facebook-enabled-flag>false</facebook-enabled-flag>
         <store-attributes>
@@ -234,41 +193,30 @@
             <non-discountable-flag>false</non-discountable-flag>
         </store-attributes>
         <brand>Napoleon</brand>
-        <manufacturer-sku>B42NTRE</manufacturer-sku>
+        <manufacturer-sku>BLKAX36</manufacturer-sku>
         <page-attributes>
-            <page-title xml:lang="x-default">Napoleon Ascent B42 Direct Vent Gas Fireplace | B42</page-title>
-            <page-description xml:lang="x-default">Model: Napoleon B42NTR. Buy the Napoleon Ascent B42 Direct Vent Gas Fireplace. Find info on price, framing dimensions, vent configurations, installation and accessories. Available in natural gas or propane. Napoleon Authorized Dealer. At North Country Fire we strive to provide the best customer care including industry leading technical support.</page-description>
+            <page-title xml:lang="x-default">Napoleon Birch Log Set | BLKAX36</page-title>
+            <page-description xml:lang="x-default">Part: Napoleon BLKAX36. Buy the Napoleon Birch Log Set Gas Log Sets. Find info on price, dimensions, installation and accessories. Napoleon Authorized Dealer. At North Country Fire we strive to provide the best customer care including industry leading technical support.</page-description>
         </page-attributes>
         <custom-attributes>
-            <custom-attribute attribute-id="baseSku">B42</custom-attribute>
-            <custom-attribute attribute-id="configurableProduct">true</custom-attribute>
-            <custom-attribute attribute-id="fuelType">Gas</custom-attribute>
-            <custom-attribute attribute-id="productCategory">Gas Fireplace</custom-attribute>
-            <custom-attribute attribute-id="productSetId">b42ntre-set</custom-attribute>
-            <custom-attribute attribute-id="productTypeNonoperative">Option Product</custom-attribute>
-            <custom-attribute attribute-id="series">Ascent</custom-attribute>
-            <custom-attribute attribute-id="seriesNumber">42</custom-attribute>
-            <custom-attribute attribute-id="sku">B42NTRE</custom-attribute>
-            <custom-attribute attribute-id="ignitionType">Electronic or Millivolt Ignition</custom-attribute>
-            <custom-attribute attribute-id="skuNG">B42NTRE</custom-attribute>
-            <custom-attribute attribute-id="skuNgIpi">B42NTRE</custom-attribute>
-            <custom-attribute attribute-id="skuNgMv">B42NTR</custom-attribute>
-            <custom-attribute attribute-id="skuLP">B42PTRE</custom-attribute>
-            <custom-attribute attribute-id="skuLpIpi">B42PTRE</custom-attribute>
-            <custom-attribute attribute-id="skuLpMv">B42PTR</custom-attribute>
+            <custom-attribute attribute-id="isSharedVariationProduct">true</custom-attribute>
+            <custom-attribute attribute-id="isStepVariationProduct">true</custom-attribute>
+            <custom-attribute attribute-id="parentSetName">ax36nte-set,ax36pte-set</custom-attribute>
+            <custom-attribute attribute-id="parentSku">AX36NTE,AX36PTE</custom-attribute>
+            <custom-attribute attribute-id="productCategory">Media Kits</custom-attribute>
+            <custom-attribute attribute-id="productTypeNonoperative">Variation Product</custom-attribute>
+            <custom-attribute attribute-id="requiredOrOptionalVariation">Required</custom-attribute>
+            <custom-attribute attribute-id="sku">BLKAX36</custom-attribute>
+            <custom-attribute attribute-id="variationMasterStepName">ax36nte-media-kits,ax36pte-media-kits</custom-attribute>
         </custom-attributes>
-        <options>
-            <shared-option option-id="selectOptionFuelType"/>
-            <shared-option option-id="selectOptionIgnitionType"/>
-        </options>
     </product>
-    <product product-id="b46ntre">
+    <product product-id="blkax42">
         <ean/>
-        <upc>629169057245</upc>
+        <upc>629169074075</upc>
         <unit>1</unit>
         <min-order-quantity>1</min-order-quantity>
         <step-quantity>1</step-quantity>
-        <display-name xml:lang="x-default">Napoleon Ascent 46 Direct-Vent Gas Fireplace | B46</display-name>
+        <display-name xml:lang="x-default">Napoleon Birch Log Set | BLKAX42</display-name>
         <store-force-price-flag>false</store-force-price-flag>
         <store-non-inventory-flag>false</store-non-inventory-flag>
         <store-non-revenue-flag>false</store-non-revenue-flag>
@@ -277,7 +225,7 @@
         <available-flag>true</available-flag>
         <searchable-flag>true</searchable-flag>
         <tax-class-id>standard</tax-class-id>
-        <classification-category catalog-id="northcountryfire-storefront">gas-fireplaces</classification-category>
+        <classification-category catalog-id="northcountryfire-storefront">all</classification-category>
         <pinterest-enabled-flag>false</pinterest-enabled-flag>
         <facebook-enabled-flag>false</facebook-enabled-flag>
         <store-attributes>
@@ -287,40 +235,114 @@
             <non-discountable-flag>false</non-discountable-flag>
         </store-attributes>
         <brand>Napoleon</brand>
-        <manufacturer-sku>B46NTRE</manufacturer-sku>
+        <manufacturer-sku>BLKAX42</manufacturer-sku>
         <page-attributes>
-            <page-title xml:lang="x-default">Napoleon Ascent B46 Direct Vent Gas Fireplace | B46NTR</page-title>
-            <page-description xml:lang="x-default">Model: Napoleon B46NTR. Buy the Napoleon Ascent B46 Direct Vent Gas Fireplace. Find info on price, framing dimensions, vent configurations, installation and accessories. Available in natural gas or propane. Napoleon Authorized Dealer. At North Country Fire we strive to provide the best customer care including industry leading technical support.</page-description>
+            <page-title xml:lang="x-default">Napoleon Birch Log Set | BLKAX42</page-title>
+            <page-description xml:lang="x-default">Part: Napoleon BLKAX42. Buy the Napoleon Birch Log Set Gas Log Sets. Find info on price, dimensions, installation and accessories. Napoleon Authorized Dealer. At North Country Fire we strive to provide the best customer care including industry leading technical support.</page-description>
         </page-attributes>
         <custom-attributes>
-            <custom-attribute attribute-id="baseSku">B46</custom-attribute>
-            <custom-attribute attribute-id="configurableProduct">true</custom-attribute>
-            <custom-attribute attribute-id="fuelType">Gas</custom-attribute>
-            <custom-attribute attribute-id="productCategory">Gas Fireplace</custom-attribute>
-            <custom-attribute attribute-id="productSetId">b46ntre-set</custom-attribute>
-            <custom-attribute attribute-id="productTypeNonoperative">Option Product</custom-attribute>
-            <custom-attribute attribute-id="series">Ascent</custom-attribute>
-            <custom-attribute attribute-id="seriesNumber">46</custom-attribute>
-            <custom-attribute attribute-id="sku">B46NTRE</custom-attribute>
-            <custom-attribute attribute-id="ignitionType">Electronic or Millivolt Ignition</custom-attribute>
-            <custom-attribute attribute-id="skuNG">B46NTRE</custom-attribute>
-            <custom-attribute attribute-id="skuNgIpi">B46NTRE</custom-attribute>
-            <custom-attribute attribute-id="skuNgMv">B46NTR</custom-attribute>
-            <custom-attribute attribute-id="skuLP"/>
-            <custom-attribute attribute-id="skuLpIpi"/>
-            <custom-attribute attribute-id="skuLpMv"/>
+            <custom-attribute attribute-id="isSharedVariationProduct">true</custom-attribute>
+            <custom-attribute attribute-id="isStepVariationProduct">true</custom-attribute>
+            <custom-attribute attribute-id="parentSetName">ax42nte-set,ax42pte-set</custom-attribute>
+            <custom-attribute attribute-id="parentSku">AX42NTE,AX42PTE</custom-attribute>
+            <custom-attribute attribute-id="productCategory">Media Kits</custom-attribute>
+            <custom-attribute attribute-id="productTypeNonoperative">Variation Product</custom-attribute>
+            <custom-attribute attribute-id="requiredOrOptionalVariation">Required</custom-attribute>
+            <custom-attribute attribute-id="sku">BLKAX42</custom-attribute>
+            <custom-attribute attribute-id="variationMasterStepName">ax42nte-media-kits,ax42pte-media-kits</custom-attribute>
         </custom-attributes>
-        <options>
-            <shared-option option-id="selectOptionIgnitionType"/>
-        </options>
     </product>
-    <product product-id="gi3600-4nsb">
+    <product product-id="mlkax36">
+        <ean/>
+        <upc>629169074082</upc>
+        <unit>1</unit>
+        <min-order-quantity>1</min-order-quantity>
+        <step-quantity>1</step-quantity>
+        <display-name xml:lang="x-default">Napoleon Maple Log Set | MLKAX36</display-name>
+        <store-force-price-flag>false</store-force-price-flag>
+        <store-non-inventory-flag>false</store-non-inventory-flag>
+        <store-non-revenue-flag>false</store-non-revenue-flag>
+        <store-non-discountable-flag>false</store-non-discountable-flag>
+        <online-flag>true</online-flag>
+        <available-flag>true</available-flag>
+        <searchable-flag>true</searchable-flag>
+        <tax-class-id>standard</tax-class-id>
+        <classification-category catalog-id="northcountryfire-storefront">all</classification-category>
+        <pinterest-enabled-flag>false</pinterest-enabled-flag>
+        <facebook-enabled-flag>false</facebook-enabled-flag>
+        <store-attributes>
+            <force-price-flag>false</force-price-flag>
+            <non-inventory-flag>false</non-inventory-flag>
+            <non-revenue-flag>false</non-revenue-flag>
+            <non-discountable-flag>false</non-discountable-flag>
+        </store-attributes>
+        <brand>Napoleon</brand>
+        <manufacturer-sku>MLKAX36</manufacturer-sku>
+        <page-attributes>
+            <page-title xml:lang="x-default">Napoleon Maple Logset for Altitude X 36 | MLKAX36</page-title>
+            <page-description xml:lang="x-default">Part: Napoleon MLKAX36. Buy the Napoleon Maple Logset for Altitude X 36 Gas Log Sets. Find info on price, dimensions, installation and accessories. Napoleon Authorized Dealer. At North Country Fire we strive to provide the best customer care including industry leading technical support.</page-description>
+        </page-attributes>
+        <custom-attributes>
+            <custom-attribute attribute-id="isSharedVariationProduct">true</custom-attribute>
+            <custom-attribute attribute-id="isStepVariationProduct">true</custom-attribute>
+            <custom-attribute attribute-id="parentSetName">ax36nte-set,ax36pte-set</custom-attribute>
+            <custom-attribute attribute-id="parentSku">AX36NTE,AX36PTE</custom-attribute>
+            <custom-attribute attribute-id="productCategory">Media Kits</custom-attribute>
+            <custom-attribute attribute-id="productTypeNonoperative">Variation Product</custom-attribute>
+            <custom-attribute attribute-id="requiredOrOptionalVariation">Required</custom-attribute>
+            <custom-attribute attribute-id="sku">MLKAX36</custom-attribute>
+            <custom-attribute attribute-id="variationMasterStepName">ax36nte-media-kits,ax36pte-media-kits</custom-attribute>
+        </custom-attributes>
+    </product>
+    <product product-id="mlkax42">
+        <ean/>
+        <upc>629169074099</upc>
+        <unit>1</unit>
+        <min-order-quantity>1</min-order-quantity>
+        <step-quantity>1</step-quantity>
+        <display-name xml:lang="x-default">Napoleon Maple Log Set | MLKAX42</display-name>
+        <store-force-price-flag>false</store-force-price-flag>
+        <store-non-inventory-flag>false</store-non-inventory-flag>
+        <store-non-revenue-flag>false</store-non-revenue-flag>
+        <store-non-discountable-flag>false</store-non-discountable-flag>
+        <online-flag>true</online-flag>
+        <available-flag>true</available-flag>
+        <searchable-flag>true</searchable-flag>
+        <tax-class-id>standard</tax-class-id>
+        <classification-category catalog-id="northcountryfire-storefront">all</classification-category>
+        <pinterest-enabled-flag>false</pinterest-enabled-flag>
+        <facebook-enabled-flag>false</facebook-enabled-flag>
+        <store-attributes>
+            <force-price-flag>false</force-price-flag>
+            <non-inventory-flag>false</non-inventory-flag>
+            <non-revenue-flag>false</non-revenue-flag>
+            <non-discountable-flag>false</non-discountable-flag>
+        </store-attributes>
+        <brand>Napoleon</brand>
+        <manufacturer-sku>MLKAX42</manufacturer-sku>
+        <page-attributes>
+            <page-title xml:lang="x-default">Napoleon Maple Logset for Altitude X 42 | MLKAX42</page-title>
+            <page-description xml:lang="x-default">Part: Napoleon MLKAX42. Buy the Napoleon Maple Logset for Altitude X 42 Gas Log Sets. Find info on price, dimensions, installation and accessories. Napoleon Authorized Dealer. At North Country Fire we strive to provide the best customer care including industry leading technical support.</page-description>
+        </page-attributes>
+        <custom-attributes>
+            <custom-attribute attribute-id="isSharedVariationProduct">true</custom-attribute>
+            <custom-attribute attribute-id="isStepVariationProduct">true</custom-attribute>
+            <custom-attribute attribute-id="parentSetName">ax42nte-set,ax42pte-set</custom-attribute>
+            <custom-attribute attribute-id="parentSku">AX42NTE,AX42PTE</custom-attribute>
+            <custom-attribute attribute-id="productCategory">Media Kits</custom-attribute>
+            <custom-attribute attribute-id="productTypeNonoperative">Variation Product</custom-attribute>
+            <custom-attribute attribute-id="requiredOrOptionalVariation">Required</custom-attribute>
+            <custom-attribute attribute-id="sku">MLKAX42</custom-attribute>
+            <custom-attribute attribute-id="variationMasterStepName">ax42nte-media-kits,ax42pte-media-kits</custom-attribute>
+        </custom-attributes>
+    </product>
+    <product product-id="prpax36">
         <ean/>
         <upc/>
         <unit>1</unit>
         <min-order-quantity>1</min-order-quantity>
         <step-quantity>1</step-quantity>
-        <display-name xml:lang="x-default">Napoleon Roxbury 3600 Direct-Vent Gas Fireplace | GI3600</display-name>
+        <display-name xml:lang="x-default">Napoleon MIRRO-FLAME™   Porcelain Reflective Radiant Panels | PRPAX36</display-name>
         <store-force-price-flag>false</store-force-price-flag>
         <store-non-inventory-flag>false</store-non-inventory-flag>
         <store-non-revenue-flag>false</store-non-revenue-flag>
@@ -329,7 +351,7 @@
         <available-flag>true</available-flag>
         <searchable-flag>true</searchable-flag>
         <tax-class-id>standard</tax-class-id>
-        <classification-category catalog-id="northcountryfire-storefront">gas-fireplaces</classification-category>
+        <classification-category catalog-id="northcountryfire-storefront">all</classification-category>
         <pinterest-enabled-flag>false</pinterest-enabled-flag>
         <facebook-enabled-flag>false</facebook-enabled-flag>
         <store-attributes>
@@ -339,89 +361,27 @@
             <non-discountable-flag>false</non-discountable-flag>
         </store-attributes>
         <brand>Napoleon</brand>
-        <manufacturer-sku>GI3600-4NSB</manufacturer-sku>
-        <page-attributes>
-            <page-title xml:lang="x-default">Napoleon Roxbury 3600 Direct Vent Gas Fireplace Insert | GI3600</page-title>
-            <page-description xml:lang="x-default">Model: Napoleon GI3600. Buy the Napoleon Roxbury 3600 Direct Vent Gas Fireplace Insert. Find info on price, dimensions, installation and accessories. Available in natural gas or propane. Napoleon Authorized Dealer. At North Country Fire we strive to provide the best customer care including industry leading technical support.</page-description>
-        </page-attributes>
-        <custom-attributes>
-            <custom-attribute attribute-id="baseSku">GI3600</custom-attribute>
-            <custom-attribute attribute-id="configurableProduct">true</custom-attribute>
-            <custom-attribute attribute-id="fuelType">Gas</custom-attribute>
-            <custom-attribute attribute-id="productCategory">Gas Fireplace</custom-attribute>
-            <custom-attribute attribute-id="productSetId">gi3600-4nsb-set</custom-attribute>
-            <custom-attribute attribute-id="productTypeNonoperative">Option Product</custom-attribute>
-            <custom-attribute attribute-id="series">Roxbury</custom-attribute>
-            <custom-attribute attribute-id="seriesNumber">3600</custom-attribute>
-            <custom-attribute attribute-id="sku">GI3600-4NSB</custom-attribute>
-            <custom-attribute attribute-id="ignitionType">Millivolt Ignition</custom-attribute>
-            <custom-attribute attribute-id="skuNG"/>
-            <custom-attribute attribute-id="skuNgIpi"/>
-            <custom-attribute attribute-id="skuNgMv">GI3600-4NSB</custom-attribute>
-            <custom-attribute attribute-id="skuLP"/>
-            <custom-attribute attribute-id="skuLpIpi"/>
-            <custom-attribute attribute-id="skuLpMv"/>
-        </custom-attributes>
-        <options>
-        </options>
-    </product>
-    <product product-id="d42ntre">
-        <ean/>
-        <upc/>
-        <unit>1</unit>
-        <min-order-quantity>1</min-order-quantity>
-        <step-quantity>1</step-quantity>
-        <display-name xml:lang="x-default">Napoleon Ascent Deep 42 Direct-Vent Gas Fireplace | D42</display-name>
-        <store-force-price-flag>false</store-force-price-flag>
-        <store-non-inventory-flag>false</store-non-inventory-flag>
-        <store-non-revenue-flag>false</store-non-revenue-flag>
-        <store-non-discountable-flag>false</store-non-discountable-flag>
-        <online-flag>true</online-flag>
-        <available-flag>true</available-flag>
-        <searchable-flag>true</searchable-flag>
-        <tax-class-id>standard</tax-class-id>
-        <classification-category catalog-id="northcountryfire-storefront">gas-fireplaces</classification-category>
-        <pinterest-enabled-flag>false</pinterest-enabled-flag>
-        <facebook-enabled-flag>false</facebook-enabled-flag>
-        <store-attributes>
-            <force-price-flag>false</force-price-flag>
-            <non-inventory-flag>false</non-inventory-flag>
-            <non-revenue-flag>false</non-revenue-flag>
-            <non-discountable-flag>false</non-discountable-flag>
-        </store-attributes>
-        <brand>Napoleon</brand>
-        <manufacturer-sku>D42NTRE</manufacturer-sku>
+        <manufacturer-sku>PRPAX36</manufacturer-sku>
         <page-attributes/>
         <custom-attributes>
-            <custom-attribute attribute-id="baseSku">D42</custom-attribute>
-            <custom-attribute attribute-id="configurableProduct">true</custom-attribute>
-            <custom-attribute attribute-id="fuelType">Gas</custom-attribute>
-            <custom-attribute attribute-id="productCategory">Gas Fireplace</custom-attribute>
-            <custom-attribute attribute-id="productSetId">d42ntre-set</custom-attribute>
-            <custom-attribute attribute-id="productTypeNonoperative">Option Product</custom-attribute>
-            <custom-attribute attribute-id="series">Ascent Deep</custom-attribute>
-            <custom-attribute attribute-id="seriesNumber">42</custom-attribute>
-            <custom-attribute attribute-id="sku">D42NTRE</custom-attribute>
-            <custom-attribute attribute-id="ignitionType">Electronic Ignition</custom-attribute>
-            <custom-attribute attribute-id="skuNG">D42NTRE</custom-attribute>
-            <custom-attribute attribute-id="skuNgIpi">D42NTRE</custom-attribute>
-            <custom-attribute attribute-id="skuNgMv"/>
-            <custom-attribute attribute-id="skuLP">D42PTRE</custom-attribute>
-            <custom-attribute attribute-id="skuLpIpi">D42PTRE</custom-attribute>
-            <custom-attribute attribute-id="skuLpMv"/>
+            <custom-attribute attribute-id="isSharedVariationProduct">true</custom-attribute>
+            <custom-attribute attribute-id="isStepVariationProduct">true</custom-attribute>
+            <custom-attribute attribute-id="parentSetName">ax36nte-set,ax36pte-set</custom-attribute>
+            <custom-attribute attribute-id="parentSku">AX36NTE,AX36PTE</custom-attribute>
+            <custom-attribute attribute-id="productCategory">Interior Panels</custom-attribute>
+            <custom-attribute attribute-id="productTypeNonoperative">Variation Product</custom-attribute>
+            <custom-attribute attribute-id="requiredOrOptionalVariation">Required</custom-attribute>
+            <custom-attribute attribute-id="sku">PRPAX36</custom-attribute>
+            <custom-attribute attribute-id="variationMasterStepName">ax36nte-interior-panels,ax36pte-interior-panels</custom-attribute>
         </custom-attributes>
-        <options>
-            <shared-option option-id="selectOptionFuelType"/>
-            <shared-option option-id="selectOptionVentConfiguration"/>
-        </options>
     </product>
-    <product product-id="bhd4stfcn">
+    <product product-id="prpax42">
         <ean/>
-        <upc/>
+        <upc>629169073320</upc>
         <unit>1</unit>
         <min-order-quantity>1</min-order-quantity>
         <step-quantity>1</step-quantity>
-        <display-name xml:lang="x-default">Napoleon Ascent Multi-View BHD4ST Direct-Vent Gas Fireplace | BHD4-Cradle</display-name>
+        <display-name xml:lang="x-default">Napoleon MIRRO-FLAME™   Porcelain Reflective Radiant Panels | PRPAX42</display-name>
         <store-force-price-flag>false</store-force-price-flag>
         <store-non-inventory-flag>false</store-non-inventory-flag>
         <store-non-revenue-flag>false</store-non-revenue-flag>
@@ -430,7 +390,7 @@
         <available-flag>true</available-flag>
         <searchable-flag>true</searchable-flag>
         <tax-class-id>standard</tax-class-id>
-        <classification-category catalog-id="northcountryfire-storefront">gas-fireplaces</classification-category>
+        <classification-category catalog-id="northcountryfire-storefront">all</classification-category>
         <pinterest-enabled-flag>false</pinterest-enabled-flag>
         <facebook-enabled-flag>false</facebook-enabled-flag>
         <store-attributes>
@@ -440,87 +400,30 @@
             <non-discountable-flag>false</non-discountable-flag>
         </store-attributes>
         <brand>Napoleon</brand>
-        <manufacturer-sku>BHD4STFCN</manufacturer-sku>
-        <page-attributes/>
-        <custom-attributes>
-            <custom-attribute attribute-id="baseSku">BHD4-Cradle</custom-attribute>
-            <custom-attribute attribute-id="configurableProduct">true</custom-attribute>
-            <custom-attribute attribute-id="fuelType">Gas</custom-attribute>
-            <custom-attribute attribute-id="productCategory">Gas Fireplace</custom-attribute>
-            <custom-attribute attribute-id="productSetId">bhd4stfcn-set</custom-attribute>
-            <custom-attribute attribute-id="productTypeNonoperative">Option Product</custom-attribute>
-            <custom-attribute attribute-id="series">Ascent Multi-View</custom-attribute>
-            <custom-attribute attribute-id="seriesNumber">BHD4ST</custom-attribute>
-            <custom-attribute attribute-id="sku">BHD4STFCN</custom-attribute>
-            <custom-attribute attribute-id="ignitionType">Electronic Ignition</custom-attribute>
-            <custom-attribute attribute-id="skuNG">BHD4STFCN</custom-attribute>
-            <custom-attribute attribute-id="skuNgIpi">BHD4STFCN</custom-attribute>
-            <custom-attribute attribute-id="skuNgMv"/>
-            <custom-attribute attribute-id="skuLP"/>
-            <custom-attribute attribute-id="skuLpIpi"/>
-            <custom-attribute attribute-id="skuLpMv"/>
-        </custom-attributes>
-        <options>
-        </options>
-    </product>
-    <product product-id="bhd4stgn">
-        <ean/>
-        <upc>629169044719</upc>
-        <unit>1</unit>
-        <min-order-quantity>1</min-order-quantity>
-        <step-quantity>1</step-quantity>
-        <display-name xml:lang="x-default">Napoleon Ascent Multi-View BHD4 Direct-Vent Gas Fireplace | BHD4-Glass</display-name>
-        <store-force-price-flag>false</store-force-price-flag>
-        <store-non-inventory-flag>false</store-non-inventory-flag>
-        <store-non-revenue-flag>false</store-non-revenue-flag>
-        <store-non-discountable-flag>false</store-non-discountable-flag>
-        <online-flag>true</online-flag>
-        <available-flag>true</available-flag>
-        <searchable-flag>true</searchable-flag>
-        <tax-class-id>standard</tax-class-id>
-        <classification-category catalog-id="northcountryfire-storefront">gas-fireplaces</classification-category>
-        <pinterest-enabled-flag>false</pinterest-enabled-flag>
-        <facebook-enabled-flag>false</facebook-enabled-flag>
-        <store-attributes>
-            <force-price-flag>false</force-price-flag>
-            <non-inventory-flag>false</non-inventory-flag>
-            <non-revenue-flag>false</non-revenue-flag>
-            <non-discountable-flag>false</non-discountable-flag>
-        </store-attributes>
-        <brand>Napoleon</brand>
-        <manufacturer-sku>BHD4STGN</manufacturer-sku>
+        <manufacturer-sku>PRPAX42</manufacturer-sku>
         <page-attributes>
-            <page-title xml:lang="x-default">Napoleon Ascent BHD4 See Thru Direct Vent Gas Fireplace | BHD4STGN-1</page-title>
-            <page-description xml:lang="x-default">Model: Napoleon BHD4STGN-1. Buy the Napoleon Ascent BHD4 See Thru Direct Vent Gas Fireplace. Find info on price, framing dimensions, vent configurations, installation and accessories. Available in natural gas or propane. Napoleon Authorized Dealer. At North Country Fire we strive to provide the best customer care including industry leading technical support.</page-description>
+            <page-title xml:lang="x-default">Napoleon MIRRO-FLAME Porcelain Panels for Altitude X 42 | PRPAX42</page-title>
+            <page-description xml:lang="x-default">Part: Napoleon PRPAX42. Buy the Napoleon MIRRO-FLAME Porcelain Reflective Radiant Panels  for Altitude X 42 Decorative Refractory Panels. Find info on price, dimensions, installation and accessories. Napoleon Authorized Dealer. At North Country Fire we strive to provide the best customer care including industry leading technical support.</page-description>
         </page-attributes>
         <custom-attributes>
-            <custom-attribute attribute-id="baseSku">BHD4-Glass</custom-attribute>
-            <custom-attribute attribute-id="configurableProduct">true</custom-attribute>
-            <custom-attribute attribute-id="fuelType">Gas</custom-attribute>
-            <custom-attribute attribute-id="productCategory">Gas Fireplace</custom-attribute>
-            <custom-attribute attribute-id="productSetId">bhd4stgn-set</custom-attribute>
-            <custom-attribute attribute-id="productTypeNonoperative">Option Product</custom-attribute>
-            <custom-attribute attribute-id="series">Ascent Multi-View</custom-attribute>
-            <custom-attribute attribute-id="seriesNumber">BHD4</custom-attribute>
-            <custom-attribute attribute-id="sku">BHD4STGN</custom-attribute>
-            <custom-attribute attribute-id="ignitionType">Electronic Ignition</custom-attribute>
-            <custom-attribute attribute-id="skuNG">BHD4STGN</custom-attribute>
-            <custom-attribute attribute-id="skuNgIpi">BHD4STGN</custom-attribute>
-            <custom-attribute attribute-id="skuNgMv"/>
-            <custom-attribute attribute-id="skuLP"/>
-            <custom-attribute attribute-id="skuLpIpi"/>
-            <custom-attribute attribute-id="skuLpMv"/>
+            <custom-attribute attribute-id="isSharedVariationProduct">true</custom-attribute>
+            <custom-attribute attribute-id="isStepVariationProduct">true</custom-attribute>
+            <custom-attribute attribute-id="parentSetName">ax42nte-set,ax42pte-set</custom-attribute>
+            <custom-attribute attribute-id="parentSku">AX42NTE,AX42PTE</custom-attribute>
+            <custom-attribute attribute-id="productCategory">Interior Panels</custom-attribute>
+            <custom-attribute attribute-id="productTypeNonoperative">Variation Product</custom-attribute>
+            <custom-attribute attribute-id="requiredOrOptionalVariation">Required</custom-attribute>
+            <custom-attribute attribute-id="sku">PRPAX42</custom-attribute>
+            <custom-attribute attribute-id="variationMasterStepName">ax42nte-interior-panels,ax42pte-interior-panels</custom-attribute>
         </custom-attributes>
-        <options>
-        </options>
     </product>
-    <product product-id="bhd4stn">
+    <product product-id="bigax36">
         <ean/>
         <upc/>
         <unit>1</unit>
         <min-order-quantity>1</min-order-quantity>
         <step-quantity>1</step-quantity>
-        <display-name xml:lang="x-default">Napoleon Ascent Multi-View BHD4 Direct-Vent Gas Fireplace | BHD4-Logs</display-name>
+        <display-name xml:lang="x-default">Napoleon Black Illusion Glass | BIGAX36</display-name>
         <store-force-price-flag>false</store-force-price-flag>
         <store-non-inventory-flag>false</store-non-inventory-flag>
         <store-non-revenue-flag>false</store-non-revenue-flag>
@@ -529,7 +432,7 @@
         <available-flag>true</available-flag>
         <searchable-flag>true</searchable-flag>
         <tax-class-id>standard</tax-class-id>
-        <classification-category catalog-id="northcountryfire-storefront">gas-fireplaces</classification-category>
+        <classification-category catalog-id="northcountryfire-storefront">all</classification-category>
         <pinterest-enabled-flag>false</pinterest-enabled-flag>
         <facebook-enabled-flag>false</facebook-enabled-flag>
         <store-attributes>
@@ -539,27 +442,1821 @@
             <non-discountable-flag>false</non-discountable-flag>
         </store-attributes>
         <brand>Napoleon</brand>
-        <manufacturer-sku>BHD4STN</manufacturer-sku>
+        <manufacturer-sku>BIGAX36</manufacturer-sku>
+        <page-attributes>
+            <page-title xml:lang="x-default">Napoleon Black Illusion Glass Panels | BIGAX36</page-title>
+            <page-description xml:lang="x-default">Part: Empire BIGAX36. Buy the Napoleon Black Illusion Glass Panels. Find info on price, dimensions, installation and accessories. Empire Authorized Dealer. At North Country Fire we strive to provide the best customer care including industry leading technical support.</page-description>
+        </page-attributes>
+        <custom-attributes>
+            <custom-attribute attribute-id="isSharedVariationProduct">true</custom-attribute>
+            <custom-attribute attribute-id="isStepVariationProduct">true</custom-attribute>
+            <custom-attribute attribute-id="parentSetName">ax36nte-set,ax36pte-set</custom-attribute>
+            <custom-attribute attribute-id="parentSku">AX36NTE,AX36PTE</custom-attribute>
+            <custom-attribute attribute-id="productCategory">Interior Panels</custom-attribute>
+            <custom-attribute attribute-id="productTypeNonoperative">Variation Product</custom-attribute>
+            <custom-attribute attribute-id="requiredOrOptionalVariation">Required</custom-attribute>
+            <custom-attribute attribute-id="sku">BIGAX36</custom-attribute>
+            <custom-attribute attribute-id="variationMasterStepName">ax36nte-interior-panels,ax36pte-interior-panels</custom-attribute>
+        </custom-attributes>
+    </product>
+    <product product-id="bigax42">
+        <ean/>
+        <upc/>
+        <unit>1</unit>
+        <min-order-quantity>1</min-order-quantity>
+        <step-quantity>1</step-quantity>
+        <display-name xml:lang="x-default">Napoleon Black Illusion Glass | BIGAX42</display-name>
+        <store-force-price-flag>false</store-force-price-flag>
+        <store-non-inventory-flag>false</store-non-inventory-flag>
+        <store-non-revenue-flag>false</store-non-revenue-flag>
+        <store-non-discountable-flag>false</store-non-discountable-flag>
+        <online-flag>true</online-flag>
+        <available-flag>true</available-flag>
+        <searchable-flag>true</searchable-flag>
+        <tax-class-id>standard</tax-class-id>
+        <classification-category catalog-id="northcountryfire-storefront">all</classification-category>
+        <pinterest-enabled-flag>false</pinterest-enabled-flag>
+        <facebook-enabled-flag>false</facebook-enabled-flag>
+        <store-attributes>
+            <force-price-flag>false</force-price-flag>
+            <non-inventory-flag>false</non-inventory-flag>
+            <non-revenue-flag>false</non-revenue-flag>
+            <non-discountable-flag>false</non-discountable-flag>
+        </store-attributes>
+        <brand>Napoleon</brand>
+        <manufacturer-sku>BIGAX42</manufacturer-sku>
+        <page-attributes>
+            <page-title xml:lang="x-default">Napoleon Black Illusion Glass Panels | BIGAX42</page-title>
+            <page-description xml:lang="x-default">Part: Empire BIGAX42. Buy the Napoleon Black Illusion Glass Panels. Find info on price, dimensions, installation and accessories. Empire Authorized Dealer. At North Country Fire we strive to provide the best customer care including industry leading technical support.</page-description>
+        </page-attributes>
+        <custom-attributes>
+            <custom-attribute attribute-id="isSharedVariationProduct">true</custom-attribute>
+            <custom-attribute attribute-id="isStepVariationProduct">true</custom-attribute>
+            <custom-attribute attribute-id="parentSetName">ax42nte-set,ax42pte-set</custom-attribute>
+            <custom-attribute attribute-id="parentSku">AX42NTE,AX42PTE</custom-attribute>
+            <custom-attribute attribute-id="productCategory">Interior Panels</custom-attribute>
+            <custom-attribute attribute-id="productTypeNonoperative">Variation Product</custom-attribute>
+            <custom-attribute attribute-id="requiredOrOptionalVariation">Required</custom-attribute>
+            <custom-attribute attribute-id="sku">BIGAX42</custom-attribute>
+            <custom-attribute attribute-id="variationMasterStepName">ax42nte-interior-panels,ax42pte-interior-panels</custom-attribute>
+        </custom-attributes>
+    </product>
+    <product product-id="dbpax36ns">
+        <ean/>
+        <upc>629169074181</upc>
+        <unit>1</unit>
+        <min-order-quantity>1</min-order-quantity>
+        <step-quantity>1</step-quantity>
+        <display-name xml:lang="x-default">Napoleon Decorative Brick Panels Newport™   Standard | DBPAX36NS</display-name>
+        <store-force-price-flag>false</store-force-price-flag>
+        <store-non-inventory-flag>false</store-non-inventory-flag>
+        <store-non-revenue-flag>false</store-non-revenue-flag>
+        <store-non-discountable-flag>false</store-non-discountable-flag>
+        <online-flag>true</online-flag>
+        <available-flag>true</available-flag>
+        <searchable-flag>true</searchable-flag>
+        <tax-class-id>standard</tax-class-id>
+        <classification-category catalog-id="northcountryfire-storefront">all</classification-category>
+        <pinterest-enabled-flag>false</pinterest-enabled-flag>
+        <facebook-enabled-flag>false</facebook-enabled-flag>
+        <store-attributes>
+            <force-price-flag>false</force-price-flag>
+            <non-inventory-flag>false</non-inventory-flag>
+            <non-revenue-flag>false</non-revenue-flag>
+            <non-discountable-flag>false</non-discountable-flag>
+        </store-attributes>
+        <brand>Napoleon</brand>
+        <manufacturer-sku>DBPAX36NS</manufacturer-sku>
+        <page-attributes>
+            <page-title xml:lang="x-default">Napoleon Decorative Brick Panels Newport for Altitude X 36 | DBPAX36NS</page-title>
+            <page-description xml:lang="x-default">Part: Napoleon DBPAX36NS. Buy the Napoleon Decorative Brick Panels Newport  for Altitude X 36 Decorative Refractory Panels. Find info on price, dimensions, installation and accessories. Napoleon Authorized Dealer. At North Country Fire we strive to provide the best customer care including industry leading technical support.</page-description>
+        </page-attributes>
+        <custom-attributes>
+            <custom-attribute attribute-id="isSharedVariationProduct">true</custom-attribute>
+            <custom-attribute attribute-id="isStepVariationProduct">true</custom-attribute>
+            <custom-attribute attribute-id="parentSetName">ax36nte-set,ax36pte-set</custom-attribute>
+            <custom-attribute attribute-id="parentSku">AX36NTE,AX36PTE</custom-attribute>
+            <custom-attribute attribute-id="productCategory">Interior Panels</custom-attribute>
+            <custom-attribute attribute-id="productTypeNonoperative">Variation Product</custom-attribute>
+            <custom-attribute attribute-id="requiredOrOptionalVariation">Required</custom-attribute>
+            <custom-attribute attribute-id="sku">DBPAX36NS</custom-attribute>
+            <custom-attribute attribute-id="variationMasterStepName">ax36nte-interior-panels,ax36pte-interior-panels</custom-attribute>
+        </custom-attributes>
+    </product>
+    <product product-id="dbpax42ns">
+        <ean/>
+        <upc>629169074198</upc>
+        <unit>1</unit>
+        <min-order-quantity>1</min-order-quantity>
+        <step-quantity>1</step-quantity>
+        <display-name xml:lang="x-default">Napoleon Decorative Brick Panels Newport™   Standard | DBPAX42NS</display-name>
+        <store-force-price-flag>false</store-force-price-flag>
+        <store-non-inventory-flag>false</store-non-inventory-flag>
+        <store-non-revenue-flag>false</store-non-revenue-flag>
+        <store-non-discountable-flag>false</store-non-discountable-flag>
+        <online-flag>true</online-flag>
+        <available-flag>true</available-flag>
+        <searchable-flag>true</searchable-flag>
+        <tax-class-id>standard</tax-class-id>
+        <classification-category catalog-id="northcountryfire-storefront">all</classification-category>
+        <pinterest-enabled-flag>false</pinterest-enabled-flag>
+        <facebook-enabled-flag>false</facebook-enabled-flag>
+        <store-attributes>
+            <force-price-flag>false</force-price-flag>
+            <non-inventory-flag>false</non-inventory-flag>
+            <non-revenue-flag>false</non-revenue-flag>
+            <non-discountable-flag>false</non-discountable-flag>
+        </store-attributes>
+        <brand>Napoleon</brand>
+        <manufacturer-sku>DBPAX42NS</manufacturer-sku>
+        <page-attributes>
+            <page-title xml:lang="x-default">Napoleon Decorative Brick Panels Newport for Altitude X 42 | DBPAX42NS</page-title>
+            <page-description xml:lang="x-default">Part: Napoleon DBPAX42NS. Buy the Napoleon Decorative Brick Panels Newport for Altitude X 42 Decorative Refractory Panels. Find info on price, dimensions, installation and accessories. Napoleon Authorized Dealer. At North Country Fire we strive to provide the best customer care including industry leading technical support.</page-description>
+        </page-attributes>
+        <custom-attributes>
+            <custom-attribute attribute-id="isSharedVariationProduct">true</custom-attribute>
+            <custom-attribute attribute-id="isStepVariationProduct">true</custom-attribute>
+            <custom-attribute attribute-id="parentSetName">ax42nte-set,ax42pte-set</custom-attribute>
+            <custom-attribute attribute-id="parentSku">AX42NTE,AX42PTE</custom-attribute>
+            <custom-attribute attribute-id="productCategory">Interior Panels</custom-attribute>
+            <custom-attribute attribute-id="productTypeNonoperative">Variation Product</custom-attribute>
+            <custom-attribute attribute-id="requiredOrOptionalVariation">Required</custom-attribute>
+            <custom-attribute attribute-id="sku">DBPAX42NS</custom-attribute>
+            <custom-attribute attribute-id="variationMasterStepName">ax42nte-interior-panels,ax42pte-interior-panels</custom-attribute>
+        </custom-attributes>
+    </product>
+    <product product-id="dbpax36oh">
+        <ean/>
+        <upc>629169074341</upc>
+        <unit>1</unit>
+        <min-order-quantity>1</min-order-quantity>
+        <step-quantity>1</step-quantity>
+        <display-name xml:lang="x-default">Napoleon Decorative Brick Panels Old Town Red™   Herringbone | DBPAX36OH</display-name>
+        <store-force-price-flag>false</store-force-price-flag>
+        <store-non-inventory-flag>false</store-non-inventory-flag>
+        <store-non-revenue-flag>false</store-non-revenue-flag>
+        <store-non-discountable-flag>false</store-non-discountable-flag>
+        <online-flag>true</online-flag>
+        <available-flag>true</available-flag>
+        <searchable-flag>true</searchable-flag>
+        <tax-class-id>standard</tax-class-id>
+        <classification-category catalog-id="northcountryfire-storefront">all</classification-category>
+        <pinterest-enabled-flag>false</pinterest-enabled-flag>
+        <facebook-enabled-flag>false</facebook-enabled-flag>
+        <store-attributes>
+            <force-price-flag>false</force-price-flag>
+            <non-inventory-flag>false</non-inventory-flag>
+            <non-revenue-flag>false</non-revenue-flag>
+            <non-discountable-flag>false</non-discountable-flag>
+        </store-attributes>
+        <brand>Napoleon</brand>
+        <manufacturer-sku>DBPAX36OH</manufacturer-sku>
+        <page-attributes>
+            <page-title xml:lang="x-default">Napoleon Decorative Brick Panels Old Town Red Herringbone | DBPAX36OH</page-title>
+            <page-description xml:lang="x-default">Part: Napoleon DBPAX36OH. Buy the Napoleon Decorative Brick Panels Old Town Red Herringbone Decorative Refractory Panel. Find info on price, dimensions, installation and accessories. Napoleon Authorized Dealer. At North Country Fire we strive to provide the best customer care including industry leading technical support.</page-description>
+        </page-attributes>
+        <custom-attributes>
+            <custom-attribute attribute-id="isSharedVariationProduct">true</custom-attribute>
+            <custom-attribute attribute-id="isStepVariationProduct">true</custom-attribute>
+            <custom-attribute attribute-id="parentSetName">ax36nte-set,ax36pte-set</custom-attribute>
+            <custom-attribute attribute-id="parentSku">AX36NTE,AX36PTE</custom-attribute>
+            <custom-attribute attribute-id="productCategory">Interior Panels</custom-attribute>
+            <custom-attribute attribute-id="productTypeNonoperative">Variation Product</custom-attribute>
+            <custom-attribute attribute-id="requiredOrOptionalVariation">Required</custom-attribute>
+            <custom-attribute attribute-id="sku">DBPAX36OH</custom-attribute>
+            <custom-attribute attribute-id="variationMasterStepName">ax36nte-interior-panels,ax36pte-interior-panels</custom-attribute>
+        </custom-attributes>
+    </product>
+    <product product-id="dbpax42oh">
+        <ean/>
+        <upc>629169074365</upc>
+        <unit>1</unit>
+        <min-order-quantity>1</min-order-quantity>
+        <step-quantity>1</step-quantity>
+        <display-name xml:lang="x-default">Napoleon Decorative Brick Panels Old Town Red™   Herringbone | DBPAX42OH</display-name>
+        <store-force-price-flag>false</store-force-price-flag>
+        <store-non-inventory-flag>false</store-non-inventory-flag>
+        <store-non-revenue-flag>false</store-non-revenue-flag>
+        <store-non-discountable-flag>false</store-non-discountable-flag>
+        <online-flag>true</online-flag>
+        <available-flag>true</available-flag>
+        <searchable-flag>true</searchable-flag>
+        <tax-class-id>standard</tax-class-id>
+        <classification-category catalog-id="northcountryfire-storefront">all</classification-category>
+        <pinterest-enabled-flag>false</pinterest-enabled-flag>
+        <facebook-enabled-flag>false</facebook-enabled-flag>
+        <store-attributes>
+            <force-price-flag>false</force-price-flag>
+            <non-inventory-flag>false</non-inventory-flag>
+            <non-revenue-flag>false</non-revenue-flag>
+            <non-discountable-flag>false</non-discountable-flag>
+        </store-attributes>
+        <brand>Napoleon</brand>
+        <manufacturer-sku>DBPAX42OH</manufacturer-sku>
+        <page-attributes>
+            <page-title xml:lang="x-default">Napoleon Decorative Brick Panels Old Town Red Herringbone | DBPAX42OH</page-title>
+            <page-description xml:lang="x-default">Part: Napoleon DBPAX42OH. Buy the Napoleon Decorative Brick Panels Old Town Red Herringbone Decorative Refractory Panel. Find info on price, dimensions, installation and accessories. Napoleon Authorized Dealer. At North Country Fire we strive to provide the best customer care including industry leading technical support.</page-description>
+        </page-attributes>
+        <custom-attributes>
+            <custom-attribute attribute-id="isSharedVariationProduct">true</custom-attribute>
+            <custom-attribute attribute-id="isStepVariationProduct">true</custom-attribute>
+            <custom-attribute attribute-id="parentSetName">ax42nte-set,ax42pte-set</custom-attribute>
+            <custom-attribute attribute-id="parentSku">AX42NTE,AX42PTE</custom-attribute>
+            <custom-attribute attribute-id="productCategory">Interior Panels</custom-attribute>
+            <custom-attribute attribute-id="productTypeNonoperative">Variation Product</custom-attribute>
+            <custom-attribute attribute-id="requiredOrOptionalVariation">Required</custom-attribute>
+            <custom-attribute attribute-id="sku">DBPAX42OH</custom-attribute>
+            <custom-attribute attribute-id="variationMasterStepName">ax42nte-interior-panels,ax42pte-interior-panels</custom-attribute>
+        </custom-attributes>
+    </product>
+    <product product-id="dbpax36os">
+        <ean/>
+        <upc>629169074303</upc>
+        <unit>1</unit>
+        <min-order-quantity>1</min-order-quantity>
+        <step-quantity>1</step-quantity>
+        <display-name xml:lang="x-default">Napoleon Decorative Brick Panels Old Town Red™   Standard | DBPAX36OS</display-name>
+        <store-force-price-flag>false</store-force-price-flag>
+        <store-non-inventory-flag>false</store-non-inventory-flag>
+        <store-non-revenue-flag>false</store-non-revenue-flag>
+        <store-non-discountable-flag>false</store-non-discountable-flag>
+        <online-flag>true</online-flag>
+        <available-flag>true</available-flag>
+        <searchable-flag>true</searchable-flag>
+        <tax-class-id>standard</tax-class-id>
+        <classification-category catalog-id="northcountryfire-storefront">all</classification-category>
+        <pinterest-enabled-flag>false</pinterest-enabled-flag>
+        <facebook-enabled-flag>false</facebook-enabled-flag>
+        <store-attributes>
+            <force-price-flag>false</force-price-flag>
+            <non-inventory-flag>false</non-inventory-flag>
+            <non-revenue-flag>false</non-revenue-flag>
+            <non-discountable-flag>false</non-discountable-flag>
+        </store-attributes>
+        <brand>Napoleon</brand>
+        <manufacturer-sku>DBPAX36OS</manufacturer-sku>
+        <page-attributes>
+            <page-title xml:lang="x-default">Napoleon Decorative Brick Panels Old Town Red Standard | DBPAX36OS</page-title>
+            <page-description xml:lang="x-default">Part: Napoleon DBPAX36OS. Buy the Napoleon Decorative Brick Panels Old Town Red Standard Decorative Refractory Panels. Find info on price, dimensions, installation and accessories. Napoleon Authorized Dealer. At North Country Fire we strive to provide the best customer care including industry leading technical support.</page-description>
+        </page-attributes>
+        <custom-attributes>
+            <custom-attribute attribute-id="isSharedVariationProduct">true</custom-attribute>
+            <custom-attribute attribute-id="isStepVariationProduct">true</custom-attribute>
+            <custom-attribute attribute-id="parentSetName">ax36nte-set,ax36pte-set</custom-attribute>
+            <custom-attribute attribute-id="parentSku">AX36NTE,AX36PTE</custom-attribute>
+            <custom-attribute attribute-id="productCategory">Interior Panels</custom-attribute>
+            <custom-attribute attribute-id="productTypeNonoperative">Variation Product</custom-attribute>
+            <custom-attribute attribute-id="requiredOrOptionalVariation">Required</custom-attribute>
+            <custom-attribute attribute-id="sku">DBPAX36OS</custom-attribute>
+            <custom-attribute attribute-id="variationMasterStepName">ax36nte-interior-panels,ax36pte-interior-panels</custom-attribute>
+        </custom-attributes>
+    </product>
+    <product product-id="dbpax42os">
+        <ean/>
+        <upc>629169074310</upc>
+        <unit>1</unit>
+        <min-order-quantity>1</min-order-quantity>
+        <step-quantity>1</step-quantity>
+        <display-name xml:lang="x-default">Napoleon Decorative Brick Panels Old Town Red™   Standard | DBPAX42OS</display-name>
+        <store-force-price-flag>false</store-force-price-flag>
+        <store-non-inventory-flag>false</store-non-inventory-flag>
+        <store-non-revenue-flag>false</store-non-revenue-flag>
+        <store-non-discountable-flag>false</store-non-discountable-flag>
+        <online-flag>true</online-flag>
+        <available-flag>true</available-flag>
+        <searchable-flag>true</searchable-flag>
+        <tax-class-id>standard</tax-class-id>
+        <classification-category catalog-id="northcountryfire-storefront">all</classification-category>
+        <pinterest-enabled-flag>false</pinterest-enabled-flag>
+        <facebook-enabled-flag>false</facebook-enabled-flag>
+        <store-attributes>
+            <force-price-flag>false</force-price-flag>
+            <non-inventory-flag>false</non-inventory-flag>
+            <non-revenue-flag>false</non-revenue-flag>
+            <non-discountable-flag>false</non-discountable-flag>
+        </store-attributes>
+        <brand>Napoleon</brand>
+        <manufacturer-sku>DBPAX42OS</manufacturer-sku>
+        <page-attributes>
+            <page-title xml:lang="x-default">Napoleon Decorative Brick Panels Old Town Red Standard | DBPAX42OS</page-title>
+            <page-description xml:lang="x-default">Part: Napoleon DBPAX42OS. Buy the Napoleon Decorative Brick Panels Old Town Red Standard Decorative Refractory Panels. Find info on price, dimensions, installation and accessories. Napoleon Authorized Dealer. At North Country Fire we strive to provide the best customer care including industry leading technical support.</page-description>
+        </page-attributes>
+        <custom-attributes>
+            <custom-attribute attribute-id="isSharedVariationProduct">true</custom-attribute>
+            <custom-attribute attribute-id="isStepVariationProduct">true</custom-attribute>
+            <custom-attribute attribute-id="parentSetName">ax42nte-set,ax42pte-set</custom-attribute>
+            <custom-attribute attribute-id="parentSku">AX42NTE,AX42PTE</custom-attribute>
+            <custom-attribute attribute-id="productCategory">Interior Panels</custom-attribute>
+            <custom-attribute attribute-id="productTypeNonoperative">Variation Product</custom-attribute>
+            <custom-attribute attribute-id="requiredOrOptionalVariation">Required</custom-attribute>
+            <custom-attribute attribute-id="sku">DBPAX42OS</custom-attribute>
+            <custom-attribute attribute-id="variationMasterStepName">ax42nte-interior-panels,ax42pte-interior-panels</custom-attribute>
+        </custom-attributes>
+    </product>
+    <product product-id="dbpax36wh">
+        <ean/>
+        <upc>629169074266</upc>
+        <unit>1</unit>
+        <min-order-quantity>1</min-order-quantity>
+        <step-quantity>1</step-quantity>
+        <display-name xml:lang="x-default">Napoleon Decorative Brick Panels Westminster™   Grey Herringbone | DBPAX36WH</display-name>
+        <store-force-price-flag>false</store-force-price-flag>
+        <store-non-inventory-flag>false</store-non-inventory-flag>
+        <store-non-revenue-flag>false</store-non-revenue-flag>
+        <store-non-discountable-flag>false</store-non-discountable-flag>
+        <online-flag>true</online-flag>
+        <available-flag>true</available-flag>
+        <searchable-flag>true</searchable-flag>
+        <tax-class-id>standard</tax-class-id>
+        <classification-category catalog-id="northcountryfire-storefront">all</classification-category>
+        <pinterest-enabled-flag>false</pinterest-enabled-flag>
+        <facebook-enabled-flag>false</facebook-enabled-flag>
+        <store-attributes>
+            <force-price-flag>false</force-price-flag>
+            <non-inventory-flag>false</non-inventory-flag>
+            <non-revenue-flag>false</non-revenue-flag>
+            <non-discountable-flag>false</non-discountable-flag>
+        </store-attributes>
+        <brand>Napoleon</brand>
+        <manufacturer-sku>DBPAX36WH</manufacturer-sku>
+        <page-attributes>
+            <page-title xml:lang="x-default">Napoleon Westminster Grey Herringbone for Altitude X 36 | DBPAX36WH</page-title>
+            <page-description xml:lang="x-default">Part: Napoleon DBPAX36WH. Buy the Napoleon Decorative Brick Panels Westminster Grey Herringbone  for Altitude X 36 Decorative Refractory Panels. Find info on price, dimensions, installation and accessories. Napoleon Authorized Dealer. At North Country Fire we strive to provide the best customer care including industry leading technical support.</page-description>
+        </page-attributes>
+        <custom-attributes>
+            <custom-attribute attribute-id="isSharedVariationProduct">true</custom-attribute>
+            <custom-attribute attribute-id="isStepVariationProduct">true</custom-attribute>
+            <custom-attribute attribute-id="parentSetName">ax36nte-set,ax36pte-set</custom-attribute>
+            <custom-attribute attribute-id="parentSku">AX36NTE,AX36PTE</custom-attribute>
+            <custom-attribute attribute-id="productCategory">Interior Panels</custom-attribute>
+            <custom-attribute attribute-id="productTypeNonoperative">Variation Product</custom-attribute>
+            <custom-attribute attribute-id="requiredOrOptionalVariation">Required</custom-attribute>
+            <custom-attribute attribute-id="sku">DBPAX36WH</custom-attribute>
+            <custom-attribute attribute-id="variationMasterStepName">ax36nte-interior-panels,ax36pte-interior-panels</custom-attribute>
+        </custom-attributes>
+    </product>
+    <product product-id="dbpax42wh">
+        <ean/>
+        <upc>629169074273</upc>
+        <unit>1</unit>
+        <min-order-quantity>1</min-order-quantity>
+        <step-quantity>1</step-quantity>
+        <display-name xml:lang="x-default">Napoleon Decorative Brick Panels Westminster™   Grey Herringbone | DBPAX42WH</display-name>
+        <store-force-price-flag>false</store-force-price-flag>
+        <store-non-inventory-flag>false</store-non-inventory-flag>
+        <store-non-revenue-flag>false</store-non-revenue-flag>
+        <store-non-discountable-flag>false</store-non-discountable-flag>
+        <online-flag>true</online-flag>
+        <available-flag>true</available-flag>
+        <searchable-flag>true</searchable-flag>
+        <tax-class-id>standard</tax-class-id>
+        <classification-category catalog-id="northcountryfire-storefront">all</classification-category>
+        <pinterest-enabled-flag>false</pinterest-enabled-flag>
+        <facebook-enabled-flag>false</facebook-enabled-flag>
+        <store-attributes>
+            <force-price-flag>false</force-price-flag>
+            <non-inventory-flag>false</non-inventory-flag>
+            <non-revenue-flag>false</non-revenue-flag>
+            <non-discountable-flag>false</non-discountable-flag>
+        </store-attributes>
+        <brand>Napoleon</brand>
+        <manufacturer-sku>DBPAX42WH</manufacturer-sku>
+        <page-attributes>
+            <page-title xml:lang="x-default">Napoleon Westminster Grey Herringbone for Altitude X 42 | DBPAX42WH</page-title>
+            <page-description xml:lang="x-default">Part: Napoleon DBPAX42WH. Buy the Napoleon Decorative Brick Panels Westminster Grey Herringbone  for Altitude X 42 Decorative Refractory Panels. Find info on price, dimensions, installation and accessories. Napoleon Authorized Dealer. At North Country Fire we strive to provide the best customer care including industry leading technical support.</page-description>
+        </page-attributes>
+        <custom-attributes>
+            <custom-attribute attribute-id="isSharedVariationProduct">true</custom-attribute>
+            <custom-attribute attribute-id="isStepVariationProduct">true</custom-attribute>
+            <custom-attribute attribute-id="parentSetName">ax42nte-set,ax42pte-set</custom-attribute>
+            <custom-attribute attribute-id="parentSku">AX42NTE,AX42PTE</custom-attribute>
+            <custom-attribute attribute-id="productCategory">Interior Panels</custom-attribute>
+            <custom-attribute attribute-id="productTypeNonoperative">Variation Product</custom-attribute>
+            <custom-attribute attribute-id="requiredOrOptionalVariation">Required</custom-attribute>
+            <custom-attribute attribute-id="sku">DBPAX42WH</custom-attribute>
+            <custom-attribute attribute-id="variationMasterStepName">ax42nte-interior-panels,ax42pte-interior-panels</custom-attribute>
+        </custom-attributes>
+    </product>
+    <product product-id="dbpax36ws">
+        <ean/>
+        <upc>629169074228</upc>
+        <unit>1</unit>
+        <min-order-quantity>1</min-order-quantity>
+        <step-quantity>1</step-quantity>
+        <display-name xml:lang="x-default">Napoleon Decorative Brick Panels Westminster™   Grey Standard | DBPAX36WS</display-name>
+        <store-force-price-flag>false</store-force-price-flag>
+        <store-non-inventory-flag>false</store-non-inventory-flag>
+        <store-non-revenue-flag>false</store-non-revenue-flag>
+        <store-non-discountable-flag>false</store-non-discountable-flag>
+        <online-flag>true</online-flag>
+        <available-flag>true</available-flag>
+        <searchable-flag>true</searchable-flag>
+        <tax-class-id>standard</tax-class-id>
+        <classification-category catalog-id="northcountryfire-storefront">all</classification-category>
+        <pinterest-enabled-flag>false</pinterest-enabled-flag>
+        <facebook-enabled-flag>false</facebook-enabled-flag>
+        <store-attributes>
+            <force-price-flag>false</force-price-flag>
+            <non-inventory-flag>false</non-inventory-flag>
+            <non-revenue-flag>false</non-revenue-flag>
+            <non-discountable-flag>false</non-discountable-flag>
+        </store-attributes>
+        <brand>Napoleon</brand>
+        <manufacturer-sku>DBPAX36WS</manufacturer-sku>
+        <page-attributes>
+            <page-title xml:lang="x-default">Napoleon Decorative Brick Panels Westminster Grey Standard | DBPAX36WS</page-title>
+            <page-description xml:lang="x-default">Part: Napoleon DBPAX36WS. Buy the Napoleon Decorative Brick Panels Westminster Grey Standard Decorative Refractory Panels. Find info on price, dimensions, installation and accessories. Napoleon Authorized Dealer. At North Country Fire we strive to provide the best customer care including industry leading technical support.</page-description>
+        </page-attributes>
+        <custom-attributes>
+            <custom-attribute attribute-id="isSharedVariationProduct">true</custom-attribute>
+            <custom-attribute attribute-id="isStepVariationProduct">true</custom-attribute>
+            <custom-attribute attribute-id="parentSetName">ax36nte-set,ax36pte-set</custom-attribute>
+            <custom-attribute attribute-id="parentSku">AX36NTE,AX36PTE</custom-attribute>
+            <custom-attribute attribute-id="productCategory">Interior Panels</custom-attribute>
+            <custom-attribute attribute-id="productTypeNonoperative">Variation Product</custom-attribute>
+            <custom-attribute attribute-id="requiredOrOptionalVariation">Required</custom-attribute>
+            <custom-attribute attribute-id="sku">DBPAX36WS</custom-attribute>
+            <custom-attribute attribute-id="variationMasterStepName">ax36nte-interior-panels,ax36pte-interior-panels</custom-attribute>
+        </custom-attributes>
+    </product>
+    <product product-id="dbpax42ws">
+        <ean/>
+        <upc>629169074235</upc>
+        <unit>1</unit>
+        <min-order-quantity>1</min-order-quantity>
+        <step-quantity>1</step-quantity>
+        <display-name xml:lang="x-default">Napoleon Decorative Brick Panels Westminster™   Grey Standard | DBPAX42WS</display-name>
+        <store-force-price-flag>false</store-force-price-flag>
+        <store-non-inventory-flag>false</store-non-inventory-flag>
+        <store-non-revenue-flag>false</store-non-revenue-flag>
+        <store-non-discountable-flag>false</store-non-discountable-flag>
+        <online-flag>true</online-flag>
+        <available-flag>true</available-flag>
+        <searchable-flag>true</searchable-flag>
+        <tax-class-id>standard</tax-class-id>
+        <classification-category catalog-id="northcountryfire-storefront">all</classification-category>
+        <pinterest-enabled-flag>false</pinterest-enabled-flag>
+        <facebook-enabled-flag>false</facebook-enabled-flag>
+        <store-attributes>
+            <force-price-flag>false</force-price-flag>
+            <non-inventory-flag>false</non-inventory-flag>
+            <non-revenue-flag>false</non-revenue-flag>
+            <non-discountable-flag>false</non-discountable-flag>
+        </store-attributes>
+        <brand>Napoleon</brand>
+        <manufacturer-sku>DBPAX42WS</manufacturer-sku>
+        <page-attributes>
+            <page-title xml:lang="x-default">Napoleon Decorative Brick Panels Westminster Grey Standard | DBPAX42WS</page-title>
+            <page-description xml:lang="x-default">Part: Napoleon DBPAX42WS. Buy the Napoleon Decorative Brick Panels Westminster Grey Standard Decorative Refractory Panels. Find info on price, dimensions, installation and accessories. Napoleon Authorized Dealer. At North Country Fire we strive to provide the best customer care including industry leading technical support.</page-description>
+        </page-attributes>
+        <custom-attributes>
+            <custom-attribute attribute-id="isSharedVariationProduct">true</custom-attribute>
+            <custom-attribute attribute-id="isStepVariationProduct">true</custom-attribute>
+            <custom-attribute attribute-id="parentSetName">ax42nte-set,ax42pte-set</custom-attribute>
+            <custom-attribute attribute-id="parentSku">AX42NTE,AX42PTE</custom-attribute>
+            <custom-attribute attribute-id="productCategory">Interior Panels</custom-attribute>
+            <custom-attribute attribute-id="productTypeNonoperative">Variation Product</custom-attribute>
+            <custom-attribute attribute-id="requiredOrOptionalVariation">Required</custom-attribute>
+            <custom-attribute attribute-id="sku">DBPAX42WS</custom-attribute>
+            <custom-attribute attribute-id="variationMasterStepName">ax42nte-interior-panels,ax42pte-interior-panels</custom-attribute>
+        </custom-attributes>
+    </product>
+    <product product-id="zax36bk">
+        <ean/>
+        <upc>629169074587</upc>
+        <unit>1</unit>
+        <min-order-quantity>1</min-order-quantity>
+        <step-quantity>1</step-quantity>
+        <display-name xml:lang="x-default">Napoleon Zen Front - Black | ZAX36BK</display-name>
+        <store-force-price-flag>false</store-force-price-flag>
+        <store-non-inventory-flag>false</store-non-inventory-flag>
+        <store-non-revenue-flag>false</store-non-revenue-flag>
+        <store-non-discountable-flag>false</store-non-discountable-flag>
+        <online-flag>true</online-flag>
+        <available-flag>true</available-flag>
+        <searchable-flag>true</searchable-flag>
+        <tax-class-id>standard</tax-class-id>
+        <classification-category catalog-id="northcountryfire-storefront">all</classification-category>
+        <pinterest-enabled-flag>false</pinterest-enabled-flag>
+        <facebook-enabled-flag>false</facebook-enabled-flag>
+        <store-attributes>
+            <force-price-flag>false</force-price-flag>
+            <non-inventory-flag>false</non-inventory-flag>
+            <non-revenue-flag>false</non-revenue-flag>
+            <non-discountable-flag>false</non-discountable-flag>
+        </store-attributes>
+        <brand>Napoleon</brand>
+        <manufacturer-sku>ZAX36BK</manufacturer-sku>
+        <page-attributes>
+            <page-title xml:lang="x-default">Napoleon Black Zen Front for Altitude X 36 Decorative Front | ZAX36BK</page-title>
+            <page-description xml:lang="x-default">Part: Napoleon ZAX36BK. Buy the Napoleon Black Zen Front  for Altitude X 36 Decorative Front. Find info on price, dimensions, installation and accessories. Napoleon Authorized Dealer. At North Country Fire we strive to provide the best customer care including industry leading technical support.</page-description>
+        </page-attributes>
+        <custom-attributes>
+            <custom-attribute attribute-id="isSharedVariationProduct">true</custom-attribute>
+            <custom-attribute attribute-id="isStepVariationProduct">true</custom-attribute>
+            <custom-attribute attribute-id="parentSetName">ax36nte-set,ax36pte-set</custom-attribute>
+            <custom-attribute attribute-id="parentSku">AX36NTE,AX36PTE</custom-attribute>
+            <custom-attribute attribute-id="productCategory">Decorative Fronts</custom-attribute>
+            <custom-attribute attribute-id="productTypeNonoperative">Variation Product</custom-attribute>
+            <custom-attribute attribute-id="requiredOrOptionalVariation">Optional</custom-attribute>
+            <custom-attribute attribute-id="sku">ZAX36BK</custom-attribute>
+            <custom-attribute attribute-id="variationMasterStepName">ax36nte-decorative-fronts,ax36pte-decorative-fronts</custom-attribute>
+        </custom-attributes>
+    </product>
+    <product product-id="zax42bk">
+        <ean/>
+        <upc>629169074600</upc>
+        <unit>1</unit>
+        <min-order-quantity>1</min-order-quantity>
+        <step-quantity>1</step-quantity>
+        <display-name xml:lang="x-default">Napoleon Zen Front - Black | ZAX42BK</display-name>
+        <store-force-price-flag>false</store-force-price-flag>
+        <store-non-inventory-flag>false</store-non-inventory-flag>
+        <store-non-revenue-flag>false</store-non-revenue-flag>
+        <store-non-discountable-flag>false</store-non-discountable-flag>
+        <online-flag>true</online-flag>
+        <available-flag>true</available-flag>
+        <searchable-flag>true</searchable-flag>
+        <tax-class-id>standard</tax-class-id>
+        <classification-category catalog-id="northcountryfire-storefront">all</classification-category>
+        <pinterest-enabled-flag>false</pinterest-enabled-flag>
+        <facebook-enabled-flag>false</facebook-enabled-flag>
+        <store-attributes>
+            <force-price-flag>false</force-price-flag>
+            <non-inventory-flag>false</non-inventory-flag>
+            <non-revenue-flag>false</non-revenue-flag>
+            <non-discountable-flag>false</non-discountable-flag>
+        </store-attributes>
+        <brand>Napoleon</brand>
+        <manufacturer-sku>ZAX42BK</manufacturer-sku>
+        <page-attributes>
+            <page-title xml:lang="x-default">Napoleon Black Zen Front for Altitude X 42 Decorative Front | ZAX42BK</page-title>
+            <page-description xml:lang="x-default">Part: Napoleon ZAX42BK. Buy the Napoleon Black Zen Front  for Altitude X 42 Decorative Front. Find info on price, dimensions, installation and accessories. Napoleon Authorized Dealer. At North Country Fire we strive to provide the best customer care including industry leading technical support.</page-description>
+        </page-attributes>
+        <custom-attributes>
+            <custom-attribute attribute-id="isSharedVariationProduct">true</custom-attribute>
+            <custom-attribute attribute-id="isStepVariationProduct">true</custom-attribute>
+            <custom-attribute attribute-id="parentSetName">ax42nte-set,ax42pte-set</custom-attribute>
+            <custom-attribute attribute-id="parentSku">AX42NTE,AX42PTE</custom-attribute>
+            <custom-attribute attribute-id="productCategory">Decorative Fronts</custom-attribute>
+            <custom-attribute attribute-id="productTypeNonoperative">Variation Product</custom-attribute>
+            <custom-attribute attribute-id="requiredOrOptionalVariation">Optional</custom-attribute>
+            <custom-attribute attribute-id="sku">ZAX42BK</custom-attribute>
+            <custom-attribute attribute-id="variationMasterStepName">ax42nte-decorative-fronts,ax42pte-decorative-fronts</custom-attribute>
+        </custom-attributes>
+    </product>
+    <product product-id="zax36ch">
+        <ean/>
+        <upc>629169074594</upc>
+        <unit>1</unit>
+        <min-order-quantity>1</min-order-quantity>
+        <step-quantity>1</step-quantity>
+        <display-name xml:lang="x-default">Napoleon Zen Front - Charcoal | ZAX36CH</display-name>
+        <store-force-price-flag>false</store-force-price-flag>
+        <store-non-inventory-flag>false</store-non-inventory-flag>
+        <store-non-revenue-flag>false</store-non-revenue-flag>
+        <store-non-discountable-flag>false</store-non-discountable-flag>
+        <online-flag>true</online-flag>
+        <available-flag>true</available-flag>
+        <searchable-flag>true</searchable-flag>
+        <tax-class-id>standard</tax-class-id>
+        <classification-category catalog-id="northcountryfire-storefront">all</classification-category>
+        <pinterest-enabled-flag>false</pinterest-enabled-flag>
+        <facebook-enabled-flag>false</facebook-enabled-flag>
+        <store-attributes>
+            <force-price-flag>false</force-price-flag>
+            <non-inventory-flag>false</non-inventory-flag>
+            <non-revenue-flag>false</non-revenue-flag>
+            <non-discountable-flag>false</non-discountable-flag>
+        </store-attributes>
+        <brand>Napoleon</brand>
+        <manufacturer-sku>ZAX36CH</manufacturer-sku>
+        <page-attributes>
+            <page-title xml:lang="x-default">Napoleon Charcoal Zen Front for Altitude X 36 | ZAX36CH</page-title>
+            <page-description xml:lang="x-default">Part: Napoleon ZAX36CH. Buy the Napoleon Charcoal Zen Front  for Altitude X 36 Decorative Front. Find info on price, dimensions, installation and accessories. Napoleon Authorized Dealer. At North Country Fire we strive to provide the best customer care including industry leading technical support.</page-description>
+        </page-attributes>
+        <custom-attributes>
+            <custom-attribute attribute-id="isSharedVariationProduct">true</custom-attribute>
+            <custom-attribute attribute-id="isStepVariationProduct">true</custom-attribute>
+            <custom-attribute attribute-id="parentSetName">ax36nte-set,ax36pte-set</custom-attribute>
+            <custom-attribute attribute-id="parentSku">AX36NTE,AX36PTE</custom-attribute>
+            <custom-attribute attribute-id="productCategory">Decorative Fronts</custom-attribute>
+            <custom-attribute attribute-id="productTypeNonoperative">Variation Product</custom-attribute>
+            <custom-attribute attribute-id="requiredOrOptionalVariation">Optional</custom-attribute>
+            <custom-attribute attribute-id="sku">ZAX36CH</custom-attribute>
+            <custom-attribute attribute-id="variationMasterStepName">ax36nte-decorative-fronts,ax36pte-decorative-fronts</custom-attribute>
+        </custom-attributes>
+    </product>
+    <product product-id="zax42ch">
+        <ean/>
+        <upc>629169074617</upc>
+        <unit>1</unit>
+        <min-order-quantity>1</min-order-quantity>
+        <step-quantity>1</step-quantity>
+        <display-name xml:lang="x-default">Napoleon Zen Front - Charcoal | ZAX42CH</display-name>
+        <store-force-price-flag>false</store-force-price-flag>
+        <store-non-inventory-flag>false</store-non-inventory-flag>
+        <store-non-revenue-flag>false</store-non-revenue-flag>
+        <store-non-discountable-flag>false</store-non-discountable-flag>
+        <online-flag>true</online-flag>
+        <available-flag>true</available-flag>
+        <searchable-flag>true</searchable-flag>
+        <tax-class-id>standard</tax-class-id>
+        <classification-category catalog-id="northcountryfire-storefront">all</classification-category>
+        <pinterest-enabled-flag>false</pinterest-enabled-flag>
+        <facebook-enabled-flag>false</facebook-enabled-flag>
+        <store-attributes>
+            <force-price-flag>false</force-price-flag>
+            <non-inventory-flag>false</non-inventory-flag>
+            <non-revenue-flag>false</non-revenue-flag>
+            <non-discountable-flag>false</non-discountable-flag>
+        </store-attributes>
+        <brand>Napoleon</brand>
+        <manufacturer-sku>ZAX42CH</manufacturer-sku>
+        <page-attributes>
+            <page-title xml:lang="x-default">Napoleon Charcoal Zen Front for Altitude X 42 | ZAX42CH</page-title>
+            <page-description xml:lang="x-default">Part: Napoleon ZAX42CH. Buy the Napoleon Charcoal Zen Front  for Altitude X 42 Decorative Front. Find info on price, dimensions, installation and accessories. Napoleon Authorized Dealer. At North Country Fire we strive to provide the best customer care including industry leading technical support.</page-description>
+        </page-attributes>
+        <custom-attributes>
+            <custom-attribute attribute-id="isSharedVariationProduct">true</custom-attribute>
+            <custom-attribute attribute-id="isStepVariationProduct">true</custom-attribute>
+            <custom-attribute attribute-id="parentSetName">ax42nte-set,ax42pte-set</custom-attribute>
+            <custom-attribute attribute-id="parentSku">AX42NTE,AX42PTE</custom-attribute>
+            <custom-attribute attribute-id="productCategory">Decorative Fronts</custom-attribute>
+            <custom-attribute attribute-id="productTypeNonoperative">Variation Product</custom-attribute>
+            <custom-attribute attribute-id="requiredOrOptionalVariation">Optional</custom-attribute>
+            <custom-attribute attribute-id="sku">ZAX42CH</custom-attribute>
+            <custom-attribute attribute-id="variationMasterStepName">ax42nte-decorative-fronts,ax42pte-decorative-fronts</custom-attribute>
+        </custom-attributes>
+    </product>
+    <product product-id="ftax36bk">
+        <ean/>
+        <upc>629169073733</upc>
+        <unit>1</unit>
+        <min-order-quantity>1</min-order-quantity>
+        <step-quantity>1</step-quantity>
+        <display-name xml:lang="x-default">Napoleon Finish Trim - Black | FTAX36BK</display-name>
+        <store-force-price-flag>false</store-force-price-flag>
+        <store-non-inventory-flag>false</store-non-inventory-flag>
+        <store-non-revenue-flag>false</store-non-revenue-flag>
+        <store-non-discountable-flag>false</store-non-discountable-flag>
+        <online-flag>true</online-flag>
+        <available-flag>true</available-flag>
+        <searchable-flag>true</searchable-flag>
+        <tax-class-id>standard</tax-class-id>
+        <classification-category catalog-id="northcountryfire-storefront">all</classification-category>
+        <pinterest-enabled-flag>false</pinterest-enabled-flag>
+        <facebook-enabled-flag>false</facebook-enabled-flag>
+        <store-attributes>
+            <force-price-flag>false</force-price-flag>
+            <non-inventory-flag>false</non-inventory-flag>
+            <non-revenue-flag>false</non-revenue-flag>
+            <non-discountable-flag>false</non-discountable-flag>
+        </store-attributes>
+        <brand>Napoleon</brand>
+        <manufacturer-sku>FTAX36BK</manufacturer-sku>
+        <page-attributes>
+            <page-title xml:lang="x-default">Napoleon Black Finish Trim for Altitude X 36 | FTAX36BK</page-title>
+            <page-description xml:lang="x-default">Part: Napoleon FTAX36BK. Buy the Napoleon Black Finish Trim  for Altitude X 36 Decorative Front. Find info on price, dimensions, installation and accessories. Napoleon Authorized Dealer. At North Country Fire we strive to provide the best customer care including industry leading technical support.</page-description>
+        </page-attributes>
+        <custom-attributes>
+            <custom-attribute attribute-id="isSharedVariationProduct">true</custom-attribute>
+            <custom-attribute attribute-id="isStepVariationProduct">true</custom-attribute>
+            <custom-attribute attribute-id="parentSetName">ax36nte-set,ax36pte-set</custom-attribute>
+            <custom-attribute attribute-id="parentSku">AX36NTE,AX36PTE</custom-attribute>
+            <custom-attribute attribute-id="productCategory">Trim Kits</custom-attribute>
+            <custom-attribute attribute-id="productTypeNonoperative">Variation Product</custom-attribute>
+            <custom-attribute attribute-id="requiredOrOptionalVariation">Optional</custom-attribute>
+            <custom-attribute attribute-id="sku">FTAX36BK</custom-attribute>
+            <custom-attribute attribute-id="variationMasterStepName">ax36nte-trim-kits,ax36pte-trim-kits</custom-attribute>
+        </custom-attributes>
+    </product>
+    <product product-id="ftax42bk">
+        <ean/>
+        <upc>629169073740</upc>
+        <unit>1</unit>
+        <min-order-quantity>1</min-order-quantity>
+        <step-quantity>1</step-quantity>
+        <display-name xml:lang="x-default">Napoleon Finish Trim - Black | FTAX42BK</display-name>
+        <store-force-price-flag>false</store-force-price-flag>
+        <store-non-inventory-flag>false</store-non-inventory-flag>
+        <store-non-revenue-flag>false</store-non-revenue-flag>
+        <store-non-discountable-flag>false</store-non-discountable-flag>
+        <online-flag>true</online-flag>
+        <available-flag>true</available-flag>
+        <searchable-flag>true</searchable-flag>
+        <tax-class-id>standard</tax-class-id>
+        <classification-category catalog-id="northcountryfire-storefront">all</classification-category>
+        <pinterest-enabled-flag>false</pinterest-enabled-flag>
+        <facebook-enabled-flag>false</facebook-enabled-flag>
+        <store-attributes>
+            <force-price-flag>false</force-price-flag>
+            <non-inventory-flag>false</non-inventory-flag>
+            <non-revenue-flag>false</non-revenue-flag>
+            <non-discountable-flag>false</non-discountable-flag>
+        </store-attributes>
+        <brand>Napoleon</brand>
+        <manufacturer-sku>FTAX42BK</manufacturer-sku>
+        <page-attributes>
+            <page-title xml:lang="x-default">Napoleon Black Finish Trim for Altitude X 42 | FTAX42BK</page-title>
+            <page-description xml:lang="x-default">Part: Napoleon FTAX42BK. Buy the Napoleon Black Finish Trim  for Altitude X 42 Decorative Front. Find info on price, dimensions, installation and accessories. Napoleon Authorized Dealer. At North Country Fire we strive to provide the best customer care including industry leading technical support.</page-description>
+        </page-attributes>
+        <custom-attributes>
+            <custom-attribute attribute-id="isSharedVariationProduct">true</custom-attribute>
+            <custom-attribute attribute-id="isStepVariationProduct">true</custom-attribute>
+            <custom-attribute attribute-id="parentSetName">ax42nte-set,ax42pte-set</custom-attribute>
+            <custom-attribute attribute-id="parentSku">AX42NTE,AX42PTE</custom-attribute>
+            <custom-attribute attribute-id="productCategory">Trim Kits</custom-attribute>
+            <custom-attribute attribute-id="productTypeNonoperative">Variation Product</custom-attribute>
+            <custom-attribute attribute-id="requiredOrOptionalVariation">Optional</custom-attribute>
+            <custom-attribute attribute-id="sku">FTAX42BK</custom-attribute>
+            <custom-attribute attribute-id="variationMasterStepName">ax42nte-trim-kits,ax42pte-trim-kits</custom-attribute>
+        </custom-attributes>
+    </product>
+    <product product-id="ftax36ch">
+        <ean/>
+        <upc>629169073818</upc>
+        <unit>1</unit>
+        <min-order-quantity>1</min-order-quantity>
+        <step-quantity>1</step-quantity>
+        <display-name xml:lang="x-default">Napoleon Finish Trim - Charcoal | FTAX36CH</display-name>
+        <store-force-price-flag>false</store-force-price-flag>
+        <store-non-inventory-flag>false</store-non-inventory-flag>
+        <store-non-revenue-flag>false</store-non-revenue-flag>
+        <store-non-discountable-flag>false</store-non-discountable-flag>
+        <online-flag>true</online-flag>
+        <available-flag>true</available-flag>
+        <searchable-flag>true</searchable-flag>
+        <tax-class-id>standard</tax-class-id>
+        <classification-category catalog-id="northcountryfire-storefront">all</classification-category>
+        <pinterest-enabled-flag>false</pinterest-enabled-flag>
+        <facebook-enabled-flag>false</facebook-enabled-flag>
+        <store-attributes>
+            <force-price-flag>false</force-price-flag>
+            <non-inventory-flag>false</non-inventory-flag>
+            <non-revenue-flag>false</non-revenue-flag>
+            <non-discountable-flag>false</non-discountable-flag>
+        </store-attributes>
+        <brand>Napoleon</brand>
+        <manufacturer-sku>FTAX36CH</manufacturer-sku>
+        <page-attributes>
+            <page-title xml:lang="x-default">Napoleon Charcoal Finish Trim for Altitude X 36 | FTAX36CH</page-title>
+            <page-description xml:lang="x-default">Part: Napoleon FTAX36CH. Buy the Napoleon Charcoal Finish Trim  for Altitude X 36 Decorative Front. Find info on price, dimensions, installation and accessories. Napoleon Authorized Dealer. At North Country Fire we strive to provide the best customer care including industry leading technical support.</page-description>
+        </page-attributes>
+        <custom-attributes>
+            <custom-attribute attribute-id="isSharedVariationProduct">true</custom-attribute>
+            <custom-attribute attribute-id="isStepVariationProduct">true</custom-attribute>
+            <custom-attribute attribute-id="parentSetName">ax36nte-set,ax36pte-set</custom-attribute>
+            <custom-attribute attribute-id="parentSku">AX36NTE,AX36PTE</custom-attribute>
+            <custom-attribute attribute-id="productCategory">Trim Kits</custom-attribute>
+            <custom-attribute attribute-id="productTypeNonoperative">Variation Product</custom-attribute>
+            <custom-attribute attribute-id="requiredOrOptionalVariation">Optional</custom-attribute>
+            <custom-attribute attribute-id="sku">FTAX36CH</custom-attribute>
+            <custom-attribute attribute-id="variationMasterStepName">ax36nte-trim-kits,ax36pte-trim-kits</custom-attribute>
+        </custom-attributes>
+    </product>
+    <product product-id="ftax42ch">
+        <ean/>
+        <upc>629169073825</upc>
+        <unit>1</unit>
+        <min-order-quantity>1</min-order-quantity>
+        <step-quantity>1</step-quantity>
+        <display-name xml:lang="x-default">Napoleon Finish Trim - Charcoal | FTAX42CH</display-name>
+        <store-force-price-flag>false</store-force-price-flag>
+        <store-non-inventory-flag>false</store-non-inventory-flag>
+        <store-non-revenue-flag>false</store-non-revenue-flag>
+        <store-non-discountable-flag>false</store-non-discountable-flag>
+        <online-flag>true</online-flag>
+        <available-flag>true</available-flag>
+        <searchable-flag>true</searchable-flag>
+        <tax-class-id>standard</tax-class-id>
+        <classification-category catalog-id="northcountryfire-storefront">all</classification-category>
+        <pinterest-enabled-flag>false</pinterest-enabled-flag>
+        <facebook-enabled-flag>false</facebook-enabled-flag>
+        <store-attributes>
+            <force-price-flag>false</force-price-flag>
+            <non-inventory-flag>false</non-inventory-flag>
+            <non-revenue-flag>false</non-revenue-flag>
+            <non-discountable-flag>false</non-discountable-flag>
+        </store-attributes>
+        <brand>Napoleon</brand>
+        <manufacturer-sku>FTAX42CH</manufacturer-sku>
+        <page-attributes>
+            <page-title xml:lang="x-default">Napoleon Charcoal Finish Trim for Altitude X 42 | FTAX42CH</page-title>
+            <page-description xml:lang="x-default">Part: Napoleon FTAX42CH. Buy the Napoleon Charcoal Finish Trim  for Altitude X 42 Decorative Front. Find info on price, dimensions, installation and accessories. Napoleon Authorized Dealer. At North Country Fire we strive to provide the best customer care including industry leading technical support.</page-description>
+        </page-attributes>
+        <custom-attributes>
+            <custom-attribute attribute-id="isSharedVariationProduct">true</custom-attribute>
+            <custom-attribute attribute-id="isStepVariationProduct">true</custom-attribute>
+            <custom-attribute attribute-id="parentSetName">ax42nte-set,ax42pte-set</custom-attribute>
+            <custom-attribute attribute-id="parentSku">AX42NTE,AX42PTE</custom-attribute>
+            <custom-attribute attribute-id="productCategory">Trim Kits</custom-attribute>
+            <custom-attribute attribute-id="productTypeNonoperative">Variation Product</custom-attribute>
+            <custom-attribute attribute-id="requiredOrOptionalVariation">Optional</custom-attribute>
+            <custom-attribute attribute-id="sku">FTAX42CH</custom-attribute>
+            <custom-attribute attribute-id="variationMasterStepName">ax42nte-trim-kits,ax42pte-trim-kits</custom-attribute>
+        </custom-attributes>
+    </product>
+    <product product-id="ftax36cp">
+        <ean/>
+        <upc>629169073856</upc>
+        <unit>1</unit>
+        <min-order-quantity>1</min-order-quantity>
+        <step-quantity>1</step-quantity>
+        <display-name xml:lang="x-default">Napoleon Finish Trim - Copper | FTAX36CP</display-name>
+        <store-force-price-flag>false</store-force-price-flag>
+        <store-non-inventory-flag>false</store-non-inventory-flag>
+        <store-non-revenue-flag>false</store-non-revenue-flag>
+        <store-non-discountable-flag>false</store-non-discountable-flag>
+        <online-flag>true</online-flag>
+        <available-flag>true</available-flag>
+        <searchable-flag>true</searchable-flag>
+        <tax-class-id>standard</tax-class-id>
+        <classification-category catalog-id="northcountryfire-storefront">all</classification-category>
+        <pinterest-enabled-flag>false</pinterest-enabled-flag>
+        <facebook-enabled-flag>false</facebook-enabled-flag>
+        <store-attributes>
+            <force-price-flag>false</force-price-flag>
+            <non-inventory-flag>false</non-inventory-flag>
+            <non-revenue-flag>false</non-revenue-flag>
+            <non-discountable-flag>false</non-discountable-flag>
+        </store-attributes>
+        <brand>Napoleon</brand>
+        <manufacturer-sku>FTAX36CP</manufacturer-sku>
+        <page-attributes>
+            <page-title xml:lang="x-default">Napoleon Copper Finish Trim | FTAX36CP</page-title>
+            <page-description xml:lang="x-default">Part: Napoleon FTAX36CP. Buy the Napoleon Copper Finish Trim Decorative Front. Find info on price, dimensions, installation and accessories. Napoleon Authorized Dealer. At North Country Fire we strive to provide the best customer care including industry leading technical support.</page-description>
+        </page-attributes>
+        <custom-attributes>
+            <custom-attribute attribute-id="isSharedVariationProduct">true</custom-attribute>
+            <custom-attribute attribute-id="isStepVariationProduct">true</custom-attribute>
+            <custom-attribute attribute-id="parentSetName">ax36nte-set,ax36pte-set</custom-attribute>
+            <custom-attribute attribute-id="parentSku">AX36NTE,AX36PTE</custom-attribute>
+            <custom-attribute attribute-id="productCategory">Trim Kits</custom-attribute>
+            <custom-attribute attribute-id="productTypeNonoperative">Variation Product</custom-attribute>
+            <custom-attribute attribute-id="requiredOrOptionalVariation">Optional</custom-attribute>
+            <custom-attribute attribute-id="sku">FTAX36CP</custom-attribute>
+            <custom-attribute attribute-id="variationMasterStepName">ax36nte-trim-kits,ax36pte-trim-kits</custom-attribute>
+        </custom-attributes>
+    </product>
+    <product product-id="ftax42cp">
+        <ean/>
+        <upc>629169073863</upc>
+        <unit>1</unit>
+        <min-order-quantity>1</min-order-quantity>
+        <step-quantity>1</step-quantity>
+        <display-name xml:lang="x-default">Napoleon Finish Trim - Copper | FTAX42CP</display-name>
+        <store-force-price-flag>false</store-force-price-flag>
+        <store-non-inventory-flag>false</store-non-inventory-flag>
+        <store-non-revenue-flag>false</store-non-revenue-flag>
+        <store-non-discountable-flag>false</store-non-discountable-flag>
+        <online-flag>true</online-flag>
+        <available-flag>true</available-flag>
+        <searchable-flag>true</searchable-flag>
+        <tax-class-id>standard</tax-class-id>
+        <classification-category catalog-id="northcountryfire-storefront">all</classification-category>
+        <pinterest-enabled-flag>false</pinterest-enabled-flag>
+        <facebook-enabled-flag>false</facebook-enabled-flag>
+        <store-attributes>
+            <force-price-flag>false</force-price-flag>
+            <non-inventory-flag>false</non-inventory-flag>
+            <non-revenue-flag>false</non-revenue-flag>
+            <non-discountable-flag>false</non-discountable-flag>
+        </store-attributes>
+        <brand>Napoleon</brand>
+        <manufacturer-sku>FTAX42CP</manufacturer-sku>
+        <page-attributes>
+            <page-title xml:lang="x-default">Napoleon Copper Finish Trim | FTAX42CP</page-title>
+            <page-description xml:lang="x-default">Part: Napoleon FTAX42CP. Buy the Napoleon Copper Finish Trim Decorative Front. Find info on price, dimensions, installation and accessories. Napoleon Authorized Dealer. At North Country Fire we strive to provide the best customer care including industry leading technical support.</page-description>
+        </page-attributes>
+        <custom-attributes>
+            <custom-attribute attribute-id="isSharedVariationProduct">true</custom-attribute>
+            <custom-attribute attribute-id="isStepVariationProduct">true</custom-attribute>
+            <custom-attribute attribute-id="parentSetName">ax42nte-set,ax42pte-set</custom-attribute>
+            <custom-attribute attribute-id="parentSku">AX42NTE,AX42PTE</custom-attribute>
+            <custom-attribute attribute-id="productCategory">Trim Kits</custom-attribute>
+            <custom-attribute attribute-id="productTypeNonoperative">Variation Product</custom-attribute>
+            <custom-attribute attribute-id="requiredOrOptionalVariation">Optional</custom-attribute>
+            <custom-attribute attribute-id="sku">FTAX42CP</custom-attribute>
+            <custom-attribute attribute-id="variationMasterStepName">ax42nte-trim-kits,ax42pte-trim-kits</custom-attribute>
+        </custom-attributes>
+    </product>
+    <product product-id="ftax36gm">
+        <ean/>
+        <upc>629169073771</upc>
+        <unit>1</unit>
+        <min-order-quantity>1</min-order-quantity>
+        <step-quantity>1</step-quantity>
+        <display-name xml:lang="x-default">Napoleon Finish Trim - Gun Metal | FTAX36GM</display-name>
+        <store-force-price-flag>false</store-force-price-flag>
+        <store-non-inventory-flag>false</store-non-inventory-flag>
+        <store-non-revenue-flag>false</store-non-revenue-flag>
+        <store-non-discountable-flag>false</store-non-discountable-flag>
+        <online-flag>true</online-flag>
+        <available-flag>true</available-flag>
+        <searchable-flag>true</searchable-flag>
+        <tax-class-id>standard</tax-class-id>
+        <classification-category catalog-id="northcountryfire-storefront">all</classification-category>
+        <pinterest-enabled-flag>false</pinterest-enabled-flag>
+        <facebook-enabled-flag>false</facebook-enabled-flag>
+        <store-attributes>
+            <force-price-flag>false</force-price-flag>
+            <non-inventory-flag>false</non-inventory-flag>
+            <non-revenue-flag>false</non-revenue-flag>
+            <non-discountable-flag>false</non-discountable-flag>
+        </store-attributes>
+        <brand>Napoleon</brand>
+        <manufacturer-sku>FTAX36GM</manufacturer-sku>
+        <page-attributes>
+            <page-title xml:lang="x-default">Napoleon Gunmetal Finish Trim | FTAX36GM</page-title>
+            <page-description xml:lang="x-default">Part: Napoleon FTAX36GM. Buy the Napoleon Gunmetal Finish Trim Decorative Front. Find info on price, dimensions, installation and accessories. Napoleon Authorized Dealer. At North Country Fire we strive to provide the best customer care including industry leading technical support.</page-description>
+        </page-attributes>
+        <custom-attributes>
+            <custom-attribute attribute-id="isSharedVariationProduct">true</custom-attribute>
+            <custom-attribute attribute-id="isStepVariationProduct">true</custom-attribute>
+            <custom-attribute attribute-id="parentSetName">ax36nte-set,ax36pte-set</custom-attribute>
+            <custom-attribute attribute-id="parentSku">AX36NTE,AX36PTE</custom-attribute>
+            <custom-attribute attribute-id="productCategory">Trim Kits</custom-attribute>
+            <custom-attribute attribute-id="productTypeNonoperative">Variation Product</custom-attribute>
+            <custom-attribute attribute-id="requiredOrOptionalVariation">Optional</custom-attribute>
+            <custom-attribute attribute-id="sku">FTAX36GM</custom-attribute>
+            <custom-attribute attribute-id="variationMasterStepName">ax36nte-trim-kits,ax36pte-trim-kits</custom-attribute>
+        </custom-attributes>
+    </product>
+    <product product-id="ftax42gm">
+        <ean/>
+        <upc>629169073788</upc>
+        <unit>1</unit>
+        <min-order-quantity>1</min-order-quantity>
+        <step-quantity>1</step-quantity>
+        <display-name xml:lang="x-default">Napoleon Finish Trim - Gun Metal | FTAX42GM</display-name>
+        <store-force-price-flag>false</store-force-price-flag>
+        <store-non-inventory-flag>false</store-non-inventory-flag>
+        <store-non-revenue-flag>false</store-non-revenue-flag>
+        <store-non-discountable-flag>false</store-non-discountable-flag>
+        <online-flag>true</online-flag>
+        <available-flag>true</available-flag>
+        <searchable-flag>true</searchable-flag>
+        <tax-class-id>standard</tax-class-id>
+        <classification-category catalog-id="northcountryfire-storefront">all</classification-category>
+        <pinterest-enabled-flag>false</pinterest-enabled-flag>
+        <facebook-enabled-flag>false</facebook-enabled-flag>
+        <store-attributes>
+            <force-price-flag>false</force-price-flag>
+            <non-inventory-flag>false</non-inventory-flag>
+            <non-revenue-flag>false</non-revenue-flag>
+            <non-discountable-flag>false</non-discountable-flag>
+        </store-attributes>
+        <brand>Napoleon</brand>
+        <manufacturer-sku>FTAX42GM</manufacturer-sku>
+        <page-attributes>
+            <page-title xml:lang="x-default">Napoleon Gunmetal Finish Trim | FTAX42GM</page-title>
+            <page-description xml:lang="x-default">Part: Napoleon FTAX42GM. Buy the Napoleon Gunmetal Finish Trim Decorative Front. Find info on price, dimensions, installation and accessories. Napoleon Authorized Dealer. At North Country Fire we strive to provide the best customer care including industry leading technical support.</page-description>
+        </page-attributes>
+        <custom-attributes>
+            <custom-attribute attribute-id="isSharedVariationProduct">true</custom-attribute>
+            <custom-attribute attribute-id="isStepVariationProduct">true</custom-attribute>
+            <custom-attribute attribute-id="parentSetName">ax42nte-set,ax42pte-set</custom-attribute>
+            <custom-attribute attribute-id="parentSku">AX42NTE,AX42PTE</custom-attribute>
+            <custom-attribute attribute-id="productCategory">Trim Kits</custom-attribute>
+            <custom-attribute attribute-id="productTypeNonoperative">Variation Product</custom-attribute>
+            <custom-attribute attribute-id="requiredOrOptionalVariation">Optional</custom-attribute>
+            <custom-attribute attribute-id="sku">FTAX42GM</custom-attribute>
+            <custom-attribute attribute-id="variationMasterStepName">ax42nte-trim-kits,ax42pte-trim-kits</custom-attribute>
+        </custom-attributes>
+    </product>
+    <product product-id="btax36bk">
+        <ean/>
+        <upc/>
+        <unit>1</unit>
+        <min-order-quantity>1</min-order-quantity>
+        <step-quantity>1</step-quantity>
+        <display-name xml:lang="x-default">Napoleon Bevelled Trim - Black | BTAX36BK</display-name>
+        <store-force-price-flag>false</store-force-price-flag>
+        <store-non-inventory-flag>false</store-non-inventory-flag>
+        <store-non-revenue-flag>false</store-non-revenue-flag>
+        <store-non-discountable-flag>false</store-non-discountable-flag>
+        <online-flag>true</online-flag>
+        <available-flag>true</available-flag>
+        <searchable-flag>true</searchable-flag>
+        <tax-class-id>standard</tax-class-id>
+        <classification-category catalog-id="northcountryfire-storefront">all</classification-category>
+        <pinterest-enabled-flag>false</pinterest-enabled-flag>
+        <facebook-enabled-flag>false</facebook-enabled-flag>
+        <store-attributes>
+            <force-price-flag>false</force-price-flag>
+            <non-inventory-flag>false</non-inventory-flag>
+            <non-revenue-flag>false</non-revenue-flag>
+            <non-discountable-flag>false</non-discountable-flag>
+        </store-attributes>
+        <brand>Napoleon</brand>
+        <manufacturer-sku>BTAX36BK</manufacturer-sku>
+        <page-attributes>
+            <page-title xml:lang="x-default">Napoleon Black Bevelled Trim | BTAX36BK</page-title>
+            <page-description xml:lang="x-default">Part: Empire BTAX36BK. Buy the Napoleon Black Bevelled Trim. Find info on price, dimensions, installation and accessories. Empire Authorized Dealer. At North Country Fire we strive to provide the best customer care including industry leading technical support.</page-description>
+        </page-attributes>
+        <custom-attributes>
+            <custom-attribute attribute-id="isSharedVariationProduct">true</custom-attribute>
+            <custom-attribute attribute-id="isStepVariationProduct">true</custom-attribute>
+            <custom-attribute attribute-id="parentSetName">ax36nte-set,ax36pte-set</custom-attribute>
+            <custom-attribute attribute-id="parentSku">AX36NTE,AX36PTE</custom-attribute>
+            <custom-attribute attribute-id="productCategory">Trim Kits</custom-attribute>
+            <custom-attribute attribute-id="productTypeNonoperative">Variation Product</custom-attribute>
+            <custom-attribute attribute-id="requiredOrOptionalVariation">Optional</custom-attribute>
+            <custom-attribute attribute-id="sku">BTAX36BK</custom-attribute>
+            <custom-attribute attribute-id="variationMasterStepName">ax36nte-trim-kits,ax36pte-trim-kits</custom-attribute>
+        </custom-attributes>
+    </product>
+    <product product-id="btax42bk">
+        <ean/>
+        <upc/>
+        <unit>1</unit>
+        <min-order-quantity>1</min-order-quantity>
+        <step-quantity>1</step-quantity>
+        <display-name xml:lang="x-default">Napoleon Bevelled Trim - Black | BTAX42BK</display-name>
+        <store-force-price-flag>false</store-force-price-flag>
+        <store-non-inventory-flag>false</store-non-inventory-flag>
+        <store-non-revenue-flag>false</store-non-revenue-flag>
+        <store-non-discountable-flag>false</store-non-discountable-flag>
+        <online-flag>true</online-flag>
+        <available-flag>true</available-flag>
+        <searchable-flag>true</searchable-flag>
+        <tax-class-id>standard</tax-class-id>
+        <classification-category catalog-id="northcountryfire-storefront">all</classification-category>
+        <pinterest-enabled-flag>false</pinterest-enabled-flag>
+        <facebook-enabled-flag>false</facebook-enabled-flag>
+        <store-attributes>
+            <force-price-flag>false</force-price-flag>
+            <non-inventory-flag>false</non-inventory-flag>
+            <non-revenue-flag>false</non-revenue-flag>
+            <non-discountable-flag>false</non-discountable-flag>
+        </store-attributes>
+        <brand>Napoleon</brand>
+        <manufacturer-sku>BTAX42BK</manufacturer-sku>
+        <page-attributes>
+            <page-title xml:lang="x-default">Napoleon Black Bevelled Trim | BTAX42BK</page-title>
+            <page-description xml:lang="x-default">Part: Empire BTAX42BK. Buy the Napoleon Black Bevelled Trim. Find info on price, dimensions, installation and accessories. Empire Authorized Dealer. At North Country Fire we strive to provide the best customer care including industry leading technical support.</page-description>
+        </page-attributes>
+        <custom-attributes>
+            <custom-attribute attribute-id="isSharedVariationProduct">true</custom-attribute>
+            <custom-attribute attribute-id="isStepVariationProduct">true</custom-attribute>
+            <custom-attribute attribute-id="parentSetName">ax42nte-set,ax42pte-set</custom-attribute>
+            <custom-attribute attribute-id="parentSku">AX42NTE,AX42PTE</custom-attribute>
+            <custom-attribute attribute-id="productCategory">Trim Kits</custom-attribute>
+            <custom-attribute attribute-id="productTypeNonoperative">Variation Product</custom-attribute>
+            <custom-attribute attribute-id="requiredOrOptionalVariation">Optional</custom-attribute>
+            <custom-attribute attribute-id="sku">BTAX42BK</custom-attribute>
+            <custom-attribute attribute-id="variationMasterStepName">ax42nte-trim-kits,ax42pte-trim-kits</custom-attribute>
+        </custom-attributes>
+    </product>
+    <product product-id="wax36bk">
+        <ean/>
+        <upc>629169074686</upc>
+        <unit>1</unit>
+        <min-order-quantity>1</min-order-quantity>
+        <step-quantity>1</step-quantity>
+        <display-name xml:lang="x-default">Napoleon Whitney Front - Arched Metal | WAX36BK</display-name>
+        <store-force-price-flag>false</store-force-price-flag>
+        <store-non-inventory-flag>false</store-non-inventory-flag>
+        <store-non-revenue-flag>false</store-non-revenue-flag>
+        <store-non-discountable-flag>false</store-non-discountable-flag>
+        <online-flag>true</online-flag>
+        <available-flag>true</available-flag>
+        <searchable-flag>true</searchable-flag>
+        <tax-class-id>standard</tax-class-id>
+        <classification-category catalog-id="northcountryfire-storefront">all</classification-category>
+        <pinterest-enabled-flag>false</pinterest-enabled-flag>
+        <facebook-enabled-flag>false</facebook-enabled-flag>
+        <store-attributes>
+            <force-price-flag>false</force-price-flag>
+            <non-inventory-flag>false</non-inventory-flag>
+            <non-revenue-flag>false</non-revenue-flag>
+            <non-discountable-flag>false</non-discountable-flag>
+        </store-attributes>
+        <brand>Napoleon</brand>
+        <manufacturer-sku>WAX36BK</manufacturer-sku>
+        <page-attributes>
+            <page-title xml:lang="x-default">Napoleon Arched Metal Whitney Front | WAX36BK</page-title>
+            <page-description xml:lang="x-default">Part: Napoleon WAX36BK. Buy the Napoleon Arched Metal Whitney Front Decorative Front. Find info on price, dimensions, installation and accessories. Napoleon Authorized Dealer. At North Country Fire we strive to provide the best customer care including industry leading technical support.</page-description>
+        </page-attributes>
+        <custom-attributes>
+            <custom-attribute attribute-id="isSharedVariationProduct">true</custom-attribute>
+            <custom-attribute attribute-id="isStepVariationProduct">true</custom-attribute>
+            <custom-attribute attribute-id="parentSetName">ax36nte-set,ax36pte-set</custom-attribute>
+            <custom-attribute attribute-id="parentSku">AX36NTE,AX36PTE</custom-attribute>
+            <custom-attribute attribute-id="productCategory">Decorative Fronts</custom-attribute>
+            <custom-attribute attribute-id="productTypeNonoperative">Variation Product</custom-attribute>
+            <custom-attribute attribute-id="requiredOrOptionalVariation">Optional</custom-attribute>
+            <custom-attribute attribute-id="sku">WAX36BK</custom-attribute>
+            <custom-attribute attribute-id="variationMasterStepName">ax36nte-decorative-fronts,ax36pte-decorative-fronts</custom-attribute>
+        </custom-attributes>
+    </product>
+    <product product-id="wax42bk">
+        <ean/>
+        <upc>629169074693</upc>
+        <unit>1</unit>
+        <min-order-quantity>1</min-order-quantity>
+        <step-quantity>1</step-quantity>
+        <display-name xml:lang="x-default">Napoleon Whitney Front - Arched Metal | WAX42BK</display-name>
+        <store-force-price-flag>false</store-force-price-flag>
+        <store-non-inventory-flag>false</store-non-inventory-flag>
+        <store-non-revenue-flag>false</store-non-revenue-flag>
+        <store-non-discountable-flag>false</store-non-discountable-flag>
+        <online-flag>true</online-flag>
+        <available-flag>true</available-flag>
+        <searchable-flag>true</searchable-flag>
+        <tax-class-id>standard</tax-class-id>
+        <classification-category catalog-id="northcountryfire-storefront">all</classification-category>
+        <pinterest-enabled-flag>false</pinterest-enabled-flag>
+        <facebook-enabled-flag>false</facebook-enabled-flag>
+        <store-attributes>
+            <force-price-flag>false</force-price-flag>
+            <non-inventory-flag>false</non-inventory-flag>
+            <non-revenue-flag>false</non-revenue-flag>
+            <non-discountable-flag>false</non-discountable-flag>
+        </store-attributes>
+        <brand>Napoleon</brand>
+        <manufacturer-sku>WAX42BK</manufacturer-sku>
+        <page-attributes>
+            <page-title xml:lang="x-default">Napoleon Arched Metal Whitney Front | WAX42BK</page-title>
+            <page-description xml:lang="x-default">Part: Napoleon WAX42BK. Buy the Napoleon Arched Metal Whitney Front Decorative Front. Find info on price, dimensions, installation and accessories. Napoleon Authorized Dealer. At North Country Fire we strive to provide the best customer care including industry leading technical support.</page-description>
+        </page-attributes>
+        <custom-attributes>
+            <custom-attribute attribute-id="isSharedVariationProduct">true</custom-attribute>
+            <custom-attribute attribute-id="isStepVariationProduct">true</custom-attribute>
+            <custom-attribute attribute-id="parentSetName">ax42nte-set,ax42pte-set</custom-attribute>
+            <custom-attribute attribute-id="parentSku">AX42NTE,AX42PTE</custom-attribute>
+            <custom-attribute attribute-id="productCategory">Decorative Fronts</custom-attribute>
+            <custom-attribute attribute-id="productTypeNonoperative">Variation Product</custom-attribute>
+            <custom-attribute attribute-id="requiredOrOptionalVariation">Optional</custom-attribute>
+            <custom-attribute attribute-id="sku">WAX42BK</custom-attribute>
+            <custom-attribute attribute-id="variationMasterStepName">ax42nte-decorative-fronts,ax42pte-decorative-fronts</custom-attribute>
+        </custom-attributes>
+    </product>
+    <product product-id="aeax36ap">
+        <ean/>
+        <upc>629169074723</upc>
+        <unit>1</unit>
+        <min-order-quantity>1</min-order-quantity>
+        <step-quantity>1</step-quantity>
+        <display-name xml:lang="x-default">Napoleon Arched Iron Elements - Antique Pewter (Fits on Whitney front) | AEAX36AP</display-name>
+        <store-force-price-flag>false</store-force-price-flag>
+        <store-non-inventory-flag>false</store-non-inventory-flag>
+        <store-non-revenue-flag>false</store-non-revenue-flag>
+        <store-non-discountable-flag>false</store-non-discountable-flag>
+        <online-flag>true</online-flag>
+        <available-flag>true</available-flag>
+        <searchable-flag>true</searchable-flag>
+        <tax-class-id>standard</tax-class-id>
+        <classification-category catalog-id="northcountryfire-storefront">all</classification-category>
+        <pinterest-enabled-flag>false</pinterest-enabled-flag>
+        <facebook-enabled-flag>false</facebook-enabled-flag>
+        <store-attributes>
+            <force-price-flag>false</force-price-flag>
+            <non-inventory-flag>false</non-inventory-flag>
+            <non-revenue-flag>false</non-revenue-flag>
+            <non-discountable-flag>false</non-discountable-flag>
+        </store-attributes>
+        <brand>Napoleon</brand>
+        <manufacturer-sku>AEAX36AP</manufacturer-sku>
+        <page-attributes>
+            <page-title xml:lang="x-default">Napoleon Antique Pewter Arched Iron Elements | AEAX36AP</page-title>
+            <page-description xml:lang="x-default">Part: Napoleon AEAX36AP. Buy the Napoleon Antique Pewter Arched Iron Elements Decorative Front. Find info on price, dimensions, installation and accessories. Napoleon Authorized Dealer. At North Country Fire we strive to provide the best customer care including industry leading technical support.</page-description>
+        </page-attributes>
+        <custom-attributes>
+            <custom-attribute attribute-id="isSharedVariationProduct">true</custom-attribute>
+            <custom-attribute attribute-id="isStepVariationProduct">true</custom-attribute>
+            <custom-attribute attribute-id="parentSetName">ax36nte-set,ax36pte-set</custom-attribute>
+            <custom-attribute attribute-id="parentSku">AX36NTE,AX36PTE</custom-attribute>
+            <custom-attribute attribute-id="productCategory">Front Accents</custom-attribute>
+            <custom-attribute attribute-id="productTypeNonoperative">Variation Product</custom-attribute>
+            <custom-attribute attribute-id="requiredOrOptionalVariation">Optional</custom-attribute>
+            <custom-attribute attribute-id="sku">AEAX36AP</custom-attribute>
+            <custom-attribute attribute-id="variationMasterStepName">ax36nte-front-accents,ax36pte-front-accents</custom-attribute>
+        </custom-attributes>
+    </product>
+    <product product-id="aeax42ap">
+        <ean/>
+        <upc>629169074730</upc>
+        <unit>1</unit>
+        <min-order-quantity>1</min-order-quantity>
+        <step-quantity>1</step-quantity>
+        <display-name xml:lang="x-default">Napoleon Arched Iron Elements - Antique Pewter (Fits on Whitney front) | AEAX42AP</display-name>
+        <store-force-price-flag>false</store-force-price-flag>
+        <store-non-inventory-flag>false</store-non-inventory-flag>
+        <store-non-revenue-flag>false</store-non-revenue-flag>
+        <store-non-discountable-flag>false</store-non-discountable-flag>
+        <online-flag>true</online-flag>
+        <available-flag>true</available-flag>
+        <searchable-flag>true</searchable-flag>
+        <tax-class-id>standard</tax-class-id>
+        <classification-category catalog-id="northcountryfire-storefront">all</classification-category>
+        <pinterest-enabled-flag>false</pinterest-enabled-flag>
+        <facebook-enabled-flag>false</facebook-enabled-flag>
+        <store-attributes>
+            <force-price-flag>false</force-price-flag>
+            <non-inventory-flag>false</non-inventory-flag>
+            <non-revenue-flag>false</non-revenue-flag>
+            <non-discountable-flag>false</non-discountable-flag>
+        </store-attributes>
+        <brand>Napoleon</brand>
+        <manufacturer-sku>AEAX42AP</manufacturer-sku>
+        <page-attributes>
+            <page-title xml:lang="x-default">Napoleon Antique Pewter Arched Iron Elements | AEAX42AP</page-title>
+            <page-description xml:lang="x-default">Part: Napoleon AEAX42AP. Buy the Napoleon Antique Pewter Arched Iron Elements Decorative Front. Find info on price, dimensions, installation and accessories. Napoleon Authorized Dealer. At North Country Fire we strive to provide the best customer care including industry leading technical support.</page-description>
+        </page-attributes>
+        <custom-attributes>
+            <custom-attribute attribute-id="isSharedVariationProduct">true</custom-attribute>
+            <custom-attribute attribute-id="isStepVariationProduct">true</custom-attribute>
+            <custom-attribute attribute-id="parentSetName">ax42nte-set,ax42pte-set</custom-attribute>
+            <custom-attribute attribute-id="parentSku">AX42NTE,AX42PTE</custom-attribute>
+            <custom-attribute attribute-id="productCategory">Front Accents</custom-attribute>
+            <custom-attribute attribute-id="productTypeNonoperative">Variation Product</custom-attribute>
+            <custom-attribute attribute-id="requiredOrOptionalVariation">Optional</custom-attribute>
+            <custom-attribute attribute-id="sku">AEAX42AP</custom-attribute>
+            <custom-attribute attribute-id="variationMasterStepName">ax42nte-front-accents,ax42pte-front-accents</custom-attribute>
+        </custom-attributes>
+    </product>
+    <product product-id="aeax36bb">
+        <ean/>
+        <upc>629169074761</upc>
+        <unit>1</unit>
+        <min-order-quantity>1</min-order-quantity>
+        <step-quantity>1</step-quantity>
+        <display-name xml:lang="x-default">Napoleon Arched Iron Elements - Burnished Brass (Fits on Whitney front) | AEAX36BB</display-name>
+        <store-force-price-flag>false</store-force-price-flag>
+        <store-non-inventory-flag>false</store-non-inventory-flag>
+        <store-non-revenue-flag>false</store-non-revenue-flag>
+        <store-non-discountable-flag>false</store-non-discountable-flag>
+        <online-flag>true</online-flag>
+        <available-flag>true</available-flag>
+        <searchable-flag>true</searchable-flag>
+        <tax-class-id>standard</tax-class-id>
+        <classification-category catalog-id="northcountryfire-storefront">all</classification-category>
+        <pinterest-enabled-flag>false</pinterest-enabled-flag>
+        <facebook-enabled-flag>false</facebook-enabled-flag>
+        <store-attributes>
+            <force-price-flag>false</force-price-flag>
+            <non-inventory-flag>false</non-inventory-flag>
+            <non-revenue-flag>false</non-revenue-flag>
+            <non-discountable-flag>false</non-discountable-flag>
+        </store-attributes>
+        <brand>Napoleon</brand>
+        <manufacturer-sku>AEAX36BB</manufacturer-sku>
+        <page-attributes>
+            <page-title xml:lang="x-default">Napoleon Burnished Brass Arched Iron Elements | AEAX36BB</page-title>
+            <page-description xml:lang="x-default">Part: Napoleon AEAX36BB. Buy the Napoleon Burnished Brass Arched Iron Elements Decorative Front. Find info on price, dimensions, installation and accessories. Napoleon Authorized Dealer. At North Country Fire we strive to provide the best customer care including industry leading technical support.</page-description>
+        </page-attributes>
+        <custom-attributes>
+            <custom-attribute attribute-id="isSharedVariationProduct">true</custom-attribute>
+            <custom-attribute attribute-id="isStepVariationProduct">true</custom-attribute>
+            <custom-attribute attribute-id="parentSetName">ax36nte-set,ax36pte-set</custom-attribute>
+            <custom-attribute attribute-id="parentSku">AX36NTE,AX36PTE</custom-attribute>
+            <custom-attribute attribute-id="productCategory">Front Accents</custom-attribute>
+            <custom-attribute attribute-id="productTypeNonoperative">Variation Product</custom-attribute>
+            <custom-attribute attribute-id="requiredOrOptionalVariation">Optional</custom-attribute>
+            <custom-attribute attribute-id="sku">AEAX36BB</custom-attribute>
+            <custom-attribute attribute-id="variationMasterStepName">ax36nte-front-accents,ax36pte-front-accents</custom-attribute>
+        </custom-attributes>
+    </product>
+    <product product-id="aeax42bb">
+        <ean/>
+        <upc>629169074778</upc>
+        <unit>1</unit>
+        <min-order-quantity>1</min-order-quantity>
+        <step-quantity>1</step-quantity>
+        <display-name xml:lang="x-default">Napoleon Arched Iron Elements - Burnished Brass (Fits on Whitney front) | AEAX42BB</display-name>
+        <store-force-price-flag>false</store-force-price-flag>
+        <store-non-inventory-flag>false</store-non-inventory-flag>
+        <store-non-revenue-flag>false</store-non-revenue-flag>
+        <store-non-discountable-flag>false</store-non-discountable-flag>
+        <online-flag>true</online-flag>
+        <available-flag>true</available-flag>
+        <searchable-flag>true</searchable-flag>
+        <tax-class-id>standard</tax-class-id>
+        <classification-category catalog-id="northcountryfire-storefront">all</classification-category>
+        <pinterest-enabled-flag>false</pinterest-enabled-flag>
+        <facebook-enabled-flag>false</facebook-enabled-flag>
+        <store-attributes>
+            <force-price-flag>false</force-price-flag>
+            <non-inventory-flag>false</non-inventory-flag>
+            <non-revenue-flag>false</non-revenue-flag>
+            <non-discountable-flag>false</non-discountable-flag>
+        </store-attributes>
+        <brand>Napoleon</brand>
+        <manufacturer-sku>AEAX42BB</manufacturer-sku>
+        <page-attributes>
+            <page-title xml:lang="x-default">Napoleon Burnished Brass Arched Iron Elements | AEAX42BB</page-title>
+            <page-description xml:lang="x-default">Part: Napoleon AEAX42BB. Buy the Napoleon Burnished Brass Arched Iron Elements Decorative Front. Find info on price, dimensions, installation and accessories. Napoleon Authorized Dealer. At North Country Fire we strive to provide the best customer care including industry leading technical support.</page-description>
+        </page-attributes>
+        <custom-attributes>
+            <custom-attribute attribute-id="isSharedVariationProduct">true</custom-attribute>
+            <custom-attribute attribute-id="isStepVariationProduct">true</custom-attribute>
+            <custom-attribute attribute-id="parentSetName">ax42nte-set,ax42pte-set</custom-attribute>
+            <custom-attribute attribute-id="parentSku">AX42NTE,AX42PTE</custom-attribute>
+            <custom-attribute attribute-id="productCategory">Front Accents</custom-attribute>
+            <custom-attribute attribute-id="productTypeNonoperative">Variation Product</custom-attribute>
+            <custom-attribute attribute-id="requiredOrOptionalVariation">Optional</custom-attribute>
+            <custom-attribute attribute-id="sku">AEAX42BB</custom-attribute>
+            <custom-attribute attribute-id="variationMasterStepName">ax42nte-front-accents,ax42pte-front-accents</custom-attribute>
+        </custom-attributes>
+    </product>
+    <product product-id="aeax36sn">
+        <ean/>
+        <upc>629169074747</upc>
+        <unit>1</unit>
+        <min-order-quantity>1</min-order-quantity>
+        <step-quantity>1</step-quantity>
+        <display-name xml:lang="x-default">Napoleon Arched Iron Elements - Satin Nickel (Fits on Whitney front) | AEAX36SN</display-name>
+        <store-force-price-flag>false</store-force-price-flag>
+        <store-non-inventory-flag>false</store-non-inventory-flag>
+        <store-non-revenue-flag>false</store-non-revenue-flag>
+        <store-non-discountable-flag>false</store-non-discountable-flag>
+        <online-flag>true</online-flag>
+        <available-flag>true</available-flag>
+        <searchable-flag>true</searchable-flag>
+        <tax-class-id>standard</tax-class-id>
+        <classification-category catalog-id="northcountryfire-storefront">all</classification-category>
+        <pinterest-enabled-flag>false</pinterest-enabled-flag>
+        <facebook-enabled-flag>false</facebook-enabled-flag>
+        <store-attributes>
+            <force-price-flag>false</force-price-flag>
+            <non-inventory-flag>false</non-inventory-flag>
+            <non-revenue-flag>false</non-revenue-flag>
+            <non-discountable-flag>false</non-discountable-flag>
+        </store-attributes>
+        <brand>Napoleon</brand>
+        <manufacturer-sku>AEAX36SN</manufacturer-sku>
+        <page-attributes>
+            <page-title xml:lang="x-default">Napoleon Satin Nickel Arched Iron Elements | AEAX36SN</page-title>
+            <page-description xml:lang="x-default">Part: Napoleon AEAX36SN. Buy the Napoleon Satin Nickel Arched Iron Elements Decorative Front. Find info on price, dimensions, installation and accessories. Napoleon Authorized Dealer. At North Country Fire we strive to provide the best customer care including industry leading technical support.</page-description>
+        </page-attributes>
+        <custom-attributes>
+            <custom-attribute attribute-id="isSharedVariationProduct">true</custom-attribute>
+            <custom-attribute attribute-id="isStepVariationProduct">true</custom-attribute>
+            <custom-attribute attribute-id="parentSetName">ax36nte-set,ax36pte-set</custom-attribute>
+            <custom-attribute attribute-id="parentSku">AX36NTE,AX36PTE</custom-attribute>
+            <custom-attribute attribute-id="productCategory">Front Accents</custom-attribute>
+            <custom-attribute attribute-id="productTypeNonoperative">Variation Product</custom-attribute>
+            <custom-attribute attribute-id="requiredOrOptionalVariation">Optional</custom-attribute>
+            <custom-attribute attribute-id="sku">AEAX36SN</custom-attribute>
+            <custom-attribute attribute-id="variationMasterStepName">ax36nte-front-accents,ax36pte-front-accents</custom-attribute>
+        </custom-attributes>
+    </product>
+    <product product-id="aeax42sn">
+        <ean/>
+        <upc>629169074754</upc>
+        <unit>1</unit>
+        <min-order-quantity>1</min-order-quantity>
+        <step-quantity>1</step-quantity>
+        <display-name xml:lang="x-default">Napoleon Arched Iron Elements - Satin Nickel (Fits on Whitney front) | AEAX42SN</display-name>
+        <store-force-price-flag>false</store-force-price-flag>
+        <store-non-inventory-flag>false</store-non-inventory-flag>
+        <store-non-revenue-flag>false</store-non-revenue-flag>
+        <store-non-discountable-flag>false</store-non-discountable-flag>
+        <online-flag>true</online-flag>
+        <available-flag>true</available-flag>
+        <searchable-flag>true</searchable-flag>
+        <tax-class-id>standard</tax-class-id>
+        <classification-category catalog-id="northcountryfire-storefront">all</classification-category>
+        <pinterest-enabled-flag>false</pinterest-enabled-flag>
+        <facebook-enabled-flag>false</facebook-enabled-flag>
+        <store-attributes>
+            <force-price-flag>false</force-price-flag>
+            <non-inventory-flag>false</non-inventory-flag>
+            <non-revenue-flag>false</non-revenue-flag>
+            <non-discountable-flag>false</non-discountable-flag>
+        </store-attributes>
+        <brand>Napoleon</brand>
+        <manufacturer-sku>AEAX42SN</manufacturer-sku>
+        <page-attributes>
+            <page-title xml:lang="x-default">Napoleon Satin Nickel Arched Iron Elements | AEAX42SN</page-title>
+            <page-description xml:lang="x-default">Part: Napoleon AEAX42SN. Buy the Napoleon Satin Nickel Arched Iron Elements Decorative Front. Find info on price, dimensions, installation and accessories. Napoleon Authorized Dealer. At North Country Fire we strive to provide the best customer care including industry leading technical support.</page-description>
+        </page-attributes>
+        <custom-attributes>
+            <custom-attribute attribute-id="isSharedVariationProduct">true</custom-attribute>
+            <custom-attribute attribute-id="isStepVariationProduct">true</custom-attribute>
+            <custom-attribute attribute-id="parentSetName">ax42nte-set,ax42pte-set</custom-attribute>
+            <custom-attribute attribute-id="parentSku">AX42NTE,AX42PTE</custom-attribute>
+            <custom-attribute attribute-id="productCategory">Front Accents</custom-attribute>
+            <custom-attribute attribute-id="productTypeNonoperative">Variation Product</custom-attribute>
+            <custom-attribute attribute-id="requiredOrOptionalVariation">Optional</custom-attribute>
+            <custom-attribute attribute-id="sku">AEAX42SN</custom-attribute>
+            <custom-attribute attribute-id="variationMasterStepName">ax42nte-front-accents,ax42pte-front-accents</custom-attribute>
+        </custom-attributes>
+    </product>
+    <product product-id="dax36rb">
+        <ean/>
+        <upc/>
+        <unit>1</unit>
+        <min-order-quantity>1</min-order-quantity>
+        <step-quantity>1</step-quantity>
+        <display-name xml:lang="x-default">Napoleon Denali Premium Front Rubbed Bronze | DAX36RB</display-name>
+        <store-force-price-flag>false</store-force-price-flag>
+        <store-non-inventory-flag>false</store-non-inventory-flag>
+        <store-non-revenue-flag>false</store-non-revenue-flag>
+        <store-non-discountable-flag>false</store-non-discountable-flag>
+        <online-flag>true</online-flag>
+        <available-flag>true</available-flag>
+        <searchable-flag>true</searchable-flag>
+        <tax-class-id>standard</tax-class-id>
+        <classification-category catalog-id="northcountryfire-storefront">all</classification-category>
+        <pinterest-enabled-flag>false</pinterest-enabled-flag>
+        <facebook-enabled-flag>false</facebook-enabled-flag>
+        <store-attributes>
+            <force-price-flag>false</force-price-flag>
+            <non-inventory-flag>false</non-inventory-flag>
+            <non-revenue-flag>false</non-revenue-flag>
+            <non-discountable-flag>false</non-discountable-flag>
+        </store-attributes>
+        <brand>Napoleon</brand>
+        <manufacturer-sku>DAX36RB</manufacturer-sku>
+        <page-attributes>
+            <page-title xml:lang="x-default">Napoleon Denali Premium Front | DAX36RB</page-title>
+            <page-description xml:lang="x-default">Part: Napoleon DAX36RB. Buy the Napoleon Denali Premium Front Decorative Front. Find info on price, dimensions, installation and accessories. Napoleon Authorized Dealer. At North Country Fire we strive to provide the best customer care including industry leading technical support.</page-description>
+        </page-attributes>
+        <custom-attributes>
+            <custom-attribute attribute-id="isSharedVariationProduct">true</custom-attribute>
+            <custom-attribute attribute-id="isStepVariationProduct">true</custom-attribute>
+            <custom-attribute attribute-id="parentSetName">ax36nte-set,ax36pte-set</custom-attribute>
+            <custom-attribute attribute-id="parentSku">AX36NTE,AX36PTE</custom-attribute>
+            <custom-attribute attribute-id="productCategory">Decorative Fronts</custom-attribute>
+            <custom-attribute attribute-id="productTypeNonoperative">Variation Product</custom-attribute>
+            <custom-attribute attribute-id="requiredOrOptionalVariation">Optional</custom-attribute>
+            <custom-attribute attribute-id="sku">DAX36RB</custom-attribute>
+            <custom-attribute attribute-id="variationMasterStepName">ax36nte-decorative-fronts,ax36pte-decorative-fronts</custom-attribute>
+        </custom-attributes>
+    </product>
+    <product product-id="dax42rb">
+        <ean/>
+        <upc/>
+        <unit>1</unit>
+        <min-order-quantity>1</min-order-quantity>
+        <step-quantity>1</step-quantity>
+        <display-name xml:lang="x-default">Napoleon Denali Premium Front Rubbed Bronze | DAX42RB</display-name>
+        <store-force-price-flag>false</store-force-price-flag>
+        <store-non-inventory-flag>false</store-non-inventory-flag>
+        <store-non-revenue-flag>false</store-non-revenue-flag>
+        <store-non-discountable-flag>false</store-non-discountable-flag>
+        <online-flag>true</online-flag>
+        <available-flag>true</available-flag>
+        <searchable-flag>true</searchable-flag>
+        <tax-class-id>standard</tax-class-id>
+        <classification-category catalog-id="northcountryfire-storefront">all</classification-category>
+        <pinterest-enabled-flag>false</pinterest-enabled-flag>
+        <facebook-enabled-flag>false</facebook-enabled-flag>
+        <store-attributes>
+            <force-price-flag>false</force-price-flag>
+            <non-inventory-flag>false</non-inventory-flag>
+            <non-revenue-flag>false</non-revenue-flag>
+            <non-discountable-flag>false</non-discountable-flag>
+        </store-attributes>
+        <brand>Napoleon</brand>
+        <manufacturer-sku>DAX42RB</manufacturer-sku>
+        <page-attributes>
+            <page-title xml:lang="x-default">Napoleon Denali Premium Front | DAX42RB</page-title>
+            <page-description xml:lang="x-default">Part: Napoleon DAX42RB. Buy the Napoleon Denali Premium Front Decorative Front. Find info on price, dimensions, installation and accessories. Napoleon Authorized Dealer. At North Country Fire we strive to provide the best customer care including industry leading technical support.</page-description>
+        </page-attributes>
+        <custom-attributes>
+            <custom-attribute attribute-id="isSharedVariationProduct">true</custom-attribute>
+            <custom-attribute attribute-id="isStepVariationProduct">true</custom-attribute>
+            <custom-attribute attribute-id="parentSetName">ax42nte-set,ax42pte-set</custom-attribute>
+            <custom-attribute attribute-id="parentSku">AX42NTE,AX42PTE</custom-attribute>
+            <custom-attribute attribute-id="productCategory">Decorative Fronts</custom-attribute>
+            <custom-attribute attribute-id="productTypeNonoperative">Variation Product</custom-attribute>
+            <custom-attribute attribute-id="requiredOrOptionalVariation">Optional</custom-attribute>
+            <custom-attribute attribute-id="sku">DAX42RB</custom-attribute>
+            <custom-attribute attribute-id="variationMasterStepName">ax42nte-decorative-fronts,ax42pte-decorative-fronts</custom-attribute>
+        </custom-attributes>
+    </product>
+    <product product-id="seax36ap">
+        <ean/>
+        <upc>629169074785</upc>
+        <unit>1</unit>
+        <min-order-quantity>1</min-order-quantity>
+        <step-quantity>1</step-quantity>
+        <display-name xml:lang="x-default">Napoleon Straight Element in Antique Pewter (Fits on Denali Front) | SEAX36AP</display-name>
+        <store-force-price-flag>false</store-force-price-flag>
+        <store-non-inventory-flag>false</store-non-inventory-flag>
+        <store-non-revenue-flag>false</store-non-revenue-flag>
+        <store-non-discountable-flag>false</store-non-discountable-flag>
+        <online-flag>true</online-flag>
+        <available-flag>true</available-flag>
+        <searchable-flag>true</searchable-flag>
+        <tax-class-id>standard</tax-class-id>
+        <classification-category catalog-id="northcountryfire-storefront">all</classification-category>
+        <pinterest-enabled-flag>false</pinterest-enabled-flag>
+        <facebook-enabled-flag>false</facebook-enabled-flag>
+        <store-attributes>
+            <force-price-flag>false</force-price-flag>
+            <non-inventory-flag>false</non-inventory-flag>
+            <non-revenue-flag>false</non-revenue-flag>
+            <non-discountable-flag>false</non-discountable-flag>
+        </store-attributes>
+        <brand>Napoleon</brand>
+        <manufacturer-sku>SEAX36AP</manufacturer-sku>
+        <page-attributes>
+            <page-title xml:lang="x-default">Napoleon Antique Pewter Straight Iron Elements | SEAX36AP</page-title>
+            <page-description xml:lang="x-default">Part: Napoleon SEAX36AP. Buy the Napoleon Antique Pewter Straight Iron Elements Decorative Front. Find info on price, dimensions, installation and accessories. Napoleon Authorized Dealer. At North Country Fire we strive to provide the best customer care including industry leading technical support.</page-description>
+        </page-attributes>
+        <custom-attributes>
+            <custom-attribute attribute-id="isSharedVariationProduct">true</custom-attribute>
+            <custom-attribute attribute-id="isStepVariationProduct">true</custom-attribute>
+            <custom-attribute attribute-id="parentSetName">ax36nte-set,ax36pte-set</custom-attribute>
+            <custom-attribute attribute-id="parentSku">AX36NTE,AX36PTE</custom-attribute>
+            <custom-attribute attribute-id="productCategory">Front Accents</custom-attribute>
+            <custom-attribute attribute-id="productTypeNonoperative">Variation Product</custom-attribute>
+            <custom-attribute attribute-id="requiredOrOptionalVariation">Optional</custom-attribute>
+            <custom-attribute attribute-id="sku">SEAX36AP</custom-attribute>
+            <custom-attribute attribute-id="variationMasterStepName">ax36nte-front-accents,ax36pte-front-accents</custom-attribute>
+        </custom-attributes>
+    </product>
+    <product product-id="seax42ap">
+        <ean/>
+        <upc>629169074792</upc>
+        <unit>1</unit>
+        <min-order-quantity>1</min-order-quantity>
+        <step-quantity>1</step-quantity>
+        <display-name xml:lang="x-default">Napoleon Straight Element in Antique Pewter (Fits on Denali Front) | SEAX42AP</display-name>
+        <store-force-price-flag>false</store-force-price-flag>
+        <store-non-inventory-flag>false</store-non-inventory-flag>
+        <store-non-revenue-flag>false</store-non-revenue-flag>
+        <store-non-discountable-flag>false</store-non-discountable-flag>
+        <online-flag>true</online-flag>
+        <available-flag>true</available-flag>
+        <searchable-flag>true</searchable-flag>
+        <tax-class-id>standard</tax-class-id>
+        <classification-category catalog-id="northcountryfire-storefront">all</classification-category>
+        <pinterest-enabled-flag>false</pinterest-enabled-flag>
+        <facebook-enabled-flag>false</facebook-enabled-flag>
+        <store-attributes>
+            <force-price-flag>false</force-price-flag>
+            <non-inventory-flag>false</non-inventory-flag>
+            <non-revenue-flag>false</non-revenue-flag>
+            <non-discountable-flag>false</non-discountable-flag>
+        </store-attributes>
+        <brand>Napoleon</brand>
+        <manufacturer-sku>SEAX42AP</manufacturer-sku>
+        <page-attributes>
+            <page-title xml:lang="x-default">Napoleon Antique Pewter Straight Iron Elements | SEAX42AP</page-title>
+            <page-description xml:lang="x-default">Part: Napoleon SEAX42AP. Buy the Napoleon Antique Pewter Straight Iron Elements Decorative Front. Find info on price, dimensions, installation and accessories. Napoleon Authorized Dealer. At North Country Fire we strive to provide the best customer care including industry leading technical support.</page-description>
+        </page-attributes>
+        <custom-attributes>
+            <custom-attribute attribute-id="isSharedVariationProduct">true</custom-attribute>
+            <custom-attribute attribute-id="isStepVariationProduct">true</custom-attribute>
+            <custom-attribute attribute-id="parentSetName">ax42nte-set,ax42pte-set</custom-attribute>
+            <custom-attribute attribute-id="parentSku">AX42NTE,AX42PTE</custom-attribute>
+            <custom-attribute attribute-id="productCategory">Front Accents</custom-attribute>
+            <custom-attribute attribute-id="productTypeNonoperative">Variation Product</custom-attribute>
+            <custom-attribute attribute-id="requiredOrOptionalVariation">Optional</custom-attribute>
+            <custom-attribute attribute-id="sku">SEAX42AP</custom-attribute>
+            <custom-attribute attribute-id="variationMasterStepName">ax42nte-front-accents,ax42pte-front-accents</custom-attribute>
+        </custom-attributes>
+    </product>
+    <product product-id="seax36bb">
+        <ean/>
+        <upc>629169074822</upc>
+        <unit>1</unit>
+        <min-order-quantity>1</min-order-quantity>
+        <step-quantity>1</step-quantity>
+        <display-name xml:lang="x-default">Napoleon Straight Element in Burnished Brass (Fits on Denali Front) | SEAX36BB</display-name>
+        <store-force-price-flag>false</store-force-price-flag>
+        <store-non-inventory-flag>false</store-non-inventory-flag>
+        <store-non-revenue-flag>false</store-non-revenue-flag>
+        <store-non-discountable-flag>false</store-non-discountable-flag>
+        <online-flag>true</online-flag>
+        <available-flag>true</available-flag>
+        <searchable-flag>true</searchable-flag>
+        <tax-class-id>standard</tax-class-id>
+        <classification-category catalog-id="northcountryfire-storefront">all</classification-category>
+        <pinterest-enabled-flag>false</pinterest-enabled-flag>
+        <facebook-enabled-flag>false</facebook-enabled-flag>
+        <store-attributes>
+            <force-price-flag>false</force-price-flag>
+            <non-inventory-flag>false</non-inventory-flag>
+            <non-revenue-flag>false</non-revenue-flag>
+            <non-discountable-flag>false</non-discountable-flag>
+        </store-attributes>
+        <brand>Napoleon</brand>
+        <manufacturer-sku>SEAX36BB</manufacturer-sku>
+        <page-attributes>
+            <page-title xml:lang="x-default">Napoleon Burnished Brass Straight Iron Elements | SEAX36BB</page-title>
+            <page-description xml:lang="x-default">Part: Napoleon SEAX36BB. Buy the Napoleon Burnished Brass Straight Iron Elements Decorative Front. Find info on price, dimensions, installation and accessories. Napoleon Authorized Dealer. At North Country Fire we strive to provide the best customer care including industry leading technical support.</page-description>
+        </page-attributes>
+        <custom-attributes>
+            <custom-attribute attribute-id="isSharedVariationProduct">true</custom-attribute>
+            <custom-attribute attribute-id="isStepVariationProduct">true</custom-attribute>
+            <custom-attribute attribute-id="parentSetName">ax36nte-set,ax36pte-set</custom-attribute>
+            <custom-attribute attribute-id="parentSku">AX36NTE,AX36PTE</custom-attribute>
+            <custom-attribute attribute-id="productCategory">Front Accents</custom-attribute>
+            <custom-attribute attribute-id="productTypeNonoperative">Variation Product</custom-attribute>
+            <custom-attribute attribute-id="requiredOrOptionalVariation">Optional</custom-attribute>
+            <custom-attribute attribute-id="sku">SEAX36BB</custom-attribute>
+            <custom-attribute attribute-id="variationMasterStepName">ax36nte-front-accents,ax36pte-front-accents</custom-attribute>
+        </custom-attributes>
+    </product>
+    <product product-id="seax42bb">
+        <ean/>
+        <upc>629169074839</upc>
+        <unit>1</unit>
+        <min-order-quantity>1</min-order-quantity>
+        <step-quantity>1</step-quantity>
+        <display-name xml:lang="x-default">Napoleon Straight Element in Burnished Brass (Fits on Denali Front) | SEAX42BB</display-name>
+        <store-force-price-flag>false</store-force-price-flag>
+        <store-non-inventory-flag>false</store-non-inventory-flag>
+        <store-non-revenue-flag>false</store-non-revenue-flag>
+        <store-non-discountable-flag>false</store-non-discountable-flag>
+        <online-flag>true</online-flag>
+        <available-flag>true</available-flag>
+        <searchable-flag>true</searchable-flag>
+        <tax-class-id>standard</tax-class-id>
+        <classification-category catalog-id="northcountryfire-storefront">all</classification-category>
+        <pinterest-enabled-flag>false</pinterest-enabled-flag>
+        <facebook-enabled-flag>false</facebook-enabled-flag>
+        <store-attributes>
+            <force-price-flag>false</force-price-flag>
+            <non-inventory-flag>false</non-inventory-flag>
+            <non-revenue-flag>false</non-revenue-flag>
+            <non-discountable-flag>false</non-discountable-flag>
+        </store-attributes>
+        <brand>Napoleon</brand>
+        <manufacturer-sku>SEAX42BB</manufacturer-sku>
+        <page-attributes>
+            <page-title xml:lang="x-default">Napoleon Burnished Brass Straight Iron Elements | SEAX42BB</page-title>
+            <page-description xml:lang="x-default">Part: Napoleon SEAX42BB. Buy the Napoleon Burnished Brass Straight Iron Elements Decorative Front. Find info on price, dimensions, installation and accessories. Napoleon Authorized Dealer. At North Country Fire we strive to provide the best customer care including industry leading technical support.</page-description>
+        </page-attributes>
+        <custom-attributes>
+            <custom-attribute attribute-id="isSharedVariationProduct">true</custom-attribute>
+            <custom-attribute attribute-id="isStepVariationProduct">true</custom-attribute>
+            <custom-attribute attribute-id="parentSetName">ax42nte-set,ax42pte-set</custom-attribute>
+            <custom-attribute attribute-id="parentSku">AX42NTE,AX42PTE</custom-attribute>
+            <custom-attribute attribute-id="productCategory">Front Accents</custom-attribute>
+            <custom-attribute attribute-id="productTypeNonoperative">Variation Product</custom-attribute>
+            <custom-attribute attribute-id="requiredOrOptionalVariation">Optional</custom-attribute>
+            <custom-attribute attribute-id="sku">SEAX42BB</custom-attribute>
+            <custom-attribute attribute-id="variationMasterStepName">ax42nte-front-accents,ax42pte-front-accents</custom-attribute>
+        </custom-attributes>
+    </product>
+    <product product-id="seax36sn">
+        <ean/>
+        <upc>629169074808</upc>
+        <unit>1</unit>
+        <min-order-quantity>1</min-order-quantity>
+        <step-quantity>1</step-quantity>
+        <display-name xml:lang="x-default">Napoleon Straight Element in Satin Nickel (Fits on Denali Front) | SEAX36SN</display-name>
+        <store-force-price-flag>false</store-force-price-flag>
+        <store-non-inventory-flag>false</store-non-inventory-flag>
+        <store-non-revenue-flag>false</store-non-revenue-flag>
+        <store-non-discountable-flag>false</store-non-discountable-flag>
+        <online-flag>true</online-flag>
+        <available-flag>true</available-flag>
+        <searchable-flag>true</searchable-flag>
+        <tax-class-id>standard</tax-class-id>
+        <classification-category catalog-id="northcountryfire-storefront">all</classification-category>
+        <pinterest-enabled-flag>false</pinterest-enabled-flag>
+        <facebook-enabled-flag>false</facebook-enabled-flag>
+        <store-attributes>
+            <force-price-flag>false</force-price-flag>
+            <non-inventory-flag>false</non-inventory-flag>
+            <non-revenue-flag>false</non-revenue-flag>
+            <non-discountable-flag>false</non-discountable-flag>
+        </store-attributes>
+        <brand>Napoleon</brand>
+        <manufacturer-sku>SEAX36SN</manufacturer-sku>
+        <page-attributes>
+            <page-title xml:lang="x-default">Napoleon Satin Nickel Straight Iron Elements | SEAX36SN</page-title>
+            <page-description xml:lang="x-default">Part: Napoleon SEAX36SN. Buy the Napoleon Satin Nickel Straight Iron Elements Decorative Front. Find info on price, dimensions, installation and accessories. Napoleon Authorized Dealer. At North Country Fire we strive to provide the best customer care including industry leading technical support.</page-description>
+        </page-attributes>
+        <custom-attributes>
+            <custom-attribute attribute-id="isSharedVariationProduct">true</custom-attribute>
+            <custom-attribute attribute-id="isStepVariationProduct">true</custom-attribute>
+            <custom-attribute attribute-id="parentSetName">ax36nte-set,ax36pte-set</custom-attribute>
+            <custom-attribute attribute-id="parentSku">AX36NTE,AX36PTE</custom-attribute>
+            <custom-attribute attribute-id="productCategory">Front Accents</custom-attribute>
+            <custom-attribute attribute-id="productTypeNonoperative">Variation Product</custom-attribute>
+            <custom-attribute attribute-id="requiredOrOptionalVariation">Optional</custom-attribute>
+            <custom-attribute attribute-id="sku">SEAX36SN</custom-attribute>
+            <custom-attribute attribute-id="variationMasterStepName">ax36nte-front-accents,ax36pte-front-accents</custom-attribute>
+        </custom-attributes>
+    </product>
+    <product product-id="seax42sn">
+        <ean/>
+        <upc>629169074815</upc>
+        <unit>1</unit>
+        <min-order-quantity>1</min-order-quantity>
+        <step-quantity>1</step-quantity>
+        <display-name xml:lang="x-default">Napoleon Straight Element in Satin Nickel (Fits on Denali Front) | SEAX42SN</display-name>
+        <store-force-price-flag>false</store-force-price-flag>
+        <store-non-inventory-flag>false</store-non-inventory-flag>
+        <store-non-revenue-flag>false</store-non-revenue-flag>
+        <store-non-discountable-flag>false</store-non-discountable-flag>
+        <online-flag>true</online-flag>
+        <available-flag>true</available-flag>
+        <searchable-flag>true</searchable-flag>
+        <tax-class-id>standard</tax-class-id>
+        <classification-category catalog-id="northcountryfire-storefront">all</classification-category>
+        <pinterest-enabled-flag>false</pinterest-enabled-flag>
+        <facebook-enabled-flag>false</facebook-enabled-flag>
+        <store-attributes>
+            <force-price-flag>false</force-price-flag>
+            <non-inventory-flag>false</non-inventory-flag>
+            <non-revenue-flag>false</non-revenue-flag>
+            <non-discountable-flag>false</non-discountable-flag>
+        </store-attributes>
+        <brand>Napoleon</brand>
+        <manufacturer-sku>SEAX42SN</manufacturer-sku>
+        <page-attributes>
+            <page-title xml:lang="x-default">Napoleon Satin Nickel Straight Iron Elements | SEAX42SN</page-title>
+            <page-description xml:lang="x-default">Part: Napoleon SEAX42SN. Buy the Napoleon Satin Nickel Straight Iron Elements Decorative Front. Find info on price, dimensions, installation and accessories. Napoleon Authorized Dealer. At North Country Fire we strive to provide the best customer care including industry leading technical support.</page-description>
+        </page-attributes>
+        <custom-attributes>
+            <custom-attribute attribute-id="isSharedVariationProduct">true</custom-attribute>
+            <custom-attribute attribute-id="isStepVariationProduct">true</custom-attribute>
+            <custom-attribute attribute-id="parentSetName">ax42nte-set,ax42pte-set</custom-attribute>
+            <custom-attribute attribute-id="parentSku">AX42NTE,AX42PTE</custom-attribute>
+            <custom-attribute attribute-id="productCategory">Front Accents</custom-attribute>
+            <custom-attribute attribute-id="productTypeNonoperative">Variation Product</custom-attribute>
+            <custom-attribute attribute-id="requiredOrOptionalVariation">Optional</custom-attribute>
+            <custom-attribute attribute-id="sku">SEAX42SN</custom-attribute>
+            <custom-attribute attribute-id="variationMasterStepName">ax42nte-front-accents,ax42pte-front-accents</custom-attribute>
+        </custom-attributes>
+    </product>
+    <product product-id="w175-0702">
+        <ean/>
+        <upc/>
+        <unit>1</unit>
+        <min-order-quantity>1</min-order-quantity>
+        <step-quantity>1</step-quantity>
+        <display-name xml:lang="x-default">Napoleon Conversion Kit - Natural Gas To Propane | W175-0702</display-name>
+        <store-force-price-flag>false</store-force-price-flag>
+        <store-non-inventory-flag>false</store-non-inventory-flag>
+        <store-non-revenue-flag>false</store-non-revenue-flag>
+        <store-non-discountable-flag>false</store-non-discountable-flag>
+        <online-flag>true</online-flag>
+        <available-flag>true</available-flag>
+        <searchable-flag>true</searchable-flag>
+        <tax-class-id>standard</tax-class-id>
+        <classification-category catalog-id="northcountryfire-storefront">all</classification-category>
+        <pinterest-enabled-flag>false</pinterest-enabled-flag>
+        <facebook-enabled-flag>false</facebook-enabled-flag>
+        <store-attributes>
+            <force-price-flag>false</force-price-flag>
+            <non-inventory-flag>false</non-inventory-flag>
+            <non-revenue-flag>false</non-revenue-flag>
+            <non-discountable-flag>false</non-discountable-flag>
+        </store-attributes>
+        <brand>Napoleon</brand>
+        <manufacturer-sku>W175-0702</manufacturer-sku>
         <page-attributes/>
         <custom-attributes>
-            <custom-attribute attribute-id="baseSku">BHD4-Logs</custom-attribute>
-            <custom-attribute attribute-id="configurableProduct">true</custom-attribute>
-            <custom-attribute attribute-id="fuelType">Gas</custom-attribute>
-            <custom-attribute attribute-id="productCategory">Gas Fireplace</custom-attribute>
-            <custom-attribute attribute-id="productSetId">bhd4stn-set</custom-attribute>
-            <custom-attribute attribute-id="productTypeNonoperative">Option Product</custom-attribute>
-            <custom-attribute attribute-id="series">Ascent Multi-View</custom-attribute>
-            <custom-attribute attribute-id="seriesNumber">BHD4</custom-attribute>
-            <custom-attribute attribute-id="sku">BHD4STN</custom-attribute>
-            <custom-attribute attribute-id="ignitionType">Electronic Ignition</custom-attribute>
-            <custom-attribute attribute-id="skuNG">BHD4STN</custom-attribute>
-            <custom-attribute attribute-id="skuNgIpi">BHD4STN</custom-attribute>
-            <custom-attribute attribute-id="skuNgMv"/>
-            <custom-attribute attribute-id="skuLP"/>
-            <custom-attribute attribute-id="skuLpIpi"/>
-            <custom-attribute attribute-id="skuLpMv"/>
+            <custom-attribute attribute-id="isSharedVariationProduct">true</custom-attribute>
+            <custom-attribute attribute-id="isStepVariationProduct">true</custom-attribute>
+            <custom-attribute attribute-id="parentSetName">ax36nte-set,ax36pte-set</custom-attribute>
+            <custom-attribute attribute-id="parentSku">AX36NTE,AX36PTE</custom-attribute>
+            <custom-attribute attribute-id="productCategory">Conversion Kits</custom-attribute>
+            <custom-attribute attribute-id="productTypeNonoperative">Variation Product</custom-attribute>
+            <custom-attribute attribute-id="requiredOrOptionalVariation">Optional</custom-attribute>
+            <custom-attribute attribute-id="sku">W175-0702</custom-attribute>
+            <custom-attribute attribute-id="variationMasterStepName">ax36nte-conversion-kits,ax36pte-conversion-kits</custom-attribute>
         </custom-attributes>
-        <options>
-        </options>
+    </product>
+    <product product-id="w175-0703">
+        <ean/>
+        <upc/>
+        <unit>1</unit>
+        <min-order-quantity>1</min-order-quantity>
+        <step-quantity>1</step-quantity>
+        <display-name xml:lang="x-default">Napoleon Conversion Kit - Natural Gas To Propane | W175-0703</display-name>
+        <store-force-price-flag>false</store-force-price-flag>
+        <store-non-inventory-flag>false</store-non-inventory-flag>
+        <store-non-revenue-flag>false</store-non-revenue-flag>
+        <store-non-discountable-flag>false</store-non-discountable-flag>
+        <online-flag>true</online-flag>
+        <available-flag>true</available-flag>
+        <searchable-flag>true</searchable-flag>
+        <tax-class-id>standard</tax-class-id>
+        <classification-category catalog-id="northcountryfire-storefront">all</classification-category>
+        <pinterest-enabled-flag>false</pinterest-enabled-flag>
+        <facebook-enabled-flag>false</facebook-enabled-flag>
+        <store-attributes>
+            <force-price-flag>false</force-price-flag>
+            <non-inventory-flag>false</non-inventory-flag>
+            <non-revenue-flag>false</non-revenue-flag>
+            <non-discountable-flag>false</non-discountable-flag>
+        </store-attributes>
+        <brand>Napoleon</brand>
+        <manufacturer-sku>W175-0703</manufacturer-sku>
+        <page-attributes/>
+        <custom-attributes>
+            <custom-attribute attribute-id="isSharedVariationProduct">true</custom-attribute>
+            <custom-attribute attribute-id="isStepVariationProduct">true</custom-attribute>
+            <custom-attribute attribute-id="parentSetName">ax42nte-set,ax42pte-set</custom-attribute>
+            <custom-attribute attribute-id="parentSku">AX42NTE,AX42PTE</custom-attribute>
+            <custom-attribute attribute-id="productCategory">Conversion Kits</custom-attribute>
+            <custom-attribute attribute-id="productTypeNonoperative">Variation Product</custom-attribute>
+            <custom-attribute attribute-id="requiredOrOptionalVariation">Optional</custom-attribute>
+            <custom-attribute attribute-id="sku">W175-0703</custom-attribute>
+            <custom-attribute attribute-id="variationMasterStepName">ax42nte-conversion-kits,ax42pte-conversion-kits</custom-attribute>
+        </custom-attributes>
     </product>
 </catalog>
