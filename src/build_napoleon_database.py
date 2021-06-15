@@ -346,12 +346,21 @@ def add_productTypeNonoperative(database: Dict) -> Dict:
     for series_info in database['series'].values():
         # For series's units
         for product_line in series_info['units']:
+            fuel_options = {unit['gas_fuel_type']
+                            for unit in product_line['details']
+                            if unit and unit['fuel_type'] == 'Gas'}
             for unit in product_line['details']:
                 if unit:
+                    if debug:
+                        log.info(f"{unit['manufacturerSku']=}")
+
                     product_category = unit.get('product_category', '')
                     productTypeNonoperative = re.search(r'gas (fireplaces|stoves|inserts|pellets)',
                                                         product_category, flags=re.IGNORECASE)
-                    if productTypeNonoperative:
+                    if (productTypeNonoperative
+                        or (unit['product_category'].lower() == 'Gas Log Sets'.lower()
+                            and len(fuel_options) > 1)
+                    ):
                         unit['productTypeNonoperative'] = 'Option Product'
                     else:
                         unit['productTypeNonoperative'] = 'Product'
