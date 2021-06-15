@@ -78,9 +78,10 @@ def build_db(database: Dict):
     db = add_series_name(db)
     db = add_vent_type(db)
     db = add_style(db)
-    db = add_product_category(db)
+    db = add_series_product_category(db)
     db = add_productTypeNonoperative(db)    # ! add after 'product_type'
     db = add_display_name(db)
+    db = copy_variation_info_in_series_to_variations_dict(db)
 
     # Save database
     save_db(database=db, file=NAPOLEON_DATABASE_FILE)
@@ -321,7 +322,7 @@ def add_style(database: Dict) -> Dict:
     return database
 
 
-def add_product_category(database: Dict) -> Dict:
+def add_series_product_category(database: Dict) -> Dict:
     VARIATION_PRODUCT_CATEGORY_MAPPING = {'log set': 'Media Kits',
                                           'panel': 'Interior Panels',
                                           'illusion glass': 'Interior Panels',
@@ -423,6 +424,24 @@ def add_display_name(database: Dict) -> Dict:
                 for variation in product_line['details']:
                     if variation:
                         variation['display_name'] = f'Napoleon {variation_name} | {variation.get("manufacturerSku", "")}'
+
+    return database
+
+
+def copy_variation_info_in_series_to_variations_dict(database: Dict) -> Dict:
+    '''Copy the variation info for each variation in each series into the master database['variations']'''
+    # Variations inside each series
+    for series_info in database['series'].values():
+        # For series's units
+        for product_line in series_info.get('variations', []):
+            for variation in product_line['details']:
+                if variation:
+                    variation_sku = variation['manufacturerSku']
+                    variation_info = {k: v
+                                      for k, v in variation.items()
+                                      if k != 'base_sku'}
+                    # Update the exact variation inside `database['variations']`:
+                    database['variations'][variation_sku].update(variation_info)
 
     return database
 
