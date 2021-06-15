@@ -69,6 +69,7 @@ def build_db(database: Dict):
     # Remove 'content' key, value pair from each series in 'series'
     db = remove_content_sections(database)
     db = sanitize_series_names(db)
+    db = sanitize_variation_names(db)
     db = add_base_skus(db)
     db = add_fuel_type(db)    # ! Add before 'ignition_type'
     db = add_gas_fuel_type(db)
@@ -120,6 +121,31 @@ def sanitize_series_name(name: str) -> str:
                         |Clean\ Face\ Outdoor
                         |Electric
                         ).*
+                       ''',
+                       '',
+                       name,
+                       flags=re.IGNORECASE | re.UNICODE | re.VERBOSE).encode("ascii", "ignore").decode().strip()
+    return re.sub(r'\s{2,}', ' ', new_title).title()
+
+
+def sanitize_variation_names(database: Dict) -> Dict:
+    # Variations inside each series
+    for info in database['series'].values():
+        # log.info(f'{info["title"]=}')
+        for variation in info.get('variations', []):
+            if variation.get('name'):
+                # log.info(f"{variation['name']=}")
+                variation['name'] = sanitize_variation_name(variation['name'])
+    # Master variation list:
+    for variation_info in database['variations'].values():
+        variation_info['name'] = sanitize_variation_name(variation_info['name'])
+
+    return database
+
+
+def sanitize_variation_name(name: str) -> str:
+    new_title = re.sub(r'''
+                        \(.+\)
                        ''',
                        '',
                        name,
