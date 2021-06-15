@@ -98,29 +98,29 @@ def create_xml_object(database_file: PurePath,
     # for unit in db['series']['series-23']['units'][0]['details']:    # Wood Fireplace
     # for unit in db['series']['series-17']['units'][0]['details']:    # venting 'Top & Rear', should NOT have `'selectOptionVentConfiguration'`
 
-    # 'Option Product'
-    test_series = [
-        'series-7',
-        'series-16',
-        'series-28',
-        'series-10',
-        'series-17'
-    ]
-    for series in test_series:
-        for unit in db['series'][series]['units'][0]['details']:    # venting 'Top & Rear', should NOT have `'selectOptionVentConfiguration'`
-            test_item_sku = unit['manufacturerSku']
-            # test_item_catalog_info = db['series']['series-7']
-            test_item_brand = 'Napoleon'
-            test_item_extra_info = get_item_extra_info(csv_extra_info=csv_extra_info,
-                                                    xml_extra_info=xml_extra_info,
-                                                    sku=test_item_sku)
-            # breakpoint()
-            product = Option_Product(sku=test_item_sku,
-                                    brand=test_item_brand,
-                                    catalog_info=db,
-                                    extra_info=test_item_extra_info)
+    # # 'Option Product'
+    # test_series = [
+    #     'series-7',
+    #     'series-16',
+    #     'series-28',
+    #     'series-10',
+    #     'series-17'
+    # ]
+    # for series in test_series:
+    #     for unit in db['series'][series]['units'][0]['details']:    # venting 'Top & Rear', should NOT have `'selectOptionVentConfiguration'`
+    #         test_item_sku = unit['manufacturerSku']
+    #         # test_item_catalog_info = db['series']['series-7']
+    #         test_item_brand = 'Napoleon'
+    #         test_item_extra_info = get_item_extra_info(csv_extra_info=csv_extra_info,
+    #                                                 xml_extra_info=xml_extra_info,
+    #                                                 sku=test_item_sku)
+    #         # breakpoint()
+    #         product = Option_Product(sku=test_item_sku,
+    #                                 brand=test_item_brand,
+    #                                 catalog_info=db,
+    #                                 extra_info=test_item_extra_info)
 
-            data.append(product.to_xml())
+    #         data.append(product.to_xml())
 
     # # 'Product'
     # test_series = [
@@ -141,6 +141,30 @@ def create_xml_object(database_file: PurePath,
     #                                 extra_info=test_item_extra_info)
 
     #         data.append(product.to_xml())
+
+    # 'Variation Product'
+    test_series = [
+        'series-7',
+        # 'series-16',
+        # 'series-28',
+        # 'series-10',
+        # 'series-17'
+    ]
+    for series in test_series:
+        for variation_line in db['series'][series]['variations']:    # venting 'Top & Rear', should NOT have `'selectOptionVentConfiguration'`
+            for variation in variation_line['details']:    # venting 'Top & Rear', should NOT have `'selectOptionVentConfiguration'`
+                test_item_sku = variation['manufacturerSku']
+                test_item_brand = 'Napoleon'
+                test_item_extra_info = get_item_extra_info(csv_extra_info=csv_extra_info,
+                                                        xml_extra_info=xml_extra_info,
+                                                        sku=test_item_sku)
+                # breakpoint()
+                product = Variation_Product(sku=test_item_sku,
+                                        brand=test_item_brand,
+                                        catalog_info=db,
+                                        extra_info=test_item_extra_info)
+
+                data.append(product.to_xml())
 
     write_xml(target_file=NAPOLEON_XML_FILE,
               current_xml_file=CURRENT_XML_FILE,
@@ -422,7 +446,9 @@ def get_units_with_same_series_number(sku: str,
                                       database: Dict[str, Dict]
                                       ) -> List[Unit]:
     series_units = []
-    series_info = get_series_info_from_catalog(sku=sku, type='series', database=database)
+    series_info = get_series_info_from_catalog(sku=sku, type='series',
+                                               item_type='units',
+                                               database=database)
 
     # Get series' unit containing the SKU
     unit_details = next((unit
@@ -492,6 +518,7 @@ def get_series_venting_options(sku: str,
 
 def get_series_info_from_catalog(sku: str,
                                  type: str,
+                                 item_type: str,
                                  database: Dict[str, Dict]
                                  ) -> Dict[str, Dict]:
     '''Return the series containing the sku from the JSON database created from the catalog'''
@@ -506,7 +533,7 @@ def get_series_info_from_catalog(sku: str,
     elif type == 'series':
         for series in database['series'].values():
             if manufacturerSku in (i['manufacturerSku']
-                                    for unit in series['units']
+                                    for unit in series[item_type]
                                     for i in unit['details']
                                     if i):
                 # Get series' venting option:
@@ -514,17 +541,19 @@ def get_series_info_from_catalog(sku: str,
 
 
 def get_info(sku: str,
+             item_type: str,
              database: Dict[str, Dict],
              info_name: str
              ) -> Optional[str]:
     product_info = ''
-    series_info = get_series_info_from_catalog(sku=sku, type='series', database=database)
+    series_info = get_series_info_from_catalog(sku=sku, type='series',
+                                               item_type=item_type,
+                                               database=database)
     if info_name == 'ignition_type':
         ignition_types = {unit.get(info_name, '')
-                          for product_line in series_info['units']
+                          for product_line in series_info[item_type]
                           for unit in product_line['details']
                           if unit}
-        # breakpoint()
         ignition_type_string = ' or '.join(sorted(ignition_types)).lower()
         count = ignition_type_string.count("ignition") - 1
         ignition_type_string = re.sub(r'\s{2,}', ' ', ignition_type_string.replace('ignition', '', count).title()).replace('Or', 'or')
@@ -532,11 +561,132 @@ def get_info(sku: str,
         product_info = ignition_type_string
     else:
         product_info = next((unit[info_name]
-                                 for product_line in series_info['units']
+                                 for product_line in series_info[item_type]
                                  for unit in product_line['details']
                                  if unit.get('manufacturerSku') and unit['manufacturerSku'] == sku),
                                 None)
     return product_info
+
+
+def get_parent_skus(sku: str, database: Dict[str, Dict]) -> str:
+    """Return full parentSku for each item
+
+    If variation = full unit manufacturerSku to which the variation product belongs
+        i) If >1 unit, separate values by commas
+
+    Parameters
+    ----------
+    sku : str
+        the manufacturer SKU
+    database : Dict[str, Dict]
+        the local database/catalog
+
+    Returns
+    -------
+    str
+        The baseSku if 'unit',
+        '' (blank) if not 'variation' (e.g. 'unit', 'product')
+    """
+    # To tolerate input typo (lower case) in ncf that causes issue: e.g,  in ncf file, line 748, 603, 543
+    # Cannot fix with a simple `str.upper()` due to there is SKU such as 'S20i' and 'S25i'
+    manufacturerSku = sku
+    # if not re.search(r'[A-Z]', manufacturerSku):
+    #     manufacturerSku = sku.upper()
+    variation = database['variations'].get(manufacturerSku)
+    parent_sku = ''
+    if variation:
+        parent_sku = ','.join(sorted({sku for sku, _ in variation['variation_parents']}))
+    return parent_sku
+
+
+def get_parent_set_names(parent_skus: str) -> str:
+    return ','.join(f'{parent_sku}-set'.lower()
+                    for parent_sku in parent_skus.split(','))
+
+
+def get_variation_master_step_names(parent_skus: str,
+                                    product_category: str) -> str:
+    return ','.join(f'{parent_sku} {product_category}'.lower().replace(' ', '-')
+                    for parent_sku in parent_skus.split(','))
+
+
+def is_shared_variation_product(parent_skus: str) -> str:
+    """Return if an item (not 'unit') have more than one parents
+
+    Parameters
+    ----------
+    row : str
+        The parent SKUs string, comma-separated
+
+    Returns
+    -------
+    str
+        'true' if number of parentSku > 1; '' (blank) otherwise
+    """
+    more_than_one_parent = parent_skus.count(',') >= 1   # Only need one comma for 2 parents
+    return 'true' if more_than_one_parent else ''
+
+
+def is_step_variation_product(parent_skus: str) -> str:
+    """Return if an item (not 'unit') have at least one parent
+
+    Parameters
+    ----------
+    row : str
+        The parent SKUs string, comma-separated
+
+    Returns
+    -------
+    str
+        'true' if number of parentSku >= 1; '' (blank) otherwise
+    """
+    return 'true' if parent_skus else ''
+
+
+def required_or_optional_variation(sku: str, database: Dict[str, Dict]) -> str:
+    """Return the requirement condition of the 'variation'
+
+    a) If isStepVariationProduct = TRUE:
+        i) If variation is required to complete unit(s) = 'Required'
+        ii) If variation is optional to complete unit(s) = 'Optional'
+        iii) If variation is required to complete some units and optional for other units
+            (or even the same units, marked differently in the catalog)
+            = 'Required/Optional'
+        iv) If variation is included with some units and optional for others
+             (or even the same units, marked differently in the catalog)
+            = 'Included/Optional'
+    b) If isStepVariationProduct is FALSE (blank) = blank
+
+    Parameters
+    ----------
+    sku : str
+        the manufacturer SKU
+    database : Dict[str, Dict]
+        the local database/catalog
+
+    Returns
+    -------
+    str
+        'Required', 'Optional', 'Required/Optional', 'Included/Optional'
+    """
+    # if row['c__isStepVariationProduct'] == 'TRUE':
+
+    # To tolerate input typo (lower case) in ncf that causes issue: e.g,  in ncf file, line 748, 603, 543
+    # Cannot fix with a simple `str.upper()` due to there is SKU such as 'S20i' and 'S25i'
+    manufacturerSku = sku
+    # if not re.search(r'[A-Z]', manufacturerSku):
+    #     manufacturerSku = sku.upper()
+
+    variation = database['variations'].get(manufacturerSku)
+    if variation:
+        # Remove 'Not Available'
+        requirements = {requirement
+                        for _, requirement in variation['variation_parents']
+                        if requirement != 'Not Available'
+                        }
+        value = sorted(requirements) if 'Included' in requirements else sorted(requirements, reverse=True)
+        return '/'.join(value)
+    return ''
 
 
 @dataclass
@@ -565,7 +715,6 @@ class Item:
 
             # if self.extra_info['xml'].get('display-name'):
             #     self.display_name = self.extra_info['xml']['display-name'].get('#text', '').rstrip('|')
-            self.display_name = get_info(sku=self.sku, database=self.catalog_info, info_name='display_name')
 
 
     def to_xml(self) -> ET.Element:
@@ -622,17 +771,31 @@ class Product(Item):
     brand: str = ''
     product_type_nonoperative: str = 'Product'
     classification_category: str = 'all'
+    # catalog_type: str = 'units'
 
     def __post_init__(self):
         super().__post_init__()
-        self.base_sku = get_info(sku=self.sku, database=self.catalog_info, info_name='base_sku')
+        self.base_sku = get_info(sku=self.sku, item_type=self.catalog_type,
+                                 database=self.catalog_info,
+                                 info_name='base_sku')
         self.product_set_id = f'{self.item_id}-set'
 
         # Use info from catalog
-        self.product_category = get_info(sku=self.sku, database=self.catalog_info, info_name='product_category')
-        self.series_name = get_info(sku=self.sku, database=self.catalog_info, info_name='series_name')
-        self.series_number = get_info(sku=self.sku, database=self.catalog_info, info_name='series_number')
-        self.fuel_type = get_info(sku=self.sku, database=self.catalog_info, info_name='fuel_type')
+        self.display_name = get_info(sku=self.sku, item_type=self.catalog_type,
+                                     database=self.catalog_info,
+                                     info_name='display_name')
+        self.product_category = get_info(sku=self.sku, item_type=self.catalog_type,
+                                         database=self.catalog_info,
+                                         info_name='product_category')
+        self.series_name = get_info(sku=self.sku, item_type=self.catalog_type,
+                                    database=self.catalog_info,
+                                    info_name='series_name')
+        self.series_number = get_info(sku=self.sku, item_type=self.catalog_type,
+                                      database=self.catalog_info,
+                                      info_name='series_number')
+        self.fuel_type = get_info(sku=self.sku, item_type=self.catalog_type,
+                                  database=self.catalog_info,
+                                  info_name='fuel_type')
 
     def to_xml(self):
         data = xmltodict.parse(ET.tostring(super().to_xml()))
@@ -665,6 +828,7 @@ class Option_Product(Product):
     brand: str = ''
     product_type_nonoperative: str = 'Option Product'
     classification_category: str = 'gas-fireplaces'
+    catalog_type: str = 'units'    # For clarity, technically does not need it since already set in Class Product
 
     def __post_init__(self):
         super().__post_init__()
@@ -672,7 +836,9 @@ class Option_Product(Product):
         # self.base_sku = get_info(sku=self.sku, database=self.catalog_info, info_name='base_sku')
         # self.name_in_catalog = get_name_in_catalog(sku=self.sku, database=self.catalog_info)
         # self.ignition_type = get_ignition_type(name_in_catalog=self.name_in_catalog)
-        self.ignition_type = get_info(sku=self.sku, database=self.catalog_info, info_name='ignition_type')
+        self.ignition_type = get_info(sku=self.sku, item_type=self.catalog_type,
+                                      database=self.catalog_info,
+                                      info_name='ignition_type')
         # self.product_set_id = f'{self.item_id}-set'
 
         # # ! Use current XML file, info not always correct
@@ -794,6 +960,63 @@ class Option_Product(Product):
         data['product'].update({k: v
                                 for k, v in mapping.items()
                                 if k != 'custom-attributes'})
+        return data
+
+
+@dataclass
+class Variation_Product(Item):
+    brand: str = ''
+    product_type_nonoperative: str = 'Variation Product'
+    catalog_type: str = 'variations'    # For clarity, technically does not need it since already set in Class Product
+
+    def __post_init__(self):
+        super().__post_init__()
+        if debug:
+            log.info(f'{self.sku=}')
+        self.base_sku = get_info(sku=self.sku, item_type=self.catalog_type,
+                                 database=self.catalog_info,
+                                 info_name='base_sku')
+        self.product_set_id = f'{self.item_id}-set'
+
+        # Use info from catalog
+        self.display_name = get_info(sku=self.sku, item_type=self.catalog_type,
+                                     database=self.catalog_info,
+                                     info_name='display_name')
+        self.product_category = get_info(sku=self.sku, item_type=self.catalog_type,
+                                         database=self.catalog_info,
+                                         info_name='product_category')
+
+        self.requiredOrOptionalVariation = required_or_optional_variation(sku=self.sku,
+                                                                          database=self.catalog_info)
+        self.parentSku = get_parent_skus(sku=self.sku, database=self.catalog_info)
+        self.parentSetName = get_parent_set_names(parent_skus=self.parentSku)
+        self.variationMasterStepName = get_variation_master_step_names(parent_skus=self.parentSku,
+                                                                       product_category=self.product_category)
+        self.isSharedVariationProduct = is_shared_variation_product(parent_skus=self.parentSku)
+        self.isStepVariationProduct = is_step_variation_product(parent_skus=self.parentSku)
+
+    def to_xml(self):
+        data = xmltodict.parse(ET.tostring(super().to_xml()))
+        page_attributes = self.extra_info['xml'].get('page-attributes', {})
+        mapping = {
+            'brand': {'#text': self.brand},
+            'manufacturer-sku': {'#text': self.sku},
+            'page-attributes': page_attributes,
+            'custom-attributes': {
+                'custom-attribute' : [
+                    {'@attribute-id': 'isSharedVariationProduct', '#text': self.isSharedVariationProduct},
+                    {'@attribute-id': 'isStepVariationProduct', '#text': self.isStepVariationProduct},
+                    {'@attribute-id': 'parentSetName', '#text': self.parentSetName},
+                    {'@attribute-id': 'parentSku', '#text': self.parentSku},
+                    {'@attribute-id': 'productCategory', '#text': self.product_category},
+                    {'@attribute-id': 'productTypeNonoperative', '#text': self.product_type_nonoperative},
+                    {'@attribute-id': 'requiredOrOptionalVariation', '#text': self.requiredOrOptionalVariation},
+                    {'@attribute-id': 'sku', '#text': self.sku},
+                    {'@attribute-id': 'variationMasterStepName', '#text': self.variationMasterStepName},
+                    ]
+                },
+            }
+        data['product'].update(mapping)
         return data
 
 
